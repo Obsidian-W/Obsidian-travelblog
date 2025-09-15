@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "Obsidian Travels"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
