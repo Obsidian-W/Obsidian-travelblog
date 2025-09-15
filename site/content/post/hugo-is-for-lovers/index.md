@@ -11,6 +11,7 @@ categories:
   - pseudo
 description: tt
 menu: ""
+layout: "single"  # force use of single.html from _default
 ---
 
 ## Step 1. Install Hugo
