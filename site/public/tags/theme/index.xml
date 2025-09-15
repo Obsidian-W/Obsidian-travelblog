@@ -1,0 +1,99 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on Obsifian Travels</title>
+    <link>https://obsidiantravels.netlify.app/tags/theme/</link>
+    <description>Recent content in Theme on Obsifian Travels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 16:56:43 +0200</lastBuildDate>
+    <atom:link href="https://obsidiantravels.netlify.app/tags/theme/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>This post has no body – almost</title>
+      <link>https://obsidiantravels.netlify.app/post/this-post-has-no-body/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/this-post-has-no-body/</guid>
+      <description>&lt;p&gt;Ut vel lectus et nulla elementum dapibus. Cras turpis dui, fermentum at tincidunt eu, placerat quis urna. In orci justo, condimentum eget consectetur nec, mollis sit amet nisi. Nulla id turpis dolor, non gravida augue. Phasellus quis justo consectetur tellus ultrices tincidunt.&lt;/p&gt;
+
+      &lt;div
+          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe
+          src=&#34;https://player.vimeo.com/video/63186969?dnt=0&#34;
+            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/63186969&#34;&gt;Alchemy&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/evosia&#34;&gt;Henry Jun Wah Lee / Evosia&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vestibulum posuere pharetra sem, in venenatis eros vehicula id. Nulla gravida velit a diam interdum mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut a tortor sed risus eleifend dapibus. Pellentesque et nisl a elit molestie gravida. In ac mauris diam, eu laoreet magna.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>https://obsidiantravels.netlify.app/post/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/linked-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://obsidiantravels.netlify.app/post/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://obsidiantravels.netlify.app/post/test1/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/test1/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://obsidiantravels.netlify.app/post/test2/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/test2/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://obsidiantravels.netlify.app/post/test3/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/test3/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://obsidiantravels.netlify.app/post/test4/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/post/test4/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

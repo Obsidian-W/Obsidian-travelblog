@@ -1,0 +1,75 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Obsifian Travels</title>
+    <link>https://obsidiantravels.netlify.app/tags/</link>
+    <description>Recent content in Tags on Obsifian Travels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 16:56:43 +0200</lastBuildDate>
+    <atom:link href="https://obsidiantravels.netlify.app/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://obsidiantravels.netlify.app/tags/hugo/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Sites</title>
+      <link>https://obsidiantravels.netlify.app/tags/static-sites/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/static-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://obsidiantravels.netlify.app/tags/theme/</link>
+      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://obsidiantravels.netlify.app/tags/ipsum/</link>
+      <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://obsidiantravels.netlify.app/tags/golang/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://obsidiantravels.netlify.app/tags/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://obsidiantravels.netlify.app/tags/go/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://obsidiantravels.netlify.app/tags/go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Obsifian Travels</title>
+    <link>https://obsidiantravels.netlify.app/series/</link>
+    <description>Recent content in Series on Obsifian Travels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://obsidiantravels.netlify.app/series/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
