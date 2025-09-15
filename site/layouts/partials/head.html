@@ -1,31 +1,93 @@
-<head>
+<div class="container clearfix">
+  <div class="hgroup-wrap clearfix">
+{{ if .Site.Data.l10n.social }}
+    <section class="hgroup-right">
+      <div class="social-icons clearfix">
+	<ul>
+	  {{ if .Site.Params.Social.facebook }}
+	  <li class="facebook">
+	    <a href="https://www.facebook.com/{{ .Site.Params.Social.facebook }}" title="{{ .Site.Data.l10n.social.facebook }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.twitter }}
+	  <li class="twitter">
+	      <a href="https://twitter.com/{{ .Site.Params.Social.twitter }}" title="{{ .Site.Data.l10n.social.twitter }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.email }}
+	  <li class="email">
+	      <a href="mailto:{{ .Site.Params.Social.email }}" title="{{ .Site.Data.l10n.social.email }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.rss }}
+	  <li class="rss">
+	    <a href="{{ .Site.Params.Social.feed }}" title="{{ .Site.Data.l10n.social.RSS }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.googleplus }}
+	  <li class="google-plus">
+	    <a href="https://www.google.com/+{{ .Site.Params.Social.googleplus }}" title="{{ .Site.Data.l10n.social.googleplus }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.pinterest }}
+	  <li class="pinterest">
+	    <a href="https://www.pinterest.com/{{ .Site.Params.Social.pinterest }}" title="{{ .Site.Data.l10n.social.pinterest }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.linkedin }}
+	  <li class="linkedin">
+	    <a href="https://www.linkedin.com/in/{{ .Site.Params.Social.linkedin }}" title="{{ .Site.Data.l10n.social.linkedin }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.tumblr }}
+	  <li class="tumblr">
+	    <a href="https://{{ .Site.Params.Social.tumblr }}.tumblr.com/" title="{{ .Site.Data.l10n.social.tumblr }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.vimeo }}
+	  <li class="vimeo">
+	    <a href="https://www.vimeo.com/{{ .Site.Params.Social.vimeo }}" title="{{ .Site.Data.l10n.social.vimeo }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.instagram }}
+	  <li class="instagram">
+	    <a href="https://www.instagram.com/{{ .Site.Params.Social.instagram }}" title="{{ .Site.Data.l10n.social.instagram }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.flickr }}
+	  <li class="flickr">
+	    <a href="https://flickr.com/photos/{{ .Site.Params.Social.flickr }}" title="{{ .Site.Data.l10n.social.flickr }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.youtube }}
+	  <li class="youtube">
+	    <a href="https://www.youtube.com/{{ .Site.Params.Social.youtube }}" title="{{ .Site.Data.l10n.social.youtube }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	  {{ if .Site.Params.Social.github }}
+	  <li class="github">
+	    <a href="https://www.github.com/{{ .Site.Params.Social.github }}" title="{{ .Site.Data.l10n.social.github }}" target="_blank"></a>
+	  </li>
+	  {{ end }}
+	</ul>
+      </div><!-- .social-icons -->
+    </section><!-- .hgroup-right -->
+    {{ end }}
+    
+    <hgroup id="site-logo" class="clearfix">
+      <h1 id="site-title">
+	<a href="/" rel="home">
+	  {{ if .Site.Params.logo }}
+          <img src="{{ .Site.Params.logo | absURL }}"></img>
+	  {{ end }}
+	  {{ if .Site.Params.title_in_logo }}
+	  <span class="site-title">{{ .Site.Title }}</span>
+	  {{ end }}
+	</a>
+      </h1>
+      <h2 id="site-description">{{ .Site.Params.site_description }}</h2>
+    </hgroup><!-- #site-logo -->
+    
+  </div><!-- .hgroup-wrap -->
+</div><!-- .container -->
 
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
-
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
-
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ $.Site.BaseURL }}">
-
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
-
-	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
-	<meta name="theme-color" content="#fff">
-
-  <!-- Open Graph Hugo https://gohugo.io/templates/internal/#open-graph -->
-  {{ template "_internal/opengraph.html" . }}
-
-  {{ if .IsHome }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {{ end }}
-</head>

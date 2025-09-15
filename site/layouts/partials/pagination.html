@@ -1,18 +1,18 @@
-{{ if gt .Paginator.TotalPages 1 }}
- 
-<nav class="cf pa3">
-    {{ if .Paginator.HasNext }}
-    <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
-        &larr; Previous
+<ul class="default-wp-page clearfix">
+  {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+    {{ if .Paginator.HasPrev }}
+  <li class="previous">
+    <a class="extend prev" rel="prev" href="{{ .Paginator.Prev.URL }}">
+            « {{ with .Site.Data.l10n.pagination.previous }}{{ . }}{{ end }}
     </a>
-    {{ end }}
-    <div class="pagination">
-        {{ if .Paginator.HasPrev }}
-        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
-            Next &rarr;
-        </a>
-        {{ end }}
-    </div>
-</nav>
- 
-{{ end }}
+  </li>	  
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+  <li class="next">
+    <a class="extend next" rel="next" href="{{ .Paginator.Next.URL }}">
+       {{ with .Site.Data.l10n.pagination.next }}{{ . }}{{ end }} »
+    </a>
+  </li>   
+  {{ end }}
+  {{ end }}
+</ul>
