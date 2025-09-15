@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Obsidian Travels on Obsifian Travels</title>
+    <title>Obsidian Travels</title>
     <link>https://obsidiantravels.netlify.app/</link>
-    <description>Recent content in Obsidian Travels on Obsifian Travels</description>
+    <description>Recent content on Obsidian Travels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Sep 2025 14:54:34 +0000</lastBuildDate>

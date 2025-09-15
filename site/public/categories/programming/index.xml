@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Obsifian Travels</title>
+    <title>Programming on Obsidian Travels</title>
     <link>https://obsidiantravels.netlify.app/categories/programming/</link>
-    <description>Recent content in Programming on Obsifian Travels</description>
+    <description>Recent content in Programming on Obsidian Travels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
