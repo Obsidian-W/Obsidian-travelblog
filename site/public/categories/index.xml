@@ -5,44 +5,8 @@
     <description>Recent content in Categories on Obsidian Travels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 16:56:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     <atom:link href="https://obsidiantravels.netlify.app/categories/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>New York</title>
-      <link>https://obsidiantravels.netlify.app/categories/new-york/</link>
-      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/new-york/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other Destinations</title>
-      <link>https://obsidiantravels.netlify.app/categories/other-destinations/</link>
-      <pubDate>Tue, 30 May 2017 16:56:43 +0200</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/other-destinations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lorem</title>
-      <link>https://obsidiantravels.netlify.app/categories/lorem/</link>
-      <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/lorem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://obsidiantravels.netlify.app/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/programming/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Pseudo</title>
@@ -50,15 +14,6 @@
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>https://obsidiantravels.netlify.app/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting</title>
-      <link>https://obsidiantravels.netlify.app/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/starting/</guid>
       <description></description>
     </item>
     
