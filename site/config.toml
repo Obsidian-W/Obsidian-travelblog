@@ -1,4 +1,5 @@
-baseURL = "https://obsidiantravels.netlify.app/"
+# baseURL = "https://obsidiantravels.netlify.app/"
+baseURL = "/"
 title = "Obsidian Travels"
 subtitle = "Travel theme for Hugo with Slider"
 languageCode = "en-us"
@@ -10,7 +11,7 @@ canonifyURLs = true
 
 [params]
     # Tell me who you are
-    author = "Obisidian"
+    author = "Obsidian"
     site_description = "Travel theme for Hugo with Slider"
     copyright  = "Copyright"
 #    avatar = "avatar.png"

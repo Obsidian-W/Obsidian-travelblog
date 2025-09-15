@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on iWriter - Personal Hugo Blog Theme</title>
-    <link>http://localhost:1313/iwriter-hugo/categories/lifestyle/</link>
+    <link>//localhost:1313/categories/lifestyle/</link>
     <description>Recent content in Lifestyle on iWriter - Personal Hugo Blog Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/iwriter-hugo/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/iwriter-hugo/blog/post-4/</link>
+      <link>//localhost:1313/blog/post-4/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/blog/post-4/</guid>
+      <guid>//localhost:1313/blog/post-4/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/iwriter-hugo/blog/post-5/</link>
+      <link>//localhost:1313/blog/post-5/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/blog/post-5/</guid>
+      <guid>//localhost:1313/blog/post-5/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>You must be the change to see in the world</title>
-      <link>http://localhost:1313/iwriter-hugo/blog/post-8/</link>
+      <link>//localhost:1313/blog/post-8/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/blog/post-8/</guid>
+      <guid>//localhost:1313/blog/post-8/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
   </channel>

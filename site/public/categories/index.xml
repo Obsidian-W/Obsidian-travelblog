@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on iWriter - Personal Hugo Blog Theme</title>
-    <link>http://localhost:1313/iwriter-hugo/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on iWriter - Personal Hugo Blog Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/iwriter-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/iwriter-hugo/categories/education/</link>
+      <link>//localhost:1313/categories/education/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/categories/education/</guid>
+      <guid>//localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobby</title>
-      <link>http://localhost:1313/iwriter-hugo/categories/hobby/</link>
+      <link>//localhost:1313/categories/hobby/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/categories/hobby/</guid>
+      <guid>//localhost:1313/categories/hobby/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>http://localhost:1313/iwriter-hugo/categories/lifestyle/</link>
+      <link>//localhost:1313/categories/lifestyle/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/categories/lifestyle/</guid>
+      <guid>//localhost:1313/categories/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:1313/iwriter-hugo/categories/nature/</link>
+      <link>//localhost:1313/categories/nature/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/categories/nature/</guid>
+      <guid>//localhost:1313/categories/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/iwriter-hugo/categories/travel/</link>
+      <link>//localhost:1313/categories/travel/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iwriter-hugo/categories/travel/</guid>
+      <guid>//localhost:1313/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
