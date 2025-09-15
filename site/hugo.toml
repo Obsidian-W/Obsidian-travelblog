@@ -1,4 +1,4 @@
-baseURL = "https://balaramadurai.github.io/"
+baseURL = "https://obsidiantravels.netlify.app/"
 title = "Obsifian Travels"
 subtitle = "Travel theme for Hugo with Slider"
 languageCode = "en-us"
