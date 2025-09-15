@@ -5,10 +5,20 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
+languages:
+  en:
+    contentDir: content/english
+    languageName: English
+    weight: 10
+  fr:
+    contentDir: content/french
+    languageName: Français
+    weight: 20
+
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+    folder: "site/content/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
@@ -17,7 +27,6 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
     format: "yaml-frontmatter" # Specify frontmatter format to use (default is YAML)
-collections:
   - name: "pages"
     label: "Pages"
     files:
