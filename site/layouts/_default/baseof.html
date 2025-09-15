@@ -1,17 +1,49 @@
-<!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-  {{ partial "head" . }}
-  <body class="sans-serif">
+<!-- 
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+PROJECT: iWitter Hugo
+VERSION: 2.0.0
+AUTHOR: Statichunt
+AUTHOR WEBSITE: https://statichunt.com
 
-    {{ block "main" . }}{{ end }}
+-->
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default `en-US` }}" itemscope itemtype="http://schema.org/WebPage">
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
-  </body>
+<head>
+	{{ partial "essentials/head.html" . }}
+
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "essentials/style.html" . }}
+	{{ else }}
+	{{ partial "essentials/style.html" . }}
+	{{ end }}
+</head>
+
+<body {{if eq site.Params.default_mode "dark" }}class="dark"{{end}}>
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "preloader.html" . }}
+	{{ partial "essentials/header.html" . }}
+	{{ partialCached "gtm-noscript.html" . }}
+	{{ else }}
+	{{ partial "preloader.html" . }}
+	{{ partial "essentials/header.html" . }}
+	{{ end }}
+
+	<main>
+		{{ block "main" . }}{{ end }}
+	</main>
+
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "essentials/script.html" . }}
+	{{ partialCached "essentials/footer.html" . }}
+	{{ else }}
+	{{ partial "essentials/script.html" . }}
+	{{ partial "essentials/footer.html" . }}
+	{{ end }}
+</body>
+
 </html>

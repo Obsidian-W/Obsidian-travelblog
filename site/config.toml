@@ -3,14 +3,14 @@ title = "Obsidian Travels"
 subtitle = "Travel theme for Hugo with Slider"
 languageCode = "en-us"
 # preservetaxonomynames = true
-theme = "hugo-travelify-theme"
+theme = "iwriter-hugo"
 GoogleAnalytics = "" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
 canonifyURLs = true
 # rssURI = "feed/" #deprecated feature
 
 [params]
     # Tell me who you are
-    author = "nikimonikado"
+    author = "Obisidian"
     site_description = "Travel theme for Hugo with Slider"
     copyright  = "Copyright"
 #    avatar = "avatar.png"

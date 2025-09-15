@@ -1,21 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Obsidian Travels</title>
-    <link>https://obsidiantravels.netlify.app/categories/</link>
-    <description>Recent content in Categories on Obsidian Travels</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on iWriter - Personal Hugo Blog Theme</title>
+    <link>http://localhost:1313/iwriter-hugo/categories/</link>
+    <description>Recent content in Categories on iWriter - Personal Hugo Blog Theme</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2025 15:45:34 +0000</lastBuildDate>
-    <atom:link href="https://obsidiantravels.netlify.app/categories/" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/iwriter-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pseudo</title>
-      <link>https://obsidiantravels.netlify.app/categories/pseudo/</link>
-      <pubDate>Mon, 15 Sep 2025 15:45:34 +0000</pubDate>
-      
-      <guid>https://obsidiantravels.netlify.app/categories/pseudo/</guid>
+      <title>Education</title>
+      <link>http://localhost:1313/iwriter-hugo/categories/education/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iwriter-hugo/categories/education/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Hobby</title>
+      <link>http://localhost:1313/iwriter-hugo/categories/hobby/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iwriter-hugo/categories/hobby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/iwriter-hugo/categories/lifestyle/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iwriter-hugo/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/iwriter-hugo/categories/nature/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iwriter-hugo/categories/nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/iwriter-hugo/categories/travel/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iwriter-hugo/categories/travel/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
