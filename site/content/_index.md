@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Obsidian Travels"
+subtitle: Going to less common places
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
