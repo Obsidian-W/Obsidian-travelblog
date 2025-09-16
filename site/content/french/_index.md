@@ -1,10 +1,7 @@
 ---
 banner:
-  title: "Hé, je suis Linda McCoy"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,"
+  title: "Obsidian Travels"
+  description: "Petit blog amateur et 100% gratuit pour le plaisir de partager."
   image: "images/banner.jpg"
-  button:
-    enable : true
-    label : "obtenir un devis"
-    link : "contact/"
+
 ---

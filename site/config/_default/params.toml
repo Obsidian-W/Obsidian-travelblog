@@ -29,7 +29,7 @@ netlify = true # set to false if using formspree.io
 contact_form_action = "#"
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright Obsdian Travels"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -83,32 +83,13 @@ mastodon = "" # The URL to your profile a la https://example.com/@username
 sidebar = ["search", "categories", "recent-post", "social"]
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "mastodon"
-icon = "fab fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "github"
-icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/tim__paris/"
 
 [[social]]
 title = "linkedin"
-icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/in/timothe-paris/"

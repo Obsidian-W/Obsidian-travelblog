@@ -1,96 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iWriter - Personal Hugo Blog Theme</title>
-    <link>//localhost:1313/fr/</link>
-    <description>Recent content on iWriter - Personal Hugo Blog Theme</description>
+    <title>Obsidian Travels</title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-1/</link>
+      <link>http://localhost:1313/fr/blog/post-1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-1/</guid>
+      <guid>http://localhost:1313/fr/blog/post-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-3/</link>
+      <link>http://localhost:1313/fr/blog/post-3/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-3/</guid>
+      <guid>http://localhost:1313/fr/blog/post-3/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-4/</link>
+      <link>http://localhost:1313/fr/blog/post-4/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-4/</guid>
+      <guid>http://localhost:1313/fr/blog/post-4/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-5/</link>
+      <link>http://localhost:1313/fr/blog/post-5/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-5/</guid>
+      <guid>http://localhost:1313/fr/blog/post-5/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-6/</link>
+      <link>http://localhost:1313/fr/blog/post-6/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-6/</guid>
+      <guid>http://localhost:1313/fr/blog/post-6/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fais ce que tu peux, avec ce que tu as, où tu es</title>
-      <link>//localhost:1313/fr/blog/post-2/</link>
+      <link>http://localhost:1313/fr/blog/post-2/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-2/</guid>
+      <guid>http://localhost:1313/fr/blog/post-2/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>That which does not kill us makes us stronger</title>
-      <link>//localhost:1313/fr/blog/post-7/</link>
+      <link>http://localhost:1313/fr/blog/post-7/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-7/</guid>
+      <guid>http://localhost:1313/fr/blog/post-7/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vous devez être le changement à voir dans le monde</title>
-      <link>//localhost:1313/fr/blog/post-8/</link>
+      <link>http://localhost:1313/fr/blog/post-8/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-8/</guid>
+      <guid>http://localhost:1313/fr/blog/post-8/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search Result</title>
-      <link>//localhost:1313/fr/search/</link>
+      <link>http://localhost:1313/fr/search/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>//localhost:1313/fr/search/</guid>
+      <guid>http://localhost:1313/fr/search/</guid>
       <description></description>
     </item>
     <item>
       <title>À propos</title>
-      <link>//localhost:1313/fr/about/</link>
+      <link>http://localhost:1313/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/about/</guid>
-      <description>&lt;h2 id=&#34;bonjour-je-suis-linda-mccoy-spécialisée-dans-la-rédaction-et-la-collecte-de-blogs&#34;&gt;Bonjour, je suis Linda McCoy spécialisée dans la rédaction et la collecte de blogs&lt;/h2&gt;&#xA;&lt;p&gt;Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level&#xA;overviews. Iterative approaches to corporate strategy foster collaborative thinking to&#xA;further the overall value proposition. Organically grow the holistic world view of&#xA;disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/about/</guid>
+      <description>&lt;h2 id=&#34;hey-moi-cest-obsidian&#34;&gt;Hey, moi c&amp;rsquo;est Obsidian&lt;/h2&gt;&#xA;&lt;p&gt;Voyageur téméraire, j&amp;rsquo;ai créé ce blog pour aider ceux qui souhaiteraient obtenir des informations sur les lieux dans lesquelles peu voyage.&#xA;Ainsi, mon but est de partager des itinéraires, des infos sur les transports, des bons plans ainsi que des articles sur des lieux rares.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/fr/contact/</link>
+      <link>http://localhost:1313/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/contact/</guid>
-      <description>&lt;h1 id=&#34;contactez-moi&#34;&gt;Contactez moi&lt;/h1&gt;&#xA;&lt;p&gt;Menso est livré avec un formulaire de contact intégré, que vous pouvez utiliser avec le service Formspree pour gérer gratuitement jusqu&amp;rsquo;à 50 soumissions par mois. Vous pouvez également facilement passer à un autre service de formulaire de contact si vous le souhaitez.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Element</title>
-      <link>//localhost:1313/fr/element/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/element/</guid>
-      <description>&lt;h1 id=&#34;éléments&#34;&gt;Éléments&lt;/h1&gt;&#xA;&lt;p&gt;A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly&#xA;disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar&#xA;catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform&#xA;models. Continually reintermediate integrated processes through technically sound intellectual capital.&#xA;Holistically foster superior methodologies.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/contact/</guid>
+      <description>&lt;h1 id=&#34;contactez-moi&#34;&gt;Contactez moi&lt;/h1&gt;&#xA;&lt;p&gt;Feature en cours - Ma priorité reste le contenu&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

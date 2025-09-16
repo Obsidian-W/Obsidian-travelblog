@@ -1,6 +1,6 @@
 {
-  "name": "iWriter - Personal Hugo Blog Theme",
-  "short_name": "iWriter - Personal Hugo Blog Theme",
+  "name": "Obsidian Travels",
+  "short_name": "Obsidian Travels",
   "lang": "en-us",
   "theme_color": "#dc6f6e",
   "background_color": "#fbf9f8",
@@ -50,5 +50,5 @@
   
   
   "display": "standalone",
-  "start_url": "//localhost:1313/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

@@ -34,9 +34,6 @@ path = "github.com/gethugothemes/hugo-modules/shortcodes/codepen"
 path = "github.com/gethugothemes/hugo-modules/shortcodes/notice"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/videos"
-
-[[imports]]
 path = "github.com/gethugothemes/hugo-modules/tab"
 
 [[imports]]

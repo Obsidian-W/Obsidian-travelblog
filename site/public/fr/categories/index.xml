@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on iWriter - Personal Hugo Blog Theme</title>
-    <link>//localhost:1313/fr/categories/</link>
-    <description>Recent content in Categories on iWriter - Personal Hugo Blog Theme</description>
+    <title>Categories on Obsidian Travels</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>//localhost:1313/fr/categories/education/</link>
+      <link>http://localhost:1313/fr/categories/education/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/education/</guid>
+      <guid>http://localhost:1313/fr/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobby</title>
-      <link>//localhost:1313/fr/categories/hobby/</link>
+      <link>http://localhost:1313/fr/categories/hobby/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/hobby/</guid>
+      <guid>http://localhost:1313/fr/categories/hobby/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>//localhost:1313/fr/categories/lifestyle/</link>
+      <link>http://localhost:1313/fr/categories/lifestyle/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/lifestyle/</guid>
+      <guid>http://localhost:1313/fr/categories/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>//localhost:1313/fr/categories/nature/</link>
+      <link>http://localhost:1313/fr/categories/nature/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/nature/</guid>
+      <guid>http://localhost:1313/fr/categories/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:1313/fr/categories/travel/</link>
+      <link>http://localhost:1313/fr/categories/travel/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/travel/</guid>
+      <guid>http://localhost:1313/fr/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
