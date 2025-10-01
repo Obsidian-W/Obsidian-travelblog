@@ -6,63 +6,105 @@
     <description>Recent content on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do what you can, with you have, where you are</title>
-      <link>http://localhost:1313/blog/post-2/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-2/</guid>
+      <title>How to pack for lightweight travel</title>
+      <link>http://localhost:1313/blog/howto-pack/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/howto-pack/</guid>
+      <description>&lt;p&gt;Packing for backpacking is always the same story.&lt;br&gt;&#xA;You think you haven&amp;rsquo;t enough, but you have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A week in the Pearl Delta</title>
+      <link>http://localhost:1313/blog/itinerary-pearldelta/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-pearldelta/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;One of the most densely inhabitated region in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practical Tips for Traveling in China</title>
+      <link>http://localhost:1313/blog/tips-china/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tips-china/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This list has been compiled thanks to repeated travel in China.&#xA;It sums up the tools and tricks that actually make a difference when moving around the country.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to visit Turkmenistan?</title>
+      <link>http://localhost:1313/blog/howto-turkmenistan/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/howto-turkmenistan/</guid>
+      <description>&lt;p&gt;One of the hardest country to get into, fighting with north  Korea for the title.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 days in Turkmenistan</title>
+      <link>http://localhost:1313/blog/itinerary-turkmenistan/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-turkmenistan/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-1/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-1/</guid>
+      <title>2 Months in the five stans</title>
+      <link>http://localhost:1313/blog/itinerary-central-asia/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-central-asia/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-3/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-3/</guid>
+      <title>How to visit Mangystau?</title>
+      <link>http://localhost:1313/blog/howto-mangystau/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/howto-mangystau/</guid>
+      <description>&lt;p&gt;Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A week in Tibet</title>
+      <link>http://localhost:1313/blog/itinerary-tibet/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-tibet/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Disclaimer: Don&amp;rsquo;t speak about politics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One week in Yunnan</title>
+      <link>http://localhost:1313/blog/itinerary-yunnan/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-yunnan/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-4/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-4/</guid>
+      <title>Doing a safari on a budget</title>
+      <link>http://localhost:1313/blog/tips-cheap-safaris/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tips-cheap-safaris/</guid>
+      <description>&lt;p&gt;Safaris have a reputation for being insanely expensive.&lt;br&gt;&#xA;I&amp;rsquo;ll tell you how to afford it easily.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Traveling in Africa like a Pro</title>
+      <link>http://localhost:1313/blog/tips-africa/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tips-africa/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-5/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-5/</guid>
+      <title>3 to 4 weeks in Ethiopia</title>
+      <link>http://localhost:1313/blog/itinerary-ethiopia/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-ethiopia/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-6/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-6/</guid>
+      <title>One month in East Africa</title>
+      <link>http://localhost:1313/blog/itinerary-eastafrica/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-eastafrica/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>http://localhost:1313/blog/post-7/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-7/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You must be the change to see in the world</title>
-      <link>http://localhost:1313/blog/post-8/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-8/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <title>Going to Patagonia in winter ❄️</title>
+      <link>http://localhost:1313/blog/tips-patagonia-winter/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tips-patagonia-winter/</guid>
+      <description>&lt;p&gt;Insert content here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search Result</title>

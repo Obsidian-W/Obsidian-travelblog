@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Central Asia on Obsidian Travels</title>
+    <link>http://localhost:1313/categories/central-asia/</link>
+    <description>Recent content in Central Asia on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/central-asia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to visit Turkmenistan?</title>
+      <link>http://localhost:1313/blog/howto-turkmenistan/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/howto-turkmenistan/</guid>
+      <description>&lt;p&gt;One of the hardest country to get into, fighting with north  Korea for the title.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2 Months in the five stans</title>
+      <link>http://localhost:1313/blog/itinerary-central-asia/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/itinerary-central-asia/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to visit Mangystau?</title>
+      <link>http://localhost:1313/blog/howto-mangystau/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/howto-mangystau/</guid>
+      <description>&lt;p&gt;Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

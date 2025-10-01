@@ -6,41 +6,90 @@
     <description>Recent content in Categories on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Education</title>
-      <link>http://localhost:1313/categories/education/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/education/</guid>
+      <title>How-To</title>
+      <link>http://localhost:1313/categories/how-to/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/how-to/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hobby</title>
-      <link>http://localhost:1313/categories/hobby/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/hobby/</guid>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
     <item>
-      <title>Lifestyle</title>
-      <link>http://localhost:1313/categories/lifestyle/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/lifestyle/</guid>
+      <title>China</title>
+      <link>http://localhost:1313/categories/china/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/china/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nature</title>
-      <link>http://localhost:1313/categories/nature/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/nature/</guid>
+      <title>Itinerary</title>
+      <link>http://localhost:1313/categories/itinerary/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/itinerary/</guid>
       <description></description>
     </item>
     <item>
-      <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <title>Central Asia</title>
+      <link>http://localhost:1313/categories/central-asia/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/central-asia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkmenistan</title>
+      <link>http://localhost:1313/categories/turkmenistan/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/turkmenistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kazakhstan</title>
+      <link>http://localhost:1313/categories/kazakhstan/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/kazakhstan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africa</title>
+      <link>http://localhost:1313/categories/africa/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethiopia</title>
+      <link>http://localhost:1313/categories/ethiopia/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ethiopia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Argentina</title>
+      <link>http://localhost:1313/categories/argentina/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/argentina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chile</title>
+      <link>http://localhost:1313/categories/chile/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/chile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>South America</title>
+      <link>http://localhost:1313/categories/south-america/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/south-america/</guid>
       <description></description>
     </item>
   </channel>

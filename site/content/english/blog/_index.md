@@ -1,5 +1,5 @@
 ---
-title: "Latest News"
+title: "Latest Posts"
 subtitle: "Read all latest blog posts"
 # meta description
 description: "Read all latest blog posts"
