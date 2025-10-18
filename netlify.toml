@@ -1,10 +1,26 @@
 [build.environment]
+  DART_SASS_VERSION = "1.93.2"
   NETLIFY_USE_YARN = "true"
   YARN_VERSION = "1.22.17"
+  GO_VERSION = "1.25.1"
+  HUGO_VERSION = "0.150.0"
+  HUGO_EXTENDED = "true"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_BASEURL = "/"
+  TZ = "Europe/Oslo"
 
 [build]
-  command = "yarn build"
-  publish = "dist"
+  publish = "public"
+  base = "site"
+  command = """\
+    curl -sLJO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" && \
+    tar -C "${HOME}/.local" -xf "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" && \
+    rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" && \
+    export PATH="${HOME}/.local/dart-sass:${PATH}" && \
+    git config core.quotepath false && \
+    hugo --gc --minify --baseURL "${URL}"
+  """
 
 [context.deploy-preview]
   command = "yarn build:preview"
@@ -12,9 +28,3 @@
 [dev]
   framework = "hugo"
   targetPort = 3000
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs]
-    record = true

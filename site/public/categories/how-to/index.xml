@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How-To on Obsidian Travels</title>
-    <link>http://localhost:1313/categories/how-to/</link>
+    <link>//localhost:1313/categories/how-to/</link>
     <description>Recent content in How-To on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to pack for lightweight travel</title>
-      <link>http://localhost:1313/blog/howto-pack/</link>
+      <link>//localhost:1313/blog/howto-pack/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/howto-pack/</guid>
+      <guid>//localhost:1313/blog/howto-pack/</guid>
       <description>&lt;p&gt;Packing for backpacking is always the same story.&lt;br&gt;&#xA;You think you haven&amp;rsquo;t enough, but you have.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to visit Turkmenistan?</title>
-      <link>http://localhost:1313/blog/howto-turkmenistan/</link>
+      <link>//localhost:1313/blog/howto-turkmenistan/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/howto-turkmenistan/</guid>
+      <guid>//localhost:1313/blog/howto-turkmenistan/</guid>
       <description>&lt;p&gt;One of the hardest country to get into, fighting with north  Korea for the title.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to visit Mangystau?</title>
-      <link>http://localhost:1313/blog/howto-mangystau/</link>
+      <link>//localhost:1313/blog/howto-mangystau/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/howto-mangystau/</guid>
+      <guid>//localhost:1313/blog/howto-mangystau/</guid>
       <description>&lt;p&gt;Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kazakhstan on Obsidian Travels</title>
-    <link>http://localhost:1313/categories/kazakhstan/</link>
+    <link>//localhost:1313/categories/kazakhstan/</link>
     <description>Recent content in Kazakhstan on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/kazakhstan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/kazakhstan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to visit Mangystau?</title>
-      <link>http://localhost:1313/blog/howto-mangystau/</link>
+      <link>//localhost:1313/blog/howto-mangystau/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/howto-mangystau/</guid>
+      <guid>//localhost:1313/blog/howto-mangystau/</guid>
       <description>&lt;p&gt;Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).&lt;/p&gt;</description>
     </item>
   </channel>

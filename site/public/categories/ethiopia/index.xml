@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethiopia on Obsidian Travels</title>
-    <link>http://localhost:1313/categories/ethiopia/</link>
+    <link>//localhost:1313/categories/ethiopia/</link>
     <description>Recent content in Ethiopia on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/ethiopia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/ethiopia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 to 4 weeks in Ethiopia</title>
-      <link>http://localhost:1313/blog/itinerary-ethiopia/</link>
+      <link>//localhost:1313/blog/itinerary-ethiopia/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/itinerary-ethiopia/</guid>
+      <guid>//localhost:1313/blog/itinerary-ethiopia/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
   </channel>
