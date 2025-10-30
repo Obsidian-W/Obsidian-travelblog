@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Éthiopie on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/%C3%A9thiopie/</link>
+    <description>Recent content in Éthiopie on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/%C3%A9thiopie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 semaines en Éthiopie</title>
+      <link>//localhost:1313/fr/blog/itinerary-ethiopia/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-ethiopia/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;L’un des berceaux de l’humanité, et le seul pays africain à n’avoir jamais été colonisé.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

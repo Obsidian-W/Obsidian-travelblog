@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/tips/</link>
+    <description>Recent content in Tips on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to pack for lightweight travel</title>
+      <link>//localhost:1313/fr/blog/howto-pack/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/howto-pack/</guid>
+      <description>&lt;p&gt;Packing for backpacking is always the same story.&lt;br&gt;&#xA;You think you haven&amp;rsquo;t enough, but you have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practical Tips for Traveling in China</title>
+      <link>//localhost:1313/fr/blog/tips-china/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-china/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This list has been compiled thanks to repeated travel in China.&#xA;It sums up the tools and tricks that actually make a difference when moving around the country.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doing a safari on a budget</title>
+      <link>//localhost:1313/fr/blog/tips-cheap-safaris/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-cheap-safaris/</guid>
+      <description>&lt;p&gt;Safaris have a reputation for being insanely expensive.&lt;br&gt;&#xA;I&amp;rsquo;ll tell you how to afford it easily.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Traveling in Africa like a Pro</title>
+      <link>//localhost:1313/fr/blog/tips-africa/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-africa/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Going to Patagonia in winter ❄️</title>
+      <link>//localhost:1313/fr/blog/tips-patagonia-winter/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-patagonia-winter/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Once someone told me: YoU cAn&amp;rsquo;t Go tO PaTaGOnIa iN wiNtEr, eveRytHing Is clOseD&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -32,7 +32,7 @@ If any of the company mentioned here wishes to give me money, please do.
 ### VPNs  
 - Most of our sites (Google, WhatsApp, Instagram, YouTube…) are blocked.  
 - Install a VPN **before** entering China. LetsVPN and Astrill are common choices (I couldn't get Windscribe or Google's VPN to work).  
-- Some work better than others depending on the region, so it’s worth having a backup.
+- Some work better than others depending on the region, so it's worth having a backup.
 - If you have a foreign sim card with data in China, then there's **probably** no need for a VPN.
 
 > My French SIM Card with Free Mobile has 30 GB of data in China and let me use Whatsapp, Reddit and more without a VPN
@@ -46,7 +46,7 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 ### Booking Trains  
 - Trains are the easiest way to move around (And are often cheap).  
 - **Trip.com** offers English booking, accepts foreign cards, and often has competitive prices.  
-- You’ll receive a QR code or pick-up code.  
+- You'll receive a QR code or pick-up code.  
 - A passport is required for every booking and at the station (They check...).
 
 ### Using Didi  
@@ -67,7 +67,7 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 - Requires a stupid verification using chinese friend.  
 - You can get banned anytime for no reason.
 - It's a shitty app, I hate it.
-- Payment with foreign cards is unreliable, but it’s still useful for messaging.
+- Payment with foreign cards is unreliable, but it's still useful for messaging.
 - I use Rednote for messaging now, it's fine.
 
 ---

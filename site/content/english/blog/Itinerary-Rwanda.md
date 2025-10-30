@@ -113,7 +113,7 @@ It's the end of the article and I'm getting lazy!
 - Go south East to Tanzania
 - Go North West to Uganda
 - Fight with gorillas in lava filled volcanoes in Congo
-- Coucou les congolais
+- ♫♪ Coucou les congolais ♪♫
 
 ---
 Comments?

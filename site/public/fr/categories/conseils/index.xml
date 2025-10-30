@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conseils on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/conseils/</link>
+    <description>Recent content in Conseils on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/conseils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faire un safari à petit budget</title>
+      <link>//localhost:1313/fr/blog/tips-cheap-safaris/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-cheap-safaris/</guid>
+      <description>&lt;p&gt;Les safaris ont la réputation d’être hors de prix.&lt;br&gt;&#xA;Je vais t’expliquer comment t’en sortir sans te ruiner.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

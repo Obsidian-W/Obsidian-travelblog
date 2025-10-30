@@ -15,7 +15,6 @@ one of Asia's most interesting city;
 In the end, I had a memorable trip!
 
 
-
 Before diving into my itinerary, a few considerations:
 
 - It's fine to start in any of the major airport, you can either do a 'line' or a loop.

@@ -10,7 +10,7 @@ draft: false
 Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).  
 
 Remote, harsh, desert-like, with landscapes that feel like nowhere else on Earth — cliffs, white canyons, underground mosques, vast plateaus.  
-It’s not the kind of place you just stumble upon, you need to actively plan for it and put it into your itinerary from the get-go.  
+It's not the kind of place you just stumble upon, you need to actively plan for it and put it into your itinerary from the get-go.  
 
 I went there on a three-day trip starting from **Aktau**, on the Caspian coast.  
 To get to Aktau, I flew from Paris with a layover in Istanbul. It was the cheapest flight to Kazakhstan I could find, by the way.  
@@ -19,7 +19,7 @@ To get to Aktau, I flew from Paris with a layover in Istanbul. It was the cheape
 
 ## How to Visit Mangystau
 
-Independent travel is technically possible, but unless you speak Russian or Kazakh, can drive long hours on bad tracks, and are ready to camp without support, it’s far easier to go with a local tour.  
+Independent travel is technically possible, but unless you speak Russian or Kazakh, can drive long hours on bad tracks, and are ready to camp without support, it's far easier to go with a local tour.  
 
 I joined a small group tour with a local tour operator I found online prior to arrival.
 We were six travelers split into two cars, with a driver each and the addition of a guide.
@@ -47,7 +47,7 @@ They even managed to accommodate food allergies, which is nice!
 ## Sights & Walking
 
 The main reason you come here: the landscapes.  
-I won’t spoil every stop, but highlights include **Bozjyra Canyon**, **Torysh (Valley of 𝓑𝓪𝓵𝓵𝓼)**, underground mosques, and surreal plateaus that stretch to the horizon.  
+I won't spoil every stop, but highlights include **Bozjyra Canyon**, **Torysh (Valley of 𝓑𝓪𝓵𝓵𝓼)**, underground mosques, and surreal plateaus that stretch to the horizon.  
 
 Three days is enough to see the main sites at a **good pace**, four days would be overkill, two would be boring. Hence I think three is just right.  
 I walked between 7 and 14 km each day, though you could walk less, I just prefer exploring on foot once on-site and so did my group (be careful of the heat, it's painfully hot in July).  
@@ -66,9 +66,9 @@ The two drivers handled rough roads and sand tracks without issue. Communication
 
 ## Cost
 
-Mangystau isn’t a budget trip.  
+Mangystau isn't a budget trip.  
 Tours are on the expensive side, especially compared to other parts of Kazakhstan.  
-That said, you’re paying for two drivers, one guide, proper 4x4 vehicles, fuel, camping gear (tents are usually single-use, one per person), and full logistical support.  
+That said, you're paying for two drivers, one guide, proper 4x4 vehicles, fuel, camping gear (tents are usually single-use, one per person), and full logistical support.  
 
 For three full days, the price made sense, especially since there isn't that much demand yet.  
 
@@ -79,7 +79,7 @@ For three full days, the price made sense, especially since there isn't that muc
 - **Best time to go**: Spring and autumn. Summers can be brutally hot, winters are cold and windy.  
 - **Packing**: Layers, good shoes for walking on rocks and sand, sunscreen, a hat.  
 - **Connectivity**: Mobile coverage is almost non-existent in the desert.  
-- **Toilets**: Wild camping = wild toilets. Don’t expect facilities.  
+- **Toilets**: Wild camping = wild toilets. Don't expect facilities.  
 - **Sleep**: Be prepared to camp. It'll be windy.
 ---
 
@@ -92,7 +92,8 @@ Mangystau fits into a wider trip across Kazakhstan or Central Asia. From Aktau, 
 - **Uzbekistan**: There are trains south from Aktau toward Beyneu, where you can connect onwards to Nukus (in Karakalpakstan,). This is a good option if you want to see the ship graveyard and head towards the silk road.  
 - **Istanbul**: Flights are common, I came through Istanbul, Kebabistan.
 - **Tblissi**: A lot of flights as well, it might be a decent option.
----
 
+
+---
 Comments?
 ---

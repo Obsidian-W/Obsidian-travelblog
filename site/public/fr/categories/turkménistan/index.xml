@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turkménistan on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/turkm%C3%A9nistan/</link>
+    <description>Recent content in Turkménistan on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/turkm%C3%A9nistan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment visiter le Turkménistan ?</title>
+      <link>//localhost:1313/fr/blog/howto-turkmenistan/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/howto-turkmenistan/</guid>
+      <description>&lt;p&gt;L’un des pays les plus fermés au monde, rivalisant avec la Corée du Nord pour le titre.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

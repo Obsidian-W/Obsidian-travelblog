@@ -119,10 +119,10 @@ Anyway, use the afternoon to get oriented, withdraw a good amount of cash, **VER
 and check a few safari agencies.  I like to do my "shopping" with local agencies, even though prices are pretty much aligned.
 
 More tips here (I'm lazy, I won't C-Paste my content): [Tips for Cheap Safaris](/blog/tips-cheap-safaris).
-*Join a group with a local operator: it’s easy to arrange last minute, and you can get three-days safaris under 500€.*
+*Join a group with a local operator: it's easy to arrange last minute, and you can get three-days safaris under 500€.*
 
 
-Arusha isn’t the prettiest city, there aren't a lot of sights: a few Hindu temples, gardens and a couple of art centers;
+Arusha isn't the prettiest city, there aren't a lot of sights: a few Hindu temples, gardens and a couple of art centers;
 I'd say that it's more than enough for an afternoon.
 
 Welcome to Africa btw.
@@ -158,7 +158,7 @@ I slept in a tent in a camp, where I listened to Jambo Bwana for the first time.
 ![Ngorongorongorongoro](images/blog/tanzania2.jpg)
 
 Wake up before sunrise to enter the **Ngorongoro Crater**.  
-It’s a long descent into a massive bowl of wildlife, in the coldest of morning.
+It's a long descent into a massive bowl of wildlife, in the coldest of morning.
 When I went it was overly misty: Visibility was shit.
 The first few hours were rough and we missed the migration by weeks, changes in weather patterns messed things up...
 
@@ -230,7 +230,7 @@ and do honey keeping. I shared meals with them as well as watch a few show on th
 ## Day 8 Lushoto
 
 ![Lushoto](images/blog/lushoto.jpg)
-*A view of Lushoto from the heights*
+*^A view of Lushoto from the heights*
 
 
 I Spent the day hiking to the **Irente Viewpoint**.  The trail was nice, going through nature fror some
@@ -242,7 +242,7 @@ All of this was still a blur for me.
 ## Day 9 Road to Zanzibar
 
 ![Dar](images/blog/dar.jpg)
-*Dar-Es-Salaam seen from the dock*
+*^Dar-Es-Salaam seen from the dock*
 
 
 I caught a morning bus toward **Dar es Salaam** (6 hours?), then the ferry to **Zanzibar** (2 hours?).  
@@ -263,7 +263,7 @@ Expect to arrive by evening to visit the beautiful **Stone Town** after dark; it
 ## Day 10 Stone Town
 
 ![Zanzibar](images/blog/zanzibar2.jpg)
-*The dispensary in Old town, it's a medical center*
+*^The dispensary in Old town, it's a medical center*
 
 Explore the maze of **Stone Town** by daylight: the Old Fort, the markets, and the sea promenade.  
 I ate at *Forodhani Gardens*, where locals grill food every night, it's overrated.
@@ -282,7 +282,7 @@ I liked Stone Town quite a bit.
 ## Day 11 Prison Island and Beach
 
 ![Zanzibar](images/blog/zanzibar.jpg)
-*For the beach lovers*
+*^For the beach lovers*
 
 
 Take a boat/tour to **Prison Island** to see the giant tortoises and the jail
@@ -339,7 +339,7 @@ Yes, that's why I went.
 We got a boat for two (I met a scientist along the way)
 We were only two tourists! 
 
-It’s calm, scenic and pictures can't do it justice...
+It's calm, scenic and pictures can't do it justice...
 It was expensive, quite a detour and exhausting, but I don't regret it.
 
 
@@ -357,7 +357,7 @@ You'll need that before continuing your way south to Mozambique or back north to
 ## Day 16 Back to Dar es Salaam
 
 Return north (6–7 h).  
-If you haven’t yet, explore Dar-Es-Salam a bit.
+If you haven't yet, explore Dar-Es-Salam a bit.
 I didn't really like the city, it had no soul.
 But I had to waste a day here (So two days of transport wasted to See Kilwa, do what you want)
 
@@ -400,7 +400,7 @@ It was held by a nice lady.
 
 ![Mombasa Old Town](images/blog/mbasa.jpg)
 
-Explore **Fort Jesus**, the Old Town’s narrow lanes, eat Swahili street food,
+Explore **Fort Jesus**, the Old Town's narrow lanes, eat Swahili street food,
 see the thousands bats, the sculptures...
 
 But don't take pictures of the government building, even though they are very *Heritage*, it's forbidden.
@@ -435,12 +435,11 @@ A lot of street harassment too...
 
 If you're brave, visit. If you aren't avoid.
 
-
 ---
 
 ## Day 22 Nairobi2
 
-Book a half-day tour to **Nairobi National Park**, it’s right outside the city.  
+Book a half-day tour to **Nairobi National Park**, it's right outside the city.  
 Or see the giraffe mansion, the Karen Blixen Museum or whatever floats your boat.
 
 Day trips to the national parks outside of the Nairobi NP are crazy expansive.
@@ -497,7 +496,7 @@ to get to my hostel.
 ![Rwenzori](images/blog/rwenzori.jpg)
 
 Trek or hike shorter routes near the base.  
-If you’re not climbing fully, there are beautiful day trails around **Ruboni Village**.
+If you're not climbing fully, there are beautiful day trails around **Ruboni Village**.
 Otherwise, try to get to a good altitude to see the unique plants.
 
 

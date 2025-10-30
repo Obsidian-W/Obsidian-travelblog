@@ -35,14 +35,14 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Tim Paris** (that’s me). He’ll know.  
+If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
 
 ---
 
 ## The Border
 
 At the moment (September 2025), the **only open land border for tourists** is near Dashoguz, the **Shavat crossing** from Uzbekistan.  
-If you’re coming overland, you’ll likely cross from Khiva (Uzbekistan) into Turkmenistan.  
+If you're coming overland, you'll likely cross from Khiva (Uzbekistan) into Turkmenistan.  
 I took a Yandex shared with another traveler and found one in twenty minutes.
 It's an hour drive, be prepared for a long wait and to have to give a bonus to your driver. I gave the equivalent of a very good meal as a bonus.
 
@@ -61,7 +61,7 @@ To go to Milano, I paid around 220€, a steal!
 
 ## Safety & Rules
 
-Turkmenistan has a reputation for being strict, but in reality it’s not as scary as you think.  
+Turkmenistan has a reputation for being strict, but in reality it's not as scary as you think.  
 - Walking at night in Ashgabat is totally fine. I did it without issues or hassle, despite me not having a guide.  
 - Safety is basically guaranteed: There are no crimes.  
 - Beards and long hair are fine, despite rumors of them being illegal.  
@@ -89,8 +89,8 @@ For gifts: The dried apricots are to die for. I brought like half a kilo of them
 
 ## Final Notes
 
-Turkmenistan is not an easy country to enter, but once inside, it’s a fascinating place.  
-The bureaucracy and fees are part of the package. If you prepare your documents, book through a good agency, and accept that things move at their own pace, you’ll be rewarded with one of the most unique trips you can have in Central Asia.  
+Turkmenistan is not an easy country to enter, but once inside, it's a fascinating place.  
+The bureaucracy and fees are part of the package. If you prepare your documents, book through a good agency, and accept that things move at their own pace, you'll be rewarded with one of the most unique trips you can have in Central Asia.  
 
 By the way here's my itinerary:
 [With the tour I did](../itinerary-turkmenistan)  

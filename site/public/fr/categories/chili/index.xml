@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chili on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/chili/</link>
+    <description>Recent content in Chili on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/chili/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aller en Patagonie en hiver ❄️</title>
+      <link>//localhost:1313/fr/blog/tips-patagonia-winter/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-patagonia-winter/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Quelqu’un m’a déjà dit :&lt;br&gt;&#xA;&lt;em&gt;« Tu ne peux pas aller en Patagonie en hiver, tout est fermé ! »&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

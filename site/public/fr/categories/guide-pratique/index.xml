@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide Pratique on Obsidian Travels</title>
+    <link>//localhost:1313/fr/categories/guide-pratique/</link>
+    <description>Recent content in Guide Pratique on Obsidian Travels</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/guide-pratique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment faire son sac pour voyager léger</title>
+      <link>//localhost:1313/fr/blog/howto-pack/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/howto-pack/</guid>
+      <description>&lt;p&gt;Préparer son sac de voyage, c’est toujours la même histoire.&lt;br&gt;&#xA;On pense ne pas en avoir assez… alors qu’on en a déjà trop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
