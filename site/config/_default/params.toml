@@ -80,7 +80,7 @@ mastodon = "" # The URL to your profile a la https://example.com/@username
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["search", "categories", "recent-post", "social"]
+sidebar = ["categories", "recent-post", "social"]
 
 ############################# social site ########################
 

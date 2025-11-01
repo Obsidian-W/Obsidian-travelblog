@@ -18114,6 +18114,20 @@ input:focus-visible {
     color: #fff;
     background-color: #dc6f6e; }
 
+.social-links-2 {
+  margin-right: 1rem; }
+  .social-links-2 li:not(:last-child) {
+    margin-right: 0rem; }
+  .social-links-2 li a {
+    color: black;
+    font-size: 18px;
+    border-radius: 4px;
+    width: 3rem;
+    height: 2.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
 .footer .copyright a {
   color: #1E2740; }
   .footer .copyright a:hover {
@@ -18461,6 +18475,8 @@ body.dark .only-dark {
   .dark .content hr {
     border-color: #fff !important; }
   .dark .social-links a:hover {
+    color: #fff !important; }
+  .dark .social-links-2 a:hover {
     color: #fff !important; }
   .dark .content thead th {
     color: #fff; }
@@ -18816,6 +18832,9 @@ body.dark .only-dark {
 .dark .social-links li a {
   color: #fff; }
 
+.dark .social-links-2 li a {
+  color: #fff; }
+
 .dark .widget a:hover {
   color: #dc6f6e; }
 
@@ -19102,11 +19121,12 @@ body.dark .only-dark {
 
 
       </a>
-      
+
       <div class="d-flex align-items-center">
         
         
-        <select class="m-2 me-0 border-0 bg-transparent select-language d-inline-block d-lg-none" id="select-language" onchange="location = this.value;">
+        <select class="m-2 me-0 border-0 bg-transparent select-language d-inline-block d-lg-none" id="select-language"
+          onchange="location = this.value;">
           
           
           
@@ -19141,14 +19161,16 @@ body.dark .only-dark {
         
         
         <div class="theme-switcher px-3 px-lg-4 d-inline-block d-lg-none">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round"
+            stroke-linejoin="round" fill="none" stroke="#000">
             <mask id="m">
               <circle class="masker" cx="7.5" cy="7.5" r="8.5" fill="#fff" />
             </mask>
             <g mask="url(#m)">
-              <path class="sun" d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />  
+              <path class="sun"
+                d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />
             </g>
-            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />  
+            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />
           </svg>
         </div>
         
@@ -19157,8 +19179,10 @@ body.dark .only-dark {
         
         <div class="search d-inline-block d-lg-none">
           <button aria-label="search" class="searchOpen search-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22" stroke-width="2" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22"
+              stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round"
+                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
             </svg>
           </button>
         </div>
@@ -19221,7 +19245,8 @@ body.dark .only-dark {
             
             
             ">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">Pages</a>
             <div class="dropdown-menu">
               
               
@@ -19242,7 +19267,8 @@ body.dark .only-dark {
 
         
         
-        <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language" onchange="location = this.value;">
+        <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language"
+          onchange="location = this.value;">
           
           
           
@@ -19274,32 +19300,48 @@ body.dark .only-dark {
         </select>
         
 
-         
+        
         
         <div class="theme-switcher px-3 px-lg-4 d-none d-lg-inline-block">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round"
+            stroke-linejoin="round" fill="none" stroke="#000">
             <mask id="m">
               <circle class="masker" cx="7.5" cy="7.5" r="8.5" fill="#fff" />
             </mask>
             <g mask="url(#m)">
-              <path class="sun" d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />  
+              <path class="sun"
+                d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />
             </g>
-            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />  
+            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />
           </svg>
         </div>
         
-         
+
+        <div class="search d-none d-lg-inline-block">
+          <ul class="social-links-2">
+            
+            <li class="list-inline-item"><a href="https://www.instagram.com/tim__paris/" target="_blank" rel="noopener"><i
+                  class="fab fa-instagram"></i></a></li>
+            
+            <li class="list-inline-item"><a href="https://www.linkedin.com/in/timothe-paris/" target="_blank" rel="noopener"><i
+                  class="fab fa-linkedin"></i></a></li>
+            
+          </ul>
+        </div>
+
         
         
         <div class="search d-none d-lg-inline-block">
           <button aria-label="search" class="searchOpen search-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22" stroke-width="2" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22"
+              stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round"
+                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
             </svg>
           </button>
         </div>
         
-     
+
       </div>
     </nav>
   </div>
@@ -19309,11 +19351,13 @@ body.dark .only-dark {
       <div class="row h-100">
         <div class="col-12 h-100">
           <form action="//localhost:1313/search" class="h-100 position-relative">
-            <input class="search-box bg-transparent" id="search-query" name="s" type="search"  placeholder="Type & Hit Enter...">
+            <input class="search-box bg-transparent" id="search-query" name="s" type="search"
+              placeholder="Type & Hit Enter...">
             <button class="searchClose search-close bg-body" type="button">
               <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
-                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                <path
+                  d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
               </svg>
             </button>
           </form>
@@ -19322,7 +19366,6 @@ body.dark .only-dark {
     </div>
   </div>
 </header>
-
 
 	
 
@@ -19472,15 +19515,82 @@ body.dark .only-dark {
         </div>
 
         <div class="content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <blockquote>
+<p>This list has been compiled based on commonalities across the highly diverse African continent.
+It sums up the tools and tricks that are often crucial, especially when moving between different countries and cultures. <strong>Always check country-specific advice!</strong></p></blockquote>
+<p>(No shame: I used a helpful AI Assistant (Gemini) for quick formatting and to synthesize common advice)</p>
+<hr>
+<h2 id="-essential-apps--tools">🌍 Essential Apps &amp; Tools</h2>
+<h3 id="google-maps--here-maps--mapsme">Google Maps / HERE Maps / Maps.me</h3>
+<ul>
+<li><strong>Google Maps</strong> is generally reliable in large cities and for major routes.</li>
+<li><strong>Maps.me</strong> and <strong>Organic Maps</strong> are often <em>better</em> for offline use and in remote/safari areas.</li>
+<li>Rather accurate for major landmarks, but off-road tracks can be misleading.</li>
+<li>/!\ <strong>Download offline maps</strong> for every region you plan to visit <em>before</em> you lose connectivity.</li>
+</ul>
+<h3 id="whatsapp">WhatsApp</h3>
+<ul>
+<li>It&rsquo;s the <strong>primary communication tool</strong> for most people and businesses.</li>
+<li>You&rsquo;ll use it to message tour guides, lodges, taxi drivers, and new friends.</li>
+</ul>
+<h3 id="google-translate">Google Translate</h3>
+<ul>
+<li>/!\ Download language packs (e.g., Swahili, Afrikaans, French, Portuguese&hellip;) for offline use.</li>
+<li>The camera function is useful for menus and signs, but not always perfect for complex dialects. (Like in Ethiopia)</li>
+</ul>
+<h3 id="currency-converter-eg-xe-currency">Currency Converter (e.g., XE Currency)</h3>
+<ul>
+<li>Essential with over 50 currencies and fluctuating exchange rates.</li>
+<li>Great for quick conversion when <strong>bargaining in markets</strong> to ensure a fair price.</li>
+</ul>
 <blockquote>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-ipsum dolor sit amet, consetetur sadipscing elitr,</p></blockquote>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>VPNs</strong> are generally, not needed, as most major international sites are accessible. A security-focused VPN is still useful for protecting your data on potentially unsecured public Wi-Fi, which happens a lot.</p></blockquote>
+<hr>
+<h2 id="-transportation">🚗 Transportation</h2>
+<h3 id="booking-flights--overland">Booking Flights &amp; Overland</h3>
+<ul>
+<li><strong>Domestic Flights:</strong> Recommended for covering the continent&rsquo;s vast distances quickly (e.g., between South Africa and Kenya).</li>
+<li><strong>Overland Tours/4x4 Rental:</strong> The most common way for <em>safaris</em> and exploring remote parks.</li>
+<li>Using a local travel agent or the airline/bus company website directly is often best.</li>
+</ul>
+<h3 id="ride-hailing-apps-uber-bolt-indriver">Ride-Hailing Apps (Uber, Bolt, Indriver)</h3>
+<ul>
+<li><strong>Uber</strong> and <strong>Bolt</strong> are common, while <strong>Indriver</strong> is popular in parts of West and North Africa.</li>
+<li>Generally considered a <strong>safer, more transparent option</strong> than hailing a street taxi.</li>
+<li>Payment is easiest by linking a foreign card to the app.</li>
+</ul>
+<h3 id="minibuses--shared-taxis">Minibuses &amp; Shared Taxis</h3>
+<ul>
+<li>Also known as <strong>Matatus</strong> (Kenya), <strong>Tro-tros</strong> (Ghana), or <strong>Daladalas</strong> (Tanzania).</li>
+<li>Extremely cheap and authentic but often crowded, less comfortable, and do not follow a strict timetable (they leave when full).</li>
+</ul>
+<hr>
+<h2 id="-payments">💰 Payments</h2>
+<h3 id="mobile-money-m-pesa-airtel-money">Mobile Money (M-Pesa, Airtel Money)</h3>
+<ul>
+<li><strong>Mobile Money is King</strong> in East Africa (Kenya, Tanzania) and increasingly common elsewhere.</li>
+<li>It&rsquo;s a phone number-based payment system used for nearly everything, from street vendors to park entry fees.</li>
+<li>Non-residents can usually register for a Mobile Money account with a local SIM card and passport.</li>
+</ul>
+<h3 id="cash-usdlocal-currency">Cash (USD/Local Currency)</h3>
+<ul>
+<li><strong>Cash is Essential and widely used.</strong> Many local markets, small shops, and rural areas are cash-only.</li>
+<li><strong>US Dollars (USD)</strong>: Widely accepted (and often <em>required</em>) for visas, major tourist expenses, and tips. <strong>Only bring new, clean, post-2006 bills</strong>—old or damaged notes are often rejected.</li>
+<li><strong>Credit/Debit Cards</strong>: Widely accepted in high-end hotels, major supermarkets, and tourist centers in major cities. Expect surcharges of 3-10% in some places. <strong>Visa and MasterCard</strong> are most common.</li>
+</ul>
+<blockquote>
+<p><strong>ATMs:</strong> Available in cities and towns. Use bank ATMs during the day and be discreet.<br>
+Inform your home bank of your travel dates to avoid card freezing.</p></blockquote>
+<hr>
+<h2 id="other-notes">Other Notes</h2>
+<ul>
+<li><strong>SIM Card</strong>: Buying a local SIM card is cheap and vital for navigation, ride-hailing, and Mobile Money.</li>
+<li><strong>Trains vs flights</strong>: For distances under 1,000 km, often a high-quality intercity bus is the most reliable balance between speed and cost, as train networks are limited.</li>
+<li><strong>Toilets</strong>: Varies greatly; carry tissues and hand sanitizer.</li>
+<li><strong>Etiquette &amp; Safety</strong>: Publicly displaying wealth (expensive phones, jewelry) is discouraged in cities. Always ask before taking a picture of a person. Be patient, polite, and embrace the concept of &ldquo;Africa Time&rdquo; (things move slowly).</li>
+<li><strong>Politics/Military</strong>: Avoid sensitive topics, queue firmly, and never take pictures of government, police, or military installations.</li>
+</ul>
+<p><img src="//localhost:1313/images/blog/tanzania.jpg" alt="Safari"></p>
 <hr>
 <h2 id="comments">Comments?</h2>
 

@@ -41,18 +41,8 @@
                 href="//localhost:1313/fr/blog/howto-pack/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/how-to/</loc>
+    <loc>//localhost:1313/fr/categories/conseils/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/how-to/"
-                />
   </url><url>
     <loc>//localhost:1313/fr/blog/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
@@ -67,57 +57,11 @@
                 href="//localhost:1313/fr/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/tips/</loc>
+    <loc>//localhost:1313/fr/categories/guide-pratique/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/tips/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/tips/"
-                />
   </url><url>
-    <loc>//localhost:1313/fr/blog/itinerary-pearldelta/</loc>
+    <loc>//localhost:1313/fr/categories/chine/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/blog/itinerary-pearldelta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/blog/itinerary-pearldelta/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/china/</loc>
-    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/china/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/china/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/itinerary/</loc>
-    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/itinerary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/itinerary/"
-                />
   </url><url>
     <loc>//localhost:1313/fr/blog/tips-china/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
@@ -132,18 +76,24 @@
                 href="//localhost:1313/fr/blog/tips-china/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/central-asia/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/fr/categories/itin%C3%A9raire/</loc>
+    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/blog/itinerary-pearldelta/</loc>
+    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/categories/central-asia/"
+                href="//localhost:1313/blog/itinerary-pearldelta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/central-asia/"
+                href="//localhost:1313/fr/blog/itinerary-pearldelta/"
                 />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/asie-centrale/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/blog/howto-turkmenistan/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
@@ -158,18 +108,8 @@
                 href="//localhost:1313/fr/blog/howto-turkmenistan/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/turkmenistan/</loc>
+    <loc>//localhost:1313/fr/categories/turkm%C3%A9nistan/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/turkmenistan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/turkmenistan/"
-                />
   </url><url>
     <loc>//localhost:1313/fr/blog/itinerary-turkmenistan/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
@@ -184,19 +124,6 @@
                 href="//localhost:1313/fr/blog/itinerary-turkmenistan/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/blog/itinerary-central-asia/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/blog/itinerary-central-asia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/blog/itinerary-central-asia/"
-                />
-  </url><url>
     <loc>//localhost:1313/fr/blog/howto-mangystau/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -209,6 +136,9 @@
                 hreflang="fr-fr"
                 href="//localhost:1313/fr/blog/howto-mangystau/"
                 />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/guide/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/categories/kazakhstan/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
@@ -234,6 +164,32 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="//localhost:1313/fr/blog/itinerary-tibet/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/china/</loc>
+    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/categories/china/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="//localhost:1313/fr/categories/china/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/itinerary/</loc>
+    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/categories/itinerary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="//localhost:1313/fr/categories/itinerary/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/blog/itinerary-yunnan/</loc>
@@ -262,6 +218,9 @@
                 href="//localhost:1313/fr/categories/africa/"
                 />
   </url><url>
+    <loc>//localhost:1313/fr/categories/afrique/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/fr/blog/tips-cheap-safaris/</loc>
     <lastmod>2023-08-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -273,6 +232,19 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="//localhost:1313/fr/blog/tips-cheap-safaris/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/tips/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/categories/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="//localhost:1313/fr/categories/tips/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/blog/tips-africa/</loc>
@@ -301,44 +273,21 @@
                 href="//localhost:1313/fr/blog/itinerary-ethiopia/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/afrique/</loc>
+    <loc>//localhost:1313/fr/blog/itinerary-tanzania/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/categories/afrique/"
+                href="//localhost:1313/blog/itinerary-tanzania/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/afrique/"
+                href="//localhost:1313/fr/blog/itinerary-tanzania/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/categories/%C3%A9thiopie/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/%C3%A9thiopie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/%C3%A9thiopie/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/itin%C3%A9raire/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/itin%C3%A9raire/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/itin%C3%A9raire/"
-                />
   </url><url>
     <loc>//localhost:1313/fr/blog/itinerary-eastafrica/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
@@ -379,45 +328,6 @@
                 href="//localhost:1313/fr/blog/itinerary-uganda/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/blog/itinerary-tanzania/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/blog/itinerary-tanzania/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/blog/itinerary-tanzania/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/argentina/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/argentina/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/argentina/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/chile/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/chile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/chile/"
-                />
-  </url><url>
     <loc>//localhost:1313/fr/blog/tips-patagonia-winter/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -431,57 +341,14 @@
                 href="//localhost:1313/fr/blog/tips-patagonia-winter/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/south-america/</loc>
+    <loc>//localhost:1313/fr/categories/am%C3%A9rique-du-sud/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/categories/south-america/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="//localhost:1313/fr/categories/south-america/"
-                />
   </url><url>
-    <loc>//localhost:1313/fr/blog/post-1/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/fr/categories/argentine/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/fr/blog/post-3/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-4/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-5/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-6/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/education/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-2/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/hobby/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/lifestyle/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/nature/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-7/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/travel/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/blog/post-8/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/fr/categories/chili/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>

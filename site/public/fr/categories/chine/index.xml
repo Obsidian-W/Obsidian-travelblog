@@ -15,5 +15,19 @@
       <guid>//localhost:1313/fr/blog/tips-china/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Cette liste a été compilée après plusieurs voyages en Chine.&lt;br&gt;&#xA;Elle résume les outils et astuces qui font &lt;em&gt;vraiment&lt;/em&gt; la différence quand on se déplace dans le pays.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Une semaine dans le delta de la Rivière des Perles</title>
+      <link>//localhost:1313/fr/blog/itinerary-pearldelta/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-pearldelta/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;L’une des régions les plus densément peuplées du monde, une mégalopole après l’autre : Hong Kong, Guangzhou, Shenzhen, Macao…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Une semaine dans le Yunnan</title>
+      <link>//localhost:1313/fr/blog/itinerary-yunnan/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-yunnan/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Le Yunnan est ma région préférée de Chine ! Et c’est facile de comprendre pourquoi.&lt;br&gt;&#xA;Entre la culture, la nourriture fabuleuse et les paysages, c’est la porte d’entrée idéale pour découvrir le pays.&lt;br&gt;&#xA;Facile à explorer, bien reliée et agréable toute l’année.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

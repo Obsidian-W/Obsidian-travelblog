@@ -65,24 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Afrique</title>
-      <link>//localhost:1313/categories/afrique/</link>
+      <title>Ethiopia</title>
+      <link>//localhost:1313/categories/ethiopia/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/afrique/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Éthiopie</title>
-      <link>//localhost:1313/categories/%C3%A9thiopie/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/%C3%A9thiopie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Itinéraire</title>
-      <link>//localhost:1313/categories/itin%C3%A9raire/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/itin%C3%A9raire/</guid>
+      <guid>//localhost:1313/categories/ethiopia/</guid>
       <description></description>
     </item>
     <item>

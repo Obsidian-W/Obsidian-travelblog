@@ -64,6 +64,12 @@ After a very long and stupid trip (you have to pay a bus to cross 200m through t
 I reached the Turkmen outpost, met my guide, Ruslan there.
 Here are his info:
 
+Contact:  
+- Phone: +993 61 67 22 66  
+- Mail: ruslanhydyrov@gmail.com  
+
+If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+
 > (He's aware I'm putting his contact info here, I asked for permission. I'm not gaining anything from this)
 
 After paying the necessary 100$ or something for the visa, entry and covid test, I was in!

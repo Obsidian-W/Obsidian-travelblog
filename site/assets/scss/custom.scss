@@ -1,0 +1,15 @@
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1500px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .spaced-row>.col-lg-8 {
+        padding-right: 4rem;
+    }
+
+    .spaced-row>.col-lg-4 {
+        padding-left: 4rem;
+    }
+}

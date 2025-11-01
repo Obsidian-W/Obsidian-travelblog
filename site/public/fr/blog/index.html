@@ -5,7 +5,7 @@
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8" />
-<title>Latest News</title>
+<title>Dernières news</title>
 
 
 <meta
@@ -80,7 +80,7 @@
   
 
 
-<title>Latest News</title>
+<title>Dernières news</title>
 
 
 
@@ -112,7 +112,7 @@
 
 <meta
   name="description"
-  content="Read all latest blog posts" />
+  content="Lis les derniers posts de mon blog" />
 
 
 
@@ -154,14 +154,14 @@
 
 
 
-<meta property="og:title" content="Latest News" />
-<meta property="og:description" content="Read all latest blog posts" />
+<meta property="og:title" content="Dernières news" />
+<meta property="og:description" content="Lis les derniers posts de mon blog" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="//localhost:1313/fr/blog/" />
 
 
-<meta name="twitter:title" content="Latest News" />
-<meta name="twitter:description" content="Read all latest blog posts" />
+<meta name="twitter:title" content="Dernières news" />
+<meta name="twitter:description" content="Lis les derniers posts de mon blog" />
 
 
 
@@ -18079,6 +18079,20 @@ input:focus-visible {
     color: #fff;
     background-color: #dc6f6e; }
 
+.social-links-2 {
+  margin-right: 1rem; }
+  .social-links-2 li:not(:last-child) {
+    margin-right: 0rem; }
+  .social-links-2 li a {
+    color: black;
+    font-size: 18px;
+    border-radius: 4px;
+    width: 3rem;
+    height: 2.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
 .footer .copyright a {
   color: #1E2740; }
   .footer .copyright a:hover {
@@ -18426,6 +18440,8 @@ body.dark .only-dark {
   .dark .content hr {
     border-color: #fff !important; }
   .dark .social-links a:hover {
+    color: #fff !important; }
+  .dark .social-links-2 a:hover {
     color: #fff !important; }
   .dark .content thead th {
     color: #fff; }
@@ -18781,6 +18797,9 @@ body.dark .only-dark {
 .dark .social-links li a {
   color: #fff; }
 
+.dark .social-links-2 li a {
+  color: #fff; }
+
 .dark .widget a:hover {
   color: #dc6f6e; }
 
@@ -19067,11 +19086,12 @@ body.dark .only-dark {
 
 
       </a>
-      
+
       <div class="d-flex align-items-center">
         
         
-        <select class="m-2 me-0 border-0 bg-transparent select-language d-inline-block d-lg-none" id="select-language" onchange="location = this.value;">
+        <select class="m-2 me-0 border-0 bg-transparent select-language d-inline-block d-lg-none" id="select-language"
+          onchange="location = this.value;">
           
           
           
@@ -19106,14 +19126,16 @@ body.dark .only-dark {
         
         
         <div class="theme-switcher px-3 px-lg-4 d-inline-block d-lg-none">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round"
+            stroke-linejoin="round" fill="none" stroke="#000">
             <mask id="m">
               <circle class="masker" cx="7.5" cy="7.5" r="8.5" fill="#fff" />
             </mask>
             <g mask="url(#m)">
-              <path class="sun" d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />  
+              <path class="sun"
+                d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />
             </g>
-            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />  
+            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />
           </svg>
         </div>
         
@@ -19122,8 +19144,10 @@ body.dark .only-dark {
         
         <div class="search d-inline-block d-lg-none">
           <button aria-label="search" class="searchOpen search-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22" stroke-width="2" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22"
+              stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round"
+                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
             </svg>
           </button>
         </div>
@@ -19186,7 +19210,8 @@ body.dark .only-dark {
             
             
             ">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">Pages</a>
             <div class="dropdown-menu">
               
               
@@ -19207,7 +19232,8 @@ body.dark .only-dark {
 
         
         
-        <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language" onchange="location = this.value;">
+        <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language"
+          onchange="location = this.value;">
           
           
           
@@ -19239,32 +19265,48 @@ body.dark .only-dark {
         </select>
         
 
-         
+        
         
         <div class="theme-switcher px-3 px-lg-4 d-none d-lg-inline-block">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="18" height="18" stroke-linecap="round"
+            stroke-linejoin="round" fill="none" stroke="#000">
             <mask id="m">
               <circle class="masker" cx="7.5" cy="7.5" r="8.5" fill="#fff" />
             </mask>
             <g mask="url(#m)">
-              <path class="sun" d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />  
+              <path class="sun"
+                d="M7.5 1.5v-1m0 13.99v-.998m6-5.997h1m-13 0h-1m2-4.996l-1-1m12 0l-1 1m-10 9.993l-1 1m12 0l-1-1m-2-4.997a2.999 2.999 0 01-3 2.998 2.999 2.999 0 113-2.998z" />
             </g>
-            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />  
+            <path class="moon" fill="white" d="M1.66 11.362A6.5 6.5 0 007.693.502a7 7 0 11-6.031 10.86z" />
           </svg>
         </div>
         
-         
+
+        <div class="search d-none d-lg-inline-block">
+          <ul class="social-links-2">
+            
+            <li class="list-inline-item"><a href="https://www.instagram.com/tim__paris/" target="_blank" rel="noopener"><i
+                  class="fab fa-instagram"></i></a></li>
+            
+            <li class="list-inline-item"><a href="https://www.linkedin.com/in/timothe-paris/" target="_blank" rel="noopener"><i
+                  class="fab fa-linkedin"></i></a></li>
+            
+          </ul>
+        </div>
+
         
         
         <div class="search d-none d-lg-inline-block">
           <button aria-label="search" class="searchOpen search-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22" stroke-width="2" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="22" width="22"
+              stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round"
+                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
             </svg>
           </button>
         </div>
         
-     
+
       </div>
     </nav>
   </div>
@@ -19274,11 +19316,13 @@ body.dark .only-dark {
       <div class="row h-100">
         <div class="col-12 h-100">
           <form action="//localhost:1313/fr/search" class="h-100 position-relative">
-            <input class="search-box bg-transparent" id="search-query" name="s" type="search"  placeholder="Type & Hit Enter...">
+            <input class="search-box bg-transparent" id="search-query" name="s" type="search"
+              placeholder="Type & Hit Enter...">
             <button class="searchClose search-close bg-body" type="button">
               <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
-                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                <path
+                  d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
               </svg>
             </button>
           </form>
@@ -19287,7 +19331,6 @@ body.dark .only-dark {
     </div>
   </div>
 </header>
-
 
 	
 
@@ -19432,166 +19475,20 @@ body.dark .only-dark {
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/tips">
-                    Tips
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/conseils">
+                    Conseils
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/how-to">
-                    How-to
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/guide-pratique">
+                    Guide pratique
                   </a></li>
                   
                 </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/howto-pack/">How to pack for lightweight travel </a></h2>
-                <p class="card-text mb-4">Packing for backpacking is always the same story.
-You think you haven&rsquo;t enough, but you have.
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/howto-pack/">Comment faire son sac pour voyager léger </a></h2>
+                <p class="card-text mb-4">Préparer son sac de voyage, c’est toujours la même histoire.
+On pense ne pas en avoir assez… alors qu’on en a déjà trop.
 </p>
                 <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/howto-pack/">Lire la suite</a>
-              </div>
-            </div>
-          </div>
-          
-          <div class="col">
-            <div class="blog-card card mb-3">
-              <div class="card-img position-relative">
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="//localhost:1313/images/blog/pearldelta_hu_9c9130c2d553558b.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="//localhost:1313/images/blog/pearldelta_hu_3b04cb372bcab678.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="//localhost:1313/images/blog/pearldelta_hu_5e15b351f1b11612.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="//localhost:1313/images/blog/pearldelta_hu_d80cd527af41f927.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="//localhost:1313/images/blog/pearldelta_hu_62630f6571f04d15.jpg"
-            
-            
-            class=" w-100 card-img-top img"
-            alt=""
-            width="1366"
-            height="615" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-                <div class="post-info">
-                  <span class="text-uppercase">27 septembre 2025</span>
-                </div>
-              </div>
-    
-              <div class="card-body">
-                <ul class="post-meta mb-2">
-                  
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/itinerary">
-                    Itinerary
-                  </a></li>
-                  
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/china">
-                    China
-                  </a></li>
-                  
-                </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/itinerary-pearldelta/">A week in the Pearl Delta </a></h2>
-                <p class="card-text mb-4"> One of the most densely inhabitated region in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau&hellip;
-</p>
-                <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/itinerary-pearldelta/">Lire la suite</a>
               </div>
             </div>
           </div>
@@ -19725,19 +19622,166 @@ You think you haven&rsquo;t enough, but you have.
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/tips">
-                    Tips
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/conseils">
+                    Conseils
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/china">
-                    China
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/chine">
+                    Chine
                   </a></li>
                   
                 </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/tips-china/">Practical Tips for Traveling in China </a></h2>
-                <p class="card-text mb-4"> This list has been compiled thanks to repeated travel in China. It sums up the tools and tricks that actually make a difference when moving around the country.
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/tips-china/">Conseils pratiques pour voyager en Chine </a></h2>
+                <p class="card-text mb-4"> Cette liste a été compilée après plusieurs voyages en Chine.
+Elle résume les outils et astuces qui font vraiment la différence quand on se déplace dans le pays.
 </p>
                 <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/tips-china/">Lire la suite</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col">
+            <div class="blog-card card mb-3">
+              <div class="card-img position-relative">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="//localhost:1313/images/blog/pearldelta_hu_9c9130c2d553558b.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="//localhost:1313/images/blog/pearldelta_hu_3b04cb372bcab678.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="//localhost:1313/images/blog/pearldelta_hu_5e15b351f1b11612.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="//localhost:1313/images/blog/pearldelta_hu_d80cd527af41f927.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="//localhost:1313/images/blog/pearldelta_hu_62630f6571f04d15.jpg"
+            
+            
+            class=" w-100 card-img-top img"
+            alt=""
+            width="1366"
+            height="615" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+                <div class="post-info">
+                  <span class="text-uppercase">27 septembre 2025</span>
+                </div>
+              </div>
+    
+              <div class="card-body">
+                <ul class="post-meta mb-2">
+                  
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/itin%c3%a9raire">
+                    Itinéraire
+                  </a></li>
+                  
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/chine">
+                    Chine
+                  </a></li>
+                  
+                </ul>
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/itinerary-pearldelta/">Une semaine dans le delta de la Rivière des Perles </a></h2>
+                <p class="card-text mb-4"> L’une des régions les plus densément peuplées du monde, une mégalopole après l’autre : Hong Kong, Guangzhou, Shenzhen, Macao…
+</p>
+                <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/itinerary-pearldelta/">Lire la suite</a>
               </div>
             </div>
           </div>
@@ -19871,21 +19915,21 @@ You think you haven&rsquo;t enough, but you have.
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/how-to">
-                    How-to
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/guide-pratique">
+                    Guide pratique
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/turkmenistan">
-                    Turkmenistan
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/turkm%c3%a9nistan">
+                    Turkménistan
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/central-asia">
-                    Central Asia
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/asie-centrale">
+                    Asie centrale
                   </a></li>
                   
                 </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/howto-turkmenistan/">How to visit Turkmenistan? </a></h2>
-                <p class="card-text mb-4">One of the hardest country to get into, fighting with north Korea for the title.
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/howto-turkmenistan/">Comment visiter le Turkménistan ? </a></h2>
+                <p class="card-text mb-4">L’un des pays les plus fermés au monde, rivalisant avec la Corée du Nord pour le titre.
 </p>
                 <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/howto-turkmenistan/">Lire la suite</a>
               </div>
@@ -20021,17 +20065,17 @@ You think you haven&rsquo;t enough, but you have.
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/itinerary">
-                    Itinerary
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/itin%c3%a9raire">
+                    Itinéraire
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/turkmenistan">
-                    Turkmenistan
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/turkm%c3%a9nistan">
+                    Turkménistan
                   </a></li>
                   
                 </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/itinerary-turkmenistan/">3 days in Turkmenistan </a></h2>
-                <p class="card-text mb-4"> Turkmenistan, home of the Akhal Teke and the gates of Hell
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/itinerary-turkmenistan/">3 jours au Turkménistan </a></h2>
+                <p class="card-text mb-4"> Le Turkménistan, terre des chevaux Akhal-Teke et des portes de l’Enfer.
 </p>
                 <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/itinerary-turkmenistan/">Lire la suite</a>
               </div>
@@ -20121,33 +20165,33 @@ You think you haven&rsquo;t enough, but you have.
         <picture>
           <source
             
-              srcset="//localhost:1313/images/blog/mangystau3_hu_16a47c917da7086a.webp"
+              srcset="//localhost:1313/images/blog/mangystau_hu_6f0eae1dd003c301.webp"
             
             media="(max-width: 575px)" />
           <source
             
-              srcset="//localhost:1313/images/blog/mangystau3_hu_35d4c7f9e3806da8.webp"
+              srcset="//localhost:1313/images/blog/mangystau_hu_bd40ba8b450998a1.webp"
             
             media="(max-width: 767px)" />
           <source
             
-              srcset="//localhost:1313/images/blog/mangystau3_hu_b808350c5a56face.webp"
+              srcset="//localhost:1313/images/blog/mangystau_hu_48a36387c2bb2dab.webp"
             
             media="(max-width: 991px)" />
           <source
             
-              srcset="//localhost:1313/images/blog/mangystau3_hu_5cf56df31756f36f.webp"
+              srcset="//localhost:1313/images/blog/mangystau_hu_8de99e48578a0c9f.webp"
              />
           <img
             
               loading="lazy" decoding="async"
-              src="//localhost:1313/images/blog/mangystau3_hu_f811ba874adb0aa3.jpg"
+              src="//localhost:1313/images/blog/mangystau_hu_8d9aa9b9f4b109e.jpg"
             
             
             class=" w-100 card-img-top img"
             alt=""
-            width="1366"
-            height="615" />
+            width="1351"
+            height="608" />
         </picture>
       
       
@@ -20167,19 +20211,24 @@ You think you haven&rsquo;t enough, but you have.
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/itinerary">
-                    Itinerary
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/guide">
+                    Guide
                   </a></li>
                   
-                  <li><a class="text-uppercase" href="//localhost:1313/categories/central-asia">
-                    Central Asia
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/kazakhstan">
+                    Kazakhstan
+                  </a></li>
+                  
+                  <li><a class="text-uppercase" href="//localhost:1313/categories/asie-centrale">
+                    Asie centrale
                   </a></li>
                   
                 </ul>
-                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/itinerary-central-asia/">2 Months in the five stans </a></h2>
-                <p class="card-text mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <h2 class="h3 fw-light mb-3"><a class="post-title" href="//localhost:1313/fr/blog/howto-mangystau/">Comment visiter Mangystau ? </a></h2>
+                <p class="card-text mb-4">Le Mangystau est l’un de ces noms qu’on ne découvre qu’en regardant le Kazakhstan d’un peu plus près
+(ou en passant trop de temps sur Instagram, comme moi).
 </p>
-                <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/itinerary-central-asia/">Lire la suite</a>
+                <a class="btn btn-outline-primary btn-sm" href="//localhost:1313/fr/blog/howto-mangystau/">Lire la suite</a>
               </div>
             </div>
           </div>
@@ -20248,34 +20297,6 @@ You think you haven&rsquo;t enough, but you have.
     
     
     
-    
-    
-    
-    
-    
-    <li class="page-item">
-      <a href="//localhost:1313/fr/blog/page/4/#post" class="page-link ">
-        4
-      </a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <li class="page-item">
-      <a href="//localhost:1313/fr/blog/page/5/#post" class="page-link ">
-        5
-      </a>
-    </li>
-    
-    
-    
-    
     <li class="page-item next d-flex align-items-center">
       <a class="page-link arrow" href="//localhost:1313/fr/blog/page/2/#post" aria-label="Pagination">Next<i
           class="fas fa-arrow-right ms-3"></i>
@@ -20293,20 +20314,6 @@ You think you haven&rsquo;t enough, but you have.
           
           
 
-
-<div class="widget">
-  <form action="//localhost:1313/fr/search" class="widget-search mt-2">
-    <input class="px-3" id="search-query" name="s" type="search" placeholder="Search here" required>
-    <button type="submit">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="20" width="20" stroke-width="2" stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-      </svg>
-    </button>
-  </form>
-</div>
-
-
-
 <div class="widget">
   <h5 class="widget-title"><span>categories</span></h5>
   
@@ -20315,47 +20322,55 @@ You think you haven&rsquo;t enough, but you have.
   <ul class="row g-2 list-unstyled">
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/africa/">Africa  <span class="badge rounded ms-2">(6)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/africa/">Africa  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/afrique/">Afrique  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/afrique/">Afrique  <span class="badge rounded ms-2">(6)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/argentina/">Argentina  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/am%C3%A9rique-du-sud/">Amérique du sud  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/central-asia/">Central asia  <span class="badge rounded ms-2">(3)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/argentine/">Argentine  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/chile/">Chile  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/asie-centrale/">Asie centrale  <span class="badge rounded ms-2">(2)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/china/">China  <span class="badge rounded ms-2">(4)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/chili/">Chili  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/education/">Education  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/china/">China  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/hobby/">Hobby  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/chine/">Chine  <span class="badge rounded ms-2">(3)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/how-to/">How to  <span class="badge rounded ms-2">(3)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/conseils/">Conseils  <span class="badge rounded ms-2">(4)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/itinerary/">Itinerary  <span class="badge rounded ms-2">(9)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/guide/">Guide  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/itin%C3%A9raire/">Itinéraire  <span class="badge rounded ms-2">(1)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/guide-pratique/">Guide pratique  <span class="badge rounded ms-2">(2)</span> </a>
+    </li>
+    
+    <li class="col">
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/itinerary/">Itinerary  <span class="badge rounded ms-2">(1)</span> </a>
+    </li>
+    
+    <li class="col">
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/itin%C3%A9raire/">Itinéraire  <span class="badge rounded ms-2">(8)</span> </a>
     </li>
     
     <li class="col">
@@ -20363,27 +20378,11 @@ You think you haven&rsquo;t enough, but you have.
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/lifestyle/">Lifestyle  <span class="badge rounded ms-2">(3)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/tips/">Tips  <span class="badge rounded ms-2">(1)</span> </a>
     </li>
     
     <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/nature/">Nature  <span class="badge rounded ms-2">(1)</span> </a>
-    </li>
-    
-    <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/south-america/">South america  <span class="badge rounded ms-2">(1)</span> </a>
-    </li>
-    
-    <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/tips/">Tips  <span class="badge rounded ms-2">(5)</span> </a>
-    </li>
-    
-    <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/travel/">Travel  <span class="badge rounded ms-2">(2)</span> </a>
-    </li>
-    
-    <li class="col">
-      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/turkmenistan/">Turkmenistan  <span class="badge rounded ms-2">(2)</span> </a>
+      <a class="d-flex justify-content-between align-items-center bg-white rounded px-3 py-2" href="//localhost:1313/fr/categories/turkm%C3%A9nistan/">Turkménistan  <span class="badge rounded ms-2">(2)</span> </a>
     </li>
     
     <li class="col">
@@ -20513,127 +20512,8 @@ You think you haven&rsquo;t enough, but you have.
       
       <div class="col-9">
         <div class="card-body p-0 ps-4">
-          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/howto-pack/">How to pack for lightweight travel</a></h5>
+          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/howto-pack/">Comment faire son sac pour voyager léger</a></h5>
           <small>1 octobre 2025</small>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="card bg-white p-2 widget-list mb-3">
-    <div class="row g-0 align-items-center">
-      
-      <div class="col-3">
-        <a href="//localhost:1313/fr/blog/itinerary-pearldelta/">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-        
-        
-        
-        
-        
-          
-          
-          
-        
-
-
-        
-        
-
-
-        <img
-          
-            src="//localhost:1313/images/blog/pearldelta_hu_499561f7a580ff77.webp" loading="lazy"
-            decoding="async"
-          
-          
-          alt=""
-          class=" rounded img"
-          width="90"
-          height="80"
-          onerror="this.onerror='null';
-          this.src='\/images\/blog\/pearldelta_hu_7cc3a0e9b4a1368f.jpg';" />
-
-        
-      
-      
-    
-    
-  
-
-
-  
-
-
-        </a>
-      </div>
-      
-      <div class="col-9">
-        <div class="card-body p-0 ps-4">
-          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/itinerary-pearldelta/">A week in the Pearl Delta</a></h5>
-          <small>27 septembre 2025</small>
         </div>
       </div>
     </div>
@@ -20751,7 +20631,126 @@ You think you haven&rsquo;t enough, but you have.
       
       <div class="col-9">
         <div class="card-body p-0 ps-4">
-          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/tips-china/">Practical Tips for Traveling in China</a></h5>
+          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/tips-china/">Conseils pratiques pour voyager en Chine</a></h5>
+          <small>27 septembre 2025</small>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="card bg-white p-2 widget-list mb-3">
+    <div class="row g-0 align-items-center">
+      
+      <div class="col-3">
+        <a href="//localhost:1313/fr/blog/itinerary-pearldelta/">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+        
+        
+        
+        
+        
+          
+          
+          
+        
+
+
+        
+        
+
+
+        <img
+          
+            src="//localhost:1313/images/blog/pearldelta_hu_499561f7a580ff77.webp" loading="lazy"
+            decoding="async"
+          
+          
+          alt=""
+          class=" rounded img"
+          width="90"
+          height="80"
+          onerror="this.onerror='null';
+          this.src='\/images\/blog\/pearldelta_hu_7cc3a0e9b4a1368f.jpg';" />
+
+        
+      
+      
+    
+    
+  
+
+
+  
+
+
+        </a>
+      </div>
+      
+      <div class="col-9">
+        <div class="card-body p-0 ps-4">
+          <h5 class="h6 mb-0 fw-light lh-sm mt-1"><a href="//localhost:1313/fr/blog/itinerary-pearldelta/">Une semaine dans le delta de la Rivière des Perles</a></h5>
           <small>27 septembre 2025</small>
         </div>
       </div>

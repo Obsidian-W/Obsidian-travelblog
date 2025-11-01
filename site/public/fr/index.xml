@@ -9,53 +9,46 @@
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to pack for lightweight travel</title>
+      <title>Comment faire son sac pour voyager léger</title>
       <link>//localhost:1313/fr/blog/howto-pack/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/howto-pack/</guid>
-      <description>&lt;p&gt;Packing for backpacking is always the same story.&lt;br&gt;&#xA;You think you haven&amp;rsquo;t enough, but you have.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Préparer son sac de voyage, c’est toujours la même histoire.&lt;br&gt;&#xA;On pense ne pas en avoir assez… alors qu’on en a déjà trop.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A week in the Pearl Delta</title>
-      <link>//localhost:1313/fr/blog/itinerary-pearldelta/</link>
-      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/itinerary-pearldelta/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;One of the most densely inhabitated region in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Practical Tips for Traveling in China</title>
+      <title>Conseils pratiques pour voyager en Chine</title>
       <link>//localhost:1313/fr/blog/tips-china/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/tips-china/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;This list has been compiled thanks to repeated travel in China.&#xA;It sums up the tools and tricks that actually make a difference when moving around the country.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Cette liste a été compilée après plusieurs voyages en Chine.&lt;br&gt;&#xA;Elle résume les outils et astuces qui font &lt;em&gt;vraiment&lt;/em&gt; la différence quand on se déplace dans le pays.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How to visit Turkmenistan?</title>
+      <title>Une semaine dans le delta de la Rivière des Perles</title>
+      <link>//localhost:1313/fr/blog/itinerary-pearldelta/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-pearldelta/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;L’une des régions les plus densément peuplées du monde, une mégalopole après l’autre : Hong Kong, Guangzhou, Shenzhen, Macao…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comment visiter le Turkménistan ?</title>
       <link>//localhost:1313/fr/blog/howto-turkmenistan/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/howto-turkmenistan/</guid>
-      <description>&lt;p&gt;One of the hardest country to get into, fighting with north  Korea for the title.&lt;/p&gt;</description>
+      <description>&lt;p&gt;L’un des pays les plus fermés au monde, rivalisant avec la Corée du Nord pour le titre.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>3 days in Turkmenistan</title>
+      <title>3 jours au Turkménistan</title>
       <link>//localhost:1313/fr/blog/itinerary-turkmenistan/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/itinerary-turkmenistan/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Turkmenistan, home of the Akhal Teke and the gates of Hell&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Le Turkménistan, terre des chevaux Akhal-Teke et des portes de l’Enfer.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2 Months in the five stans</title>
-      <link>//localhost:1313/fr/blog/itinerary-central-asia/</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/itinerary-central-asia/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to visit Mangystau?</title>
+      <title>Comment visiter Mangystau ?</title>
       <link>//localhost:1313/fr/blog/howto-mangystau/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/howto-mangystau/</guid>
-      <description>&lt;p&gt;Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Le &lt;strong&gt;Mangystau&lt;/strong&gt; est l’un de ces noms qu’on ne découvre qu’en regardant le Kazakhstan d’un peu plus près&lt;br&gt;&#xA;(ou en passant trop de temps sur Instagram, comme moi).&lt;/p&gt;</description>
     </item>
     <item>
       <title>A week in Tibet</title>
@@ -65,25 +58,25 @@
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Disclaimer: Don&amp;rsquo;t speak about politics.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>One week in Yunnan</title>
+      <title>Une semaine dans le Yunnan</title>
       <link>//localhost:1313/fr/blog/itinerary-yunnan/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/itinerary-yunnan/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Yunnan is my favorite region of China! It&amp;rsquo;s easy to know why&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Le Yunnan est ma région préférée de Chine ! Et c’est facile de comprendre pourquoi.&lt;br&gt;&#xA;Entre la culture, la nourriture fabuleuse et les paysages, c’est la porte d’entrée idéale pour découvrir le pays.&lt;br&gt;&#xA;Facile à explorer, bien reliée et agréable toute l’année.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Doing a safari on a budget</title>
+      <title>Faire un safari à petit budget</title>
       <link>//localhost:1313/fr/blog/tips-cheap-safaris/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/tips-cheap-safaris/</guid>
-      <description>&lt;p&gt;Safaris have a reputation for being insanely expensive.&lt;br&gt;&#xA;I&amp;rsquo;ll tell you how to afford it easily.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Les safaris ont la réputation d’être hors de prix.&lt;br&gt;&#xA;Je vais t’expliquer comment t’en sortir sans te ruiner.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Traveling in Africa like a Pro</title>
+      <title>Voyager en Afrique comme un Pro</title>
       <link>//localhost:1313/fr/blog/tips-africa/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/tips-africa/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Cette liste a été établie sur base de points communs observés à travers le continent africain, d&amp;rsquo;une grande diversité.&#xA;Elle résume les outils et astuces qui font souvent la différence, surtout lors des déplacements entre différents pays et cultures. &lt;strong&gt;Vérifiez toujours les conseils spécifiques à chaque pays !&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>3 semaines en Éthiopie</title>
@@ -93,95 +86,39 @@
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;L’un des berceaux de l’humanité, et le seul pays africain à n’avoir jamais été colonisé.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>One month in East Africa</title>
-      <link>//localhost:1313/fr/blog/itinerary-eastafrica/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/itinerary-eastafrica/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Tanzania, Kenya, Ouganda &amp;amp; Rwanda: 4 Countries in one month!&lt;br&gt;&#xA;&amp;gt; As I&amp;rsquo;m starting with this blog, I&amp;rsquo;ll share in a slightly different format.&lt;br&gt;&#xA;I&amp;rsquo;ll start with my usual considerations before giving an itinerary outline and&#xA;an even more detailed version of the itinerary.&lt;br&gt;&#xA;originally, it was supposed to last one more week, it changed due to a awful event that happened&#xA;And shook me up, I&amp;rsquo;ll specify the section that has been changed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One week in Rwanda</title>
-      <link>//localhost:1313/fr/blog/itinerary-rwanda/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/itinerary-rwanda/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s explore Rwanda, the most advanced african country&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One week in Uganda</title>
-      <link>//localhost:1313/fr/blog/itinerary-uganda/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/itinerary-uganda/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s explore Uganda, home of Knuckles!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Two weeks in Tanzania</title>
+      <title>Deux semaines en Tanzanie</title>
       <link>//localhost:1313/fr/blog/itinerary-tanzania/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/itinerary-tanzania/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s explore Tanzania and the best safaris!&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Explorons la Tanzania et les meilleurs safaris!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Going to Patagonia in winter ❄️</title>
+      <title>Un mois en Afrique de l’Est</title>
+      <link>//localhost:1313/fr/blog/itinerary-eastafrica/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-eastafrica/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Tanzanie, Kenya, Ouganda &amp;amp; Rwanda : 4 pays en un mois !&lt;br&gt;&#xA;&amp;gt; Comme je débute avec ce blog, je vais partager tout ça sous un format un peu différent.&lt;br&gt;&#xA;Je commencerai par quelques considérations générales, avant de donner un aperçu de l’itinéraire, puis la version détaillée.&lt;br&gt;&#xA;À l’origine, le voyage devait durer une semaine de plus, mais un événement assez terrible a tout changé.&lt;br&gt;&#xA;Je préciserai la partie qui a été modifiée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Une semaine au Rwanda</title>
+      <link>//localhost:1313/fr/blog/itinerary-rwanda/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-rwanda/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Partons explorer le Rwanda, le pays le plus avancé d’Afrique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Une semaine en Ouganda</title>
+      <link>//localhost:1313/fr/blog/itinerary-uganda/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-uganda/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Partons explorer l’Ouganda, patrie de Knuckles !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aller en Patagonie en hiver ❄️</title>
       <link>//localhost:1313/fr/blog/tips-patagonia-winter/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/tips-patagonia-winter/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Once someone told me: YoU cAn&amp;rsquo;t Go tO PaTaGOnIa iN wiNtEr, eveRytHing Is clOseD&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-1/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-1/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-3/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-3/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-4/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-4/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-5/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ce qui ne nous tue pas nous rend plus fort</title>
-      <link>//localhost:1313/fr/blog/post-6/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-6/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fais ce que tu peux, avec ce que tu as, où tu es</title>
-      <link>//localhost:1313/fr/blog/post-2/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>That which does not kill us makes us stronger</title>
-      <link>//localhost:1313/fr/blog/post-7/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-7/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vous devez être le changement à voir dans le monde</title>
-      <link>//localhost:1313/fr/blog/post-8/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/blog/post-8/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Quelqu’un m’a déjà dit :&lt;br&gt;&#xA;&lt;em&gt;« Tu ne peux pas aller en Patagonie en hiver, tout est fermé ! »&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search Result</title>

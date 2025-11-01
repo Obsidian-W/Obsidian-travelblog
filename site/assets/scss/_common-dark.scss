@@ -2,9 +2,11 @@
 .theme-switcher {
   cursor: pointer;
   user-select: none;
+
   .sun {
     opacity: 0;
   }
+
   .moon,
   .sun {
     transition: 0.35s;
@@ -15,9 +17,11 @@
   svg {
     stroke: $white;
   }
+
   .sun {
     opacity: 1;
   }
+
   .moon {
     opacity: 0;
   }
@@ -28,13 +32,16 @@ body {
   .only-dark {
     display: none;
   }
+
   .only-light {
     display: initial;
   }
+
   &.dark {
     .only-light {
       display: none;
     }
+
     .only-dark {
       display: initial;
     }
@@ -44,28 +51,36 @@ body {
 // other css
 .dark {
   background-color: $dark-body-bg;
+
   .bg-body {
     background-color: $dark-body-bg !important;
   }
+
   .bg-white {
     background-color: lighten($dark-body-bg, 2%) !important;
   }
+
   .footer a,
   .accordion-button {
     color: $dark-text-dark;
+
     &:hover {
       color: $color-primary;
     }
   }
+
   .code-tabs .nav-item.active .nav-link {
     color: $white;
   }
+
   .card {
     background-color: transparent;
   }
+
   .content thead {
     background-color: transparent;
   }
+
   .accordion .accordion-body {
     color: $white;
   }
@@ -86,9 +101,11 @@ body {
         color: $color-primary;
       }
     }
+
     pre {
       background-color: darken($dark-body-bg, 2%) !important;
     }
+
     hr {
       border-color: $white !important;
     }
@@ -102,9 +119,18 @@ body {
     }
   }
 
+  .social-links-2 {
+    a {
+      &:hover {
+        color: $white !important;
+      }
+    }
+  }
+
   .content thead th {
     color: $white;
   }
+
   p,
   .code-tabs .nav-item .nav-link,
   .content tbody tr td:nth-child(1) {
@@ -136,6 +162,7 @@ body {
     color: $white;
     background-color: $dark-body-bg !important;
   }
+
   .widget input {
     background-color: lighten($dark-body-bg, 2%) !important;
     color: $dark-text-dark;

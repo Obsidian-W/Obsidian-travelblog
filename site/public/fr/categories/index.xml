@@ -9,45 +9,52 @@
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How-To</title>
-      <link>//localhost:1313/fr/categories/how-to/</link>
+      <title>Conseils</title>
+      <link>//localhost:1313/fr/categories/conseils/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/how-to/</guid>
+      <guid>//localhost:1313/fr/categories/conseils/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tips</title>
-      <link>//localhost:1313/fr/categories/tips/</link>
+      <title>Guide Pratique</title>
+      <link>//localhost:1313/fr/categories/guide-pratique/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/tips/</guid>
+      <guid>//localhost:1313/fr/categories/guide-pratique/</guid>
       <description></description>
     </item>
     <item>
-      <title>China</title>
-      <link>//localhost:1313/fr/categories/china/</link>
+      <title>Chine</title>
+      <link>//localhost:1313/fr/categories/chine/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/china/</guid>
+      <guid>//localhost:1313/fr/categories/chine/</guid>
       <description></description>
     </item>
     <item>
-      <title>Itinerary</title>
-      <link>//localhost:1313/fr/categories/itinerary/</link>
+      <title>Itinéraire</title>
+      <link>//localhost:1313/fr/categories/itin%C3%A9raire/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/itinerary/</guid>
+      <guid>//localhost:1313/fr/categories/itin%C3%A9raire/</guid>
       <description></description>
     </item>
     <item>
-      <title>Central Asia</title>
-      <link>//localhost:1313/fr/categories/central-asia/</link>
+      <title>Asie Centrale</title>
+      <link>//localhost:1313/fr/categories/asie-centrale/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/central-asia/</guid>
+      <guid>//localhost:1313/fr/categories/asie-centrale/</guid>
       <description></description>
     </item>
     <item>
-      <title>Turkmenistan</title>
-      <link>//localhost:1313/fr/categories/turkmenistan/</link>
+      <title>Turkménistan</title>
+      <link>//localhost:1313/fr/categories/turkm%C3%A9nistan/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/turkmenistan/</guid>
+      <guid>//localhost:1313/fr/categories/turkm%C3%A9nistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>//localhost:1313/fr/categories/guide/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/guide/</guid>
       <description></description>
     </item>
     <item>
@@ -55,6 +62,20 @@
       <link>//localhost:1313/fr/categories/kazakhstan/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/categories/kazakhstan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China</title>
+      <link>//localhost:1313/fr/categories/china/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/china/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Itinerary</title>
+      <link>//localhost:1313/fr/categories/itinerary/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/itinerary/</guid>
       <description></description>
     </item>
     <item>
@@ -67,8 +88,15 @@
     <item>
       <title>Afrique</title>
       <link>//localhost:1313/fr/categories/afrique/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/categories/afrique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>//localhost:1313/fr/categories/tips/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/tips/</guid>
       <description></description>
     </item>
     <item>
@@ -79,66 +107,24 @@
       <description></description>
     </item>
     <item>
-      <title>Itinéraire</title>
-      <link>//localhost:1313/fr/categories/itin%C3%A9raire/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/itin%C3%A9raire/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Argentina</title>
-      <link>//localhost:1313/fr/categories/argentina/</link>
+      <title>Amérique Du Sud</title>
+      <link>//localhost:1313/fr/categories/am%C3%A9rique-du-sud/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/argentina/</guid>
+      <guid>//localhost:1313/fr/categories/am%C3%A9rique-du-sud/</guid>
       <description></description>
     </item>
     <item>
-      <title>Chile</title>
-      <link>//localhost:1313/fr/categories/chile/</link>
+      <title>Argentine</title>
+      <link>//localhost:1313/fr/categories/argentine/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/chile/</guid>
+      <guid>//localhost:1313/fr/categories/argentine/</guid>
       <description></description>
     </item>
     <item>
-      <title>South America</title>
-      <link>//localhost:1313/fr/categories/south-america/</link>
+      <title>Chili</title>
+      <link>//localhost:1313/fr/categories/chili/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/south-america/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Education</title>
-      <link>//localhost:1313/fr/categories/education/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/education/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobby</title>
-      <link>//localhost:1313/fr/categories/hobby/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/hobby/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lifestyle</title>
-      <link>//localhost:1313/fr/categories/lifestyle/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/lifestyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nature</title>
-      <link>//localhost:1313/fr/categories/nature/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/nature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Travel</title>
-      <link>//localhost:1313/fr/categories/travel/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/categories/travel/</guid>
+      <guid>//localhost:1313/fr/categories/chili/</guid>
       <description></description>
     </item>
   </channel>

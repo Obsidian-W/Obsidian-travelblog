@@ -27,7 +27,7 @@
 <!--===================== Blog Start =====================-->
 <section id="post" class="blog section bg-white">
   <div class="container">
-    <div class="row">
+    <div class="row spaced-row">
       {{ $sidebar:= site.Params.sidebar }}
 
       <div class="{{if eq $sidebar `true` }} col-lg-8 {{else}} col-12 {{end}}">
@@ -45,17 +45,17 @@
                   <span class="text-uppercase">{{ time.Format ":date_long" .PublishDate }}</span>
                 </div>
               </div>
-    
+
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   {{ range .Params.categories }}
                   <li><a class="text-uppercase" href="{{`categories` | relURL}}/{{. | urlize | lower}}">
-                    {{ . }}
-                  </a></li>
+                      {{ . }}
+                    </a></li>
                   {{ end }}
                 </ul>
                 <h2 class="h3 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>
-                <p class="card-text mb-4">{{ .Summary | plainify  }}</p>
+                <p class="card-text mb-4">{{ .Summary | plainify }}</p>
                 <a class="btn btn-outline-primary btn-sm" href="{{.RelPermalink}}">{{i18n `read_more`}}</a>
               </div>
             </div>

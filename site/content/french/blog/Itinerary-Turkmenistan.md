@@ -69,6 +69,13 @@ je suis arrivé au poste turkmène et j’ai retrouvé mon guide **Ruslan**.
 
 > (Il sait que je partage ses coordonnées ici — j’ai son autorisation, et je ne touche rien là-dessus.)
 
+Contact:  
+- Phone: +993 61 67 22 66  
+- Mail: ruslanhydyrov@gmail.com  
+
+If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+
+
 Une centaine de dollars plus tard (visa + entrée + test COVID), me voilà officiellement en Turkménistan !
 
 > Les tarifs varient selon la nationalité.  

@@ -6,14 +6,49 @@
     <description>Recent content in Afrique on Obsidian Travels</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/categories/afrique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faire un safari à petit budget</title>
+      <link>//localhost:1313/fr/blog/tips-cheap-safaris/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/tips-cheap-safaris/</guid>
+      <description>&lt;p&gt;Les safaris ont la réputation d’être hors de prix.&lt;br&gt;&#xA;Je vais t’expliquer comment t’en sortir sans te ruiner.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>3 semaines en Éthiopie</title>
       <link>//localhost:1313/fr/blog/itinerary-ethiopia/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/blog/itinerary-ethiopia/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;L’un des berceaux de l’humanité, et le seul pays africain à n’avoir jamais été colonisé.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deux semaines en Tanzanie</title>
+      <link>//localhost:1313/fr/blog/itinerary-tanzania/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-tanzania/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Explorons la Tanzania et les meilleurs safaris!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Un mois en Afrique de l’Est</title>
+      <link>//localhost:1313/fr/blog/itinerary-eastafrica/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-eastafrica/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Tanzanie, Kenya, Ouganda &amp;amp; Rwanda : 4 pays en un mois !&lt;br&gt;&#xA;&amp;gt; Comme je débute avec ce blog, je vais partager tout ça sous un format un peu différent.&lt;br&gt;&#xA;Je commencerai par quelques considérations générales, avant de donner un aperçu de l’itinéraire, puis la version détaillée.&lt;br&gt;&#xA;À l’origine, le voyage devait durer une semaine de plus, mais un événement assez terrible a tout changé.&lt;br&gt;&#xA;Je préciserai la partie qui a été modifiée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Une semaine au Rwanda</title>
+      <link>//localhost:1313/fr/blog/itinerary-rwanda/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-rwanda/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Partons explorer le Rwanda, le pays le plus avancé d’Afrique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Une semaine en Ouganda</title>
+      <link>//localhost:1313/fr/blog/itinerary-uganda/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-uganda/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Partons explorer l’Ouganda, patrie de Knuckles !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

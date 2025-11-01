@@ -15,5 +15,12 @@
       <guid>//localhost:1313/fr/blog/howto-turkmenistan/</guid>
       <description>&lt;p&gt;L’un des pays les plus fermés au monde, rivalisant avec la Corée du Nord pour le titre.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>3 jours au Turkménistan</title>
+      <link>//localhost:1313/fr/blog/itinerary-turkmenistan/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/blog/itinerary-turkmenistan/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Le Turkménistan, terre des chevaux Akhal-Teke et des portes de l’Enfer.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

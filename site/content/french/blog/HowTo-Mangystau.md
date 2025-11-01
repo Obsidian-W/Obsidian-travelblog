@@ -31,7 +31,7 @@ Les distances sont **immenses**, les routes **déroutantes**, et les points d’
 Impossible de recommander d’y aller seul — et **n’imaginez même pas** le faire en transport public : il n’y en a presque pas.  
 Les rares villages sont à plus de 100 km de tout.
 
-Résultat : ce n’est pas un voyage « budget ». Il faut prévoir 💰💰.  
+Résultat : ce n’est pas un voyage « budget ». Il faut prévoir des sous.  
 (J’ai utilisé **RedMaya Travel**, donc je les recommande sans hésiter !)
 
 ---

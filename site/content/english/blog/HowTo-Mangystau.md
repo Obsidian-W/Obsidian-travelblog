@@ -26,7 +26,7 @@ We were six travelers split into two cars, with a driver each and the addition o
 Those three were family, accustomed to work together and had all the necessary camping and cooking guide.
 
 The driving time were so looooong and the road so confusing, I defo can't recommend going on your own. And don't even think about public transportation, there are barely any cities, and when there's one (or a village) you are still up to 100km away from something meaningful.
-Due to this, you cannot do it on a true budget as well, you need 💰💰
+Due to this, you cannot do it on a true budget as well, you need money $$!
 (I used RedMaya Travel btw, so I recommend them!)
 
 ---
