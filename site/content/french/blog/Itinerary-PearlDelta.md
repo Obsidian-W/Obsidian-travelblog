@@ -30,6 +30,23 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 J’ai fait une boucle depuis/vers Shenzhen, car les vols depuis Phnom Penh étaient à moins de 100 $ aller-retour —  
 j’utiliserai donc cet ordre, mais adapte-le à ta situation. 😉
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Delta de la Rivière des Perles
+
+| Jour | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Jour 1 | [Shenzhen - Bao'an](#jour-1--arrivée-à-shenzhen--baoan) | Mise en jambe près de l'aéroport |
+| Jour 2 | [Hong Kong - Nord](#jour-2--hong-kong--nord-mong-kok-tst--cie) | Mong Kok, TST et classique hongkongais |
+| Jour 3 | [Hong Kong - Lantau](#jour-3--hong-kong--lantau) | Iles, randos et téléphérique |
+| Jour 4 | [Hong Kong - Central](#jour-4--hong-kong--central) | Skyline, Peak et centre-ville |
+| Jour 5 | [Macao](#jour-5--macao) | Vieille ville et ambiance casino |
+| Jour 6 | [Guangzhou](#jour-6--guangzhou-canton) | Bouffe cantonaise et grande ville |
+| Jour 7 | [Guangzhou / Shenzhen](#jour-7--dernier-jour--guangzhou--shenzhen) | Fin flexible avant le vol |
+| Jour X | [Plus de temps](#jour-x--si-tu-as-plus-de-temps) | Idées d'étapes supplémentaires |
+
 ---
 
 ## Jour 1 : Arrivée à Shenzhen – Bao’an

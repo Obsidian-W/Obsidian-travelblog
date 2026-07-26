@@ -27,6 +27,23 @@ Et Mar7aba si vous visitez, points bonus avec un peu de Darija dans votre vocab'
 Mon arabe est déguelasse, mais suffisant pour échanger autrement avec les locaux, j'pense
 direct ils ont grillé que j'étais banlieusard.
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Maroc
+
+| Jour | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Jour 0 à 4 | [Marrakech et le désert](#jour-0-à-4--marrakech-et-le-désert) | Marrakech, Ait Benhaddou, Tinghir et Merzouga |
+| Jour 5 à 6 | [Casablanca et Rabat](#jour-5-à-6--casablanca-et-rabat) | Grandes villes et centres historiques |
+| Jour 7 | [Meknès et ses environs](#jour-7--meknès-et-ses-environs) | Meknès, Volubilis et Moulay Idriss |
+| Jour 8 à 9 | [Fès et le Moyen Atlas](#jour-8-à-9--fès-et-le-moyen-atlas) | Médina, forêts et montagne |
+| Jour 10 à 12 | [Chefchaouen](#jour-10-à-12--charmante-ville-bleue---chefchaouen) | Ville bleue et rythme plus lent |
+| Jour 13 et 14 | [Tanger et vues sur l'Espagne](#jour-13-et-14--tanger-et-vues-sur-lespagne) | Dernières étapes sur le détroit |
+
+---
+
 ## Jour 0 à 4 : Marrakech et le désert
 
 ![Marrakesh](images/blog/morocco1.jpg)

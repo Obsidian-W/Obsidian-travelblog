@@ -28,6 +28,23 @@ Before diving into my itinerary, a few considerations:
 I did a loop itinerary from/to Shenzhen as the flights were less than 100$ both ways from Phnom Penh,
 so I'll keep that order, adapt to your situation ;)
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Pearl Delta
+
+| Day | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Day 1 | [Shenzhen - Baoan](#day-1-arrival-in-shenzhen---baoan) | Easy first day near the airport |
+| Day 2 | [Hong Kong - North](#day-2-hong-kong---north-mong-kok-tst--more) | Mong Kok, TST and classic urban HK |
+| Day 3 | [Hong Kong - Lantau](#day-3-hong-kong---lantau) | Hikes, cable car and islands |
+| Day 4 | [Hong Kong - Central](#day-4-hong-kong---central) | Skyline, Peak and city core |
+| Day 5 | [Macau](#day-5-macau) | Heritage center and casino city |
+| Day 6 | [Guangzhou](#day-6-guangzhou) | Canton food and urban exploration |
+| Day 7 | [Guangzhou / Shenzhen](#day-7-last-day---guangzhoushenzen) | Flexible final day before flying out |
+| Day X | [More days ideas](#day-x-with-more-days-ideas) | Extra stops if you can stretch the trip |
+
 ---
 
 ## Day 1: Arrival in Shenzhen - Baoan

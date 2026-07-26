@@ -25,6 +25,23 @@ Note: This article detailing logistic can be a nice read as well
 - 14 days? Add 2 days in Kunming, 1 in Shaxi, 1 or 2 for Tiger Leaping Gorge
 and one in Diqing/Shangri-La -- You'll thank me later.
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Yunnan
+
+| Day | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Day 1 | [Kunming](#day-1-kunming) | Easy start in the provincial capital |
+| Day 2 | [Stone Forest](#day-2-stone-forest-shilin) | Day trip to Shilin |
+| Day 3 | [Dali](#day-3-dali) | First old town stop |
+| Day 4 | [Lake Erhai and Xizhou](#day-4-lake-erhai--xizhou) | Villages and lakeside cycling |
+| Day 5 | [Lijiang](#day-5-lijiang) | Old town and canals |
+| Day 6 | [Jade Dragon Snow Mountain](#day-6-lijiang-jade-dragon-snow-mountain) | High altitude day trip |
+| Day 7 | [Tiger Leaping Gorge](#day-7-lijiang-tiger-leaping-gorge) | Best scenery of the route |
+| Day 8 | [Shangri-La](#day-8-shangri-la) | Tibetan end to the trip |
+
 ## Day 1: Kunming
 
 ![Kunming](images/blog/yunnan2.jpg)

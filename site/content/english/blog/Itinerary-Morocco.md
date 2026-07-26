@@ -20,6 +20,23 @@ draft: false
 - If you have fewer days: Fes and Casablanca are easy skips.
 - If you have more days: Add a day or two in Essaouira. Perhaps one more in Tangier or Marrakesh.
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Morocco
+
+| Day | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Day 0 to 4 | [Marrakesh and the desert](#day-0-to-4-marrakesh-and-the-desert) | Marrakesh, Ait Benhaddou, Tinghir and Merzouga |
+| Day 5 to 6 | [Casablanca and Rabat](#day-5-to-6-casablanca-and-rabat) | Big cities, modern side and historic cores |
+| Day 7 | [Meknes and its surroundings](#day-7-meknes-and-its-surroundings) | Meknes, Volubilis and Moulay Idriss |
+| Day 8 to 9 | [Fes and the Middle Atlas](#day-8-to-9-fes-and-the-middle-atlas) | Fes, Ifrane and cedar forests |
+| Day 10 to 12 | [Chefchaouen](#day-10-to-12-lovely-blue-city---chefchaouen) | Blue city and easy mountain base |
+| Day 13 and 14 | [Tangier and sights of Spain](#day-13-and-14-tangier-and-sights-of-spain) | Tangier, nearby coast and final views |
+
+---
+
 ## Day 0 to 4: Marrakesh and the desert
 
 ![Marrakesh](images/blog/morocco1.jpg)

@@ -3,7 +3,7 @@ date: "2025-07-01"
 title: "2 Months in the five stans"
 image: "images/blog/mangystau3.jpg"
 categories: ["Itinerary", "Central Asia"]
-draft: true
+draft: false
 ---
 
 ---
@@ -170,4 +170,3 @@ Une journée de repos après l'effort : un réveil tardif, l'achat de provisions
 
 ---
 
-Quelles sont vos impressions sur ce voyage au Kazakhstan ? Souhaitez-vous que je développe davantage une section spécifique (comme les conseils pour la randonnée ou l'architecture d'Astana) ?

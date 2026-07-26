@@ -23,6 +23,23 @@ Note : cet article sur la logistique peut aussi être une bonne lecture complém
 - 10 jours ? Ajoutez un jour pour le Tiger Leaping Gorge et un autre à Kunming.  
 - 14 jours ? Deux à Kunming, un à Shaxi, un ou deux à la Gorge, et un dernier à Diqing/Shangri-La — vous m’en remercierez plus tard.  
 
+\_\_\_\_
+
+# Itinerary done quick
+
+## Yunnan
+
+| Jour | Destination | Notes |
+|:----:|:-----------:|:-----:|
+| Jour 1 | [Kunming](#jour-1--kunming) | Départ en douceur |
+| Jour 2 | [Forêt de Pierre](#jour-2--la-forêt-de-pierre-shilin) | Excursion à Shilin |
+| Jour 3 | [Dali](#jour-3--dali) | Première vieille ville |
+| Jour 4 | [Lac Erhai et Xizhou](#jour-4--le-lac-erhai--xizhou) | Villages et lac |
+| Jour 5 | [Lijiang](#jour-5--lijiang) | Vieille ville et ambiance |
+| Jour 6 | [Montagne du Dragon de Jade](#jour-6--la-montagne-du-dragon-de-jade) | Journée altitude |
+| Jour 7 | [Gorge du Saut du Tigre](#jour-7--la-gorge-du-saut-du-tigre) | Plus belle journée nature |
+| Jour 8 | [Shangri-La](#jour-8--shangri-la) | Fin plus tibétaine |
+
 ---
 
 ## Jour 1 : Kunming
