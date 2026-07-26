@@ -2,25 +2,19 @@
 {{ partial "components/page-header.html" . }}
 {{ $overviewKey := cond (eq .Data.Plural "categories") "categories_overview" "terms_overview" }}
 <section class="section border-top bg-white">
-  <div class="container">
-    <div class="row spaced-row">
-      <div class="col-lg-8">
-        <p class="mb-4">{{ i18n $overviewKey }}</p>
-        <div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="container taxonomy-terms-page">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <p class="taxonomy-overview mb-4">{{ i18n $overviewKey }}</p>
+        <div class="row row-cols-1 row-cols-md-2 g-4 taxonomy-terms-grid">
           {{ range .Data.Terms.Alphabetical }}
           <div class="col">
-            <a class="d-flex justify-content-between align-items-center bg-body rounded px-4 py-3 h-100" href="{{ .Page.RelPermalink }}">
+            <a class="taxonomy-term-link d-flex justify-content-between align-items-center rounded px-4 py-3 h-100" href="{{ .Page.RelPermalink }}">
               <span class="h5 mb-0">{{ .Page.Title | humanize }}</span>
-              <span class="badge rounded">{{ .Count }}</span>
+              <span class="taxonomy-term-count">{{ .Count }}</span>
             </a>
           </div>
           {{ end }}
-        </div>
-      </div>
-      <div class="col-lg-4 mt-5 mt-lg-0">
-        <div class="bg-body ms-xl-3 p-4 rounded">
-          {{ $widget:= site.Params.widgets.sidebar }}
-          {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
         </div>
       </div>
     </div>

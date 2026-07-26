@@ -38,8 +38,8 @@
           {{ if eq $sidebar "true"}}
           <div class="col">
             <div class="blog-card card mb-3">
-              <div class="card-img position-relative">
-                {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 card-img-top")}}
+              <div class="card-img card-img-fixed position-relative">
+                {{ partial "image.html" (dict "Src" .Params.image "Class" "card-img-fill")}}
                 <div class="post-info">
                   <span class="text-uppercase">{{ time.Format ":date_long" .PublishDate }}</span>
                 </div>
@@ -62,8 +62,8 @@
             <div class="card blog-card mb-3">
               <div class="row g-0">
                 <div class="col-xl-5">
-                  <div class="card-img position-relative">
-                    {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100")}}
+                  <div class="card-img card-img-inline position-relative">
+                    {{ partial "image.html" (dict "Src" .Params.image "Class" "card-img-fill")}}
                     <div class="post-info">
                       <span class="text-uppercase">{{ time.Format ":date_long" .PublishDate }}</span>
                     </div>

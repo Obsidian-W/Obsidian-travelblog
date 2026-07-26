@@ -1,9 +1,9 @@
 [build.environment]
-  DART_SASS_VERSION = "1.93.2"
+  DART_SASS_VERSION = "1.102.0"
   NETLIFY_USE_YARN = "true"
   YARN_VERSION = "1.22.17"
   GO_VERSION = "1.25.1"
-  HUGO_VERSION = "0.150.0"
+  HUGO_VERSION = "0.164.0"
   HUGO_EXTENDED = "true"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"

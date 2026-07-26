@@ -134,11 +134,50 @@
   }
 }
 
+.card-img-fixed {
+  overflow: hidden;
+  border-radius: 4px;
+
+  picture,
+  a,
+  span,
+  .card-img-fill {
+    width: 100%;
+    display: block;
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+  }
+}
+
+.card-img-inline {
+  overflow: hidden;
+  border-radius: 4px;
+
+  picture,
+  a,
+  span,
+  .card-img-fill {
+    width: 100%;
+    display: block;
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+}
+
 .blog-card-feature {
-  .card-img {
-    img {
-      aspect-ratio: 16 / 10;
-    }
+  .card-img-fixed {
+    height: auto;
+    min-height: 0;
   }
 
   .post-title {
@@ -156,10 +195,10 @@
 }
 
 .map-panel {
-  background: linear-gradient(180deg, rgba(224, 234, 243, 0.75) 0%, rgba(255, 255, 255, 1) 100%);
+  background: linear-gradient(180deg, rgba(247, 249, 252, 0.98) 0%, rgba(255, 255, 255, 1) 100%);
   border: 1px solid rgba(30, 39, 64, 0.08);
   border-radius: 1rem;
-  padding: 1.5rem;
+  padding: 1.75rem;
   box-shadow: 0 18px 40px rgba(30, 39, 64, 0.08);
 }
 
@@ -169,6 +208,15 @@
   align-items: center;
   gap: 1rem;
   margin-bottom: 1rem;
+
+  p {
+    color: $text-dark;
+    max-width: 42rem;
+  }
+
+  .btn {
+    white-space: nowrap;
+  }
 
   @include mobile {
     flex-direction: column;
@@ -180,24 +228,24 @@
   position: relative;
   overflow: hidden;
   border-radius: 0.75rem;
-  min-height: 70vh;
+  min-height: 58vh;
   border: 1px solid rgba(30, 39, 64, 0.08);
   background: $white;
 
   iframe {
     width: 100%;
-    min-height: 70vh;
+    min-height: 58vh;
     border: 0;
     display: block;
   }
 }
 
 .map-embed--cropped {
-  min-height: 68vh;
+  min-height: 58vh;
 
   iframe {
-    min-height: calc(68vh + 220px);
-    margin-top: -185px;
+    min-height: calc(58vh + 430px);
+    margin-top: -315px;
   }
 }
 
@@ -272,6 +320,71 @@
       }
     }
   }
+
+}
+
+.widget-categories .widget-category-link {
+  border: 1px solid rgba($border-color, 0.95);
+  color: $text-dark !important;
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+
+  .widget-category-count {
+    color: $text-light;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: $text-dark !important;
+    background: rgba($color-primary, 0.05) !important;
+    border-color: rgba($color-primary, 0.25);
+
+    .widget-category-count {
+      color: $text-dark;
+    }
+  }
+
+  &.active {
+    color: $text-dark !important;
+    background: rgba($color-primary, 0.08) !important;
+    border-color: rgba($color-primary, 0.32);
+
+    .widget-category-count {
+      color: $text-dark;
+    }
+  }
+}
+
+.taxonomy-overview {
+  color: $text-dark;
+  max-width: 48rem;
+}
+
+.taxonomy-term-link {
+  border: 1px solid rgba($border-color, 0.95);
+  background: $white;
+  color: $text-dark;
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease,
+    box-shadow 0.2s ease;
+
+  .taxonomy-term-count {
+    color: $text-light;
+    font-weight: 500;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: $text-dark;
+    background: rgba($color-primary, 0.05);
+    border-color: rgba($color-primary, 0.24);
+    box-shadow: 0 8px 18px rgba($color-primary, 0.08);
+    text-decoration: none;
+
+    .taxonomy-term-count {
+      color: $text-dark;
+    }
+  }
 }
 
 // dark
@@ -308,6 +421,62 @@
   .pagination .page-item.prev .page-link,
   .pagination .page-item.next .page-link {
     color: $dark-text-light;
+  }
+
+  .widget-categories .widget-category-link {
+    color: $dark-text-dark !important;
+    border-color: rgba($white, 0.18);
+    background: transparent !important;
+
+    .widget-category-count {
+      color: rgba($dark-text-dark, 0.72);
+    }
+
+    &:hover,
+    &:focus-visible {
+      color: $white !important;
+      background: rgba($white, 0.05) !important;
+      border-color: rgba($white, 0.32);
+
+      .widget-category-count {
+        color: rgba($white, 0.82);
+      }
+    }
+
+    &.active {
+      color: $white !important;
+      background: rgba($white, 0.08) !important;
+      border-color: rgba($white, 0.38);
+
+      .widget-category-count {
+        color: rgba($white, 0.88);
+      }
+    }
+  }
+
+  .taxonomy-overview {
+    color: $dark-text-light;
+  }
+
+  .taxonomy-term-link {
+    color: $dark-text-dark;
+    background: rgba($white, 0.02);
+    border-color: rgba($white, 0.18);
+
+    .taxonomy-term-count {
+      color: rgba($white, 0.72);
+    }
+
+    &:hover,
+    &:focus-visible {
+      color: $white;
+      background: rgba($white, 0.05);
+      border-color: rgba($white, 0.32);
+
+      .taxonomy-term-count {
+        color: rgba($white, 0.86);
+      }
+    }
   }
 
   .pagination .page-item .page-link:hover {
