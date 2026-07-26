@@ -10,7 +10,8 @@ draft: false
 > 
 > Between the culture, the fabuous food and the sights, it's the perfect entry point to China
 > It's easy to navigate and well connected
-> The weather is good all year round long This is an excerpt from a longer article
+> The weather is good all year round long
+> Note: This is an excerpt from a longer article
 
 Note: This article detailing logistic can be a nice read as well  
 #### [Tips on how to travel China](/blog/tips-china)
