@@ -27,4 +27,4 @@
 
 [dev]
   framework = "hugo"
-  targetPort = 3000
+  targetPort = 1313

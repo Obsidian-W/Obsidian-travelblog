@@ -10,6 +10,30 @@
 - id: follow_me
   translation: Suivez-moi
 
+- id: contact_me
+  translation: Contactez-moi
+
+- id: contact_intro
+  translation: Questions voyage, aide pour un itinéraire, ou proposition de collaboration.
+
+- id: contact_response_time
+  translation: Les réponses sont plus simples si vous indiquez votre destination, vos dates et votre budget.
+
+- id: your_name
+  translation: Votre nom
+
+- id: your_email
+  translation: Votre email
+
+- id: your_message
+  translation: Votre message
+
+- id: categories_overview
+  translation: Parcourez toutes les catégories du blog.
+
+- id: terms_overview
+  translation: Parcourez toutes les entrées de cette section.
+
 - id: first_name
   translation: Prénom
   
@@ -17,7 +41,7 @@
   translation: nom de famille
   
 - id: email
-  translation: un message 
+  translation: Email
 
 - id: message
   translation: Tapez votre message... 

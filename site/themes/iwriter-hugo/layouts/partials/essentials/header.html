@@ -14,20 +14,13 @@
         {{ if .IsTranslated }}
         <select class="m-2 me-0 border-0 bg-transparent select-language d-inline-block d-lg-none" id="select-language"
           onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-          {{ $translation := .}}
-          {{ range $siteLanguages }}
-          {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
+          {{ range .AllTranslations }}
           {{ if eq $pageLang .Lang}}
-          <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}" selected>{{ .LanguageName }}
+          <option id="{{ .Language.Lang }}" value="{{ .RelPermalink }}" selected>{{ .Language.Label }}
           </option>
           {{ else }}
-          <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}">{{ .LanguageName }}</option>
-          {{ end }}
-          {{ end }}
+          <option id="{{ .Language.Lang }}" value="{{ .RelPermalink }}">{{ .Language.Label }}</option>
           {{ end }}
           {{ end }}
         </select>
@@ -112,20 +105,13 @@
         {{ if .IsTranslated }}
         <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language"
           onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-          {{ $translation := .}}
-          {{ range $siteLanguages }}
-          {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
+          {{ range .AllTranslations }}
           {{ if eq $pageLang .Lang}}
-          <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}" selected>{{ .LanguageName }}
+          <option id="{{ .Language.Lang }}" value="{{ .RelPermalink }}" selected>{{ .Language.Label }}
           </option>
           {{ else }}
-          <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}">{{ .LanguageName }}</option>
-          {{ end }}
-          {{ end }}
+          <option id="{{ .Language.Lang }}" value="{{ .RelPermalink }}">{{ .Language.Label }}</option>
           {{ end }}
           {{ end }}
         </select>

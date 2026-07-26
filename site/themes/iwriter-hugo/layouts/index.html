@@ -36,7 +36,6 @@
           {{ range $paginator.Pages }}
 
           {{ if eq $sidebar "true"}}
-          <!-- card start -->
           <div class="col">
             <div class="blog-card card mb-3">
               <div class="card-img position-relative">
@@ -49,9 +48,7 @@
               <div class="card-body">
                 <ul class="post-meta mb-2">
                   {{ range .Params.categories }}
-                  <li><a class="text-uppercase" href="{{`categories` | relURL}}/{{. | urlize | lower}}">
-                      {{ . }}
-                    </a></li>
+                  <li>{{ partial "category-link.html" (dict "category" . "class" "text-uppercase") }}</li>
                   {{ end }}
                 </ul>
                 <h2 class="h3 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>
@@ -60,10 +57,7 @@
               </div>
             </div>
           </div>
-          <!-- card end -->
           {{ else }}
-
-          <!-- card start -->
           <div class="col">
             <div class="card blog-card mb-3">
               <div class="row g-0">
@@ -79,9 +73,7 @@
                   <div class="card-body ps-xl-4 ms-xl-1">
                     <ul class="post-meta mb-2">
                       {{ range .Params.categories }}
-                      <li><a class="text-uppercase" href="{{`categories` | relURL}}/{{. | urlize | lower}}">
-                          {{ . }}
-                        </a></li>
+                      <li>{{ partial "category-link.html" (dict "category" . "class" "text-uppercase") }}</li>
                       {{ end }}
                     </ul>
                     <h2 class="h4 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>
@@ -92,7 +84,6 @@
               </div>
             </div>
           </div>
-          <!-- card end -->
           {{ end }}
 
           {{ end }}
@@ -106,7 +97,6 @@
       {{ if eq $sidebar "true" }}
       <div class="col-lg-4">
         <div class="bg-body ms-xl-3 p-4 rounded">
-          <!-- widget -->
           {{ $widget:= site.Params.widgets.sidebar }}
           {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
         </div>

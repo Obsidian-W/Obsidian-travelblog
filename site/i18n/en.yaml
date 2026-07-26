@@ -9,6 +9,27 @@
 
 - id: contact_me
   translation: Contact me
+
+- id: contact_intro
+  translation: Travel questions, itinerary help, or collaboration requests.
+
+- id: contact_response_time
+  translation: Replies are usually easier when you include your destination, timing, and budget.
+
+- id: your_name
+  translation: Your name
+
+- id: your_email
+  translation: Your email
+
+- id: your_message
+  translation: Your message
+
+- id: categories_overview
+  translation: Browse all article categories.
+
+- id: terms_overview
+  translation: Browse all entries in this section.
   
 - id: follow_me
   translation: Follow me

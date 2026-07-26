@@ -1,6 +1,13 @@
 node_modules/
 dist/
 site/data/webpack.json
+site/public/
+site/resources/_gen/
+site/assets/jsconfig.json
+tmp-hugo-check/
+tmp-hugo-check-2/
+tmp-hugo-verify/
+tmp-hugo-verify-2/
 /npm-debug.log
 yarn-error.log
 .netlify/

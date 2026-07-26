@@ -18,7 +18,7 @@
   
             <ul class="post-meta list-unstyle">
               <li class="text-capitalize ms-4">categories : {{ range .Params.categories }}
-                <a href="{{`categories` | relURL}}/{{. | urlize | lower}}">{{ . }}</a>
+                {{ partial "category-link.html" (dict "category" .) }}
                 {{ end }}</li>
           </div>
           </ul>
@@ -59,9 +59,7 @@
           <div class="card-body">
             <ul class="post-meta mb-2">
               {{ range .Params.categories }}
-              <li><a class="text-uppercase" href="{{`categories` | relURL}}/{{. | urlize | lower}}">
-                {{ . }}
-              </a></li>
+              <li>{{ partial "category-link.html" (dict "category" . "class" "text-uppercase") }}</li>
               {{ end }}
             </ul>
             <h2 class="h4 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>

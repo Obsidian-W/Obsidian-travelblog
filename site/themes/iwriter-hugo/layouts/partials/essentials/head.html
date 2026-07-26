@@ -25,6 +25,15 @@
 <!-- custom script -->
 {{ partialCached "custom-script.html" . }}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JEJQZ9M4S4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JEJQZ9M4S4');
+</script>
+
 <!-- google analytics -->
 {{ template "_internal/google_analytics.html" . }}
 

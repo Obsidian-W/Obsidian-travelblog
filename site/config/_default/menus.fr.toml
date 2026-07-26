@@ -17,16 +17,16 @@ url = "contact/"
 weight = 3
 
 [[main]]
+name = "Blog"
+url = "blog/"
 weight = 4
-name = "Pages"
-hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Pages du blog"
-url = "blog/post-1/"
-
-[[main]]
-parent = "Pages"
 name = "Catégories"
-url = "categories/travel"
+url = "categories/"
+weight = 5
+
+[[main]]
+name = "Carte"
+url = "travel-map/"
+weight = 6

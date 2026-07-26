@@ -2,7 +2,7 @@
 date: "2026-05-01"
 title: "My two weeks in Morocco - South to North"
 image: "images/blog/morocco.jpg"
-categories: ["Itinerary", "Afrique", "Morocco"]
+categories: ["Itinerary", "Africa", "Morocco"]
 draft: false
 ---
 

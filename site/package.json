@@ -4,9 +4,9 @@
   "license": "MIT",
   "author": "statichunt",
   "scripts": {
-    "dev": "hugo server || hugo server --themesDir ../..",
-    "test": "hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify|| hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
-    "build": "hugo || hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
-    "update": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy"
+    "dev": "hugo.exe server -d ../dist",
+    "test": "hugo.exe server -d ../dist --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
+    "build": "hugo.exe --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "update": "node ./scripts/clearModules.js && hugo.exe mod clean --all && hugo.exe mod get -u ./... && hugo.exe mod tidy"
   }
 }
