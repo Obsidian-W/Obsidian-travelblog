@@ -117,7 +117,7 @@ Chellah a été le principal point fort : de jolies ruines, des jardins, de vieu
 
 ## Jour 7 : Meknès et ses environs
 
-![Moulay Idriss](images/blog/morroco4.jpg)
+![Moulay Idriss](images/blog/morocco4.jpg)
 
 Peu de gens vont jusqu'à Meknès ou y restent une nuit. Beaucoup d'excursions sont des visites à la journée faites à la va-vite.
 Je dirais que c'est une erreur ?
@@ -156,7 +156,7 @@ Le lendemain, j'ai visité **Bab Mansour**, me suis promené dans la ville, puis
 
 ## Jour 8 à 9 : Fès et le Moyen Atlas
 
-![Barbary macaques](images/blog/morroco5.jpg)
+![Barbary macaques](images/blog/morocco5.jpg)
 
 Fès est probablement la ville la plus ennuyeuse du voyage. La médina est immense, bondée et il est extrêmement facile de s'y perdre, avec plein de personnages peu recommandables qui essaient de vous arnaquer. Astaghfullah.
 C'est impressionnant, mais ce n'est pas mon genre. 
@@ -185,7 +185,7 @@ Le meilleur tajine que j'ai mangé. Vraiment.
 
 ## Jour 10 à 12 : Charmante ville bleue - Chefchaouen
 
-![Barbary macaques](images/blog/morroco6.jpg)
+![Barbary macaques](images/blog/morocco6.jpg)
 
 J'ai pris un bus tôt le matin pour **Chefchaouen**. Le trajet a duré environ 5 heures.
 

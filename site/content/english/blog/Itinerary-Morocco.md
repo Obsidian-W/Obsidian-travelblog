@@ -111,7 +111,7 @@ I felt it that way, lol)
 
 ## Day 7: Meknes and its surroundings
 
-![Moulay Idriss](images/blog/morroco4.jpg)
+![Moulay Idriss](images/blog/morocco4.jpg)
 
 Few make it to Meknes or stay there for a night. Many trips are rushed day trips.
 I would say that it's a mistake?
@@ -150,7 +150,7 @@ The next day, I visited **Bab mansour**, walked in the city then took the train 
 
 ## Day 8 to 9: Fes and the Middle Atlas
 
-![Barbary macaques](images/blog/morroco5.jpg)
+![Barbary macaques](images/blog/morocco5.jpg)
 
 Fes is probably the most boring city of the trip. The medina is huge, crowded and extremely easy to get lost in, full of unsavory characters trying to cheat you.
 It's impressive, but not my kind of stuff. 
@@ -179,7 +179,7 @@ Best Tajine I had. Really.
 
 ## Day 10 to 12: Lovely blue city - Chefchaouen
 
-![Barbary macaques](images/blog/morroco6.jpg)
+![Barbary macaques](images/blog/morocco6.jpg)
 
 I took an early morning bus to **Chefchaouen**. The journey took around 5 hours.
 
