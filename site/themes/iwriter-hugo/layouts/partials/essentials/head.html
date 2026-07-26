@@ -9,6 +9,23 @@
 
 <!-- theme meta -->
 <meta name="theme-name" content="hugo-boilerplate" />
+<meta name="color-scheme" content="light dark" />
+
+{{ if site.Params.theme_switcher }}
+<script>
+  (function () {
+    var storedTheme = localStorage.getItem('theme');
+    var theme = '{{ if eq site.Params.theme_default "dark" }}dark{{ else if eq site.Params.theme_default "system" }}system{{ else }}light{{ end }}';
+    if (storedTheme === 'dark' || storedTheme === 'light') {
+      theme = storedTheme;
+    } else if (theme === 'system') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme;
+  })();
+</script>
+{{ end }}
 
 <!-- favicon -->
 {{ partialCached "favicon" . }}

@@ -387,25 +387,6 @@
   }
 }
 
-.comments-panel {
-  #disqus_thread {
-    color: $text-dark;
-  }
-
-  #disqus_thread a {
-    color: $color-primary;
-  }
-
-  .disqus-theme-signal {
-    margin: 0;
-    height: 0;
-    overflow: hidden;
-    color: $text-dark;
-    opacity: 0;
-    pointer-events: none;
-  }
-}
-
 // dark
 .dark {
   .widget-search {
@@ -495,20 +476,6 @@
       .taxonomy-term-count {
         color: rgba($white, 0.86);
       }
-    }
-  }
-
-  .comments-panel {
-    #disqus_thread {
-      color: $dark-text-dark;
-    }
-
-    #disqus_thread a {
-      color: lighten($color-primary, 8%);
-    }
-
-    .disqus-theme-signal {
-      color: $dark-text-dark;
     }
   }
 
