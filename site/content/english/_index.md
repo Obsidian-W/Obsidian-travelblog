@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Obsidian Travels"
-  description: "Small 100% free blog, made for the passion of sharing."
+  description: "Travel guides, itineraries, and first-hand notes from uncommon destinations across Africa, Asia, and beyond."
   image: "images/banner.jpg"
 
 ---

@@ -8,7 +8,7 @@ logo_darkmode = "images/logo-white.png"
 # Note: logo_width is not work with .svg file
 logo_width = "120px"
 # logo text will only show when logo is missing.
-logo_text = "Obsidian travels"
+logo_text = "Obsidian Travels"
 
 # navbar fixed to top
 navbar_fixed = true
@@ -29,7 +29,7 @@ netlify = true # set to false if using formspree.io
 contact_form_action = "#"
 # copyright
 theme_copyright = true
-copyright = "Copyright Obsdian Travels"
+copyright = "Copyright Obsidian Travels"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
@@ -40,8 +40,8 @@ theme_default = "system" # available options [light/dark/system]
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Blog", "Obsidian Travels", "Uncommon destinations"]
-description = "Obsidian Travels - My blog for uncommon destinations"
+keywords = ["travel blog", "itineraries", "destination guides", "Obsidian Travels", "Africa travel", "Asia travel"]
+description = "Obsidian Travels is a travel blog focused on first-hand itineraries, destination guides, and practical advice for uncommon destinations."
 author = "Timothe Paris"
 image = "images/og-image.jpg"      # this image will be used as fallback if a page has no image of its own
 

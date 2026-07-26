@@ -1,7 +1,7 @@
 ---
-title: "Latest Posts"
-subtitle: "Read all latest blog posts"
+title: "Travel Blog"
+subtitle: "Itineraries, destination guides, and practical travel posts from the road."
 # meta description
-description: "Read all latest blog posts"
+description: "Browse travel blog posts, itineraries, and destination guides from Obsidian Travels."
 draft: false
 ---

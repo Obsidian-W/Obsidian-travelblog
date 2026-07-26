@@ -1,0 +1,208 @@
+{{- $siteTitle := site.Title -}}
+{{- $locale := site.Language.Locale | default "en-US" -}}
+{{- $ogLocale := replace $locale "-" "_" -}}
+{{- $canonical := .Permalink -}}
+{{- $isSearch := eq .RelPermalink ("/search/" | relLangURL) -}}
+{{- $pageNumber := 1 -}}
+{{- if .IsNode -}}
+  {{- $pageNumber = .Paginator.PageNumber -}}
+{{- end -}}
+{{- $isPaged := gt $pageNumber 1 -}}
+{{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
+{{- $shouldNoindex := or $isSearch $isTagLike $isPaged -}}
+
+{{- $pageTitle := .Title | default $siteTitle -}}
+{{- $seoTitle := $pageTitle -}}
+{{- if .IsHome -}}
+  {{- $seoTitle = $siteTitle -}}
+{{- else if and (eq .Section "blog") (eq .Kind "section") -}}
+  {{- $seoTitle = printf "Travel Blog | %s" $siteTitle -}}
+{{- else if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") -}}
+  {{- $seoTitle = printf "Travel Categories | %s" $siteTitle -}}
+{{- else if and (eq .Kind "term") (eq .Data.Plural "categories") -}}
+  {{- $seoTitle = printf "%s Travel Guides and Articles | %s" .Title $siteTitle -}}
+{{- else -}}
+  {{- $seoTitle = printf "%s | %s" $pageTitle $siteTitle -}}
+{{- end -}}
+{{- if $isPaged -}}
+  {{- $seoTitle = printf "%s - Page %d" $seoTitle $pageNumber -}}
+{{- end -}}
+
+{{- $fallbackDescription := site.Params.metadata.description | default site.Params.description | default "" -}}
+{{- $description := .Description | default .Summary | default $fallbackDescription | plainify | htmlUnescape | truncate 160 -}}
+{{- if and (eq .Section "blog") (eq .Kind "section") (not .Description) -}}
+  {{- $description = "Browse travel blog posts, itineraries, and destination guides from Obsidian Travels." -}}
+{{- else if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") (not .Description) -}}
+  {{- $description = "Browse travel article categories across itineraries, tips, and destination guides." -}}
+{{- else if and (eq .Kind "term") (eq .Data.Plural "categories") (not .Description) -}}
+  {{- $description = printf "Browse %s travel articles, itineraries, and practical guides from Obsidian Travels." .Title -}}
+{{- else if and $isSearch (not .Description) -}}
+  {{- $description = printf "Search travel articles and destination guides on %s." $siteTitle -}}
+{{- end -}}
+{{- if $isPaged -}}
+  {{- $description = printf "%s Page %d." $description $pageNumber -}}
+{{- end -}}
+
+{{- $image := "" -}}
+{{- with .Params.image -}}
+  {{- $image = . | absURL -}}
+{{- else -}}
+  {{- with site.Params.metadata.image -}}
+    {{- $image = . | absURL -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $keywords := slice -}}
+{{- with site.Params.metadata.keywords -}}
+  {{- $keywords = . -}}
+{{- end -}}
+{{- with .Params.tags -}}
+  {{- $keywords = union $keywords . -}}
+{{- end -}}
+{{- with .Params.categories -}}
+  {{- $keywords = union $keywords . -}}
+{{- end -}}
+
+<title>{{ $seoTitle }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="author" content="{{ site.Params.metadata.author | default site.Params.author | default $siteTitle }}">
+{{- if gt (len $keywords) 0 }}
+<meta name="keywords" content="{{ delimit $keywords ", " }}">
+{{- end }}
+<link rel="canonical" href="{{ $canonical }}">
+<meta name="robots" content="{{ if $shouldNoindex }}noindex, follow{{ else }}index, follow, max-image-preview:large{{ end }}">
+
+{{- if .IsTranslated }}
+  {{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+  {{- end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- else }}
+<link rel="alternate" hreflang="{{ .Language.Lang | default `en` }}" href="{{ $canonical }}">
+<link rel="alternate" hreflang="x-default" href="{{ $canonical }}">
+{{- end }}
+
+<meta property="og:site_name" content="{{ $siteTitle }}">
+<meta property="og:title" content="{{ $seoTitle }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:locale" content="{{ $ogLocale }}">
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+<meta property="og:image:alt" content="{{ $pageTitle }}">
+{{- end }}
+{{- if and .IsPage (eq .Section "blog") }}
+<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{- range .Params.categories }}
+<meta property="article:section" content="{{ . }}">
+  {{- end }}
+  {{- range .Params.tags }}
+<meta property="article:tag" content="{{ . }}">
+  {{- end }}
+{{- end }}
+
+<meta name="twitter:card" content="{{ if $image }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ $seoTitle }}">
+<meta name="twitter:description" content="{{ $description }}">
+{{- with $image }}
+<meta name="twitter:image" content="{{ . }}">
+{{- end }}
+
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ $siteTitle | jsonify }},
+  "url": {{ site.Home.Permalink | jsonify }},
+  "description": {{ $description | jsonify }},
+  "inLanguage": {{ $locale | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {{ (printf "%ssearch/?s={search_term_string}" site.Home.Permalink) | jsonify }},
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- else if and .IsPage (eq .Section "blog") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ $description | jsonify }},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ $canonical | jsonify }}
+  },
+  "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "inLanguage": {{ $locale | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.Params.metadata.author | default $siteTitle | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ $siteTitle | jsonify }}
+  }{{ with $image }},
+  "image": {{ . | jsonify }}{{ end }}{{ with .Params.categories }},
+  "articleSection": {{ index . 0 | jsonify }}{{ end }}{{ with $keywords }},
+  "keywords": {{ delimit . ", " | jsonify }}{{ end }}
+}
+</script>
+{{- else if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ $pageTitle | jsonify }},
+  "url": {{ $canonical | jsonify }},
+  "description": {{ $description | jsonify }},
+  "inLanguage": {{ $locale | jsonify }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ $siteTitle | jsonify }},
+    "url": {{ site.Home.Permalink | jsonify }}
+  }
+}
+</script>
+{{- else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ $pageTitle | jsonify }},
+  "url": {{ $canonical | jsonify }},
+  "description": {{ $description | jsonify }},
+  "inLanguage": {{ $locale | jsonify }}
+}
+</script>
+{{- end }}
+
+{{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" $siteTitle "item" site.Home.Permalink) -}}
+{{- if and (eq .Kind "section") (eq .Section "blog") -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" $canonical) -}}
+{{- else if and .IsPage (eq .Section "blog") -}}
+  {{- with site.GetPage "/blog" -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 3 "name" $.Title "item" $canonical) -}}
+{{- else if and (eq .Kind "term") (eq .Data.Plural "categories") -}}
+  {{- with site.GetPage "/categories" -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 3 "name" $.Title "item" $canonical) -}}
+{{- else if not .IsHome -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" $canonical) -}}
+{{- end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {{ $crumbs | jsonify }}
+}
+</script>

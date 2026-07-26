@@ -1,7 +1,7 @@
 ---
-title: "Dernières news"
-subtitle: "Lis les derniers posts de mon blog"
+title: "Blog voyage"
+subtitle: "Itinéraires, guides de destination et conseils pratiques tirés du terrain."
 # meta description
-description: "Lis les derniers posts de mon blog"
+description: "Parcourir les articles, itinéraires et guides de destination d'Obsidian Travels."
 draft: false
 ---
