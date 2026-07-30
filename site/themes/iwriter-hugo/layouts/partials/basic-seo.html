@@ -71,6 +71,9 @@
 {{- end }}
 <link rel="canonical" href="{{ $canonical }}">
 <meta name="robots" content="{{ if $shouldNoindex }}noindex, follow{{ else }}index, follow, max-image-preview:large{{ end }}">
+{{- if .Params.ai_generated }}
+<meta name="ai-generated" content="true">
+{{- end }}
 
 {{- if .IsTranslated }}
   {{- range .AllTranslations }}
