@@ -3,7 +3,8 @@ date: "2026-05-01"
 title: "Guide transport : Maroc"
 description: "Comment voyager au Maroc de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/22.11.24%20Tanger-Ville%201208%20%2854166318289%29.jpg"
-categories: ["Guide", "Maroc", "Afrique"]
+categories: ["Guide pratique", "Maroc", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -151,5 +152,3 @@ La frontière terrestre Maroc-Algérie est fermée. Vérifie les règles actuell
 - [Baleària - Tanger Ville à Tarifa](https://www.balearia.com/fr/routes-horaires/bateau-tanger-ville-tarifa) : route ferry.
 - [AML](https://www.amlmaroc.com/en) : opérateur de ferries Maroc - Espagne.
 - [Visit Meknes - Volubilis](https://visit-meknes.com/en/welcome-to-volubilis/) : accès à Meknès, Moulay Idriss et Volubilis.
-
-

@@ -4,6 +4,7 @@ title: "Top 5 things to do in Kazakhstan"
 description: "Five Kazakhstan experiences with access and distance notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boszhira%20tract.%20Kazakhstan%2C%20Mangistau.%20November%202024.jpg"
 categories: ["Top 5", "Kazakhstan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -65,5 +66,3 @@ Do not treat Big Almaty Lake or higher routes as casual city walks. Border-zone 
 ## Source log
 
 - [Kazakh Tourism destinations](https://www.kazakh.travel/en/destinations): official destination context for Charyn, Kolsai, Altyn-Emel and Almaty-region natural sights.
-
-

@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "Un mois en Afrique de l’Est"
+description: "Un itinéraire d’un mois en Tanzanie, au Kenya, en Ouganda et au Rwanda, avec étapes, transports et remarques pratiques."
 image: "images/blog/kilwa.jpg"
 categories: ["Itinéraire", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

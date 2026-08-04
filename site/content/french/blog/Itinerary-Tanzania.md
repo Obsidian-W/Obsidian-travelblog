@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "Deux semaines en Tanzanie"
+description: "Itinéraire de deux semaines en Tanzanie, entre Dar es Salaam, Kilwa, safari, lac Natron et Zanzibar."
 image: "images/blog/kilwa.jpg"
 categories: ["Itinéraire", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

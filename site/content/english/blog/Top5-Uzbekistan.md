@@ -4,6 +4,7 @@ title: "Top 5 things to do in Uzbekistan"
 description: "Five Uzbekistan experiences with access and train notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Registan%20square%20Samarkand.jpg"
 categories: ["Top 5", "Uzbekistan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -69,5 +70,3 @@ If you add the Aral Sea or Muynak, treat it as a separate excursion with a drive
 - [Uzbekistan government attractions page](https://gov.uz/en/pages/places_interest): national attraction context.
 - [Uzbekistan Railways official ticketing](https://eticket.railway.uz/en/): official rail ticketing checks.
 - [Uzbekistan Railways schedule](https://eticket.railway.uz/en/pages/schedule): route and schedule context checked in August 2026.
-
-

@@ -1,8 +1,10 @@
 ---
 date: "2025-07-01"
 title: "Comment visiter Mangystau ?"
+description: "Guide pratique pour organiser un voyage dans le Mangystau depuis Aktau, avec transport, tour, budget et conditions sur place."
 image: "images/blog/mangystau.jpg"
-categories: ["Guide", "Kazakhstan", "Asie centrale"]
+categories: ["Guide pratique", "Kazakhstan", "Asie centrale"]
+continents: ["Asie"]
 draft: false
 ---
 

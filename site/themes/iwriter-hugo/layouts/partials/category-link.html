@@ -3,5 +3,5 @@
 {{- with site.GetPage (printf "/categories/%s" ($category | urlize)) -}}
 <a{{ with $class }} class="{{ . }}"{{ end }} href="{{ .RelPermalink }}">{{ $category }}</a>
 {{- else -}}
-<a{{ with $class }} class="{{ . }}"{{ end }} href="{{ `categories` | relLangURL }}{{ $category | urlize }}/">{{ $category }}</a>
+<a{{ with $class }} class="{{ . }}"{{ end }} href="{{ `categories/` | relLangURL }}{{ $category | urlize }}/">{{ $category }}</a>
 {{- end -}}

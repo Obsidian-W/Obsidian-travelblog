@@ -1,6 +1,7 @@
 ---
 date: "2025-10-01"
 title: "Comment faire son sac pour voyager léger"
+description: "Conseils pratiques pour voyager léger, choisir son sac et limiter le matériel inutile."
 image: "images/blog/bag.jpg"
 categories: ["Conseils", "Guide pratique"]
 draft: false

@@ -4,6 +4,7 @@ title: "Hong Kong food guide"
 description: "What to eat in Hong Kong and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Breakfast.jpg"
 categories: ["Food", "Hong Kong", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -64,5 +65,3 @@ Gluten-free travel is difficult because soy sauce, noodles, dumpling wrappers an
 - [Hong Kong Tourism Board - dai pai dongs](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html): cooked-food markets, dai pai dong examples and dishes.
 - [HKTE - Hong Kong must-try foods](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods): dim sum, dai pai dong, street food, fish balls, beef offal and egg waffles.
 - [Hong Kong Tourism Board - Ho To Tai Noodle](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ho-to-tai-noodle.html): wonton noodle context.
-
-

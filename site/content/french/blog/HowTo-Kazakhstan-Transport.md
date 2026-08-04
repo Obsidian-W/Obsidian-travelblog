@@ -2,8 +2,9 @@
 date: "2025-07-01"
 title: "Guide transport : Kazakhstan"
 description: "Comment voyager au Kazakhstan de façon indépendante."
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Zhol%20railway%20station.jpg"
-categories: ["Guide", "Kazakhstan", "Asie centrale"]
+image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Jol%202018.jpg"
+categories: ["Guide pratique", "Kazakhstan", "Asie centrale"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -12,7 +13,7 @@ draft: false
 
 Les informations de transport ont été vérifiées en août 2026 lorsqu'elles sont mentionnées.
 
-![Gare d'Astana](https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Zhol%20railway%20station.jpg)
+![Gare Astana Nurly Jol](https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Jol%202018.jpg)
 
 ## Logique générale
 
@@ -147,5 +148,3 @@ Vers l'Ouzbékistan, les routes depuis l'ouest du Kazakhstan peuvent impliquer A
 - [Air Astana - réseau](https://ir.airastana.com/en/financial-operational/network/) : contexte du groupe aérien et réseau national/international.
 - [Aktau International Airport](https://aktau-airport.kz/en/) : contexte des routes aériennes d'Aktau.
 - [Kazakh Tourism - destinations](https://www.kazakh.travel/en/destinations) : contexte Charyn, Kolsai et région d'Almaty.
-
-

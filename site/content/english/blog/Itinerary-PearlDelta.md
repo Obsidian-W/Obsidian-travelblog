@@ -1,8 +1,10 @@
 ---
 date: "2025-09-27"
 title: "A week in the Pearl Delta"
+description: "A one-week itinerary through Hong Kong, Macau, Shenzhen and Guangzhou."
 image: "images/blog/pearldelta.jpg"
 categories: ["Itinerary", "China"]
+continents: ["Asia"]
 draft: false
 ---
 

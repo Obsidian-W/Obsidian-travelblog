@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "One week in Uganda"
+description: "A one-week Uganda itinerary covering Kampala, Jinja, Murchison Falls and Lake Bunyonyi."
 image: "images/blog/rwenzori.jpg"
 categories: ["Itinerary", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

@@ -3,7 +3,8 @@ date: "2025-09-27"
 title: "Guide transport : Hong Kong"
 description: "Comment se déplacer à Hong Kong de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/MTR-train.jpg"
-categories: ["Guide", "Hong Kong", "Chine"]
+categories: ["Guide pratique", "Hong Kong", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -167,5 +168,3 @@ Depuis le 1er avril 2026, les taxis de Hong Kong doivent proposer au moins deux 
 - [Hong Kong Tourism Board - Dragon's Back](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-dragon-s-back.html) : accès par bus 9.
 - [Octopus - usage touristique](https://www.octopus.com.hk/en/consumer/tourist/usages/index.html) : recharge et détails d'utilisation pour visiteurs.
 - [Communiqué du gouvernement de Hong Kong, mars 2026](https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm) : paiement électronique obligatoire dans les taxis à partir du 1er avril 2026.
-
-

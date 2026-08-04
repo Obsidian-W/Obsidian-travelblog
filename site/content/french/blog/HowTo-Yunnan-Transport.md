@@ -3,7 +3,8 @@ date: "2024-07-25"
 title: "Guide transport : Yunnan"
 description: "Comment voyager dans le Yunnan de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kunming%20South%20Railway%20Station.jpg"
-categories: ["Guide", "Yunnan", "Chine"]
+categories: ["Guide pratique", "Yunnan", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -141,5 +142,3 @@ L'altitude monte vite entre Lijiang et Shangri-La. N'arrive pas à Shangri-La av
 - [Site officiel de la Forêt de Pierre - transports](https://park.shilin.com.cn/public/park/en-US/detail-446-28859.html) : accès depuis Kunming, l'aéroport, Shilin et Shilin West.
 - [Gouvernement chinois / Xinhua - ouverture de la ligne Lijiang-Shangri-La](https://english.www.gov.cn/news/202311/27/content_WS6563efa8c6d0868f4e8e1a98.html) : ouverture de la ligne et durée la plus rapide annoncée.
 - [Portail gouvernemental China Daily - railway tourism in Yunnan](https://govt.chinadaily.com.cn/s/202504/10/WS67f72a84498eec7e1f7340f9/yunnan-makes-use-of-railway-networks-to-explore-tourism-resources.html) : contexte ferroviaire 2025 et durées annoncées.
-
-

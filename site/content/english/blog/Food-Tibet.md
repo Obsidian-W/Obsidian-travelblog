@@ -4,6 +4,7 @@ title: "Tibet food guide"
 description: "What to eat in Tibet and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tibetan%20butter%20tea.jpg"
 categories: ["Food", "Tibet", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -99,5 +100,3 @@ Carry cash for small stops. Mobile payment may work in cities, but road stops an
 - [Tibet Travel - food and dining](https://www.tibettravel.org/tibet-travel-advice/food-and-dinning.html): tourist-facing dish list including tsampa, butter tea, sweet tea and yak.
 - [Tibet Travel - Tibetan butter tea](https://www.tibettravel.org/tibetan-food/tibetan-butter-tea.html): butter tea ingredients, flavour and drinking context.
 - [Wikivoyage - Tibet](https://en.wikivoyage.org/wiki/Tibet): permit-controlled travel context and practical food categories checked in August 2026.
-
-

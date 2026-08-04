@@ -4,6 +4,7 @@ title: "Guide cuisine : Hong Kong"
 description: "Quoi manger à Hong Kong et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Breakfast.jpg"
 categories: ["Cuisine", "Hong Kong", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -64,5 +65,3 @@ Sans gluten, c'est difficile : sauce soja, nouilles, pâtes de raviolis et boula
 - [Hong Kong Tourism Board - dai pai dongs](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html) : cooked-food markets, exemples de dai pai dong et plats.
 - [HKTE - Hong Kong must-try foods](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods) : dim sum, dai pai dong, street food, fish balls, abats et egg waffles.
 - [Hong Kong Tourism Board - Ho To Tai Noodle](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ho-to-tai-noodle.html) : contexte wonton noodles.
-
-

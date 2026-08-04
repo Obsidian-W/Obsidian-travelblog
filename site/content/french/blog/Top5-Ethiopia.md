@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire en Éthiopie"
 description: "Cinq expériences en Éthiopie avec notes d'accès et de sécurité."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bet%20Gyorgis%20Lalibela.jpg"
 categories: ["Top 5", "Éthiopie", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -69,5 +70,3 @@ Prévois deux nuits si possible. Une seule nuit est faisable, mais laisse peu de
 - [UNESCO - Fasil Ghebbi, région de Gondar](https://whc.unesco.org/en/list/19/) : contexte patrimonial de Gondar.
 - [Site officiel du Simien Mountains National Park](https://simienpark.org/) : paysage du parc et contexte trek.
 - [Addis Ababa Tourism Commission](https://aatc.gov.et/) : contexte officiel pour Addis Ababa.
-
-

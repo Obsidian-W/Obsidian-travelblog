@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "3 weeks in Ethiopia"
+description: "A three-week Ethiopia itinerary covering Addis Ababa, the historic north, Harar, Danakil and the Simien Mountains."
 image: "images/blog/eth0b.jpg"
 categories: ["Itinerary", "Ethiopia", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

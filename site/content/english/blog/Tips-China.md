@@ -1,8 +1,10 @@
 ---
 date: "2025-09-27"
 title: "Practical Tips for Traveling in China"
+description: "Practical field notes for travelling in China, with payments, apps, transport and planning."
 image: "images/blog/lijiang.jpg"
 categories: ["Tips", "China"]
+continents: ["Asia"]
 draft: false
 ---
 

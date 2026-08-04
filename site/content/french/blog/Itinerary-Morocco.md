@@ -1,8 +1,10 @@
 ---
 date: "2026-05-01"
 title: "Mes deux semaines au Maroc - Du sud au nord"
+description: "Itinéraire de deux semaines au Maroc, de Marrakech et l'Atlas à Fès, Chefchaouen, Rabat et Casablanca."
 image: "images/blog/morocco.jpg"
 categories: ["Itinéraire", "Afrique", "Maroc"]
+continents: ["Afrique"]
 draft: false
 ---
 

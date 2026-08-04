@@ -1,8 +1,10 @@
 ---
 date: "2022-09-01"
 title: "Aller en Patagonie en hiver ❄️"
+description: "Conseils pour voyager en Patagonie en hiver, avec météo, transport, équipement et limites saisonnières."
 image: "images/blog/patagonia3.jpg"
 categories: ["Conseils", "Amérique du Sud", "Chili", "Argentine"]
+continents: ["Amérique du Sud"]
 draft: false
 ---
 

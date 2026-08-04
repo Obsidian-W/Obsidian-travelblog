@@ -3,7 +3,8 @@ date: "2024-08-13"
 title: "Guide transport : Tibet"
 description: "Comment fonctionnent les transports au Tibet pour les voyageurs étrangers."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lhasa%20train%20station.JPG"
-categories: ["Guide", "Tibet", "Chine"]
+categories: ["Guide pratique", "Tibet", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -139,5 +140,3 @@ Si tu es sujet au mal des transports, prépare-toi avant Yamdrok, Gyantse, Evere
 - [National Immigration Administration - FAQ permis de zone frontière 2026](https://s.nia.gov.cn/mps/bszy/dzbjtxz/blzy/202604/t20260414_1001.html) : contexte des permis frontaliers.
 - [Guide de l'aéroport de Lhassa Gonggar, gouvernement du Tibet](https://www.xizang.gov.cn/zmhd/hygq/202602/t20260210_524341.html) : bus aéroport, billetterie et temps ville-aéroport.
 - [12306 China Railway](https://www.12306.cn/en/) : réservation ferroviaire officielle et vérification des trains.
-
-

@@ -1,8 +1,10 @@
 ---
 date: "2024-08-13"
 title: "A week in Tibet"
+description: "A one-week Tibet itinerary covering Lhasa, monasteries, lakes and high-altitude roads."
 image: "images/blog/tibet.jpg"
 categories: ["Itinerary", "China"]
+continents: ["Asia"]
 draft: false
 ---
 

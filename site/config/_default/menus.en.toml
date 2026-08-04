@@ -12,19 +12,55 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-
-[[main]]
 name = "Blog"
 url = "blog/"
-weight = 4
+weight = 3
 
 [[main]]
 name = "Categories"
 url = "categories/"
+weight = 4
+
+[[main]]
+name = "By Continents"
+url = "continents/"
 weight = 5
+
+[[main]]
+parent = "By Continents"
+name = "Africa"
+url = "continents/africa/"
+weight = 1
+
+[[main]]
+parent = "By Continents"
+name = "Asia"
+url = "continents/asia/"
+weight = 2
+
+[[main]]
+parent = "By Continents"
+name = "Europe"
+url = "continents/europe/"
+weight = 3
+
+[[main]]
+parent = "By Continents"
+name = "North America"
+url = "continents/north-america/"
+weight = 4
+
+[[main]]
+parent = "By Continents"
+name = "South America"
+url = "continents/south-america/"
+weight = 5
+
+[[main]]
+parent = "By Continents"
+name = "Oceania"
+url = "continents/oceania/"
+weight = 6
 
 [[main]]
 name = "Travel Map"

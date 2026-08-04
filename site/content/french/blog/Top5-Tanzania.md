@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire en Tanzanie"
 description: "Cinq expériences en Tanzanie avec accès et durée."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wildebeest%20at%20Serengeti%20National%20Park%20in%20Tanzania.jpg"
 categories: ["Top 5", "Tanzanie", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -72,5 +73,3 @@ Prévois deux nuits si possible. Une journée complète est nécessaire pour les
 - [Kilimanjaro International Airport - transport and parking](https://www.kilimanjaroairport.go.tz/pages/transport-and-car-parking) : taxis et navettes partagées vers Moshi et Arusha.
 - [Air Tanzania - shuttle services](https://airtanzania.co.tz/shuttle-services) : points de prise en charge à Arusha et Moshi.
 - [UNESCO - Ruines de Kilwa Kisiwani et Songo Mnara](https://whc.unesco.org/en/list/144) : contexte historique et statut UNESCO.
-
-

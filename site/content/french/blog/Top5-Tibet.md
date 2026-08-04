@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire au Tibet"
 description: "Cinq expériences au Tibet avec permis et altitude."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/20140505%20Potala%20Palace.jpg"
 categories: ["Top 5", "Tibet", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -61,5 +62,3 @@ Prévois au moins deux jours de plus après Lhassa-Gyantse-Shigatse, davantage s
 - [12306 China Railway](https://www.12306.cn/en/) : vérification des accès ferroviaires.
 - [Guide de l'aéroport de Lhassa Gonggar, gouvernement du Tibet](https://www.xizang.gov.cn/zmhd/hygq/202602/t20260210_524341.html) : bus aéroport et accès.
 - [UNESCO - Ensemble historique du palais du Potala](https://whc.unesco.org/fr/list/707/) : contexte Potala, Jokhang et Norbulingka.
-
-

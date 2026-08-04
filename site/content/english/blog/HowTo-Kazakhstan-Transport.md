@@ -2,8 +2,9 @@
 date: "2025-07-01"
 title: "Kazakhstan transport guide"
 description: "How to travel around Kazakhstan independently."
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Zhol%20railway%20station.jpg"
+image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Jol%202018.jpg"
 categories: ["How-to", "Kazakhstan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -12,7 +13,7 @@ draft: false
 
 Operational transport details were checked in August 2026 where stated.
 
-![Astana railway station](https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Zhol%20railway%20station.jpg)
+![Astana Nurly Jol railway station](https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%20Jol%202018.jpg)
 
 ## Main transport logic
 
@@ -147,5 +148,3 @@ For Uzbekistan, western Kazakhstan links can involve Aktau, Beyneu and onward ra
 - [Air Astana network](https://ir.airastana.com/en/financial-operational/network/): airline group and domestic/international network context.
 - [Aktau International Airport](https://aktau-airport.kz/en/): live airport route context for Aktau.
 - [Kazakh Tourism destinations](https://www.kazakh.travel/en/destinations): Charyn, Kolsai and Almaty-region destination context.
-
-

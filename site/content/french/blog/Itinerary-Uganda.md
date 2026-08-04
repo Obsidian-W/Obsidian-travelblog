@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "Une semaine en Ouganda"
+description: "Itinéraire d'une semaine en Ouganda, entre Kampala, Jinja, Murchison Falls et le lac Bunyonyi."
 image: "images/blog/rwenzori.jpg"
 categories: ["Itinéraire", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

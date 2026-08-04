@@ -22,7 +22,7 @@
 
               <div class="card-body d-flex flex-column">
                 <h2 class="h3 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }}</a></h2>
-                <p class="card-text mb-4">{{ .Summary | plainify }}</p>
+                <p class="card-text mb-4">{{ partial "card-description.html" . }}</p>
                 <a class="btn btn-outline-primary btn-sm align-self-start" href="{{.RelPermalink}}">{{i18n `read_more`}}</a>
                 <ul class="post-meta post-meta-bottom mt-auto pt-4">
                   {{ range .Params.categories }}
@@ -41,7 +41,7 @@
       </div>
     </div>
   </div>
-  {{ else if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (eq .Data.Plural "categories") }}
+  {{ else if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (or (eq .Data.Plural "categories") (eq .Data.Plural "continents")) }}
   <div class="container taxonomy-page">
     <div class="row spaced-row">
       <div class="col-lg-8">
@@ -68,7 +68,7 @@
                   {{ end }}
                 </ul>
                 <h2 class="h3 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>
-                <p class="card-text mb-4">{{ .Summary | plainify }}</p>
+                <p class="card-text mb-4">{{ partial "card-description.html" . }}</p>
                 <a class="btn btn-outline-primary btn-sm align-self-start mt-auto" href="{{.RelPermalink}}">{{i18n `read_more`}}</a>
               </div>
             </div>
@@ -99,23 +99,23 @@
           {{ $paginator:= .Paginate .Data.Pages }}
           {{ range $paginator.Pages }}
           <div class="col">
-            <div class="blog-card card mb-3">
-              <div class="card-img position-relative">
-                {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 card-img-top")}}
+            <div class="blog-card card h-100 border-0">
+              <div class="card-img card-img-fixed position-relative">
+                {{ partial "image.html" (dict "Src" .Params.image "Class" "card-img-fill")}}
                 <div class="post-info">
                   <span class="text-uppercase">{{ time.Format ":date_long" .PublishDate }}</span>
                 </div>
               </div>
     
-              <div class="card-body">
+              <div class="card-body d-flex flex-column">
                 <ul class="post-meta mb-2">
                   {{ range .Params.categories }}
                   <li>{{ partial "category-link.html" (dict "category" . "class" "text-uppercase") }}</li>
                   {{ end }}
                 </ul>
                 <h2 class="h3 fw-light mb-3"><a class="post-title" href="{{.RelPermalink}}">{{ .Title }} </a></h2>
-                <p class="card-text mb-4">{{ .Summary | plainify }}</p>
-                <a class="btn btn-outline-primary btn-sm" href="{{.RelPermalink}}">{{i18n `read_more`}}</a>
+                <p class="card-text mb-4">{{ partial "card-description.html" . }}</p>
+                <a class="btn btn-outline-primary btn-sm align-self-start mt-auto" href="{{.RelPermalink}}">{{i18n `read_more`}}</a>
               </div>
             </div>
           </div>

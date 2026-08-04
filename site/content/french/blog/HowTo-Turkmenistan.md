@@ -1,8 +1,10 @@
 ---
 date: "2025-08-15"
 title: "Comment visiter le Turkménistan ?"
+description: "Guide pratique pour organiser un voyage au Turkménistan avec agence, visa, budget, transport et itinéraire court."
 image: "images/blog/turkmenistan.jpg"
 categories: ["Guide pratique", "Turkménistan", "Asie centrale"]
+continents: ["Asie"]
 draft: false
 ---
 
@@ -35,7 +37,7 @@ Professionnel, réactif et habitué à naviguer dans la bureaucratie locale.
 - Téléphone : +993 61 67 22 66  
 - Email : ruslanhydyrov@gmail.com  
 
-> Si tu le contactes, **dis-lui que tu viens de la part de Tim Paris** (c’est moi). Il comprendra.
+> Si tu le contactes, **dis-lui que tu viens de la part de Timothé Paris** (c’est moi). Il comprendra.
 
 ---
 

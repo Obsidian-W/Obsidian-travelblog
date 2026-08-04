@@ -4,6 +4,7 @@ title: "Guide cuisine : Ouzbékistan"
 description: "Quoi manger en Ouzbékistan et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg"
 categories: ["Cuisine", "Ouzbékistan", "Asie centrale"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -62,5 +63,3 @@ Sans gluten, c'est difficile : non, samsa, nouilles et raviolis sont partout. Le
 - [Cuisine ouzbèke, portail gouvernemental](https://gov.uz/en/pages/national_foods) : contexte officiel pour samsa et plats nationaux.
 - [Uzbekistan Travel - Samarkand](https://uzbekistan.travel/en/i/samarkand/) : contexte officiel pour plov, pain, kebabs et manti.
 - [Page tourisme du gouvernement ouzbek](https://gov.uz/en/activity_page/tourism) : contexte UNESCO, dont tradition du plov.
-
-

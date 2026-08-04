@@ -4,6 +4,7 @@ title: "Uzbekistan transport guide"
 description: "How to travel around Uzbekistan independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Afrosyab.jpg"
 categories: ["How-to", "Uzbekistan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -152,5 +153,3 @@ In Tashkent, public-transport payment is becoming more digital. Tashkent city no
 - [Tashkent city notice, July 2026](https://tashkent.uz/en/news/7333): contactless and transport-card payment changes for city buses.
 - [UZCARD - transport-bank cards, June 2026](https://uzcard.uz/en/news/increase_in_transport_bank_cards_issued): ATTO-linked bus and metro payment context.
 - [Uzbekistan Travel itinerary example](https://uzbekistan.travel/en/o/uzbekistan-tashkent-bukhara-samarkand-6-days-5-nights-travel-itinerary/): official route example using Tashkent, Bukhara and Samarkand.
-
-

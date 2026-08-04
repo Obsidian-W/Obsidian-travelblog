@@ -4,6 +4,7 @@ title: "Tanzania food guide"
 description: "What to eat in Tanzania and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%2020251129%20163844.jpg"
 categories: ["Food", "Tanzania", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -102,5 +103,3 @@ If you want alcohol, check the setting. It is easy in tourist hotels, safari lod
 - [Tanzania Tourism Board - Zanzibar Island FAM Trip](https://site.tanzaniatourism.go.tz/page/zanzibar-island-fam-trip-international-hosted-buyers-only-): Stone Town and spice-farm context.
 - [Embassy of Tanzania in Washington - People and Culture](https://www.us.tzembassy.go.tz/tanzania/category/people-and-culture): official list of coastal and inland Tanzanian foods.
 - [The Tanzanian Guide - Food in Tanzania](https://www.thetanzanianguide.com/food-guide/): 2026 comparison source for dish range, regional split and broad local price context.
-
-

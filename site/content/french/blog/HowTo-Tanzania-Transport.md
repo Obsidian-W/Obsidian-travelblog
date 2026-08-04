@@ -3,7 +3,8 @@ date: "2023-08-15"
 title: "Guide transport : Tanzanie"
 description: "Comment voyager en Tanzanie de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dar%20es%20Salaam%20SGR%20station%20%2801%29.png"
-categories: ["Guide", "Tanzanie", "Afrique"]
+categories: ["Guide pratique", "Tanzanie", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -152,5 +153,3 @@ Le véhicule de safari n'est pas seulement un transport. Il contrôle accès aux
 - [TAZARA - passenger services](https://tazarasite.com/passenger-services) : types de trains et service Dar es Salaam-New Kapiri Mposhi.
 - [TAZARA - reprise du service transfrontalier 2026](https://tazarasite.com/tazara-announces-resumption-cross-border-services) : statut actuel du service passagers transfrontalier.
 - [TAZARA - tickets and reservations](https://mail.tazarasite.com/tickets-and-reservations) : réservation anticipée et contacts.
-
-

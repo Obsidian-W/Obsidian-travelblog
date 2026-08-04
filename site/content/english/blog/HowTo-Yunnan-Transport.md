@@ -4,6 +4,7 @@ title: "Yunnan transport guide"
 description: "How to travel around Yunnan independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kunming%20South%20Railway%20Station.jpg"
 categories: ["How-to", "Yunnan", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -141,5 +142,3 @@ Altitude rises sharply once you go north from Lijiang to Shangri-La. Do not arri
 - [Stone Forest official transport page](https://park.shilin.com.cn/public/park/en-US/detail-446-28859.html): Kunming, airport, Shilin and Shilin West transport.
 - [Chinese government/Xinhua - Lijiang-Shangri-La railway opening](https://english.www.gov.cn/news/202311/27/content_WS6563efa8c6d0868f4e8e1a98.html): Lijiang-Shangri-La railway opening and opening-time fastest duration.
 - [China Daily government portal - Yunnan railway tourism](https://govt.chinadaily.com.cn/s/202504/10/WS67f72a84498eec7e1f7340f9/yunnan-makes-use-of-railway-networks-to-explore-tourism-resources.html): 2025 rail tourism context and Kunming-Shangri-La/Lijiang-Shangri-La reported durations.
-
-

@@ -4,6 +4,7 @@ title: "Guide cuisine : Yunnan"
 description: "Quoi manger dans le Yunnan et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Crossing%20the%20Bridge%20Noodle%20at%20Qian%20Xiang%20Yuan.jpg"
 categories: ["Cuisine", "Yunnan", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -98,5 +99,3 @@ Pour les prix, évite les vieux chiffres de blogs. Les menus changent selon les 
 - [Visit Colorful Yunnan - saveurs du Yunnan](https://www.visityunnanchina.com/plan-your-trip/travel-blog/feast-senses-savor-flavors-yunnan) : nouilles, champignons, flower cakes et thé Pu'er.
 - [Wikivoyage Yunnan](https://en.wikivoyage.org/wiki/Yunnan) : liste pratique de plats, dont les nouilles de riz et le rubing.
 - [Visit Yunnan - Yunnan food guide](https://visit-yunnan.com/en/blog/yunnan-food-guide) : source comparative 2026 pour les plats régionaux, champignons, fromages, nouilles et contexte pratique.
-
-

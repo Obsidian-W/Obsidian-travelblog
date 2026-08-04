@@ -1,8 +1,10 @@
 ---
 date: "2023-08-22"
 title: "Faire un safari à petit budget"
+description: "Conseils pour réduire le coût d'un safari sans dépendre uniquement des circuits chers."
 image: "images/blog/tanzania.jpg"
 categories: ["Conseils", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

@@ -4,6 +4,7 @@ title: "Top 5 things to do in Tanzania"
 description: "Five Tanzania experiences with access and timing notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wildebeest%20at%20Serengeti%20National%20Park%20in%20Tanzania.jpg"
 categories: ["Top 5", "Tanzania", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -72,5 +73,3 @@ Allow two nights if you can. One full day is needed for the ruins; an extra buff
 - [Kilimanjaro International Airport - transport and parking](https://www.kilimanjaroairport.go.tz/pages/transport-and-car-parking): taxis and shared shuttle information for Moshi and Arusha.
 - [Air Tanzania - shuttle services](https://airtanzania.co.tz/shuttle-services): Arusha and Moshi airport shuttle pickup notes.
 - [UNESCO - Ruins of Kilwa Kisiwani and Songo Mnara](https://whc.unesco.org/en/list/144): historical context and World Heritage status.
-
-

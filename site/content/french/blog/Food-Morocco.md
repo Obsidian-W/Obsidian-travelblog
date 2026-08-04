@@ -4,6 +4,7 @@ title: "Guide cuisine : Maroc"
 description: "Quoi manger au Maroc et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg"
 categories: ["Cuisine", "Maroc", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -131,5 +132,3 @@ Sans gluten, c'est plus compliqué : pain, msemen, couscous et pâtisseries sont
 - [Office National Marocain du Tourisme - spécialités typiques du Maroc](https://visitmorocco.com/fr/informations-pratiques/d%C3%A9guster) : tanjia, rfissa, pastilla, ghriba, pâtisseries, boissons et plats principaux.
 - [Office National Marocain du Tourisme - gastronomie](https://www.visitmorocco.com/fr/decouvrir-le-maroc/gastronomie) : contexte régional, épices, plats et pâtisseries.
 - [Office National Marocain du Tourisme - shopping à Agadir-Taghazout](https://www.visitmorocco.com/fr/voyage/agadir-taghazout/shopping) : produits à base d'argan et contexte régional.
-
-

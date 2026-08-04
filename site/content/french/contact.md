@@ -2,7 +2,7 @@
 title: "Contact"
 description: "Me contacter pour une question voyage, un itinéraire ou une collaboration."
 layout: "contact"
-draft: false
+draft: true
 form_name: "contact"
 ---
 

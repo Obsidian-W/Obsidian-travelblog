@@ -4,6 +4,7 @@ title: "Kazakhstan food guide"
 description: "What to eat in Kazakhstan and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beshbarmak.jpg"
 categories: ["Food", "Kazakhstan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -66,5 +67,3 @@ Vegetarians should target Almaty and Astana cafes, Georgian restaurants, Indian 
 
 - [Kazakhstan government culture page](https://www.gov.kz/article/64578?lang=en): official context for beshbarmak, kazy, kuyrdak, baursak, kumys, shubat and Kazakh cuisine.
 - [Visit Astana - beshbarmak](https://visitastana.kz/kz/about-city/what-to-eat/beshbarmak/): official city tourism food context.
-
-

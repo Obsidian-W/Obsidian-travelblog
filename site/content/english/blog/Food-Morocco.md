@@ -4,6 +4,7 @@ title: "Morocco food guide"
 description: "What to eat in Morocco and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg"
 categories: ["Food", "Morocco", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -131,5 +132,3 @@ If you avoid gluten, Morocco is harder: bread, msemen, couscous and pastries are
 - [Moroccan National Tourist Office - Food & Drinks](https://www.visitmorocco.com/en/travel-info/food-drinks): tanjia, rfissa, pastilla, ghriba, pastries, drinks and general dish background.
 - [Moroccan National Tourist Office - Gastronomy](https://www.visitmorocco.com/en/discover-morocco/gastronomy): regional cuisine context, spices, dishes and pastries.
 - [Moroccan National Tourist Office - Agadir-Taghazout shopping](https://www.visitmorocco.com/en/travel/agadir-taghazout/shopping): argan products and regional shopping context.
-
-

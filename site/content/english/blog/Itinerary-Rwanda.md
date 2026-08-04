@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "One week in Rwanda"
+description: "A one-week Rwanda itinerary covering Kigali, Lake Kivu and the national parks."
 image: "images/blog/rwanda1.jpg"
 categories: ["Itinerary", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

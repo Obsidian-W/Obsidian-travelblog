@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire en Ouzbékistan"
 description: "Cinq expériences en Ouzbékistan avec accès et trains."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Registan%20square%20Samarkand.jpg"
 categories: ["Top 5", "Ouzbékistan", "Asie centrale"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -69,5 +70,3 @@ Si tu ajoutes la mer d'Aral ou Muynak, traite-le comme une excursion séparée a
 - [Page attractions du gouvernement ouzbek](https://gov.uz/en/pages/places_interest) : contexte national des sites.
 - [Billetterie officielle Uzbekistan Railways](https://eticket.railway.uz/en/) : vérifications ferroviaires.
 - [Horaires Uzbekistan Railways](https://eticket.railway.uz/en/pages/schedule) : routes et horaires vérifiés en août 2026.
-
-

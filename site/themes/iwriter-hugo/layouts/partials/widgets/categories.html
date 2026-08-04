@@ -7,7 +7,7 @@
   <ul class="row g-2 list-unstyled widget-categories">
     {{ range $name, $items := site.Taxonomies.categories }}
     {{ $termPage := site.GetPage (printf "/categories/%s" ($name | urlize)) }}
-    {{ $href := cond $termPage $termPage.RelPermalink (printf "%s%s/" (`categories` | relLangURL) ($name | urlize)) }}
+    {{ $href := cond $termPage $termPage.RelPermalink (printf "%s%s/" (`categories/` | relLangURL) ($name | urlize)) }}
     {{ $isActive := and (eq $.Kind "term") (eq $.Data.Plural "categories") (eq ($name | urlize) ($.Data.Term | urlize)) }}
     <li class="col">
       <a class="widget-category-link d-flex justify-content-between align-items-center bg-white rounded px-3 py-2{{ if $isActive }} active{{ end }}" href="{{ $href }}">{{ $name | humanize }}  <span class="widget-category-count ms-2">({{ len $items }})</span> </a>

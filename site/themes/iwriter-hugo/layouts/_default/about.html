@@ -14,6 +14,33 @@
           {{ .Content }}
         </div>
 
+        {{ if .Params.form_name }}
+        <div class="contact-form mt-5 pt-4 border-top">
+          <h2 class="h3 mb-3">{{ i18n `contact_me` }}</h2>
+          <p class="mb-4">{{ i18n `contact_intro` }}</p>
+          <form action="{{ site.Params.contact_form_action }}" method="post" name="{{ .Params.form_name }}" {{ if site.Params.netlify }}data-netlify="true" netlify-honeypot="always-empty"{{ end }}>
+            <input type="hidden" name="form-name" value="{{ .Params.form_name }}">
+            <div class="row g-4">
+              <div class="col-12 mb-3 mt-0">
+                <input type="text" class="form-control" placeholder="{{ i18n `your_name`}}" aria-label="{{ i18n `your_name`}}" name="name" required>
+              </div>
+              <div class="col-12 mb-3 mt-0">
+                <input type="email" class="form-control" placeholder="{{ i18n `your_email`}}" aria-label="{{ i18n `your_email`}}" name="email" required>
+              </div>
+              <div class="col-12 mb-3 mt-0">
+                <textarea rows="7" class="form-control mb-2" placeholder="{{ i18n `your_message`}}" aria-label="{{ i18n `your_message`}}" name="message" required></textarea>
+              </div>
+              <div hidden="true">
+                <input type="text" class="form-control" placeholder="Don’t fill this out if you’re human:" name="always-empty">
+              </div>
+              <div class="col-12 mb-3 mt-0">
+                <button type="submit" class="btn btn-primary btn-md">{{ i18n `submit`}}</button>
+              </div>
+            </div>
+          </form>
+        </div>
+        {{ end }}
+
         <div class="gallery-item d-none">
           <div class="row g-4">
             {{ range .Params.gallery_items }}

@@ -1,8 +1,10 @@
 ---
 date: "2024-07-25"
 title: "One week in Yunnan"
+description: "A one-week Yunnan itinerary covering Kunming, Dali, Lijiang and Tiger Leaping Gorge."
 image: "images/blog/lijiang.jpg"
 categories: ["Itinerary", "China"]
+continents: ["Asia"]
 draft: false
 ---
 

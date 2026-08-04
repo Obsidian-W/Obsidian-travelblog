@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "Two weeks in Tanzania"
+description: "A two-week Tanzania itinerary covering Dar es Salaam, Kilwa, safari, Lake Natron and Zanzibar."
 image: "images/blog/kilwa.jpg"
 categories: ["Itinerary", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

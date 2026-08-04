@@ -1,8 +1,10 @@
 ---
 date: "2025-07-01"
 title: "50 Days Across Central Asia"
+description: "A 50-day itinerary through Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan."
 image: "images/blog/samarkand.jpg"
 categories: ["Itinerary", "Central Asia"]
+continents: ["Asia"]
 draft: false
 ---
 
@@ -568,7 +570,7 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+If you get in touch, **tell him you come thanks to Timothé Paris** (that's me). He'll know.  
 
 
 ## Day 45 Konye

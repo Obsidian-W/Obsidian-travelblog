@@ -1,8 +1,10 @@
 ---
 date: "2025-08-01"
 title: "3 jours au Turkménistan"
+description: "Itinéraire court au Turkménistan, de la frontière ouzbèke à Darvaza et Achgabat."
 image: "images/blog/turkmenistan2.jpg"
 categories: ["Itinéraire", "Turkménistan"]
+continents: ["Asie"]
 draft: false
 ---
 
@@ -73,7 +75,7 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+If you get in touch, **tell him you come thanks to Timothé Paris** (that's me). He'll know.  
 
 
 Une centaine de dollars plus tard (visa + entrée + test COVID), me voilà officiellement en Turkménistan !

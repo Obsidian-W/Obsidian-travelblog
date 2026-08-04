@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire au Maroc"
 description: "Cinq expériences au Maroc avec accès et durée."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jamaa%20El%20Fna%2C%20Marrakesh%2C%20Morocco%2C%2020250124%201804%207017.jpg"
 categories: ["Top 5", "Maroc", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -70,5 +71,3 @@ Pars tôt quand il fait chaud et prends de l'eau. Les itinéraires de la cascade
 - [ONCF Voyages](https://www.oncf-voyages.ma/) : accès ferroviaires vers Casablanca, Meknès, Fès, Marrakech et Tanger.
 - [Réservation CTM](https://booking.ctm.ma/) : accès en autocar vers Chefchaouen et trajets interurbains.
 - [Visit Meknes - Volubilis](https://visit-meknes.com/en/welcome-to-volubilis/) : accès à Meknès, Moulay Idriss et Volubilis.
-
-

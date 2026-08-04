@@ -4,6 +4,7 @@ title: "Guide cuisine : Tibet"
 description: "Quoi manger au Tibet et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tibetan%20butter%20tea.jpg"
 categories: ["Cuisine", "Tibet", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -99,5 +100,3 @@ Garde du liquide pour les petits arrêts. Le paiement mobile peut fonctionner en
 - [Tibet Travel - food and dining](https://www.tibettravel.org/tibet-travel-advice/food-and-dinning.html) : liste de plats pour voyageurs, dont tsampa, thé au beurre, sweet tea et yak.
 - [Tibet Travel - Tibetan butter tea](https://www.tibettravel.org/tibetan-food/tibetan-butter-tea.html) : ingrédients, goût et contexte du thé au beurre.
 - [Wikivoyage - Tibet](https://en.wikivoyage.org/wiki/Tibet) : contexte du voyage avec permis et catégories pratiques de restauration, vérifiés en août 2026.
-
-

@@ -125,6 +125,10 @@
     padding-right: 0;
   }
 
+  .btn {
+    margin-bottom: 1.25rem;
+  }
+
   .rounded-start {
     border-radius: 0.5rem 0 0 0.5rem !important;
 
@@ -135,6 +139,8 @@
 }
 
 .card-img-fixed {
+  aspect-ratio: 16 / 10;
+  height: auto !important;
   overflow: hidden;
   border-radius: 4px;
 
@@ -142,19 +148,22 @@
   a,
   span,
   .card-img-fill {
+    height: 100%;
     width: 100%;
     display: block;
   }
 
   img {
+    height: 100% !important;
     width: 100%;
     display: block;
-    aspect-ratio: 16 / 10;
     object-fit: cover;
   }
 }
 
 .card-img-inline {
+  aspect-ratio: 4 / 3;
+  height: auto !important;
   overflow: hidden;
   border-radius: 4px;
 
@@ -162,14 +171,15 @@
   a,
   span,
   .card-img-fill {
+    height: 100%;
     width: 100%;
     display: block;
   }
 
   img {
+    height: 100% !important;
     width: 100%;
     display: block;
-    aspect-ratio: 4 / 3;
     object-fit: cover;
   }
 }

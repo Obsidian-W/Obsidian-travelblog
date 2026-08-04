@@ -1,8 +1,10 @@
 ---
 date: "2025-08-01"
 title: "3 days in Turkmenistan"
+description: "A short Turkmenistan itinerary from the Uzbek border to Darvaza and Ashgabat."
 image: "images/blog/turkmenistan2.jpg"
 categories: ["Itinerary", "Turkmenistan"]
+continents: ["Asia"]
 draft: false
 ---
 
@@ -68,7 +70,7 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+If you get in touch, **tell him you come thanks to Timothé Paris** (that's me). He'll know.  
 
 > (He's aware I'm putting his contact info here, I asked for permission. I'm not gaining anything from this)
 

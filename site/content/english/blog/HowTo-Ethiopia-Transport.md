@@ -4,6 +4,7 @@ title: "Ethiopia transport guide"
 description: "How to travel around Ethiopia independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Addis%20Abeba-Bole.jpg"
 categories: ["How-to", "Ethiopia", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -146,5 +147,3 @@ Passenger availability and procedures should be checked directly before planning
 - [UK FCDO - Ethiopia travel advice](https://www.gov.uk/foreign-travel-advice/ethiopia?ta=entryRequirements): 2026 regional travel warnings.
 - [German Federal Foreign Office - Ethiopia travel and safety advice, July 28 2026](https://www.auswaertiges-amt.de/de/reiseundsicherheit/aethiopiensicherheit-209504): recent European security-warning context.
 - [Simien Mountains National Park official site](https://simienpark.org/): park access and trekking context.
-
-

@@ -1,8 +1,10 @@
 ---
 date: "2024-07-25"
 title: "Une semaine dans le Yunnan"
+description: "Itinéraire d'une semaine dans le Yunnan, entre Kunming, Dali, Lijiang et les gorges du Saut du Tigre."
 image: "images/blog/lijiang.jpg"
 categories: ["Itinéraire", "Chine"]
+continents: ["Asie"]
 draft: false
 ---
 

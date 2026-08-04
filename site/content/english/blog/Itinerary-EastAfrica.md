@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "One month in East Africa"
+description: "A one-month itinerary through Tanzania, Kenya, Uganda and Rwanda, with route notes and practical travel context."
 image: "images/blog/kilwa.jpg"
 categories: ["Itinerary", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

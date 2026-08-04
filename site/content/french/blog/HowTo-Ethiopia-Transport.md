@@ -3,7 +3,8 @@ date: "2023-08-15"
 title: "Guide transport : Éthiopie"
 description: "Comment voyager en Éthiopie de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Addis%20Abeba-Bole.jpg"
-categories: ["Guide", "Éthiopie", "Afrique"]
+categories: ["Guide pratique", "Éthiopie", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -146,5 +147,3 @@ La disponibilité voyageurs et les procédures doivent être vérifiées directe
 - [UK FCDO - conseils aux voyageurs pour l'Éthiopie](https://www.gov.uk/foreign-travel-advice/ethiopia?ta=entryRequirements) : avertissements régionaux 2026.
 - [Ministère allemand des Affaires étrangères - Éthiopie, 28 juillet 2026](https://www.auswaertiges-amt.de/de/reiseundsicherheit/aethiopiensicherheit-209504) : contexte européen récent sur les avertissements de sécurité.
 - [Site officiel du Simien Mountains National Park](https://simienpark.org/) : contexte d'accès au parc et de trek.
-
-

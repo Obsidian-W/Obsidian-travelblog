@@ -1,8 +1,10 @@
 ---
 date: "2025-08-15"
 title: "How to visit Turkmenistan?"
+description: "Practical guide to visiting Turkmenistan with an agency, visa, budget, transport and a short itinerary."
 image: "images/blog/turkmenistan.jpg"
 categories: ["How-to", "Turkmenistan", "Central Asia"]
+continents: ["Asia"]
 draft: false
 ---
 
@@ -35,7 +37,7 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Tim Paris** (that's me). He'll know.  
+If you get in touch, **tell him you come thanks to Timothé Paris** (that's me). He'll know.  
 
 ---
 

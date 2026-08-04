@@ -4,6 +4,7 @@ title: "Top 5 des choses à faire dans le Yunnan"
 description: "Cinq expériences dans le Yunnan avec accès et altitude."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shilin%20stone%20forest.jpg"
 categories: ["Top 5", "Yunnan", "Chine"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -68,5 +69,3 @@ La météo change vite. Prends des couches même si Kunming et Dali étaient cha
 - [Site officiel de la Forêt de Pierre - transports](https://park.shilin.com.cn/public/park/en-US/detail-446-28859.html) : Kunming East Bus Station, aéroport, gare de Shilin et Shilin West.
 - [Tourisme officiel de Kunming - airport transportation](https://chinakunming.travel/en/blog/item/4547/airport-transportation) : métro et navettes de l'aéroport de Kunming.
 - [Gouvernement chinois / Xinhua - ouverture de la ligne Lijiang-Shangri-La](https://english.www.gov.cn/news/202311/27/content_WS6563efa8c6d0868f4e8e1a98.html) : date d'ouverture et temps de trajet annoncé.
-
-

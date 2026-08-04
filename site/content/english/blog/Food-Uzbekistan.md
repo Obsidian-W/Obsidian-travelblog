@@ -4,6 +4,7 @@ title: "Uzbekistan food guide"
 description: "What to eat in Uzbekistan and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg"
 categories: ["Food", "Uzbekistan", "Central Asia"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -62,5 +63,3 @@ Gluten-free travel is difficult because non, samsa, noodles and dumplings are co
 - [Uzbek cuisine, government portal](https://gov.uz/en/pages/national_foods): official context for samsa and national dishes.
 - [Uzbekistan Travel - Samarkand](https://uzbekistan.travel/en/i/samarkand/): official food context for plov, bread, kebabs and manti.
 - [Uzbekistan government tourism page](https://gov.uz/en/activity_page/tourism): UNESCO context including plov tradition.
-
-

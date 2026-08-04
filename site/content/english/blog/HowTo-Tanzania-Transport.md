@@ -4,6 +4,7 @@ title: "Tanzania transport guide"
 description: "How to travel around Tanzania independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dar%20es%20Salaam%20SGR%20station%20%2801%29.png"
 categories: ["How-to", "Tanzania", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -152,5 +153,3 @@ This matters because the safari vehicle is not just transport. It controls park 
 - [TAZARA - passenger services](https://tazarasite.com/passenger-services): passenger train types and Dar es Salaam-New Kapiri Mposhi service context.
 - [TAZARA - 2026 cross-border service resumption](https://tazarasite.com/tazara-announces-resumption-cross-border-services): current cross-border passenger-service status.
 - [TAZARA - tickets and reservations](https://mail.tazarasite.com/tickets-and-reservations): advance booking and station contact guidance.
-
-

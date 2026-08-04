@@ -1,8 +1,10 @@
 ---
 date: "2023-08-22"
 title: "Doing a safari on a budget"
+description: "Advice for reducing safari costs without relying only on expensive packaged tours."
 image: "images/blog/tanzania.jpg"
 categories: ["Tips", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

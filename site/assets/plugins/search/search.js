@@ -57,6 +57,7 @@ function executeSearch(searchQuery) {
 function populateResults(result) {
   result.forEach((value, key) => {
     var contents = value.item.contents;
+    var description = value.item.description || "";
     var snippet = "";
     var snippetHighlights = [];
     const matchValue = value.matches;
@@ -84,7 +85,7 @@ function populateResults(result) {
     });
 
     if (snippet.length < 1) {
-      snippet += contents.substring(0, summaryInclude * 2);
+      snippet += description || contents.substring(0, summaryInclude * 2);
     }
     //pull template from hugo templarte definition
     var templateDefinition = document.querySelector(

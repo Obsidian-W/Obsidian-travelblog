@@ -1,8 +1,10 @@
 ---
 date: "2023-08-22"
 title: "Voyager en Afrique comme un Pro"
+description: "Conseils pratiques pour préparer un voyage indépendant en Afrique, avec transport, sécurité, budget et organisation."
 image: "images/blog/zanzibar.jpg"
-categories: ["Tips", "Africa"]
+categories: ["Conseils", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

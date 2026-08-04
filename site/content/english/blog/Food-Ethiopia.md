@@ -4,6 +4,7 @@ title: "Ethiopia food guide"
 description: "What to eat in Ethiopia and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eating%20Injera%2C%20Ethiopia%20%2814683490675%29.jpg"
 categories: ["Food", "Ethiopia", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -97,5 +98,3 @@ If you need mild food, ask for **alicha** dishes, shiro, rice, bread, lentils or
 - [Deliver Addis - Azmera Shiro Bole](https://deliveraddis.com/restaurants/azmera-bole): Addis Ababa menu prices checked in August 2026 for shiro, fasting dishes, tibs, kitfo and doro wat.
 - [Deliver Addis - Kategna Bole Millennium](https://deliveraddis.com/restaurants/kategna-bole-millennium): Addis Ababa menu prices checked in August 2026 for fasting dishes, shiro, tibs, kitfo and doro wat.
 - [Deliver Addis - Mitmita Restaurant Bole](https://deliveraddis.com/restaurants/mitmita-restaurant): Addis Ababa menu prices checked in August 2026 for mixed plates, extras and injera.
-
-

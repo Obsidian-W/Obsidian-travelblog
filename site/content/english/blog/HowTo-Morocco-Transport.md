@@ -4,6 +4,7 @@ title: "Morocco transport guide"
 description: "How to travel around Morocco independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/22.11.24%20Tanger-Ville%201208%20%2854166318289%29.jpg"
 categories: ["How-to", "Morocco", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -151,5 +152,3 @@ The Morocco-Algeria land border is closed. Check current rules before planning r
 - [Baleària - Tangier Ville to Tarifa](https://www.balearia.com/fr/routes-horaires/bateau-tanger-ville-tarifa): ferry route.
 - [AML](https://www.amlmaroc.com/en): Morocco-Spain ferry operator.
 - [Visit Meknes - Volubilis](https://visit-meknes.com/en/welcome-to-volubilis/): Meknes, Moulay Idriss and Volubilis access.
-
-

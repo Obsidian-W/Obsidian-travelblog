@@ -3,7 +3,8 @@ date: "2023-08-15"
 title: "Guide cuisine : Tanzanie"
 description: "Quoi manger en Tanzanie et où chercher."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%2020251129%20163844.jpg"
-categories: ["Food", "Tanzanie", "Afrique"]
+categories: ["Cuisine", "Tanzanie", "Afrique"]
+continents: ["Afrique"]
 ai_generated: true
 draft: false
 ---
@@ -102,5 +103,3 @@ Pour l'alcool, vérifie le contexte. Il est facile à trouver dans les hôtels t
 - [Tanzania Tourism Board - Zanzibar Island FAM Trip](https://site.tanzaniatourism.go.tz/page/zanzibar-island-fam-trip-international-hosted-buyers-only-) : contexte Stone Town et spice farm.
 - [Ambassade de Tanzanie à Washington - People and Culture](https://www.us.tzembassy.go.tz/tanzania/category/people-and-culture) : liste officielle de plats tanzaniens côtiers et de l'intérieur.
 - [The Tanzanian Guide - Food in Tanzania](https://www.thetanzanianguide.com/food-guide/) : source comparative 2026 pour la variété des plats, les différences régionales et les repères de prix locaux.
-
-

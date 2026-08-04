@@ -1,8 +1,10 @@
 ---
 date: "2026-05-01"
 title: "My two weeks in Morocco - South to North"
+description: "A two-week Morocco itinerary from Marrakech and the Atlas to Fes, Chefchaouen, Rabat and Casablanca."
 image: "images/blog/morocco.jpg"
 categories: ["Itinerary", "Africa", "Morocco"]
+continents: ["Africa"]
 draft: false
 ---
 

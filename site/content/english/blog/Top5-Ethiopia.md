@@ -4,6 +4,7 @@ title: "Top 5 things to do in Ethiopia"
 description: "Five Ethiopia experiences with access and safety notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bet%20Gyorgis%20Lalibela.jpg"
 categories: ["Top 5", "Ethiopia", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -69,5 +70,3 @@ Allow two nights if you can. One night is possible, but it leaves little margin 
 - [UNESCO - Fasil Ghebbi, Gondar Region](https://whc.unesco.org/en/list/19/): heritage context for Gondar.
 - [Simien Mountains National Park official site](https://simienpark.org/): park landscape and trekking context.
 - [Addis Ababa Tourism Commission](https://aatc.gov.et/): official Addis Ababa visitor context.
-
-

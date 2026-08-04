@@ -1,8 +1,10 @@
 ---
 date: "2023-08-15"
 title: "Une semaine au Rwanda"
+description: "Itinéraire d'une semaine au Rwanda, entre Kigali, le lac Kivu et les parcs nationaux."
 image: "images/blog/rwanda1.jpg"
 categories: ["Itinéraire", "Afrique"]
+continents: ["Afrique"]
 draft: false
 ---
 

@@ -4,6 +4,7 @@ title: "Top 5 things to do in Morocco"
 description: "Five Morocco experiences with access and timing notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jamaa%20El%20Fna%2C%20Marrakesh%2C%20Morocco%2C%2020250124%201804%207017.jpg"
 categories: ["Top 5", "Morocco", "Africa"]
+continents: ["Africa"]
 ai_generated: true
 draft: false
 ---
@@ -70,5 +71,3 @@ Start early in hot weather and bring water. The waterfall and God's Bridge route
 - [ONCF Voyages](https://www.oncf-voyages.ma/): rail access checks for Casablanca, Meknes, Fes, Marrakesh and Tangier.
 - [CTM booking](https://booking.ctm.ma/): coach access checks for Chefchaouen and intercity routes.
 - [Visit Meknes - Volubilis](https://visit-meknes.com/en/welcome-to-volubilis/): Meknes, Moulay Idriss and Volubilis access notes.
-
-

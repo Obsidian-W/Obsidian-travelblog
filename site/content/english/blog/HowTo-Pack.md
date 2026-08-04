@@ -1,6 +1,7 @@
 ---
 date: "2025-10-01"
 title: "How to pack for lightweight travel"
+description: "Practical advice for travelling light, choosing a backpack and avoiding unnecessary gear."
 image: "images/blog/bag.jpg"
 categories: ["Tips", "How-to"]
 draft: false

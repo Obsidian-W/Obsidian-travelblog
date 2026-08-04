@@ -1,8 +1,10 @@
 ---
 date: "2025-09-27"
 title: "Conseils pratiques pour voyager en Chine"
+description: "Conseils de terrain pour voyager en Chine, avec paiements, applications, transport et organisation."
 image: "images/blog/lijiang.jpg"
 categories: ["Conseils", "Chine"]
+continents: ["Asie"]
 draft: false
 ---
 

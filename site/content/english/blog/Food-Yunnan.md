@@ -4,6 +4,7 @@ title: "Yunnan food guide"
 description: "What to eat in Yunnan and where to look for it."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Crossing%20the%20Bridge%20Noodle%20at%20Qian%20Xiang%20Yuan.jpg"
 categories: ["Food", "Yunnan", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -98,5 +99,3 @@ For prices, avoid using old blog figures. Menu inflation and platform pricing va
 - [Visit Colorful Yunnan - Yunnan flavors](https://www.visityunnanchina.com/plan-your-trip/travel-blog/feast-senses-savor-flavors-yunnan): Yunnan dishes including rice noodles, mushrooms, flower cakes and Pu'er tea.
 - [Wikivoyage Yunnan](https://en.wikivoyage.org/wiki/Yunnan): practical dish list including rice noodles and rubing.
 - [Visit Yunnan - Yunnan food guide](https://visit-yunnan.com/en/blog/yunnan-food-guide): comparative 2026 traveller source for regional dishes, mushrooms, cheese, noodles and practical eating context.
-
-

@@ -1,8 +1,10 @@
 ---
 date: "2023-08-22"
 title: "Traveling in Africa like a Pro"
+description: "Practical advice for independent travel in Africa, with transport, safety, budget and planning notes."
 image: "images/blog/zanzibar.jpg"
 categories: ["Tips", "Africa"]
+continents: ["Africa"]
 draft: false
 ---
 

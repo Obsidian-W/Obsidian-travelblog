@@ -3,7 +3,8 @@ date: "2025-07-01"
 title: "Guide transport : Ouzbékistan"
 description: "Comment voyager en Ouzbékistan de façon indépendante."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Afrosyab.jpg"
-categories: ["Guide", "Ouzbékistan", "Asie centrale"]
+categories: ["Guide pratique", "Ouzbékistan", "Asie centrale"]
+continents: ["Asie"]
 ai_generated: true
 draft: false
 ---
@@ -152,5 +153,3 @@ A Tashkent, le paiement des transports devient plus numérique. Des avis municip
 - [Ville de Tashkent - avis juillet 2026](https://tashkent.uz/en/news/7333) : paiement sans contact et cartes de transport dans les bus.
 - [UZCARD - cartes transport-bancaires, juin 2026](https://uzcard.uz/en/news/increase_in_transport_bank_cards_issued) : contexte ATTO, bus et métro.
 - [Exemple d'itinéraire Uzbekistan Travel](https://uzbekistan.travel/en/o/uzbekistan-tashkent-bukhara-samarkand-6-days-5-nights-travel-itinerary/) : route officielle Tashkent, Bukhara et Samarkand.
-
-

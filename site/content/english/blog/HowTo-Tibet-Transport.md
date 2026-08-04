@@ -4,6 +4,7 @@ title: "Tibet transport guide"
 description: "How transport works in Tibet for foreign travellers."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lhasa%20train%20station.JPG"
 categories: ["How-to", "Tibet", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -139,5 +140,3 @@ If you are prone to motion sickness, prepare before Yamdrok, Gyantse, Everest or
 - [National Immigration Administration - border area permit FAQ, 2026](https://s.nia.gov.cn/mps/bszy/dzbjtxz/blzy/202604/t20260414_1001.html): border permit context.
 - [Lhasa Gonggar Airport travel guide, Tibet government](https://www.xizang.gov.cn/zmhd/hygq/202602/t20260210_524341.html): Lhasa airport bus routes, ticketing and airport-city timing.
 - [12306 China Railway](https://www.12306.cn/en/): official rail booking and live train checks.
-
-

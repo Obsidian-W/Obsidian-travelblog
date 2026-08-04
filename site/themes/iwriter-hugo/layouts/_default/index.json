@@ -8,6 +8,6 @@
 {{- end -}}
 {{- $image:= $.Scratch.Get "image" -}}
 
-{{- $.Scratch.Add "index" (dict "title" .Title "date" $date "image" $image "categories" .Params.categories "contents" (.Content | plainify) "permalink" .RelPermalink) -}}
+{{- $.Scratch.Add "index" (dict "title" .Title "date" $date "image" $image "categories" .Params.categories "description" (.Description | default .Summary | plainify) "contents" (.Content | plainify) "permalink" .RelPermalink) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

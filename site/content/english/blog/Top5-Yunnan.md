@@ -4,6 +4,7 @@ title: "Top 5 things to do in Yunnan"
 description: "Five Yunnan experiences with access and altitude notes."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shilin%20stone%20forest.jpg"
 categories: ["Top 5", "Yunnan", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -68,5 +69,3 @@ Weather changes quickly. Bring layers even if Kunming and Dali were warm.
 - [Stone Forest official transport page](https://park.shilin.com.cn/public/park/en-US/detail-446-28859.html): Kunming East Bus Station, airport, Shilin station and Shilin West transport notes.
 - [Kunming official tourism - airport transportation](https://chinakunming.travel/en/blog/item/4547/airport-transportation): Kunming airport metro and shuttle context.
 - [Chinese government/Xinhua - Lijiang-Shangri-La railway opening](https://english.www.gov.cn/news/202311/27/content_WS6563efa8c6d0868f4e8e1a98.html): opening date and fastest opening-time journey.
-
-

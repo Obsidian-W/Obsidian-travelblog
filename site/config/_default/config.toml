@@ -23,6 +23,12 @@ shortname = 'obsidian-travels'
 disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
+############################# Taxonomies ##############################
+[taxonomies]
+category = "categories"
+tag = "tags"
+continent = "continents"
+
 
 
 ############################# Outputs ##############################

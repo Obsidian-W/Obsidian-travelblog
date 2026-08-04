@@ -4,6 +4,7 @@ title: "Hong Kong transport guide"
 description: "How to get around Hong Kong independently."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/MTR-train.jpg"
 categories: ["How-to", "Hong Kong", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -167,5 +168,3 @@ From April 1, 2026, Hong Kong taxi drivers are required to provide at least two 
 - [Hong Kong Tourism Board - Dragon's Back](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-dragon-s-back.html): bus 9 access details.
 - [Octopus - tourist usage](https://www.octopus.com.hk/en/consumer/tourist/usages/index.html): topping up and tourist-use details.
 - [Hong Kong government press release, March 2026](https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm): taxi electronic-payment requirement from April 1, 2026.
-
-

@@ -2,8 +2,9 @@
 date: "2025-09-27"
 title: "Top 5 things to do in Hong Kong"
 description: "Five Hong Kong experiences with access and timing notes."
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Ferry%20Hong%20Kong.jpg"
+image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Ferry%20Hong%20Kong.%20%2814143932945%29.jpg"
 categories: ["Top 5", "Hong Kong", "China"]
+continents: ["Asia"]
 ai_generated: true
 draft: false
 ---
@@ -14,7 +15,7 @@ For a short Hong Kong trip, keep five experiences first: a harbour crossing, a P
 
 ## 1. Ride the Star Ferry across Victoria Harbour
 
-![Victoria Harbour](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hong%20Kong%20Skyline%20Restitch%20-%20Dec%202007.jpg)
+![Star Ferry on Victoria Harbour](https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Ferry%20Hong%20Kong.%20%2814143932945%29.jpg)
 
 The **Star Ferry** is still the simplest way to understand Hong Kong's geography. Cross between **Tsim Sha Tsui** and **Central** or **Wan Chai**, then walk part of the waterfront on either side.
 
@@ -68,5 +69,3 @@ Bring water. Hong Kong hiking is accessible, but heat and humidity make it more 
 - [Hong Kong Tourism Board - Dragon's Back](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-dragon-s-back.html): route, access, duration and difficulty.
 - [Hong Kong Tourism Board - Lantau](https://www.discoverhongkong.com/eng/neighbourhoods/outlying-islands/the-best-things-to-do-on-lantau-island.html): Big Buddha, Ngong Ping and Lantau context.
 - [Hong Kong Transport Department - ferries](https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/): Star Ferry and ferry-service context.
-
-

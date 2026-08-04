@@ -1,8 +1,10 @@
 ---
 date: "2025-09-27"
 title: "Une semaine dans le delta de la Rivière des Perles"
+description: "Itinéraire d'une semaine entre Hong Kong, Macao, Shenzhen et Guangzhou."
 image: "images/blog/pearldelta.jpg"
 categories: ["Itinéraire", "Chine"]
+continents: ["Asie"]
 draft: false
 ---
 

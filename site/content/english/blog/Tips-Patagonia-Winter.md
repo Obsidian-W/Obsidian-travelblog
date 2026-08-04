@@ -1,8 +1,10 @@
 ---
 date: "2022-09-01"
 title: "Going to Patagonia in winter ❄️"
+description: "Advice for travelling in Patagonia in winter, with weather, transport, gear and seasonal limits."
 image: "images/blog/patagonia3.jpg"
 categories: ["Tips", "South America", "Chile", "Argentina"]
+continents: ["South America"]
 draft: false
 ---
 
