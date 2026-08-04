@@ -2,7 +2,8 @@
 <div class="widget recent-post">
   <h5 class="widget-title"><span>{{ "latest article" }}</span></h5>
   <!-- post-item -->
-  {{ range first 3 ( where site.RegularPages "Section" "blog" )}}
+  {{ $recentPages := where (where site.RegularPages "Section" "blog") "Params.ai_generated" "!=" true }}
+  {{ range first 3 $recentPages }}
   <div class="card bg-white p-2 widget-list mb-3">
     <div class="row g-0 align-items-center">
       {{ if .Params.image }}

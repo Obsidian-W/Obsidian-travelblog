@@ -33,9 +33,8 @@
       <div class="{{if eq $sidebar `true` }} col-lg-8 {{else}} col-12 {{end}}">
         <div class="row row-cols-1 row-cols-md-2 gy-4">
           {{ $mainPages := where site.RegularPages "Section" "in" site.Params.mainSections }}
-          {{ $homepagePages := where $mainPages "Params.ai_generated" "ne" true }}
-          {{ $paginator:= .Paginate $homepagePages }}
-          {{ range $paginator.Pages }}
+          {{ $homepagePages := where $mainPages "Params.ai_generated" "!=" true }}
+          {{ range first 6 $homepagePages }}
 
           {{ if eq $sidebar "true"}}
           <div class="col">
