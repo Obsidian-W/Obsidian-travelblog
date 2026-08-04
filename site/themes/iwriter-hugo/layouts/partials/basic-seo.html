@@ -66,6 +66,7 @@
 <title>{{ $seoTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <meta name="author" content="{{ site.Params.metadata.author | default site.Params.author | default $siteTitle }}">
+<meta name="google-adsense-account" content="ca-pub-9678233435673145">
 {{- if gt (len $keywords) 0 }}
 <meta name="keywords" content="{{ delimit $keywords ", " }}">
 {{- end }}
