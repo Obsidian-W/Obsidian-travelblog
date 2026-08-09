@@ -2,82 +2,92 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+local_backend: true
 
-languages:
-  en:
-    contentDir: content/english
-    languageName: English
-    weight: 10
-  fr:
-    contentDir: content/french
-    languageName: Français
-    weight: 20
+media_folder: "site/assets/images/uploads"
+public_folder: "images/uploads"
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+collections:
+  - name: "english_posts"
+    label: "English Posts"
+    folder: "site/content/english/blog"
+    create: true
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Intro Blurb", name: "description", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Categories", name: "categories", widget: "list", required: false }
+      - { label: "Continents", name: "continents", widget: "list", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "AI Generated", name: "ai_generated", widget: "boolean", default: false, required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-    format: "yaml-frontmatter" # Specify frontmatter format to use (default is YAML)
-  - name: "pages"
-    label: "Pages"
+
+  - name: "french_posts"
+    label: "French Posts"
+    folder: "site/content/french/blog"
+    create: true
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Categories", name: "categories", widget: "list", required: false }
+      - { label: "Continents", name: "continents", widget: "list", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "AI Generated", name: "ai_generated", widget: "boolean", default: false, required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "english_pages"
+    label: "English Pages"
     files:
-      - file: "site/content/_index.md"
-        label: "Home Page"
+      - file: "site/content/english/_index.md"
+        label: "Home"
         name: "home"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Subtitle", name: "subtitle", widget: "string" }
-          - { label: "Image", name: "image", widget: "image" }
-          - {
-              label: "Blurb",
-              name: blurb,
-              widget: object,
-              fields:
-                [
-                  { label: "Heading", name: "heading", widget: "string" },
-                  { label: "Text", name: "text", widget: "text" },
-                ],
-            }
-          - {
-              label: "Text",
-              name: text,
-              widget: object,
-              fields:
-                [
-                  { label: "Heading", name: "heading", widget: "string ""},
-                  { label: "Text", name: "text", widget: "text" },
-                ],
-            }
-  - name: "site_settings"
-    label: "Site Settings"
-    files:
-      - file: "site/data/footer.json"
-        label: Footer
-        name: footer
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Blurb", name: "blurb", widget: "text" }
-      - file: "site/hugo.toml"
-        label: Hugo Config
-        name: config
-        editor:
-          preview: false
-        fields:
-          - { label: Site Title for Browser Tab, name: "title", widget: "string" }
-          - label: Params
-            name: params
-            widget: object
+          - label: "Banner"
+            name: "banner"
+            widget: "object"
             fields:
-              - label: Open Graph Image
-                name: images
-                widget: list
-                field: { label: Image, name: image, widget: image }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Image", name: "image", widget: "image" }
+      - file: "site/content/english/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text", required: false }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "french_pages"
+    label: "French Pages"
+    files:
+      - file: "site/content/french/_index.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - label: "Banner"
+            name: "banner"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Image", name: "image", widget: "image" }
+      - file: "site/content/french/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text", required: false }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
+          - { label: "Body", name: "body", widget: "markdown" }

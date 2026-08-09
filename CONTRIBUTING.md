@@ -1,54 +1,27 @@
-# CONTRIBUTING
+# Contributing
 
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
-
-## Setup
+Before making changes, install dependencies from the repository root:
 
 ```sh
-$ git clone https://github.com/decaporg/one-click-hugo-cms
-$ cd one-click-hugo-cms
-$ yarn
+npm install
 ```
 
-## Building
+Run the local Hugo server:
 
 ```sh
-$ yarn build
+npm start
 ```
 
-## Running the server
+Build before publishing:
 
 ```sh
-$ yarn start
+npm run build
 ```
 
-## Testing
-
-With the development server running:
+Run Cypress smoke tests against a running local site when navigation or page structure changes:
 
 ```sh
-$ yarn cypress:run
+npm run cypress:run
 ```
 
-## Linting
-
-```sh
-$ yarn lint
-```
-
-## Pull Requests
-
-We actively welcome your pull requests.
-
-1. Fork the repo and create your branch from `main`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-
-## License
-
-By contributing to the Hugo template for Decap CMS with Netlify Identity,
-you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+Keep generated build output out of commits unless the deployment setup explicitly requires it.

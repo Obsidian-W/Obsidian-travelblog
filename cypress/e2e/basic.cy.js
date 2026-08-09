@@ -1,34 +1,32 @@
-describe("empty spec", () => {
+describe("Obsidian Travels", () => {
   beforeEach(() => {
     cy.visit("/");
   });
 
-  it("opens the index page", () => {
-    cy.get("h1").contains("Great coffee with a conscience");
-  });
-
-  it("navigates to the product page", () => {
-    cy.get('a[href="/products"]').eq(0).click();
-    cy.url().should("include", "/products");
-    cy.get("h1").contains(/Our Coffee/i);
-  });
-
-  it("navigates to the values page", () => {
-    cy.get('a[href="/values"]').eq(0).click();
-    cy.url().should("include", "/values");
-    cy.get("h1").contains(/Values/i);
+  it("opens the home page", () => {
+    cy.get("h1").contains("Obsidian Travels");
   });
 
   it("navigates to the blog page", () => {
-    cy.get('a[href="/post"]').eq(0).click();
-    cy.url().should("include", "/post");
-    cy.get("h1").contains(/Latest Stories/i);
+    cy.get('a[href="/blog/"]').first().click();
+    cy.url().should("include", "/blog/");
+    cy.get("h1").contains(/Travel Blog/i);
   });
-});
 
-describe("validate blog", () => {
-  it("should have only 3 blog posts by default", () => {
-    cy.visit("/post");
-    cy.get("ul#blog-list li").should("have.length", 3);
+  it("navigates to the about page", () => {
+    cy.get('a[href="/about/"]').first().click();
+    cy.url().should("include", "/about/");
+    cy.get("h1").contains(/About/i);
+  });
+
+  it("navigates to the categories page", () => {
+    cy.get('a[href="/categories/"]').first().click();
+    cy.url().should("include", "/categories/");
+    cy.get("h1").contains(/Categories/i);
+  });
+
+  it("serves the French home page", () => {
+    cy.visit("/fr/");
+    cy.get("h1").contains("Obsidian Travels");
   });
 });
