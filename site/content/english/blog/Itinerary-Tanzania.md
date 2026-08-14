@@ -13,12 +13,9 @@ draft: false
 > This is an excerpt from a longer article
 
 
-{{< youtube vUrVeRGo5IM >}}
-(Loading test, there is a cross-site cookie issue on my dev server)
-
 Before diving into my itinerary, a few considerations:
 
-- English is the Lingua Franca in the region, but in Rwanda many people speak french instead
+- English is the Lingua Franca in the region
 - I actually came from Ethiopia, crossing through Kenya using the Moyale border
 - Backpacking is not a big thing in East Africa
 - It might be dangerous at times, I don't recommend going alone
@@ -334,12 +331,10 @@ But I had to waste a day here (So two days of transport wasted to See Kilwa, do 
 
 Short bus from Dar (1h 30 min).  
 **Bagamoyo** is a small coastal town with colonial buildings, it's like Lamu or Tanga:
-A typical Swahili coast city.  
-
+A typical Swahili coast city. 
 
 A quiet final stop before crossing into Kenya and a good way to slightly break the trip.
 To sleep, either: In Bagamoyo, back to Dar, or in Tanga, a bit more north.
-
 
 ---
 Comments?

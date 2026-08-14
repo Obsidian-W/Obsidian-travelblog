@@ -11,15 +11,15 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-This list keeps Yunnan's main contrasts: karst, old towns, lake country, gorge hiking and Tibetan highland culture. The province is large, so each choice needs a real time commitment rather than a quick photo stop.
+Yunnan changes climate, altitude, food and culture as the railway moves north. These five follow that change instead of listing old towns until the wooden roofs blur together.
 
 ## 1. Visit the Stone Forest at Shilin
 
 ![Stone Forest near Kunming](https://commons.wikimedia.org/wiki/Special:Redirect/file/Shilin%20stone%20forest.jpg)
 
-The **Stone Forest** at Shilin is the clearest karst landscape near Kunming and the easiest major excursion in central Yunnan. It is the reason to give Kunming more than a transfer night; **Green Lake**, **Yuantong Temple** and the food scene fill the remaining city time.
+Shilin is a forest made of limestone blades, paths and tour groups wearing matching hats. Leave the main loop and the noise drops quickly. It is expensive for a day trip, but the formations are strange enough to survive the ticket price.
 
-Allow one day for Shilin. The official Stone Forest site lists tourist buses from **Kunming East Bus Station** to the scenic area, plus buses from the airport and Shilin stations. The fast train to **Shilin West** can be quicker, but you still need the local connection to the scenic area.
+Give it one day for Shilin. The official Stone Forest site lists tourist buses from **Kunming East Bus Station** to the scenic area, plus buses from the airport and Shilin stations. The fast train to **Shilin West** can be quicker, but you still need the local connection to the scenic area.
 
 Do not combine Shilin with a same-day train to Dali unless you are comfortable with a long, rigid day. Kunming is big, transfers take time, and Chinese stations are not places to arrive at the last minute.
 
@@ -27,9 +27,9 @@ Do not combine Shilin with a same-day train to Dali unless you are comfortable w
 
 ![Lake Erhai near Dali](https://commons.wikimedia.org/wiki/Special:Redirect/file/Erhai%20Lake%20Dali%2016.JPG)
 
-**Dali** is useful because it combines an easy old town with access to **Lake Erhai** and Bai villages. The old town is comfortable but touristy; the better day is usually around the lake, with **Xizhou** as the stronger village stop.
+Dali Old Town is pleasant and full of cafes, which can quietly consume the whole visit. The better day circles Erhai toward Xizhou for Bai houses and street food. With clear weather, the lake and Cangshan make the old town feel like the waiting room rather than the destination.
 
-Allow two nights. One day is enough for the old town and a first look at the lake, but two nights make the stop calmer. Rent a bike or e-bike only if you are comfortable with local traffic and battery range. Otherwise, use taxis or local transport for selected lake sections.
+Give it two nights. One day is enough for the old town and a first look at the lake, but two nights make the stop calmer. Rent a bike or e-bike only if you are comfortable with local traffic and battery range. Otherwise, use taxis or local transport for selected lake sections.
 
 Kunming to Dali is now straightforward by train. Check 12306 for the live timetable rather than relying on fixed train numbers.
 
@@ -37,9 +37,9 @@ Kunming to Dali is now straightforward by train. Check 12306 for the live timeta
 
 ![Lijiang Old Town](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lijiang%20Old%20Town.jpg)
 
-**Lijiang Old Town** is commercial, but it remains one of Yunnan's most distinctive urban landscapes: canals, wooden buildings and a mountain backdrop. **Baisha** and **Shuhe** are useful counterweights because they are smaller and easier to handle.
+Lijiang is beautiful and aggressively commercial. Go early, then escape to Baisha or Shuhe before another shop sells you the same scarf. The smaller towns keep the canals and wooden houses without making every lane feel designed by a tourism committee.
 
-Allow two nights if you plan to add **Jade Dragon Snow Mountain** or **Tiger Leaping Gorge** from Lijiang. Stay where you can reach the old town on foot without dragging luggage deep through stone lanes.
+Give it two nights if you plan to add **Jade Dragon Snow Mountain** or **Tiger Leaping Gorge** from Lijiang. Stay where you can reach the old town on foot without dragging luggage deep through stone lanes.
 
 The old town is better early in the morning or after the tour groups thin out. Baisha is smaller and easier to enjoy slowly.
 
@@ -47,9 +47,9 @@ The old town is better early in the morning or after the tour groups thin out. B
 
 ![Tiger Leaping Gorge](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tiger-leaping-gorge.jpg)
 
-**Tiger Leaping Gorge** is the main reason to add a proper hiking day to northwest Yunnan. The high trail gives views over the gorge and the Jade Dragon Snow Mountain side, and it breaks the old-town pattern that can otherwise dominate the trip.
+Tiger Leaping Gorge cures old-town fatigue. The high trail replaces souvenir lanes with switchbacks, guesthouses and a river absurdly far below. A one-day viewpoint visit is not the same thing; sleep in the gorge and let your legs complain properly.
 
-Allow two days if possible. A rushed one-day visit is mainly a viewpoint trip, not the classic hike. Most travellers start from the Lijiang side, use a bus or arranged transfer to the trail area, sleep in the gorge, then continue or return the next day.
+Give it two days if possible. A rushed one-day visit is mainly a viewpoint trip, not the classic hike. Most travellers start from the Lijiang side, use a bus or arranged transfer to the trail area, sleep in the gorge, then continue or return the next day.
 
 Check local conditions before committing. Rain, landslides, road works and guesthouse access can affect the route. Carry cash, water and a light bag.
 
@@ -57,9 +57,9 @@ Check local conditions before committing. Rain, landslides, road works and guest
 
 ![Songzanlin Monastery near Shangri-La](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gandan%20Sumtseling%20Monastery.jpg)
 
-**Shangri-La** is the Tibetan highland end of northwest Yunnan. The useful stops are **Dukezong Old Town**, **Songzanlin Monastery** and nearby plateau scenery. It is not a substitute for Tibet, but it gives a first look at Tibetan culture without the permit system of the Tibet Autonomous Region.
+Shangri-La is where Yunnan suddenly becomes cold, high and Tibetan. Dukezong was partly rebuilt after fire, while Songzanlin looks magnificent above the lake even when the altitude makes its stairs personally offensive. It is not “Tibet without paperwork”; it is its own borderland culture.
 
-Allow two nights if you are sensitive to altitude. Shangri-La is much higher than Kunming, Dali or Lijiang, so do not arrive and immediately plan a hard hiking day. The Lijiang-Shangri-La railway opened in 2023, and state media reported the fastest Lijiang-Shangri-La time at about 1 hour 18 minutes when it opened.
+Give it two nights if you are sensitive to altitude. Shangri-La is much higher than Kunming, Dali or Lijiang, so do not arrive and immediately plan a hard hiking day. The Lijiang-Shangri-La railway opened in 2023, and state media reported the fastest Lijiang-Shangri-La time at about 1 hour 18 minutes when it opened.
 
 Weather changes quickly. Bring layers even if Kunming and Dali were warm.
 

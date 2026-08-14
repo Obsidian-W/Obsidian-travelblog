@@ -11,121 +11,96 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-## Marrakesh markets, tanjia and pastries
+## Tajine
+
+**Tajine** is found throughout Morocco. The name refers to the shallow clay pot with a conical lid as well as the dish cooked inside it. Recipes vary by region and household, with versions based on meat, fish or vegetables.
+
+## Marrakesh: tanjia and Jemaa el-Fnaa
 
 ![Tanjia in Marrakesh](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg)
 
-**Tanjia** is the Marrakesh dish to look for. Meat, preserved lemon, garlic, spices and oil are cooked slowly in a tall earthen jar. It is not a tajine: the vessel and cooking method are different.
+**Tanjia is a speciality of Marrakesh.** Meat, preserved lemon, garlic, cumin, saffron and fat are placed in a tall clay jar and slow-cooked, traditionally in the embers of a communal oven or hammam furnace. The result is very tender meat in a concentrated sauce.
 
-| Food | What it is | Where to try it |
-| --- | --- | --- |
-| Tanjia | Slow-cooked meat in an earthen jar | Small Marrakesh restaurants with a short local menu |
-| Msemen | Layered pan-cooked flatbread | Breakfast counters and bakeries |
-| Baghrir | Soft semolina pancakes | Morning stalls and cafes |
-| Harcha | Crumbly semolina bread | Bakeries |
-| Fresh orange juice | Pressed juice | Juice stalls and cafes |
+At Jemaa el-Fnaa, establish the price before accepting bread, olives or small side plates, as they may be added to the bill. Choose a stall that squeezes orange juice in front of you rather than serving it from a prepared jug.
 
-Breakfast is the easiest meal to get right in Marrakesh. Msemen is rich and layered. Baghrir is spongy and works with honey or amlou. Harcha is drier and more crumbly.
+## Breakfast breads
 
-For a quick meal, avoid restaurants with a huge multilingual menu and photos of every dish. Small places doing a few stews, grilled meat, soup or breakfast breads are usually more useful. Around Jemaa el-Fnaa, stalls can be convenient, but the calmer streets just off the main square are often easier.
+**Msemen** is folded, layered and cooked on a griddle. **Baghrir** is a soft semolina pancake full of small holes, usually served with honey and butter. **Harcha** is also semolina-based but crumbly, grainy and much drier.
 
 ## Fes medina food and traditional restaurants
 
 ![Ghriba](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ghoriyba%20aux%20amandes.jpg)
 
-Fes is the strongest stop for pastry shops, preserved ingredients and more formal cooked dishes.
+Fes cooking leans into sweet-savoury combinations. **Pastilla** hides pigeon or chicken beneath crisp warqa pastry; poultry versions are dusted with sugar and cinnamon. It sounds wrong until the salty filling, almond sweetness and brittle pastry arrive together. Then it's even more wrong.
 
-| Dish or product | What it is | Where to look |
-| --- | --- | --- |
-| Pastilla | Crisp pastry with a savoury filling | Traditional restaurants |
-| Rfissa | Shredded msemen with chicken, lentils and broth | Restaurants with a Moroccan home-style menu |
-| Khlii | Preserved spiced meat | Specialist grocers |
-| Cornes de gazelle | Almond and orange-blossom pastry | Patisseries |
-| Ghriba | Soft almond or semolina cookie | Patisseries and medina sweet shops |
-| Sellou | Toasted flour, sesame and nut mixture | Sweet shops |
+> I loved it tbh, but it's not for everyone and gets old fast. It's better shared or eaten in two times (It's lovely for both dinner and breakfast)
 
-Pastilla is usually more of a restaurant dish. Rfissa is a full meal; the bread absorbs the broth and it is heavier than it looks. Khlii should come from a busy grocer, not a souvenir counter.
+> I tried it in Dar Baraka in Meknes.
+> It's one of the best rated and famous restaurant of Meknes.
+> The owner and his wife are the only two employees, and the location is their home, thus you understand the novelty;
+> Oh, it's also not guaranteed you get a spot, you knock, the owner looks at you, then decide if you can enter!
 
-Fes is also a good place to buy pastries before a train or bus day. Choose a patisserie where the boxes are being filled regularly. For ghriba and cornes de gazelle, a rigid box is better than a paper bag if you are carrying them in a backpack.
+**Rfissa** is shredded msemen soaked with chicken broth, lentils and fenugreek. It is soft, rich and more filling than its appearance suggests. **Khlii** (Khlee?) is meat preserved with salt, spices and fat, then used with eggs or beans. It is concentrated and salty, and is usually treated as an ingredient rather than eaten alone like jerky. My roommate often get some from his mom, but I never dared try. Apparently it's used for breakfasts or as an ingredient for some dishes.
 
-## Atlantic coast fish and simple grills
+For sweets, **cornes de gazelle** are slender almond pastries perfumed with orange blossom. **Ghriba** are round, cracked cookies made in several versions, including almond, sesame and semolina. (But it often breaks apart quickly) **Sellou** is a dense, crumbly mixture of toasted flour, sesame, almonds, spices and fat.
+**Baklava** is not of moroccan origin, but common. They differ from the tunisian/armenian Baklava and are closer to the Turkish ones.
 
-On the Atlantic coast, fish, simple grills and argan products make the most sense. In **Souss-Massa around Agadir and Taroudant**, look for **amlou**: roasted almonds, culinary argan oil and honey, eaten with bread or msemen.
+Ghriba and cornes de gazelle crumble easily, so use a rigid box if you plan to carry them on a train or in a backpack.
 
-| Product | What to check |
-| --- | --- |
-| Amlou | Food-grade argan oil, almonds and honey |
-| Argan oil | Culinary oil, not cosmetic oil |
-| Grilled fish | Simple port or market restaurants |
-| Bread and msemen | Bakeries and breakfast cafes |
+## Amlou and argan oil
 
-Buy a small jar of amlou first. If you are flying with it, pack it upright and sealed.
+**Amlou** combines ground roasted almonds, honey and culinary argan oil. It is runnier than peanut butter and can leak from a poorly sealed jar. Buy a small jar first and pack it upright (or keep the seal, they are often well sealed.)
 
-In Essaouira, keep meals simple: grilled fish, bread, salad and tea. In Taghazout, food is more surf-town oriented, so mix local breakfast places with fish and simple Moroccan restaurants rather than relying only on cafes.
+It is particularly associated with **Souss-Massa, around Agadir and Taroudant**. Along the Atlantic coast, simple grilled fish is usually a better choice than an elaborate tourist menu. In Essaouira, look for fish, bread, salad and tea; in Taghazout, mix the surf-town cafes with local breakfasts, fish and simple Moroccan restaurants.
+
+In some places you can find pumpkin seed amlou (I find them in a moroccan shop in Rennes, France, imported from morocco), my roommate told me it's uncommon and more of a novelty targetting the trendy youth. Now you know.
+
+Culinary argan oil is made for eating and has a toasted, nutty flavour. Cosmetic argan oil is processed for use on skin and hair. Check that the bottle is labelled for culinary use before buying it as food.
 
 ## Meknes, olives and inland market food
 
-Meknes is useful for market food rather than named dishes. Look for olives, preserved lemons, dates and dried fruit. Olives come in different marinades and strengths, so buy a small mix before committing to a large bag.
+Meknes markets are particularly useful for trying local ingredients. Olives vary from bitter green fruit to soft purple ones seasoned with chilli, herbs or preserved lemon. Taste before buying. Preserved lemons are strongly salty and sour cooking ingredients rather than fruit intended to be eaten whole. They go well with Houmus (Which is not maroccan, obviously). The markets are also useful for dates and dried fruit.
 
-| Product | Where |
-| --- | --- |
-| Olives | Market stalls |
-| Preserved lemons | Traditional grocers |
-| Dates | Markets and grocers |
-| Dried fruit | Grocers and markets |
-
-Meknes is also a practical stop for picnic food before Volubilis. Buy bread, olives, fruit and water before leaving the city; food options around the site are limited and not the point of the visit.
+Meknes is also a practical stop for picnic food before Volubilis. Buy bread, olives, fruit and water before leaving the city; food options around the site are barely existing.
 
 ## Northern mountain food around Chefchaouen
 
-Chefchaouen is good for simple breakfasts and mountain food. **Bissara** is the useful dish here: a thick fava-bean soup with olive oil and cumin, usually eaten in the morning or around lunch.
+**Bissara** is puréed dried fava beans, served hot with olive oil, cumin and chilli. It is cheap, thick and well suited to a cold mountain morning. 
+I found a nice, well-rated shop in the old town of Rabat (not really northern, I know). I forgot the name, unfortunately.
 
-| Food or drink | What it is |
-| --- | --- |
-| Bissara | Thick fava-bean soup |
-| Goat cheese | Fresh local cheese |
-| Msemen | Layered breakfast bread |
-| Avocado juice | Thick blended fruit drink |
-| Orange juice | Fresh juice |
+Northern goat cheese is fresh, white and mild. Keep it cool and eat it promptly. 
 
-For Akchour, bring water and something simple from Chefchaouen. Do not rely on finding a proper meal on the trail. After the hike, Chefchaouen's bakeries and simple restaurants are enough; this is not a destination where named restaurants matter much.
+For Akchour, bring water. Food is found every ten minutes of walk. Mostly tajines, not that expensive compared to the city, so it's definetely worth a stop.
+After the hike, Chefchaouen's bakeries and simple restaurants are enough.
 
 ## Tangier cafes and northern snacks
 
-**Kalinti** is the snack to find in Tangier: a hot chickpea-flour bake served in wedges or squares. It is more of a street or market snack than a sit-down restaurant dish.
+**Kalinti** is a soft chickpea-flour bake sold by the slice, usually dusted with cumin and chilli. Its name comes from the Spanish *caliente*. The centre can look undercooked even when it is ready; the texture is closer to custard than bread.
+They are a very popular item in nearby Algeria, every algerian I know grew up with it. Apparently it's only a thing in the very north of Morocco. 
 
-Tangier also works well for bakeries, juice shops and simple fish meals if you are finishing the trip by the sea.
+Tangier also works well for bakeries, juice shops and simple street food. 
 
-If you are taking the ferry to Spain, eat before going to the port unless your timing is very loose. Ferry days are better kept simple: bakery food, fruit, water and a proper meal after arrival.
+If you are taking the ferry to Spain, eat before going to the port unless you have plenty of time. A bakery stop, fruit and water make the ferry day easier, followed by a proper meal after arrival.
 
 ## Southern road food
 
-Around **Ouarzazate**, **Skoura**, **Dades**, **Todra** and **Merzouga**, keep expectations practical: dates, almonds, bread, nuts, small pastries and simple tajines.
+Desert tours often repeat bread, salad, tajine and couscous because those meals are easy to prepare for groups. Bring dates, almonds or a savoury snack if you want more variety. Soft dates bruise and leak, so keep them in a container away from electronics. 
 
-| Area | Reliable food |
-| --- | --- |
-| Ouarzazate | Dates, almonds, bread |
-| Skoura | Dates |
-| Dades and Todra | Bread, dried fruit, nuts |
-| Merzouga | Dates, nuts, bakery food |
+> If you take a tour, they will take you to crazily expensive restaurants where quality is low. You can bring your own food. Defo bring snacks.
 
-If you are taking a desert tour, bring snacks. Tour meals can be repetitive and remote stops do not always give you much choice.
+Around **Ouarzazate, Skoura, Dadès, Todra and Merzouga**, the reliable road food is simple: bread, dates, almonds, nuts, dried fruit and basic tajines. Buy supplies when you see a proper shop rather than relying on every isolated stop having a full menu.
 
 ## Vegetarian and dietary notes
 
-Vegetarian food is possible, but do not assume vegetable tajine means fully vegetarian stock or cooking fat. Ask clearly. Breakfasts, breads, soups, salads, olives and pastries are the easiest options.
+Vegetarian food is possible, but vegetable tajine may still contain meat stock or cooking fat, so ask clearly. Breakfasts, breads, soups, salads, olives and pastries are the easiest options.
 
-If you avoid gluten, Morocco is harder: bread, msemen, couscous and pastries are everywhere. Rice, grilled fish, grilled meat, eggs and some tajines are easier to manage, but cross-contamination is common in small kitchens.
+If you avoid gluten, Morocco is harder: bread, msemen, couscous and pastries are everywhere. Rice, grilled fish, grilled meat, eggs and some tajines are easier options, although cross-contamination is common in small kitchens.
 
-## What to bring home
+Food is usually halal, which is a nice plus, unless you would rather eat Jhatka meat.
 
-| Product | Best area | Travel note |
-| --- | --- | --- |
-| Amlou | Souss-Massa around Agadir and Taroudant | Use a sealed jar |
-| Ghriba | Fes and medinas | Pack in a rigid box |
-| Cornes de gazelle | Fes | Buy in a closed pastry box |
-| Sellou | Fes | Sold by weight or box |
-| Dates | Southern Morocco | Keep dry and sealed |
+## What survives the journey home
+
+Amlou travels only in a properly sealed jar. Ghriba and cornes de gazelle need a rigid box. Sellou withstands pressure but needs a tightly sealed bag or container. Dates travel well when they are firm and boxed; very soft varieties are easily crushed in a warm backpack. (In France, dates are so inexpensive (and sometimes grown locally) so, for my fellow frenchmen, don't bother bringing this kind of dates.)
 
 ## Source log
 

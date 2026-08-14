@@ -11,15 +11,15 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-For a short Hong Kong trip, keep five experiences first: a harbour crossing, a Peak walk, a Cantonese food day, a Lantau day trip and one accessible coastal hike.
+Hong Kong does not need five observation decks. These choices force the trip to alternate between harbour, dense city, food, islands and actual mountains.
 
 ## 1. Ride the Star Ferry across Victoria Harbour
 
 ![Star Ferry on Victoria Harbour](https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Ferry%20Hong%20Kong.%20%2814143932945%29.jpg)
 
-The **Star Ferry** is still the simplest way to understand Hong Kong's geography. Cross between **Tsim Sha Tsui** and **Central** or **Wan Chai**, then walk part of the waterfront on either side.
+Take the **Star Ferry** before paying for a harbour cruise. It crosses the same water for public-transport money and shows how Central, Wan Chai and Tsim Sha Tsui fit together. A “cruise” mostly adds time, commentary and the possibility of being trapped beside somebody's champagne package.
 
-Allow one to two hours, or half a day if you add the Tsim Sha Tsui waterfront and a meal in Kowloon. Late afternoon is the most useful timing: you see the harbour in daylight and can stay for the skyline after dark.
+Give it one to two hours, or half a day if you add the Tsim Sha Tsui waterfront and a meal in Kowloon. Late afternoon is the best timing: you see the harbour in daylight and can stay for the skyline after dark.
 
 The ferry is public transport, not only a viewpoint. Check the current pier and sailing information before planning around it, especially on public holidays or during bad weather.
 
@@ -27,19 +27,19 @@ The ferry is public transport, not only a viewpoint. Check the current pier and 
 
 ![The Peak view](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hong%20Kong%20from%20Victoria%20Peak.jpg)
 
-**The Peak** is the standard city viewpoint, but the **Peak Circle Walk** is the better activity. It gives repeated views over Victoria Harbour without making the visit only about a paid viewing deck.
+Walk up from the Mid-Levels instead of treating the Peak as a tram queue followed by a shopping centre. I managed the climb after rolling my ankle on Lantau. The changing harbour views are the activity; the paid deck is just where commerce won.
 
-Allow two to three hours including transport from Central. Go early, late afternoon or after dark depending on visibility. If the Peak Tram queue is long, use a bus or taxi instead; the view is not worth losing half a day in a queue.
+Give it two to three hours including transport from Central. Go early, late afternoon or after dark depending on visibility. If the Peak Tram queue is long, use a bus or taxi instead; the view is not worth losing half a day in a queue.
 
-The walk is paved and straightforward, but Hong Kong heat changes the effort. Bring water in summer and do not assume haze will clear quickly.
+The circle walk is paved, but humidity turns an easy stroll into damp negotiations with your shirt. Check visibility before climbing; haze does not clear because you paid for the tram.
 
 ## 3. Plan a Cantonese food day
 
 ![Dim sum](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Breakfast.jpg)
 
-Hong Kong is one of the easiest places to build a full day around food without using expensive restaurants. Start with **dim sum**, add wonton noodles or roast meats, then use a **cha chaan teng**, cooked-food centre or dai pai dong-style meal later in the day.
+Do not waste a Hong Kong food day travelling between five famous pins. Share dim sum in the morning, eat a deliberately small bowl of wonton noodles, then try a cha chaan teng or cooked-food centre. The formats matter more than proving you crossed the city for somebody else's “best” dumpling.
 
-Allow the whole day and keep locations flexible. Central, Sheung Wan, Wan Chai, Jordan, Mong Kok and Sham Shui Po all work, but the point is the eating format, not collecting districts.
+Give it the whole day and keep locations flexible. Central, Sheung Wan, Wan Chai, Jordan, Mong Kok and Sham Shui Po all work, but the point is the eating format, not collecting districts.
 
 Go earlier for dim sum and expect shared tables in older places. Carry cash as a backup even where cards or stored-value payment are common.
 
@@ -47,21 +47,21 @@ Go earlier for dim sum and expect shared tables in older places. Carry cash as a
 
 ![Tian Tan Buddha on Lantau](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tian%20Tan%20Buddha%20by%20Beria.jpg)
 
-This is the most practical full-day trip inside Hong Kong. The usual route is **Tung Chung**, **Ngong Ping 360**, **Big Buddha**, **Po Lin Monastery**, then **Tai O** if timing works.
+Take the bus from Tung Chung if the cable-car price annoys you, see the Buddha and Po Lin, then walk past the Wisdom Path. Lantau Peak gave me the best island view of the trip and a rolled ankle that poisoned the next five days. This is mountain terrain, not a decorative attraction path.
 
-Allow most of a day. The cable car is useful but weather-dependent and can have queues. Tai O adds stilt-house scenery and seafood snacks, but it also adds transport time.
+Give it most of a day. The cable car is useful but weather-dependent and can have queues. Tai O adds stilt-house scenery and seafood snacks, but it also adds transport time.
 
-Check cable-car operation before committing to the day. If it is suspended or queues are heavy, use bus links from Tung Chung and keep the plan simpler.
+The cable car is optional. Check whether it is operating, then choose between it and the bus based on price, waiting time and the view you want.
 
 ## 5. Hike Dragon's Back to Big Wave Bay
 
 ![Dragon's Back trail](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragon%27s%20Back%2C%20Hong%20Kong%2002.jpg)
 
-**Dragon's Back** is the most practical first Hong Kong hike: city access, coastal views and a clear finish near **Big Wave Bay**. The Hong Kong Tourism Board lists it as about 8 km, moderate, with an average hiking time of about 4 hours.
+**Dragon's Back** proves Hong Kong is not only towers and shopping centres. Bus 9 drops you near a ridge with sea views and an actual beach at the end. The route is about 8 km; humidity can make that feel like somebody secretly added five more.
 
 Start from **MTR Shau Kei Wan**, take bus 9 to **To Tei Wan**, hike the ridge, then return from Big Wave Bay by bus 9. Go early in hot weather and avoid exposed sections during thunderstorms.
 
-Bring water. Hong Kong hiking is accessible, but heat and humidity make it more serious than the distance suggests.
+Bring more water than the map seems to justify. Distance is honest; Hong Kong humidity is not.
 
 ## Source log
 

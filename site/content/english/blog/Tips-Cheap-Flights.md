@@ -1,173 +1,151 @@
 ---
 date: "2026-07-27"
-title: "How to find cheap flights without getting trapped by the booking"
-description: "Practical notes on finding cheaper flights: routing, airports, fare markets, baggage, timing, student deals and booking risk."
+title: "How to find cheap flights without costly mistakes"
+description: "How I compare routes, airports, baggage, separate tickets and booking sites before paying for a flight."
 image: "images/blog/cheapflight.jpg"
 categories: ["Tips", "How-to"]
 ---
 
-Cheap flights are rarely just about the fare shown first. The useful comparison is the complete route: airports, dates, bags, transfers, payment market, connection risk and change conditions.
+The cheapest flight on the screen is often not the cheapest trip.
 
-## 1. Build the route first
+A €30 Ryanair ticket from an airport two hours away can require a €20 bus, a hotel, a bag fee and a very early departure. Once those costs are included, it may be more expensive than the higher fare.
 
-Open-jaw tickets are often underrated on linear trips. A Paris-Casablanca / Tangier-Paris ticket, for example, can beat a cheaper Paris-Marrakech return once the internal backtrack is counted.
+Here is how I compare the complete cost rather than only the first fare shown.
 
-For each serious option, compare:
+## Build the trip in the right direction
 
-| Element | Why it matters |
-| --- | --- |
-| Open-jaw vs return | Avoids a final backtrack |
-| Nearby airports | Can save money or create a bad transfer |
-| First and last nights | Early departures and late arrivals add hotel costs |
-| Internal transport | A cheap international fare can push cost into the trip |
-| Lost time | A lower fare can burn a useful day |
+Before searching flights, decide whether the route is a loop or a line.
 
-The strongest ticket often removes a weak section of the itinerary, even when the displayed fare is not the absolute lowest.
+For Morocco, a return flight to Marrakesh forces you to cross the country twice. Flying into Marrakesh and home from Tangier may cost more on the airline page and less once you remove the return train, hotel and wasted day.
 
-## 2. Use search engines for comparison
+This is called an **open-jaw ticket**. The name sounds medical; the concept is just flying home from somewhere else.
 
-Google Flights and Skyscanner are useful for comparing dates, alternative airports, unusual connections and airline combinations. The final price still needs to be checked on the airline website.
+Check three versions:
 
-Booking direct is usually cleaner for schedule changes, refunds, name corrections and protected connections. Agents can be useful when they solve a real problem: local inventory, foreign-card payment, or a route the airline site handles badly.
+- a normal return;
+- two one-way tickets;
+- a multi-city or open-jaw ticket.
 
-Avoid eDreams and similar third-party booking sites for normal flight tickets. The saving is often too small for the extra layer between the passenger and the airline. If the flight changes, the refund is delayed, a name needs correction or a low-cost airline asks for direct verification, the agency becomes the bottleneck. eDreams' own help pages describe refund handling through their system and airline approval; their terms also state that each flight segment follows the relevant supplier's fare rules, which is exactly where mixed bookings become messy.
+Then add the internal transport and travel time each version creates. A cheaper fare may not be worthwhile if it consumes the final day of the trip.
 
-One regular exception: **Trip.com for domestic China flights**. It is often easier than Chinese airline websites with foreign cards and domestic inventory.
+## Google Flights first, airline website second
 
-## 3. Nearby airports
+I use Google Flights or Skyscanner to find dates, airports and combinations. I use the airline website to check whether the fare actually exists.
 
-Nearby airports work when the ground link is direct, cheap and reliable. They usually lose value when they add:
+Search engines sometimes show stale inventory. A €240 flight may become €410 after clicking through or disappear when baggage is selected. This is usually old availability rather than personalised pricing based on repeated searches.
 
-- a hotel night;
-- a taxi after the last train;
-- a fragile same-day rail connection;
-- an airport change inside a large metro area;
-- a border crossing before departure.
+You can repeat the search in a private window to compare the result, but deleting cookies repeatedly is unlikely to reveal a substantially different fare.
 
-This is where many low fares stop being low. A €60 saving from Beauvais, Charleroi or Girona can vanish quickly if the timing is bad.
+Booking directly with the airline removes one organisation from the inevitable argument when a schedule changes. A third-party agent can still be worthwhile when:
 
-## 4. Real fare comparison
+- the airline rejects foreign cards;
+- the local website is unusable;
+- the agent has domestic inventory you cannot access;
+- the saving is large enough to pay for the risk.
 
-Bring tickets to the same conditions before comparing them.
+Avoid eDreams and similar intermediaries for ordinary airline tickets when the saving is small. Schedule changes, refunds and name corrections then have to pass through the agent, and mixed itineraries may apply different supplier rules to each segment.
 
-| Item | Detail |
-| --- | --- |
-| Personal item | Dimensions and enforcement style |
-| Cabin bag | Paid priority, weight, size |
-| Checked bag | Per passenger, per direction |
-| Seat | Relevant only when it affects the trip |
-| Payment fees | Card, currency, foreign exchange |
-| Transfers | Both origin and destination |
-| Connection | Protected itinerary or separate tickets |
-| Overnight cost | Hotel, meals, late transport |
+For domestic flights in China, Trip.com is often easier than using airline websites with a foreign card. For an ordinary European ticket, a €7 saving through an intermediary may not justify the additional layer of customer service.
 
-Low-cost is often still cheaper. It just has to be compared as a finished journey, not as a fare skeleton.
+## Compare the complete price
 
-## 5. Separate tickets
+Bring every option to the same conditions:
 
-Separate tickets are useful on awkward routes, regional combinations and long overland trips. They are also where the passenger owns the missed-connection risk.
+- the bag you will actually carry;
+- the seat, only if you care about it;
+- transport to both airports;
+- a hotel required by a very early or late departure;
+- card and currency fees;
+- food during a long connection;
+- the cost of losing a day;
+- protection—or lack of it—between flights.
 
-Reasonable use cases:
+Low-cost airlines can still be the best option. The important comparison is between equivalent fares: €19 without a cabin bag and €49 with one are different products.
 
-- big saving after bags and transfers;
-- overnight buffer between flights;
-- cheap replacement options on the second leg;
-- flexible first day at the destination;
-- no visa, tour, cruise or long-haul departure at risk.
+## Nearby airports: draw the journey to the airport
 
-Bad use cases:
+At 05:00, reaching Beauvais from Paris may be difficult. The same applies to Charleroi from Brussels. Girona can work well for Barcelona when the bus timetable matches the flight, but an ill-timed arrival may require an expensive taxi.
 
-- self-transfer on the same afternoon with checked luggage;
-- airport change plus immigration;
-- final leg into a non-refundable tour;
-- last flight of the day;
-- destination with limited replacement flights.
+A secondary airport works when the ground connection is direct, cheap and running at your arrival time. It fails when it adds:
 
-For protected itineraries in Europe, the [EU passenger-rights guide](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm) is useful context. It does not make two separate bookings into one protected connection.
+- a night in a hotel;
+- the last bus leaving before the flight lands;
+- a taxi through an entire metropolitan area;
+- a fragile train connection;
+- another border crossing;
+- an airport change during a self-transfer.
 
-## 6. Location, currency and sales market
+Always check the first and last public transport of the day. Average daytime travel time is irrelevant when your plane lands after the final train.
 
-Some fares vary by point of sale. Compare the same itinerary through:
+## Separate tickets: you are the connection insurance
 
-- the airline's home market;
-- the destination-country version of the site;
-- the normal local market;
-- a different currency, if the card has low FX fees.
+Two separate tickets can unlock excellent routes. They can also leave you watching the second plane depart while the first airline explains that your next booking is none of its concern.
 
-This is most relevant for regional airlines, domestic flights abroad and routes dominated by one carrier. It is less useful on transparent low-cost routes where every add-on is priced separately.
+I would use separate tickets when the saving is substantial and there is an overnight buffer. I would not use them for a same-afternoon transfer with checked luggage, an airport change, or the final flight into a non-refundable safari, cruise or tour.
 
-Payment reliability matters. A foreign-market fare that fails at checkout, blocks a card, or complicates support is not always a win.
+If the first flight is late, the second airline normally owes you nothing. European passenger rights may cover the delayed flight itself, but they generally do not protect a separate onward booking. See the [EU passenger-rights guide](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm).
 
-## 7. Cookies and stale fares
+Before booking a self-transfer, ask whether you could afford a replacement ticket the following day. If not, the financial risk is too high.
 
-Cookies are not the main driver of flight-price changes. Inventory, fare classes, demand, currency and schedule changes matter more.
+## Change the date before changing the continent
 
-Still, stale search sessions happen. A private window, another browser or a clean search can help confirm whether a fare is real. The only price that matters is the one that survives through payment details on a bookable page.
+Moving departure by one day often saves more than comparing twelve booking sites. Friday and Sunday evenings are expensive on many city routes. School holidays, festivals and major events destroy otherwise normal fares.
 
-If the fare disappears at checkout, it was probably stale inventory, not a trick being withheld.
+Use the date grid and check the days before and after your initial choice. On a long trip, compare a full week if the dates are flexible.
 
-## 8. Travel days
+The day flown usually matters more than the day you searched.
 
-The day flown usually matters more than the day booked. Midweek departures, awkward hours and shoulder-season dates often price better. Friday evening and Sunday evening are often expensive on city-break routes. Holiday starts, school breaks and major events distort normal patterns.
+## Early or last minute?
 
-For long-haul trips, moving the departure or return by one day can change the fare more than changing the search site. For short low-cost routes, the airport transfer can matter more than the flight price.
+There is no universal magic number of weeks.
 
-## 9. Early booking or last minute
+For Christmas, school holidays, a fixed wedding or a flight connecting with an expensive tour, buy when the fare becomes acceptable. Waiting for a large drop is risky when the route and date are fixed.
 
-Last-minute deals work best when the destination and dates are flexible. Fixed trips need a different logic.
+Last minute works when both the destination and dates are flexible. Charter routes and leisure destinations sometimes dump seats. A domestic route controlled by one airline usually has no reason to reward your procrastination.
 
-| Route type | Practical approach |
-| --- | --- |
-| Peak holiday flights | Buy when a tolerable fare appears |
-| Long-haul, fixed dates | Track early; avoid relying on a late drop |
-| Short low-cost routes | Date flexibility matters more than patience |
-| Charter-heavy leisure routes | Last minute can work if the destination is flexible |
-| Domestic monopoly routes | Waiting often hurts |
-| Trips with visas or fixed tours | Flight risk affects the whole plan |
+Set an alert, learn the normal range and buy when the fare fits the trip. Stop checking afterward unless ruining your mood is a hobby.
 
-Early booking is not always cheaper. Last minute is not always reckless. The route type decides.
+## Currency and country versions
 
-## 10. Fuel and surcharge context
+Some airlines charge different fares by sales market or currency. This matters most for domestic and regional airlines abroad.
 
-Fuel prices are not a day-to-day fare predictor, but they shape the background. High fuel and strong demand reduce the chance of deep discounts, especially on longer routes. Extra capacity and weak demand create better sales conditions.
+Compare the airline's home-country site with the version shown to you, but include card exchange fees. A cheaper fare that rejects your card three times or requires support in a language you cannot read may not be cheaper in any meaningful way.
 
-The practical use is simple: when fuel is high, demand is strong and capacity is tight, waiting for a major fare drop is less attractive. When fuel is stable, demand is soft and airlines have added capacity, sales are more plausible.
+Never use a VPN or false residency to buy a fare whose rules require local residence. A discount that collapses at check-in is merely an expensive story.
 
-For miles and points, check the cash component before transferring points. Some airlines add heavy carrier surcharges, so a redemption can still cost a lot in cash. If the surcharge is close to a normal paid fare, using points may be poor value.
+## Student and youth fares
 
-## 11. Student, youth and resident fares
+Student fares often hide outside Google Flights. Check the airline's own youth or student page, especially for long-haul trips.
 
-Student and youth fares often sit outside normal comparison tools. They can matter on long-haul, study-abroad and high-baggage trips.
+The headline discount may be small. The real value can be an extra checked bag or cheaper date changes. For somebody moving abroad, one included suitcase can beat a lower public fare immediately.
 
-Useful places:
+Read the eligibility rules. “I still feel young” is not documentation.
 
-- airline student/youth pages;
-- university travel offices;
-- student-fare agencies;
-- resident fares on domestic routes;
-- fares with extra baggage or flexible changes.
+## Fuel, capacity and fare conditions
 
-The discount can be secondary. A student fare with one extra bag and a cheaper date change can beat the lowest public fare.
+Fuel prices do not predict tomorrow's fare, but they affect the background conditions. High fuel costs combined with strong demand and limited capacity make large promotions less likely, especially on long routes. Stable fuel costs, weaker demand and more available seats create better conditions for discounts.
 
-Eligibility rules matter: age, student status, residency, enrolment dates and proof accepted at check-in.
+## Price alerts
 
-## 12. Price alerts
+Track a small number of realistic options: the preferred route, one nearby-airport alternative and an open-jaw version for a linear trip. Once the price fits the budget and the itinerary works, waiting for a minor reduction can cost more through rising accommodation, visa or onward-transport prices.
 
-Alerts are useful for tracking fare movement on a narrow set of realistic routes: the preferred route, one nearby-airport version and, for linear trips, one open-jaw version.
+## Points: free flights with surprisingly expensive cash attached
 
-Once the fare fits the trip and the structure is clean, chasing a small drop usually stops being useful. Accommodation, visas and onward transport can rise while waiting.
+Before transferring points, check the taxes and carrier surcharge. Some redemptions demand so much cash that buying the ticket would be less insulting.
 
-## 13. Before payment
+Also check what happens if award availability disappears between finding the seat and moving the points. Transfers are often irreversible. Your points can end up marooned in an airline programme you never planned to use again.
 
-The final check is limited to details that are expensive to fix:
+## The final five-minute check
 
-- passport names;
-- airport and terminal;
-- date changes after midnight;
-- baggage rules;
-- separate-ticket risk;
-- transit and entry rules;
-- change and cancellation terms;
-- airline or agent actually taking payment.
+Before payment, verify:
 
-After booking, confirm that the airline can find the reservation. Until then, the ticket is not confirmed in practice.
+- your name matches the passport;
+- the airport is the airport you think it is;
+- the flight is on the date you think it is, especially after midnight;
+- baggage is included in both directions;
+- separate tickets have enough buffer;
+- transit rules permit the connection;
+- the card is charging the expected currency;
+- change and cancellation conditions are not imaginary.
+
+After payment, open the booking on the airline's website. If the airline cannot find the reservation, you do not yet have a reassuringly real ticket—only an email and a future customer-service problem.

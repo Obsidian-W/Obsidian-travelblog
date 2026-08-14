@@ -11,23 +11,23 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-This list is deliberately conservative. Ethiopia has exceptional historical and cultural sites, but security and transport conditions change enough that old routes cannot be copied blindly. Each choice below is worth planning around only after checking whether the area is open and sensible at the time of travel.
+Ethiopia is not a destination where an old “Top 5” survives unchanged. Four entries below sit in regions where fighting or road closures can erase the plan. Check them because they are extraordinary, then check whether going there is sane.
 
-## 1. Use Addis Ababa for museums, Entoto and coffee
+## 1. Survive Addis, but don't skip it
 
 ![National Museum of Ethiopia in Addis Ababa](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ethiopian%20National%20Museum%20in%20Addis%20Ababa.jpg)
 
-Addis Ababa is worth treating as more than an airport stop. The useful short list is the **National Museum**, **Holy Trinity Cathedral**, **Meskel Square**, **Entoto** if conditions are clear, and one proper Ethiopian meal or coffee ceremony. It is also the best place to reassess the rest of the trip before committing to regional travel.
+Addis is chaotic, full of scammers and the place where my travel partner got his phone stolen before we ended up in a fistfight. Walking at night is a bad idea. It is still worth a day for the **National Museum**, **Holy Trinity Cathedral**, Saint George's Church, **Meskel Square** and Entoto.
 
-Allow one or two days. Do not schedule a tight same-day connection to a remote region unless your flight is protected and your operator confirms the situation. Government advisories in 2026 still describe serious regional security risks outside Addis, so plans need checking close to departure.
+It is also where most routes fall apart and get rebuilt. Keep one or two days, avoid a same-day connection to anything important and reassess the country before leaving the capital.
 
 ## 2. Visit Lalibela's rock-hewn churches
 
 ![Bet Giyorgis in Lalibela](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bet%20Gyorgis%20Lalibela.jpg)
 
-Lalibela is the strongest single historical stop in Ethiopia. The churches are carved into rock and still function as religious sites, not just monuments. The northern and southern church groups need slow visits; **Bet Giyorgis** deserves its own time rather than being treated as a quick final photo.
+The entrance had jumped from $50 to $100 when I went, guides cost extra and fake priests offered cheap tours without knowing much about the churches. It was still worth it. Walking barefoot through rock tunnels while prayers echo is the sort of experience that survives the greed around it.
 
-Allow two nights. The official tourism site says Lalibela Airport is about 25 km from town and is served by Ethiopian Airlines flights from Addis Ababa and other northern cities, with private operators meeting flights for transfers. Check current flights and security before booking.
+Give it two nights. The official tourism site says Lalibela Airport is about 25 km from town and is served by Ethiopian Airlines flights from Addis Ababa and other northern cities, with private operators meeting flights for transfers. Check current flights and security before booking.
 
 Lalibela is in Amhara Region, which is subject to strong travel warnings from several governments in 2026. Do not rely on old itineraries; verify the route shortly before travel.
 
@@ -35,7 +35,7 @@ Lalibela is in Amhara Region, which is subject to strong travel warnings from se
 
 ![Simien Mountains](https://commons.wikimedia.org/wiki/Special:Redirect/file/Simien%20Mountains%20National%20Park%2C%20Ethiopian%20Highlands%20%2831999800214%29.jpg)
 
-The Simien Mountains are Ethiopia's main trekking area: high escarpments, gelada monkeys, cold highland weather and long views when clouds allow. A short visit can be one or two days; longer treks need more planning, camping gear and altitude tolerance.
+My Simien trip was cloudy, wet and still excellent. Geladas were everywhere, waterfalls dropped from the escarpment and gunshots mixed with the storm after dark. You currently need the park logistics, a guide and an armed ranger; waiting for the ranger may take longer than finding the monkeys.
 
 Access usually runs through **Gondar** and **Debark**. Use a licensed guide and follow park requirements for scouts or rangers. Conditions change quickly: weather, road security and regional instability can all affect whether the trip is sensible.
 
@@ -45,9 +45,9 @@ This is not a place to improvise alone. Confirm the park status, route and secur
 
 ![Fasil Ghebbi in Gondar](https://commons.wikimedia.org/wiki/Special:Redirect/file/ET%20Gondar%20asv2018-02%20img11%20Fasil%20Ghebbi.jpg)
 
-**Gondar** is the clearer historical stop, with **Fasil Ghebbi**, churches and access to the Simiens. **Bahir Dar** is better for Lake Tana, the Blue Nile Falls area and monastery boat trips. Together they cover different parts of the northern highlands rather than repeating the same type of visit.
+**Fasil Ghebbi** makes Gondar look improbably medieval. Hire a guide for the castle complex, then leave: the city itself does not need much time. Bahir Dar adds Lake Tana and the Blue Nile Falls, but I would skip it before skipping Gondar or Lalibela. The forced guide at the falls was disgusting and the fake “student boat association” around Lake Tana was a scam.
 
-Allow two to four days depending on whether you add the Simiens. Fasil Ghebbi is compact, but Lake Tana and the falls need more transport time and should not be crammed into a late arrival day.
+Give it two to four days depending on whether you add the Simiens. Fasil Ghebbi is compact, but Lake Tana and the falls need more transport time and should not be crammed into a late arrival day.
 
 As with Lalibela, this route sits in Amhara Region. In 2026, major advisories still warn against travel there. Treat this as an itinerary option only when the security situation and transport are confirmed.
 
@@ -55,11 +55,11 @@ As with Lalibela, this route sits in Amhara Region. In 2026, major advisories st
 
 ![Harar Jugol](https://commons.wikimedia.org/wiki/Special:Redirect/file/Harar%20Jugol%2C%20Ethiopia%20%2814419898066%29.jpg)
 
-Harar gives a different view of Ethiopia from the northern highlands: a walled old city, Islamic heritage, markets, narrow lanes and hyena-feeding traditions around the edge of town. It is one of the country's most distinctive cultural stops when access is practical.
+Harar was my favourite city in Ethiopia. The walled lanes, Muslim heritage, markets, coffee and nighttime hyena feeding feel completely different from the northern highlands. A guide helps because the old city is a maze; Solomon, whom I met in 2023, was genuinely excellent rather than another man rehearsing a scam.
 
 The usual approach is to fly or travel to **Dire Dawa**, then continue by road to Harar. Check current road security before using the corridor. Do not treat the wider east or Somali-border areas as open just because Harar itself appears on an itinerary.
 
-Allow two nights if you can. One night is possible, but it leaves little margin for transport delays.
+Give it two nights if you can. One night is possible, but it leaves little margin for transport delays.
 
 ## Source log
 

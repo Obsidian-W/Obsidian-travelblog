@@ -9,59 +9,81 @@ ai_generated: true
 draft: false
 ---
 
-> Note: this article was AI-generated, then checked and edited against the sources listed at the end.
+> Note: this article was AI-generated, then reworked quite a lot, like always.
+> I hate AI.
 
-## What Kazakh food is built around
+## Horse meat
 
 ![Beshbarmak](https://commons.wikimedia.org/wiki/Special:Redirect/file/Beshbarmak.jpg)
 
-Kazakh food is shaped by meat, dairy, wheat and nomadic food traditions. Expect horse meat, lamb, beef, noodles, fried dough, fermented milk and strong tea. In cities, you will also see Uzbek, Uyghur, Russian, Korean and broader Central Asian food.
+Traditional Kazakh food grew from pastoral life on the steppe. That means a lot of boiled meat, fat, dough and preserved milk. It's plain, barely spicy.
+Modern Kazakh food is better, tho.
 
-| Food | What it is | Where to look |
-| --- | --- | --- |
-| Beshbarmak | Boiled meat with flat noodles and broth | Kazakh restaurants, family-style places |
-| Kazy | Horse-meat sausage | Kazakh restaurants and markets |
-| Kuyrdak | Fried offal or meat with onion and potatoes | Traditional restaurants |
-| Baursak | Fried dough pieces | With tea, meals or celebrations |
-| Kurt | Salty dried dairy balls | Markets and roadside shops |
+**Beshbarmak** is the dish everyone mentions: horse meat, lamb or beef served over wide sheets of dough with broth and onions. It is a substantial communal dish, and restaurant portions may be intended for several people. Ask how many the serving feeds before ordering; solo travellers will usually find lagman, manty or soup easier to order.
+It's eaten by hands, like god intended.
 
-If you eat little meat, Kazakhstan is manageable in cities but harder on road trips and in traditional restaurants.
+**Kazy** is horse-rib sausage with a generous strip of fat. It is dense, salty and often sliced over beshbarmak. Try it if you are curious about horse meat; avoid it if visible animal fat disgusts you.
+
+**Kuyrdak** is fried meat or offal with onions and potatoes. Unlike beshbarmak, it actually gets browned in the pan, so it is the better order if boiled meat does nothing for you.
+
+## Cheese
+
+**Baursak** are pieces of fried dough served with tea or a meal. The name sounds unfortunately close to *ballsack* in English. (Or my english as a frenchman, anyway)
+
+Fresh baursak are soft and slightly oily; small dry ones are better for a bus or train. They are not a dessert unless something sweet comes with them.
+
+**Kurut** is dried fermented dairy shaped into small white balls. It can be extremely salty and has a hard, chalky texture, so buy one to try before committing to a large bag.
+
+> Contrary to popular beliefs, kuruts are apparently not rolled under the armpits. 
+> But the salty taste defo feels like men's armpits. If yours smells oniony, maybe it was actually done that way, but by a woman.
 
 ## Almaty
 
-Almaty is the easiest place to eat broadly. Use it for Kazakh restaurants, Uyghur lagman, Korean salads, bakeries, coffee, Georgian restaurants and market food. The **Green Bazaar** is useful for dried fruit, nuts, kurt, spices, bread and snacks, but treat it as a market visit rather than a full meal plan.
+Almaty is where the choice stops being limited to traditional Kazakh food. Uyghur **lagman**, Uzbek-style plov, Russian food, Korean food and Georgian food are all part of what people actually eat in the city.
+It's a strong USSR culture (+ Korean, who have been displaced here for a long time)
 
-For a first Kazakh meal, order beshbarmak if you are with at least two people. It is heavy and works better as a shared dish. If you want something easier, order lagman, manty, shashlik, plov or soup.
+At the **Green Bazaar**, concentrate on things you can compare or carry: dried fruit, nuts, bread, kurt and prepared salads. Sample unfamiliar products before buying a large quantity, particularly strongly flavoured kurt.
+
+Order beshbarmak when you have people to share it with. Alone, get lagman, manty, shashlik, plov or soup instead.
+
+> Korean food is authentic, and really lovely. Kazakh koreans are looking totally different from south koreans. I believe it's because they don't do the cosmic surgeries. The food didn't receive implants either.
 
 ## Astana
 
-Astana is better for formal Kazakh restaurants and modern dining than street-food wandering. It is a good place to try beshbarmak, kazy, kuyrdak and tea in a controlled setting, especially in winter when walking between small food stops is unpleasant.
-
-Restaurant prices vary widely in the capital. Do not use central Astana dining rooms as a guide to cheap travel costs elsewhere.
+Astana is the easier place for a full traditional spread, particularly if you want beshbarmak with kazy and tea. Central restaurants can be expensive. Russian food is more common than in Almaty. YOu can also find international brands in Astana, easily get fried chicken, pizzas, burgers...
+No tasty crousty, no french tacos. If you want to start the business, you can, I just gave you the tip.
 
 ## Mangystau and road food
 
-In Aktau and Mangystau, food planning is practical. Eat properly before leaving Aktau. On desert tours, meals depend on the operator: bread, tea, soup, meat, pasta, rice, snacks and camp food. Bring your own water, fruit, nuts and anything specific you need.
+Mangystau tours leave Aktau for long stretches without a lot of shops.
+You may ask what the operator actually packs or purchase on the road (ours made a pitstop to buy the ingredients); "meals included" may mean camp food for several days.
+Carry extra water and something that survives heat (like snacks, easy to purchase in Aktau).
+Dietary restrictions need arranging before departure.
+In my tour with RedMaya, we stopped at roadside canteens. It was quite nice.
 
-Remote Mangystau is not the place to improvise dietary restrictions. Tell the operator in advance and still carry backup food.
+> IIRC, I spoke about it in my [How To Mangystau article](/blog/howto-mangystau) itinerary
 
-## Noodles, plov and shared Central Asian food
+If you go by yourself, you'll probably need a portable stove. The Ustyurt plateau and Bozjyra are far from civilization, so if, like most, you camp outside, bring something simple.
+Mantis and dumplings can probably survive the day. A pasta salad can go a long way.
 
-Kazakhstan overlaps with the rest of Central Asia. You will find **lagman**, **manty**, **plov**, **samsa**, **shashlik** and **lepeshka** in many cities. This is useful because those dishes are often easier, cheaper and more available than formal Kazakh dishes.
+## What you will probably eat more often
 
-| Food | Practical use |
-| --- | --- |
-| Lagman | Filling noodle meal; good in Uyghur and local restaurants |
-| Manty | Steamed dumplings; useful lunch order |
-| Plov | Rice with meat and carrots; common Central Asian staple |
-| Samsa | Baked pastry with meat or pumpkin |
-| Shashlik | Grilled skewers, usually ordered by piece |
+Formal Kazakh dishes are only part of the picture. **Lagman** is a bowl of noodles, meat and vegetables; **manty** are large steamed dumplings (meat or pumpkin, like samsas); **plov** is rice cooked with meat and carrots; **samsa** are baked meat or pumpkin pastries; **shashlik** is grilled meat sold by the skewer; and **lepeshka** is the round flatbread sold in bakeries and markets. These are simpler solo orders and are likely to feed you more often than beshbarmak.
 
-## Drinks and dietary notes
+## Drinks
 
-Tea is central. **Kumys** is fermented mare's milk; **shubat** is fermented camel milk, more associated with western and desert regions. Try small portions first because the taste and digestion can be strong for visitors.
+**Kumys** is fermented mare's milk: sour, lightly fizzy and sometimes mildly alcoholic. 
+Kumis/Kumys is **not Halal** but central asian muslims love it. 
 
-Vegetarians should target Almaty and Astana cafes, Georgian restaurants, Indian restaurants, salads, bread, potatoes, soups and some Uyghur noodle places. Ask about meat broth. Gluten-free travel is difficult because noodles, bread, dumplings and fried dough are common.
+**Shubat**, made from camel milk, is thicker and common in western Kazakhstan. Buy the smallest serving first.
+I got a taste in Mangystau: It's definitely not for everyone (I shared one glass with two other travellers, none liked it, but at least, we all tried!)
+
+
+## Dietary notes
+Vegetarians should target Almaty and Astana cafes, I found some vegan places and coffee shops (Filled with pretty women, btw, if cool women are your thing. And a lot of cool looking duded too, if that's up your alley. Food is food)
+
+Georgian restaurants have a lot of vegetarian options.
+Gluten-free travel is difficult because noodles, bread, dumplings and fried dough are common.
 
 ## Source log
 
