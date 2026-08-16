@@ -17,7 +17,7 @@ Hong Kong does not need five observation decks. These choices force the trip to 
 
 ![Star Ferry on Victoria Harbour](https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Ferry%20Hong%20Kong.%20%2814143932945%29.jpg)
 
-Take the **Star Ferry** before paying for a harbour cruise. It crosses the same water for public-transport money and shows how Central, Wan Chai and Tsim Sha Tsui fit together. A “cruise” mostly adds time, commentary and the possibility of being trapped beside somebody's champagne package.
+The **Star Ferry** crosses Victoria Harbour for a public-transport fare and gives clear views of Central, Wan Chai and Tsim Sha Tsui. A harbour cruise lasts longer and may include commentary or food and drinks, but is not necessary for the view.
 
 Give it one to two hours, or half a day if you add the Tsim Sha Tsui waterfront and a meal in Kowloon. Late afternoon is the best timing: you see the harbour in daylight and can stay for the skyline after dark.
 
@@ -27,7 +27,7 @@ The ferry is public transport, not only a viewpoint. Check the current pier and 
 
 ![The Peak view](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hong%20Kong%20from%20Victoria%20Peak.jpg)
 
-Walk up from the Mid-Levels instead of treating the Peak as a tram queue followed by a shopping centre. I managed the climb after rolling my ankle on Lantau. The changing harbour views are the activity; the paid deck is just where commerce won.
+Walking up from the Mid-Levels avoids the Peak Tram queue and provides changing harbour views along the route. I managed the climb after rolling my ankle on Lantau. The paid observation deck is optional because there are other viewpoints nearby.
 
 Give it two to three hours including transport from Central. Go early, late afternoon or after dark depending on visibility. If the Peak Tram queue is long, use a bus or taxi instead; the view is not worth losing half a day in a queue.
 

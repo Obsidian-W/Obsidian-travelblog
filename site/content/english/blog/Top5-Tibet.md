@@ -13,13 +13,13 @@ draft: false
 
 ## First, accept that the itinerary is not entirely yours
 
-Foreign travellers need permits, an authorised agency, a guide and an approved route. Checkpoints are not atmospheric details. If the paperwork does not include a place, your spontaneous detour exists only in your imagination.
+Foreign travellers need permits, an authorised agency, a guide and an approved route. Checkpoints enforce that route, so places not listed in the paperwork cannot be added as spontaneous detours.
 
 ## 1. Visit the Potala Palace
 
 ![Potala Palace in Lhasa](https://commons.wikimedia.org/wiki/Special:Redirect/file/20140505%20Potala%20Palace.jpg)
 
-The Potala is harder than the photograph suggests. Timed entry, security and endless stairs at Lhasa altitude turn sightseeing into a breathing exercise. Do not schedule it on arrival day unless vomiting majestically near a palace is part of the plan.
+The Potala uses timed entry and security checks, followed by many stairs through the complex. Allow enough time for the entrance procedures and the climb.
 
 Give it half a day, plus time outside for viewpoints and photos. Do not schedule it immediately after landing if you are prone to altitude sickness. Your guide or agency normally handles the ticketing arrangements, but confirm timing early because visitor numbers and rules can change.
 
@@ -27,7 +27,7 @@ Give it half a day, plus time outside for viewpoints and photos. Do not schedule
 
 ![Jokhang Temple in Lhasa](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jokhang%20Temple%20frontal%20view.jpg)
 
-Jokhang and Barkhor are where Lhasa feels alive rather than displayed: pilgrims prostrating, prayer wheels turning, tea houses, shops and an uncomfortable amount of police. Walk the circuit with the crowd instead of marching against it for a photograph.
+Jokhang and Barkhor are active religious and commercial areas, with pilgrims prostrating, prayer wheels, tea houses, shops and a heavy police presence. Follow the direction of the walking circuit rather than moving against the crowd.
 
 Give it half a day. Go slowly; Lhasa is already high enough that rushing makes the visit worse. Photography rules can vary inside religious sites, so follow the guide and posted signs. The Barkhor is also the easiest place to add a tea-house stop rather than only moving between monuments.
 

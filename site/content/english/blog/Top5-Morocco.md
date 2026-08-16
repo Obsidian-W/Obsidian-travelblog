@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Morocco lists often become five medinas described with the same adjectives. This one keeps only one, then leaves for an earthen ksar, a mosque, Roman ruins and the Rif Mountains.
+This list includes one medina alongside an earthen ksar, a mosque, Roman ruins and the Rif Mountains.
 
 ## 1. Spend a focused day in the Marrakesh medina
 
@@ -21,13 +21,13 @@ The central medina is still the best way to understand Marrakesh: **Jemaa el-Fna
 
 Give it one full day. Walk inside the medina and use petit taxis for longer hops, especially if you add **Jardin Majorelle**. The official Jardin Majorelle site says tickets are sold online only, so book ahead if you care about going. Morning is better for the Bahia Palace and Jardin Majorelle. Jemaa el-Fnaa is most active in the evening.
 
-Marrakesh is crowded, persistent and tiring. My overpriced riad-style hostel was poor, much of the obvious food was also expensive and poor, and everybody had a service I had not requested. Keep the route short or the medina becomes an endurance event.
+Marrakesh is crowded and persistent. My overpriced riad-style hostel was poor, much of the obvious food was also expensive and poor, and many people offered services I had not requested. A shorter route through the medina leaves more time for the places you actually want to visit.
 
 ## 2. Visit Ait Benhaddou and the southern ksar country
 
 ![Ait Benhaddou](https://commons.wikimedia.org/wiki/Special:Redirect/file/A%C3%AFt%20Benhaddou%2C%20Morocco.jpg)
 
-Ait Benhaddou is overused by film crews and tour brochures because it genuinely looks extraordinary. Cross into the earthen ksar and climb above the roofs; from below it is a famous backdrop, from above it becomes a village pressed against a dry valley.
+Ait Benhaddou appears frequently in films and tour brochures. Cross into the earthen ksar and climb above the roofs for a view over the buildings and the dry valley surrounding them.
 
 Give it a long day from Marrakesh if Ait Benhaddou is the only target. It also fits naturally into a longer southern route towards **Ouarzazate**, **Dades**, **Todra** and **Merzouga**. Public transport exists on parts of this corridor, but it is not convenient for a short visit because the last section and timing are awkward. A rental car, private driver or organised day trip is more practical.
 

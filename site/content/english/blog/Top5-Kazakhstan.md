@@ -17,7 +17,7 @@ Kazakhstan is absurdly large. Aktau and Almaty are separated by the sort of dist
 
 ![Bozjyra in Mangystau](https://commons.wikimedia.org/wiki/Special:Redirect/file/Boszhira%20tract.%20Kazakhstan%2C%20Mangistau.%20November%202024.jpg)
 
-**Mangystau** is the best item here: Bozjyra's white fins, Torysh's stone balls, Sherkala, underground mosques and days of empty road. Torysh really is a valley full of giant balls, because apparently the landscape wanted its own ballsack joke. There is no clever bus trick; a normal car can become an expensive stationary object.
+**Mangystau** is the best item here: Bozjyra's white fins, Torysh's stone balls, Sherkala, underground mosques and days of empty road. Torysh is a field of naturally formed spherical rocks. There is no public transport between the principal sites, and ordinary cars can become stuck or damaged on the rough tracks.
 
 Give it at least three days from **Aktau** if you want more than a rushed photo tour. Use a local 4WD operator or a carefully planned self-drive only if you understand the distances, road conditions and fuel constraints. Summer heat is severe, and winter weather can still make exposed camping unpleasant.
 

@@ -11,7 +11,7 @@ draft: false
 Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).  
 
 Remote, harsh, desert-like, with landscapes that feel like nowhere else on Earth — cliffs, white canyons, underground mosques, vast plateaus.  
-It's not the kind of place you just stumble upon, you need to actively plan for it and put it into your itinerary from the get-go.  
+Reaching the main sites requires advance planning because they are far from Aktau and from each other.  
 
 I went there on a three-day trip starting from **Aktau**, on the Caspian coast.  
 To get to Aktau, I flew from Paris with a layover in Istanbul. It was the cheapest flight to Kazakhstan I could find, by the way (300€?)
@@ -62,7 +62,7 @@ In the end, the rhythm works: long drives, stops to hike and look around, campin
 
 ## Guiding & Driving
 
-Our guide was knowledgeable, talkative, and very Kazakh in spirit. He added depth to the journey beyond the sights (Thanks ChatGPT for that nice sentence).  
+Our guide was knowledgeable and talkative. He explained the places we visited and how his family organised the route, camps and meals.  
 
 The two drivers handled rough roads and sand tracks without issue. Communication was slower with them, as their English was limited, but everything ran smoothly.  
 

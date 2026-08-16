@@ -15,17 +15,17 @@ draft: false
 
 ![Uzbek plov](https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg)
 
-Uzbek **plov** is rice cooked in a *kazan* with meat, onions, carrots and a heroic amount of fat. Chickpeas, raisins, garlic or quail eggs may join it. The rice should remain separate and glossy, not collapse into risotto.
+Uzbek **plov** is rice cooked in a *kazan* with meat, onions, carrots and plenty of fat. Chickpeas, raisins, garlic or quail eggs may also be added. The rice should remain separate and glossy rather than becoming soft like risotto.
 
-Plov centres cook enormous batches for lunch. Arrive around midday while the kazan is active. At 16:00 you may be eating the tired remains of lunch while wondering why the national dish feels like oily gravel.
+Plov centres cook large batches for lunch. Arrive around midday while the kazan is active, as late-afternoon servings may have been sitting for several hours and can be drier and greasier.
 
-Regional arguments are part of the fun. Tashkent versions are often mixed and generously loaded; Samarkand plov may arrive in visible layers, with rice, carrots and meat kept more distinct. Do not immediately stir it into one beige heap if the cook deliberately did not.
+Tashkent versions are often mixed and generously loaded. Samarkand plov may arrive in visible layers, with the rice, carrots and meat kept more distinct, so notice how it has been served before mixing it together.
 
 ## Samsa: stuck to the oven wall
 
 **Samsa** are pastries slapped onto the inside wall of a hot clay tandir. The classic filling is chopped lamb and onion, including enough fat to keep it juicy. Let them cool briefly before biting, because the meat juices inside can be extremely hot.
 
-Pumpkin samsa are lighter and one of the few common orders that may be meat-free, although cooking fat still needs checking. The best test is the base: it should be browned and crisp from the oven wall, not pale and microwaved into sadness.
+Pumpkin samsa are lighter and one of the few common orders that may be meat-free, although the cooking fat still needs checking. The base should be browned and crisp from the oven wall rather than pale and soft from reheating.
 
 **Non** is round tandir bread stamped in the centre with a patterned tool called a *chekich*. The decoration stops the middle from inflating while the rim rises. Samarkand bread is famously dense and durable; it travels well, but only if you resist crushing it beneath your luggage.
 

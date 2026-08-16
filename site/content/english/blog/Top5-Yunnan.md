@@ -11,13 +11,13 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Yunnan changes climate, altitude, food and culture as the railway moves north. These five follow that change instead of listing old towns until the wooden roofs blur together.
+Yunnan's climate, food and culture change as the railway moves north. These five places show that variation rather than focusing exclusively on old towns.
 
 ## 1. Visit the Stone Forest at Shilin
 
 ![Stone Forest near Kunming](https://commons.wikimedia.org/wiki/Special:Redirect/file/Shilin%20stone%20forest.jpg)
 
-Shilin is a forest made of limestone blades, paths and tour groups wearing matching hats. Leave the main loop and the noise drops quickly. It is expensive for a day trip, but the formations are strange enough to survive the ticket price.
+Shilin is a large field of limestone pillars crossed by walking paths. The main loop receives most tour groups, while the outer paths are generally quieter. Admission is expensive for a day trip, so allow enough time to explore beyond the busiest section.
 
 Give it one day for Shilin. The official Stone Forest site lists tourist buses from **Kunming East Bus Station** to the scenic area, plus buses from the airport and Shilin stations. The fast train to **Shilin West** can be quicker, but you still need the local connection to the scenic area.
 
@@ -27,7 +27,7 @@ Do not combine Shilin with a same-day train to Dali unless you are comfortable w
 
 ![Lake Erhai near Dali](https://commons.wikimedia.org/wiki/Special:Redirect/file/Erhai%20Lake%20Dali%2016.JPG)
 
-Dali Old Town is pleasant and full of cafes, which can quietly consume the whole visit. The better day circles Erhai toward Xizhou for Bai houses and street food. With clear weather, the lake and Cangshan make the old town feel like the waiting room rather than the destination.
+Dali Old Town is pleasant and full of cafes, but the surrounding area deserves time as well. Travel around Erhai toward Xizhou for Bai houses and street food, with views of the lake and Cangshan in clear weather.
 
 Give it two nights. One day is enough for the old town and a first look at the lake, but two nights make the stop calmer. Rent a bike or e-bike only if you are comfortable with local traffic and battery range. Otherwise, use taxis or local transport for selected lake sections.
 

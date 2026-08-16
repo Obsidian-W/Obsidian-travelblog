@@ -17,15 +17,15 @@ draft: false
 
 Kunming is the easiest place to sample food from across Yunnan without changing hotels every night. Look for noodle shops around markets and residential or university areas, Yunnan restaurants for steam-pot chicken and mushroom dishes, Dai restaurants for food from the south of the province, and tea shops specialising in Pu'er.
 
-**Cross-bridge noodles** arrive as components rather than a finished soup: a bowl of dangerously hot broth, rice noodles and small plates of raw meat, herbs and vegetables. Add the meat first so the heat cooks it, then everything else. The layer of chicken fat floating on top traps heat; a calm-looking bowl can still remove skin from your tongue.
+**Cross-bridge noodles** arrive as components rather than a finished soup: a bowl of very hot broth, rice noodles and small plates of raw meat, herbs and vegetables. Add the meat first so the heat cooks it, then everything else. A layer of chicken fat traps heat at the surface, so the broth remains hotter than it appears.
 
 The dish comes from Mengzi, not Kunming, although Kunming is where most visitors meet it. **Small-pot noodles** are the opposite approach: noodles, minced meat, pickles and chilli cook together in one small copper pot, producing a stronger, messier breakfast.
 
 **Steam-pot chicken** uses a special ceramic pot with a chimney rising through its centre. Steam enters through the chimney, condenses and gradually creates the broth without the chicken sitting in a large amount of added water. The cooking vessel and method are what distinguish it from an ordinary chicken soup.
 
-Wild-mushroom season produces annual poisonings. Some restaurants set timers at the table because diners must wait until the mushrooms are fully cooked. If staff tell you not to eat yet, this is not slow service and your holiday is not the moment to challenge mycology.
+Wild-mushroom season produces annual poisonings. Some restaurants set timers at the table because diners must wait until the mushrooms are fully cooked. Follow the restaurant's stated cooking time before eating them.
 
-**Flower cakes** contain rose-petal jam inside flaky pastry. Fresh ones smell floral; old boxed ones taste like sweet air freshener trapped in cardboard. **Pu'er** can be raw (*sheng*) or ripe (*shou*): raw tea develops over time and can be sharp when young, while ripe tea is deliberately fermented for a darker, earthy cup.
+**Flower cakes** contain rose-petal jam inside flaky pastry. Fresh cakes have a clear floral aroma, while older boxed versions can taste artificial and dry. **Pu'er** can be raw (*sheng*) or ripe (*shou*): raw tea develops over time and can be sharp when young, while ripe tea is deliberately fermented for a darker, earthy cup.
 
 ## Bai food around Dali and Xizhou
 

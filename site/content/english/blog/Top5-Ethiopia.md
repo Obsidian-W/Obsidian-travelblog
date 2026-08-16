@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Ethiopia is not a destination where an old “Top 5” survives unchanged. Four entries below sit in regions where fighting or road closures can erase the plan. Check them because they are extraordinary, then check whether going there is sane.
+Security conditions and road access can change quickly in Ethiopia. Four entries below are in regions affected by fighting or closures, so verify current conditions before including them in a trip.
 
 ## 1. Survive Addis, but don't skip it
 
@@ -25,7 +25,7 @@ It is also where most routes fall apart and get rebuilt. Keep one or two days, a
 
 ![Bet Giyorgis in Lalibela](https://commons.wikimedia.org/wiki/Special:Redirect/file/Bet%20Gyorgis%20Lalibela.jpg)
 
-The entrance had jumped from $50 to $100 when I went, guides cost extra and fake priests offered cheap tours without knowing much about the churches. It was still worth it. Walking barefoot through rock tunnels while prayers echo is the sort of experience that survives the greed around it.
+The entrance had jumped from $50 to $100 when I went, guides cost extra and fake priests offered cheap tours without knowing much about the churches. It was still worth it. The rock-cut passages, active churches and prayers made the visit memorable despite the aggressive selling around the site.
 
 Give it two nights. The official tourism site says Lalibela Airport is about 25 km from town and is served by Ethiopian Airlines flights from Addis Ababa and other northern cities, with private operators meeting flights for transfers. Check current flights and security before booking.
 

@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Uzbekistan's fast trains make bad itineraries dangerously easy: arrive, photograph blue tiles, leave, repeat. Samarkand, Bukhara and Khiva look increasingly interchangeable when visited at sprinting speed. Sleep twice in the first two.
+Uzbekistan's fast trains make it possible to move between Samarkand, Bukhara and Khiva too quickly to explore them properly. Spend at least two nights in Samarkand and Bukhara rather than treating each city as a short stop between trains.
 
 ## 1. See the Registan and Timurid Samarkand
 
@@ -27,7 +27,7 @@ Tashkent-Samarkand is the easiest high-speed rail segment. Book early for Afrosi
 
 ![Kalyan Minaret in Bukhara](https://commons.wikimedia.org/wiki/Special:Redirect/file/Kalyan%20Minaret%20in%20Bukhara.jpg)
 
-Bukhara works because the monuments join into a city. Walk from Lyabi-Hauz through the trading domes to Poi-Kalyan and let the minaret keep reappearing above the roofs. It is calmer than Samarkand and does not require a taxi between every historical noun.
+Bukhara's principal monuments form a continuous walking route. Walk from Lyabi-Hauz through the trading domes to Poi-Kalyan, with the minaret visible repeatedly above the roofs. The historic centre is calmer and more compact than Samarkand.
 
 Give it two nights. A single night is possible but leaves little time for early morning and evening, when the centre is easier to read without the hottest light and tour groups.
 
