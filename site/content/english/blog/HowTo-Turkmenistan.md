@@ -1,10 +1,11 @@
 ---
 date: "2025-08-15"
 title: "How to visit Turkmenistan?"
-description: "Practical guide to visiting Turkmenistan with an agency, visa, budget, transport and a short itinerary."
+description: "My tips for visiting Turkmenistan."
 image: "images/blog/turkmenistan.jpg"
 categories: ["How-to", "Turkmenistan", "Central Asia"]
 continents: ["Asia"]
+ai_generated: false
 draft: false
 ---
 
