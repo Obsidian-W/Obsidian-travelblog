@@ -71,6 +71,8 @@ L’aéroport de Delhi est agréable, facile d’accès et simple à parcourir !
 
 ---
 
+![More from India](images/blog/india5.jpg)
+
 ## Le fossé entre hommes et femmes
 
 Globalement, l’Inde n’est pas une destination pour les femmes voyageant seules.
@@ -161,6 +163,8 @@ Les jeunes femmes parlent souvent très bien anglais (avec un accent indien) et 
 Les étudiants sont amusants, mais fais attention : lorsqu’ils sont en groupe, beaucoup essaieront de prendre des photos avec toi ou de te piéger dans une tendance TikTok gênante.
 
 ---
+
+![More from India](images/blog/india3.jpg)
 
 ## Note sur les trains
 

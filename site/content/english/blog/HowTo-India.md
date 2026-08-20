@@ -3,7 +3,7 @@ date: "2026-08-20"
 title: "My tips for visiting India"
 description: "My firsthand tips for enjoying India"
 image: "images/blog/india.jpg"
-categories: ["How-to", "India", "India"]
+categories: ["How-to", "India"]
 continents: ["Asia"]
 ai_generated: false
 draft: false
@@ -71,6 +71,8 @@ Before 2019, it was only €350. How we have fallen...
 Delhi airport is nice, easy to access and easy to navigate!
 
 ---
+
+![More from India](images/blog/india5.jpg)
 
 ## Male vs Female Schism
 
@@ -162,6 +164,8 @@ Young women often speak very good English (with an Indian accent) and will gener
 Students are fun, but be careful, when in group, many will try to get pictures with you or will try to trick you with some Tiktok cringe trend.
 
 ---
+
+![More from India](images/blog/india3.jpg)
 
 ## Note about trains
 
