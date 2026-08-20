@@ -9,9 +9,11 @@ ai_generated: true
 draft: false
 ---
 
-> Note: this article was AI-generated, then checked and edited against the sources listed at the end.
+> Note: this article was AI-generated, then checked and edited against the sources
+> listed at the end (I added some stuff too, especially the Lantau parts, since it
+> took me time to get all the info.)
 
-Operational transport details were checked in August 2026 where stated.
+Operational transport details were checked in August 2026, tried in March 2026.
 
 ![Hong Kong MTR](https://commons.wikimedia.org/wiki/Special:Redirect/file/MTR-train.jpg)
 
@@ -19,9 +21,10 @@ Operational transport details were checked in August 2026 where stated.
 
 Hong Kong is one of the easiest big cities in Asia to navigate. Use the **MTR** for most urban trips, **Airport Express** for the airport when speed matters, **Star Ferry** for harbour crossings, **trams** for the north side of Hong Kong Island, and buses for beaches, hikes and Lantau.
 
-Get an **Octopus** card or use supported contactless/QR payments where available. Octopus remains the simplest visitor option because it works across MTR, buses, ferries, trams, convenience stores and many small payments.
+Get an [**Octopus** card](https://www.octopus.com.hk/en/consumer/index.html) or use supported contactless/QR payments where available. Octopus remains the simplest visitor option because it works across MTR, buses, ferries, trams, convenience stores and many small payments.
 
-The main mistake is treating every trip as an MTR trip. The MTR is excellent for dense urban corridors, but buses are often better for beaches, trailheads, Stanley, Aberdeen, Lantau villages and airport-to-hotel routes. Ferries are still useful for islands and harbour crossings.
+The main mistake is treating every trip as an MTR trip. The MTR is excellent for dense urban corridors, but buses are often better for beaches, trailheads, Stanley, Aberdeen, Lantau villages... (They fill the gaps, and even if the MTR is extensive, they are gaps).
+Ferries are still useful for islands and harbour crossings, I didn't try the ferry.
 
 ## Airport to city
 
@@ -67,78 +70,49 @@ Key visitor stations:
 | Shau Kei Wan | Dragon's Back bus access |
 | West Kowloon | High-speed rail to mainland China |
 
+## Going to Mount Victoria
+
+The easy option is the **Peak Tram**, the funicular running from the lower terminus on Garden Road to the Peak. An adult ticket costs **HK$82 one way or HK$116 return**. The Sky Terrace 428 viewpoint is not included; that costs another **HK$80**. Queues can be long, so book ahead or go early. Also check the weather before paying, because there is little point going up for a wall of cloud.
+
+You can also walk from Central for free. Start at the **Central–Mid-Levels Escalator** near Central Market and follow it uphill through SoHo. It runs downhill before 10am and uphill from 10:20am, so an early start means walking up the steps beside it.
+
+Around midway, get off at Staunton Street for **Bakehouse Soho**. I used to work for Bakehouse while I was living in Cambodia, so this is my completely biased recommendation to stop for an egg tart before the steep part.
+
+Continue to the top of the escalator at Conduit Road, turn west and follow Conduit Road to Hornsey Road, then join **Old Peak Road** for the climb to the Peak. It is paved and straightforward but properly steep, especially near the top. You can walk up and take the Peak Tram or bus back down if you do not want to repeat it.
+
 ## Core visitor routes
 
-**Route:** Tsim Sha Tsui to Central  
-**Best option:** Star Ferry or MTR.  
-**Typical duration:** Short harbour crossing by ferry; MTR is also quick.  
-**Departure point:** Tsim Sha Tsui Star Ferry Pier or MTR station.  
-**Arrival point:** Central Pier or Central/Hong Kong MTR area.  
-**Booking method:** Octopus or ferry/MTR ticket.  
-**Important notes:** Use the ferry at least once; it is both useful and scenic.
+### Tsim Sha Tsui to Central
 
-**Route:** Central to The Peak  
-**Best option:** Peak Tram when queues are reasonable, otherwise bus or taxi.  
-**Typical duration:** Highly queue-dependent.  
-**Departure point:** Central / Admiralty area.  
-**Arrival point:** The Peak.  
-**Booking method:** Peak Tram ticket, Octopus where accepted, bus fare or taxi.  
-**Important notes:** Bad weather can make the view poor. Check visibility before committing.
+Take the **Star Ferry** from Tsim Sha Tsui Pier to Central Pier, or use the MTR between Tsim Sha Tsui and Central/Hong Kong. Both are quick and accept Octopus or individual tickets. Use the ferry at least once: it is useful as well as scenic.
 
-**Route:** Tung Chung to Ngong Ping / Big Buddha / Tai O  
-**Best option:** MTR to Tung Chung, then Ngong Ping 360 cable car or bus to Ngong Ping; continue to Tai O by bus if time allows.  
-**Typical duration:** Most of a day once queues and Tai O are included.  
-**Departure point:** Tung Chung MTR area.  
-**Arrival point:** Ngong Ping, Big Buddha, Po Lin Monastery and Tai O.  
-**Booking method:** Cable-car ticket, Octopus/bus fare or tour.  
-**Important notes:** Cable car operation is weather-dependent. Check service status before crossing the city.
+### Tung Chung to Ngong Ping, the Big Buddha and Tai O
 
-**Route:** Shau Kei Wan to Dragon's Back  
-**Best option:** MTR to Shau Kei Wan, then bus 9 to To Tei Wan.  
-**Typical duration:** Half-day outing including hike.  
-**Departure point:** MTR Shau Kei Wan Station Exit A2, then Shau Kei Wan Bus Terminus.  
-**Arrival point:** To Tei Wan trail start; return from Big Wave Bay by bus 9.  
-**Booking method:** Octopus or bus fare.  
-**Important notes:** This is the route listed by the Hong Kong Tourism Board. Avoid exposed hiking in thunderstorms.
+Take the MTR to Tung Chung, then the **Ngong Ping 360 cable car** or a bus to Ngong Ping. From there, continue by bus to Tai O if you have time. Combining Ngong Ping, the Big Buddha, Po Lin Monastery and Tai O takes most of a day. Pay separately for the cable car, use Octopus for the bus or book a tour. Cable-car service is weather-dependent, so check it before crossing the city.
 
-**Route:** Central to Lamma or Cheung Chau  
-**Best option:** Ferry from Central piers.  
-**Typical duration:** Depends on island and vessel.  
-**Departure point:** Central ferry piers.  
-**Arrival point:** Island ferry pier.  
-**Booking method:** Octopus or ferry ticket.  
-**Important notes:** Check the return schedule before going late.
+### Shau Kei Wan to Dragon's Back
 
-**Route:** Hong Kong to Macau  
-**Best option:** Ferry or Hong Kong-Zhuhai-Macao Bridge bus depending on departure point and luggage.  
-**Typical duration:** Short by regional standards, but immigration and terminal transfers add time.  
-**Departure point:** Hong Kong ferry terminals or HZMB Hong Kong Port.  
-**Arrival point:** Macau ferry terminal or HZMB Macau Port.  
-**Booking method:** Ferry operator, bridge shuttle or bus operator.  
-**Important notes:** Carry your passport and check visa/entry rules for your nationality.
+Take the MTR to Shau Kei Wan, leave through Exit A2 and board bus 9 at Shau Kei Wan Bus Terminus for the To Tei Wan trailhead. Return from Big Wave Bay on bus 9. The outing takes around half a day including the hike; pay by Octopus or bus fare. This is the route listed by the Hong Kong Tourism Board. Avoid exposed hiking in thunderstorms.
 
-**Route:** Hong Kong to Shenzhen / mainland China  
-**Best option:** MTR border crossings for local access, or high-speed rail from West Kowloon for city-to-city travel.  
-**Typical duration:** Varies by crossing, queue and destination.  
-**Departure point:** Lo Wu, Lok Ma Chau, West Kowloon or other crossing depending on route.  
-**Arrival point:** Shenzhen metro/rail area or mainland destination.  
-**Booking method:** MTR/rail ticket, mainland rail booking or border transport.  
-**Important notes:** Mainland China entry rules, visas and apps are separate from Hong Kong. Do not assume Hong Kong entry gives mainland entry.
+### Central to Lamma or Cheung Chau
+
+Take a ferry from the Central piers to the relevant island pier. Journey time depends on the island and vessel, and you can pay by Octopus or ferry ticket. Check the return schedule if you are leaving late.
+
+### Hong Kong to Macau
+
+Choose between a ferry and the **Hong Kong–Zhuhai–Macao Bridge bus** based on your departure point and luggage. Leave from a Hong Kong ferry terminal or HZMB Hong Kong Port and arrive at a Macau ferry terminal or HZMB Macau Port. Book with the ferry, bridge-shuttle or bus operator. The trip is short by regional standards, but immigration and terminal transfers add time. Carry your passport and check the entry rules for your nationality.
+
+### Hong Kong to Shenzhen or mainland China
+
+Use an MTR border crossing for local access to the Shenzhen metro and rail network, or take high-speed rail from West Kowloon for city-to-city travel. Depending on the route, leave through Lo Wu, Lok Ma Chau, West Kowloon or another crossing and book the relevant MTR, mainland rail or border-transport ticket. Journey time varies with the crossing, queue and destination. Mainland China has separate entry rules, visas and apps: Hong Kong entry does not give you mainland entry.
 
 ## Trams, buses and ferries
 
-**Hong Kong Tramways** are useful on the north side of Hong Kong Island between Kennedy Town, Central, Wan Chai, Causeway Bay and further east. They are slow but simple for short hops when you are not in a hurry.
+**Hong Kong Tramways** run along the north side of Hong Kong Island, linking Kennedy Town, Central, Wan Chai, Causeway Bay and districts further east. They are slow but useful for short hops when you are not in a hurry.
 
-Buses matter for:
+**Buses** matter most on Lantau and the south side of Hong Kong Island, where the MTR does not reach every village, beach or trailhead.
 
-| Area | Why buses matter |
-| --- | --- |
-| Lantau | Villages, beaches, Tai O and Ngong Ping alternatives |
-| Southern Hong Kong Island | Stanley, Aberdeen, Repulse Bay, trailheads |
-| Sai Kung and New Territories | Country parks, beaches and hikes |
-| Airport routes | Direct hotel-area access without MTR transfers |
-
-Ferries matter for Central-Tsim Sha Tsui, outlying islands, Lamma, Cheung Chau and some harbour routes. Check the return time before leaving for islands in the evening.
+**Ferries** are useful between Central and Tsim Sha Tsui and for reaching Lamma, Cheung Chau and other outlying islands. Check the return time before leaving for an island in the evening.
 
 ## Apps and payment
 
@@ -148,15 +122,15 @@ MTR ticketing supports Octopus, single-journey tickets and selected QR/contactle
 
 Octopus can be topped up at MTR stations and many convenience stores. The Octopus tourist information says physical tourist cards may need value added before use, and that mobile Octopus top-up can work with some non-Hong Kong cards depending on phone platform and card type.
 
-From April 1, 2026, Hong Kong taxi drivers are required to provide at least two electronic payment methods, including one QR option and one non-QR option such as Octopus, credit card or FPS. Cash is still useful; check the window sticker or ask before boarding if electronic payment matters.
+From April 1, 2026, Hong Kong taxi drivers are required to provide at least two electronic payment methods, including one QR option and one non-QR option such as Octopus, credit card or **FPS (Faster Payment System)**. Cash is still useful; check the window sticker or ask before boarding if electronic payment matters.
 
 ## Practical transfer rules
 
-- If you land tired, choose the fewest transfers, not the cheapest theoretical route.
-- If you stay in Tsim Sha Tsui, Jordan or Mong Kok, compare airport buses with Airport Express plus MTR/taxi.
+- If you arrive tired, choose the route with the fewest transfers rather than the cheapest route on paper.
+- For Tsim Sha Tsui, Jordan or Mong Kok, compare the airport bus with Airport Express plus MTR or taxi.
 - For hikes, check the return bus before starting.
-- For ferries to islands, check the last return before dinner.
-- For mainland China, sort visas, Alipay/WeChat Pay and maps separately; Hong Kong transport habits do not transfer cleanly.
+- For island ferries, check the last return before dinner.
+- For mainland China, organise the visa, Alipay or WeChat Pay, and map apps separately; Hong Kong transport habits do not transfer directly.
 
 ## Source log
 
@@ -168,3 +142,6 @@ From April 1, 2026, Hong Kong taxi drivers are required to provide at least two 
 - [Hong Kong Tourism Board - Dragon's Back](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-dragon-s-back.html): bus 9 access details.
 - [Octopus - tourist usage](https://www.octopus.com.hk/en/consumer/tourist/usages/index.html): topping up and tourist-use details.
 - [Hong Kong government press release, March 2026](https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm): taxi electronic-payment requirement from April 1, 2026.
+- [The Peak Tram - December 2025 fare adjustment](https://www.thepeak.com.hk/sites/peak/files/2025-12/%5BPress%20Release%5D%20The%20Peak%20Tram%20Announces%20Fare%20Adjustment.pdf): current Peak Tram and Sky Terrace fares.
+- [Hong Kong Tourism Board - Central–Mid-Levels Escalator](https://www.discoverhongkong.com/eng/place-to-go/central-mid-levels-escalator.html): route and operating direction.
+- [Bakehouse - locations](https://www.bakehouse.hk/locations): Soho branch location.

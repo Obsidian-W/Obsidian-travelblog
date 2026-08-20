@@ -12,7 +12,7 @@ draft: false
 >  
 > Two months, five countries, deserts, mountains, and Silk Road legends.  
 >  
-> My 40-days trip through Central Asia, from the Caspian Sea to the Gates of Hell.
+> My itinerary through Central Asia, from the Caspian Sea to the Gates of Hell.
 
 ---
 
@@ -20,10 +20,10 @@ Before diving into the itinerary, a few notes:
 
 - Route: **Kazakhstan → Kyrgyzstan → Tajikistan → Uzbekistan → Turkmenistan**
 - Budget: ~25–30 €/day (around 1,800€ total, excluding flights)
-- Entry notes: E-visas are easy for most nationalities except Turkmenistan (needs LOI).
-- Cash: Always carry USD, ATMs can be unreliable.
-- Transport: Marshrutkas, trains, shared taxis, and a few domestic flights.
-- Best season: Late spring to early autumn.
+- Entry notes: E-visas are straightforward for several countries, while Turkmenistan requires an agency or letter of invitation depending on the case.
+- Cash: Carry clean USD notes. ATMs and card payments are not reliable everywhere.
+- Transport: Marshrutkas, trains, shared taxis, improvised night buses and a few domestic flights.
+- Best season: Late spring to early autumn. The Pamir and other mountain areas become harder outside the main season.
 
 ---
 
@@ -38,12 +38,12 @@ Before diving into the itinerary, a few notes:
 |  Day 3  |        [Bozjyra Plateau](#day-3-bozjyra-plateau)         | Long desert drive, isolated plateau |
 |  Day 4  | [Tiramisu Canyon & Boktu](#day-4-tiramisu-canyon-boktu)  | Unique geological formations        |
 | Day 5-6 |                [Astana](#day-5-6-astana)                 | Modern capital exploration          |
-|  Day 7  |                [Astana](#day-5-6-astana)                 | Modern capital exploration          |
-|  Day 8  |            [Almaty City](#day-7-almaty-city)             | City exploration, prep for hikes    |
-|  Day 9  |        [Big Almaty Lake](#day-8-big-almaty-lake)         | Mountain hike                       |
-| Day 10  | [Charyn Canyon & Kolsai Lakes](#day-9-canyons-and-lakes) | Nature day                          |
-| Day 11  |    [Shymbulak Mountains](#day-10-shymbulak-mountains)    | High-altitude trek                  |
-| Day 12  |         [Toward Bishkek](#day-11-toward-bishkek)         | Border crossing & rest              |
+|  Day 7  |       [Aqmola & Alzhir](#day-7-aqmola-alzhir)            | Gulag memorial, then night train    |
+|  Day 8  |            [Almaty City](#day-8-almaty-city)             | City exploration, prep for hikes    |
+|  Day 9  |        [Big Almaty Lake](#day-9-big-almaty-lake)         | Mountain hike                       |
+| Day 10  | [Charyn Canyon & Kolsai Lakes](#day-10-canyons-and-lakes)| Nature day                          |
+| Day 11  | [Shymbulak Mountains](#day-11-shymbulak-ski-resort)      | High-altitude trek                  |
+| Day 12  |         [Toward Bishkek](#day-12-toward-bishkek)         | Border crossing & rest              |
 
 
 ---
@@ -58,9 +58,9 @@ Before diving into the itinerary, a few notes:
 |  Day 18   |                  [Karakol](#day-18-karakol)                  |              City visit, rest              |
 |  Day 19   |                [Jeti-Ögüz](#day-19-jeti-oguz)                |        Red rock cliffs, short hike         |
 |  Day 20   |            [Altyn Arashan](#day-20-altyn-arashan)            |        Long alpine hike, yurt camp         |
-|  Day 21   |           [Rest & Transport](#day-21-route-to-osh)           |             Long route to Osh              |
+|  Day 21   |           [Rest & Transport](#day-21-trip-to-osh)            |             Long route to Osh              |
 |  Day 22   | [Osh & Pamir Highway Start](#day-22-osh-pamir-highway-start) |        Prep and departure for Pamir        |
-| Day 23-24 |  [Peak Lenin and Turpikol](#day-23-24-peak-lenin-turpikol)   |       Beginning of the Pamir Highway       |
+| Day 23-24 | [Peak Lenin and Tulpar-Kul](#day-23-24-peak-lenin-pamir-highlights) | Beginning of the Pamir Highway |
 
 ---
 
@@ -73,20 +73,19 @@ Before diving into the itinerary, a few notes:
 |    Day 28     |          [Yamchun Fortress](#day-28-yamchun-fortress)          | Hot springs + ruins                  |
 |    Day 29     |                 [Kalaikhum](#day-29-kalaikhum)                 | Scenic drive along Panj River        |
 |    Day 30     |                  [Dushanbe](#day-30-dushanbe)                  | End of the Pamir highway             |
-| Day 31 and 32 | [Panjakent and the Seven Lakes](#day-31-panjakent-seven-lakes) | Hike to the seven lakes and old town |
-| Day 33 and 34 |            [Khujand](#day-33-khujand-historic-city)            | Historic city exploration            |
+| Day 31 and 32 | [Panjakent and the Seven Lakes](#day-31-and-32-panjakent-seven-lakes) | Hike to the seven lakes and old town |
+| Day 33 and 34 | [Khujand](#day-33-34-khujand-historic-city) | Historic city exploration |
 ---
 
 ## 🇺🇿 UZBEKISTAN
 
 |    Day    |            Destination            |           Notes            |
 | :-------: | :-------------------------------: | :------------------------: |
-| Day 35-36 |  [Tashkent](#day-29-30-tashkent)  |     Capital city visit     |
-| Day 37-38 | [Samarkand](#day-31-32-samarkand) |     Registan by sunset     |
-| Day 39-40 |   [Bukhara](#day-33-34-bukhara)   | Visit the town of scholars |
-| Day 41-42 |     [Khiva](#day-35-36-khiva)     |      Ichan Kala visit      |
-|  Day 43   |  [Nukus](#day-37-38-nukus-aral)   |      Travel + museum       |
-|  Day 44   | [Aral Sea](#day-37-38-nukus-aral) |     Deserted sea tour      |
+| Day 35-36 |  [Tashkent](#day-35-and-36-tashkent)  |     Capital city visit     |
+| Day 37-38 | [Samarkand](#day-37-and-38-samarkand) |     Registan by sunset     |
+| Day 39-40 |   [Bukhara](#day-39-and-40-bukhara)   | Visit the town of scholars |
+| Day 41-42 |     [Khiva](#day-41-and-42-khiva)     |      Ichan Kala visit      |
+| Day 43-44 | [Nukus & Aral Sea](#day-43-44-nukus-karakalpakstan) | Museum and Aral Sea tour |
 
 ---
 
@@ -94,9 +93,9 @@ Before diving into the itinerary, a few notes:
 
 |  Day   |            Destination            |       Notes       |
 | :----: | :-------------------------------: | :---------------: |
-| Day 45 | [Darvaza Crater](#day-39-darvaza) | The Gates of Hell |
-| Day 46 |   [Ashgabat](#day-40-ashgabat)    | Marble city tour  |
-| Day 47 |   [Ashgabat](#day-41-departure)   |     Departure     |
+| Day 45 | [Konye-Urgench](#day-45-konye) | Border, ruins and Darvaza |
+| Day 46 | [Darvaza](#day-46-darvaza)     | Craters and road to Ashgabat |
+| Day 47 | [Ashgabat](#day-47-ashgabat)    | Marble city and departure |
 
 ---
 
@@ -482,7 +481,7 @@ I mostly followed other people here before heading to Khujand.
 
 ---
 
-## Day 33 Khujand – Historic City
+## Day 33-34 Khujand – Historic City
 
 ![Trip](images/blog/khujand.jpg)
 

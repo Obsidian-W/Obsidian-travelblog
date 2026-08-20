@@ -11,7 +11,7 @@ draft: false
 > This list has been compiled based on commonalities across the highly diverse African continent.
 It sums up the tools and tricks that are often crucial, especially when moving between different countries and cultures. **Always check country-specific advice!**
 
-(No shame: I used a helpful AI Assistant (Gemini) for quick formatting and to synthesize common advice)
+(No shame: I used a helpful AI Assistant (Gemini) for quick formatting and to synthesize common advice, but the content is mine)
 
 ---
 
@@ -42,14 +42,15 @@ It sums up the tools and tricks that are often crucial, especially when moving b
 ## 🚗 Transportation
 
 ### Booking Flights & Overland
-- **Domestic Flights:** Recommended for covering the continent's vast distances quickly (e.g., between South Africa and Kenya).
+- **Domestic Flights:** Recommended for covering the continent's vast distances quickly (e.g. between Harar/Dire Dawa and Addis in Ethiopia).
 - **Overland Tours/4x4 Rental:** The most common way for *safaris* and exploring remote parks.
-- Using a local travel agent or the airline/bus company website directly is often best.
+- Using a local travel agent or the airline/bus company website directly is often best (And sometime they have better prices, especially for Ethiopia. They can get flights almost twice as cheap)
+- In Ethiopia, tourism is a mafia, drop the right names, door opens. I don't know who's the current boss, but the one I knew in 2022 opened up a lot, one name dropped and people treats you far better.
 
-### Ride-Hailing Apps (Uber, Bolt, Indriver)
-- **Uber** and **Bolt** are common, while **Indriver** is popular in parts of West and North Africa.
+### Ride-Hailing Apps (Uber, Bolt, Indrisver)
+- **Uber** and **Bolt** are common, while, apparently, **Indriver** is popular in parts of West and North Africa.
 - Generally considered a **safer, more transparent option** than hailing a street taxi.
-- Payment is easiest by linking a foreign card to the app.
+- Payment is easiest by linking a card to the app.
 
 ### Minibuses & Shared Taxis
 - Also known as **Matatus** (Kenya), **Tro-tros** (Ghana), or **Daladalas** (Tanzania).
@@ -65,9 +66,12 @@ It sums up the tools and tricks that are often crucial, especially when moving b
 - Non-residents can usually register for a Mobile Money account with a local SIM card and passport.
 
 ### Cash (USD/Local Currency)
-- **Cash is Essential and widely used.** Many local markets, small shops, and rural areas are cash-only.
-- **US Dollars (USD)**: Widely accepted (and often *required*) for visas, major tourist expenses, and tips. **Only bring new, clean, post-2006 bills**—old or damaged notes are often rejected.
-- **Credit/Debit Cards**: Widely accepted in high-end hotels, major supermarkets, and tourist centers in major cities. Expect surcharges of 3-10% in some places. **Visa and MasterCard** are most common.
+- **Cash is still widely used.** Most places only use mobile money or cash.
+- **US Dollars (USD)**: Often accepted (and often *required*) for visas, major tourist expenses, and tips. **Only bring new, clean, post-2006 bills**—old or damaged notes are often rejected.
+A black market for conversion exists in most countries. It also works in Euro in old french colonies.
+- **Credit/Debit Cards**: Sometimes accepted in high-end hotels, major supermarkets, and tourist centers in major cities. Expect surcharges of 3-10% in some places.
+- **Mobile money**: Once again, very important, M'Pesa, Mobile Pay and many others are parts of the daily life in most subsaharan african countries. Even more accepted than cash.
+
 
 > **ATMs:** Available in cities and towns. Use bank ATMs during the day and be discreet.  
 > Inform your home bank of your travel dates to avoid card freezing.
@@ -77,10 +81,15 @@ It sums up the tools and tricks that are often crucial, especially when moving b
 ## Other Notes
 
 - **SIM Card**: Buying a local SIM card is cheap and vital for navigation, ride-hailing, and Mobile Money.
-- **Trains vs flights**: For distances under 1,000 km, often a high-quality intercity bus is the most reliable balance between speed and cost, as train networks are limited.
+- **Bus vs flights**: Flights are often expensive, but much quicker than bus. Notoriously slow and not as cheap as planned.
+Trains are usually uncommon.
 - **Toilets**: Varies greatly; carry tissues and hand sanitizer.
-- **Etiquette & Safety**: Publicly displaying wealth (expensive phones, jewelry) is discouraged in cities. Always ask before taking a picture of a person. Be patient, polite, and embrace the concept of "Africa Time" (things move slowly).
-- **Politics/Military**: Avoid sensitive topics, queue firmly, and never take pictures of government, police, or military installations.
+- **Etiquette & Safety**: Publicly displaying wealth (even a single coin) is discouraged in cities. Always ask before taking a picture of a person. Be patient, polite, and embrace the concept of "Africa Time" (things move slowly, very slowly).
+- **Scams**: Assume everything is a scam. If someone approaches you? Scam.
+A deal? Scam. Bus prices? For tourists. Don't trust anyone.
+- **Politics/Military**: Avoid sensitive topics, queue firmly, and never take pictures of government, police, or military installations. NEVER. You can seriously get arrested.
+
+> For the last point, it happened to someone I met.
 
 ![Safari](images/blog/tanzania.jpg)
 

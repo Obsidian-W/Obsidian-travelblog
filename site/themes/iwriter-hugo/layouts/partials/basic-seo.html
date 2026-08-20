@@ -9,7 +9,7 @@
 {{- end -}}
 {{- $isPaged := gt $pageNumber 1 -}}
 {{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
-{{- $shouldNoindex := or $isSearch $isTagLike $isPaged -}}
+{{- $shouldNoindex := or $isSearch $isTagLike -}}
 
 {{- $pageTitle := .Title | default $siteTitle -}}
 {{- $seoTitle := $pageTitle -}}

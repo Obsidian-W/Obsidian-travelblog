@@ -66,7 +66,7 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 - If linking fails, apparently, there is a “Tour Pass” option you can top up. I never tried.  
 
 ### WeChat
-- Requires a stupid verification using chinese friend.  
+- May require verification with the help of a Chinese account holder.  
 - You can get banned anytime for no reason.
 - It's a shitty app, I hate it.
 - Payment with foreign cards is unreliable, but it's still useful for messaging.

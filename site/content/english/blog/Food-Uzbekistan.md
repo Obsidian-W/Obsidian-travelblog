@@ -11,50 +11,51 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-## Core dishes
+## Plov is lunch, not rice waiting around all day
 
 ![Uzbek plov](https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg)
 
-Uzbek food is built around rice, wheat, meat, carrots, onions, dairy, tea and tandoor baking. It is filling, direct and usually easier to understand than to order lightly.
+Uzbek **plov** is rice cooked in a *kazan* with meat, onions, carrots and plenty of fat. Chickpeas, raisins, garlic or quail eggs may also be added. The rice should remain separate and glossy rather than becoming soft like risotto.
 
-| Food | What it is | Where to look |
-| --- | --- | --- |
-| Plov | Rice with meat, carrots and fat | Plov centres, lunch restaurants |
-| Samsa | Tandoor-baked pastry, usually meat or pumpkin | Bazaars, bakeries, street stalls |
-| Non | Round tandoor bread | Markets and bakeries |
-| Shashlik | Grilled skewers | Grill restaurants |
-| Lagman | Noodles with meat and vegetables | Local restaurants |
-| Manti | Steamed dumplings | Lunch restaurants |
+Plov centres cook large batches for lunch. Arrive around midday while the kazan is active, as late-afternoon servings may have been sitting for several hours and can be drier and greasier.
 
-Plov is usually a lunch dish. Go earlier rather than late afternoon if you care about getting a good version.
+Tashkent versions are often mixed and generously loaded. Samarkand plov may arrive in visible layers, with the rice, carrots and meat kept more distinct, so notice how it has been served before mixing it together.
+
+## Samsa: stuck to the oven wall
+
+**Samsa** are pastries slapped onto the inside wall of a hot clay tandir. The classic filling is chopped lamb and onion, including enough fat to keep it juicy. Let them cool briefly before biting, because the meat juices inside can be extremely hot.
+
+Pumpkin samsa are lighter and one of the few common orders that may be meat-free, although the cooking fat still needs checking. The base should be browned and crisp from the oven wall rather than pale and soft from reheating.
+
+**Non** is round tandir bread stamped in the centre with a patterned tool called a *chekich*. The decoration stops the middle from inflating while the rim rises. Samarkand bread is famously dense and durable; it travels well, but only if you resist crushing it beneath your luggage.
+
+Other everyday orders include **lagman**, noodles with meat and vegetables; **manti**, large steamed dumplings; and **shashlik**, meat grilled on skewers. They are easier to find throughout the day than plov.
 
 ## Tashkent
 
-Tashkent is the easiest city for variety. Use **Chorsu Bazaar** for bread, samsa, dried fruit, nuts and market context. For plov, choose a busy plov centre rather than a tourist restaurant trying to serve every Uzbek dish all day.
+At **Chorsu Bazaar**, the bread patterns, stacked dried fruit, nuts and spices are more interesting than another generic restaurant list. Buy small amounts first: sellers are very good at turning “one taste” into enough dried apricots for a minor expedition.
 
-The metro makes it practical to combine Chorsu with other stops. Eat before or after the market, not while carrying all your bags.
+Avoid taking luggage through Chorsu while trying to taste bread or shop for dried fruit. The aisles can be crowded, and the metro makes it easy to return without carrying a large bag.
 
 ## Samarkand
 
-Samarkand is strong for bread, plov, kebabs and bazaar food. The official tourism site notes the importance of Samarkand bread and lists plov, kebabs and manti among common local foods.
-
-Use **Siab Bazaar** for non, fruit, nuts and sweets. Bread is the practical thing to buy here before a train day, but carry it in a bag where it will not be crushed.
+At **Siab Bazaar**, compare the thick Samarkand loaves before buying one for a train. The dense crumb keeps longer than soft city bread. A decorative loaf the size of a steering wheel is less convenient once you actually have to carry it.
 
 ## Bukhara
 
-Bukhara is good for slow meals between old-city walks. Expect plov, shashlik, soups, salads, bread and tea. Restaurants around Lyabi-Hauz are convenient but can be more visitor-oriented; step a little away from the main square for calmer meals.
+Bukhara is where **shashlik** smoke drifts through the old centre. Skewers are usually priced individually, so a cheap-looking number may buy one small stick, not dinner. Order several kinds, add bread and raw onion, and confirm whether fat-tail pieces are mixed into the meat.
 
-Bukhara's old centre is compact, so do not over-plan restaurants. Eat when the timing fits heat and sightseeing.
+Restaurants around Lyabi-Hauz are convenient but aimed more at visitors. Walk a little farther from the main square for simpler plov, soup, salad, bread and tea.
 
 ## Khiva and Karakalpakstan
 
 Khiva's old city has restaurants for travellers, but choice is smaller than Tashkent or Samarkand. Keep meals simple: soup, shashlik, lagman, bread, salads and tea.
 
-In Nukus and Karakalpakstan, expect Uzbek basics plus regional variations, fish where available, and simpler road food. If you are going to Muynak or the Aral Sea area, bring water and snacks.
+Nukus and the road to Muynak thin the menu down to plov, soup, kebabs, bread and whatever fish is available. Carry water and food before heading toward the former Aral Sea, where places to eat are limited.
 
 ## Dietary notes
 
-Vegetarians can manage in Tashkent and tourist cities, but many dishes use meat or meat broth. Pumpkin samsa, salads, bread, eggs, dairy and some soups help, but ask clearly.
+Vegetarian-looking plov may still have cooked beside meat, and soup frequently begins with meat broth. Pumpkin samsa, bread, tomato-cucumber salad, eggs and dairy prevent starvation but can become repetitive enough to make a carrot feel exciting.
 
 Gluten-free travel is difficult because non, samsa, noodles and dumplings are common. Rice dishes help, but plov is not always suitable if cross-contamination matters.
 

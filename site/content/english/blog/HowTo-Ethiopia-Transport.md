@@ -10,6 +10,7 @@ draft: false
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
+> Note 2: Good luck, lol
 
 Operational transport and security details were checked in August 2026 where stated.
 
@@ -17,103 +18,63 @@ Operational transport and security details were checked in August 2026 where sta
 
 ## Main transport logic
 
-Ethiopia is a flight-first country for many travellers. Distances are large, roads can be slow, and the security situation outside Addis Ababa changes. Domestic flights save time and reduce exposure to long road corridors, but flights can still be cancelled or disrupted.
+Ethiopia is huge, journeys by road are slow and the main places of interest are spread across several regions. Domestic flights save a great deal of time when combining them.
 
-Check current security before booking any route outside Addis. In 2026, several government advisories still warn against travel to large parts of Amhara, Tigray, Oromia, Afar and border regions. This affects classic routes such as Lalibela, Gondar, Bahir Dar and the Omo Valley.
+As of August 2026, official advisories warn against travel to several regions, including Amhara and Tigray, and parts of Oromia, Afar and southern Ethiopia. These warnings affect popular destinations such as Lalibela, Gondar, Bahir Dar, the Simien Mountains and the Omo Valley.
 
-Treat old Ethiopia itineraries as ideas, not instructions. A route that worked in 2018 or 2023 may be closed, unsafe or logistically broken in 2026. Before paying for domestic flights or drivers, check at least two current sources: a government advisory and a local operator or accommodation contact.
+Before booking, check the advisory for the exact region and confirm current airport and road access with a hotel or operator at the destination. Airlines may continue selling tickets while conditions on the ground are changing.
 
 ## Arrival in Addis Ababa
 
-**Addis Ababa Bole International Airport (ADD)** is the main gateway. Use official taxis, hotel transfers or transport arranged by your accommodation. If you arrive late, arrange pickup. Keep the first day light; jet lag, altitude and traffic make over-planning pointless.
+**Addis Ababa Bole International Airport (ADD)** is the main international and domestic hub. For the first ride into town, use a yellow or app-based taxi, hotel pickup or a driver arranged by your accommodation. A pre-arranged pickup is the easiest option for a late arrival.
 
-Addis is also the place to adjust plans. Confirm flights, local contacts, cash access and security before leaving the capital.
-
-For airport transfers, use the official taxi system, hotel pickup or an arranged driver. Do not make a first arrival depend on finding a city bus after dark. Addis sits at altitude, and traffic can be slow; leave more margin than the distance suggests.
+Traffic is slow and Addis is high enough to make the first day surprisingly tiring. Leave some margin, get cash and confirm the next flight before heading elsewhere.
 
 ## Domestic flights
 
-Ethiopian Airlines is the main domestic carrier. In February 2026 it announced that three new domestic airports would increase its domestic network to 26 destinations. Use the airline website for live routes and schedules.
+Ethiopian Airlines runs the domestic network. Useful airports for visitors include Lalibela, Gondar, Bahir Dar, Dire Dawa and Arba Minch.
 
-Flights are the realistic option for combining Addis with Lalibela, Gondar, Bahir Dar, Dire Dawa or Arba Minch when those areas are open and safe enough to visit. Book with flexibility; regional instability, weather and operational changes can affect service.
+Buy domestic tickets through a **local travel agent**, not directly from the airline website. Agents can issue them at the normal local price, while booking directly can be considerably more expensive. Ask for the full fare before paying and leave room for delays or cancellations.
 
-If you book several domestic flights, keep them on Ethiopian Airlines where possible and avoid tight same-day international connections. Domestic delays are easier to absorb if you are not connecting straight to a separate international ticket.
+If the domestic and international flights are on separate tickets, leave a night in Addis between them. A delay on the domestic leg will not protect the onward booking.
 
 ## Core routes
 
-**Route:** Addis Ababa to Lalibela  
-**Best option:** Flight when Lalibela is safe to visit.  
-**Typical duration:** Short domestic flight, plus transfer from Lalibela Airport to town.  
-**Departure point:** Addis Ababa Bole International Airport.  
-**Arrival point:** Lalibela Airport, then town transfer.  
-**Booking method:** Ethiopian Airlines or a reliable agency.  
-**Important notes:** Visit Ethiopia lists Lalibela Airport about 25 km from town and says private operators meet flights. Lalibela is in Amhara Region; check current security before booking.
+### Lalibela
 
-**Route:** Lalibela airport to town  
-**Best option:** Pre-arranged hotel or local transfer.  
-**Typical duration:** Allow transfer time from the airport, which Visit Ethiopia places about 25 km from town.  
-**Departure point:** Lalibela Airport arrivals area.  
-**Arrival point:** Lalibela town hotel.  
-**Booking method:** Hotel, guide or local operator.  
-**Important notes:** Do not arrive assuming there will be frequent public transport waiting for independent travellers.
+Fly from Addis when the security situation allows it. Lalibela Airport is about **25 km from town**, so arrange the final transfer with your hotel, guide or local operator before arriving.
 
-**Route:** Addis Ababa to Gondar or Bahir Dar  
-**Best option:** Flight when the region is viable; road only with strong current advice.  
-**Typical duration:** Short domestic flight; road travel takes much longer.  
-**Departure point:** Addis Ababa Bole International Airport.  
-**Arrival point:** Gondar or Bahir Dar airport, then local transfer.  
-**Booking method:** Ethiopian Airlines or agency.  
-**Important notes:** Both are in Amhara Region. In 2026, major advisories still warn against travel there.
+Lalibela is in Amhara, a region currently covered by serious travel warnings. Check that separately from the flight schedule.
 
-**Route:** Gondar to Simien Mountains  
-**Best option:** Arranged road transfer via Debark with guide/park logistics.  
-**Typical duration:** Half-day access for the park edge; longer for deeper trekking starts.  
-**Departure point:** Gondar hotel or operator office.  
-**Arrival point:** Debark and Simien Mountains National Park entry area.  
-**Booking method:** Local operator, guide or accommodation.  
-**Important notes:** Confirm park access, scout/ranger requirements and road security shortly before departure.
+### Gondar, Bahir Dar and the Simien Mountains
 
-**Route:** Bahir Dar to Lake Tana monasteries / Blue Nile Falls  
-**Best option:** Boat trip for monasteries; arranged road transport for the falls when security allows.  
-**Typical duration:** Half-day to full day depending on route.  
-**Departure point:** Bahir Dar hotel, lakefront or arranged pickup.  
-**Arrival point:** Lake Tana monastery landing points or Blue Nile Falls area.  
-**Booking method:** Hotel, local operator or guide.  
-**Important notes:** Lake trips and falls visits should be checked locally; water levels, access and security can affect the plan.
+Gondar and Bahir Dar both have flights from Addis. The road journey takes much longer; both cities are in Amhara, so check current road conditions and security before choosing it.
 
-**Route:** Addis Ababa to Harar  
-**Best option:** Flight to Dire Dawa, then road transfer to Harar, when the corridor is safe.  
-**Typical duration:** Short flight plus road transfer.  
-**Departure point:** Addis Ababa Bole International Airport.  
-**Arrival point:** Dire Dawa airport, then Harar.  
-**Booking method:** Ethiopian Airlines and arranged transfer.  
-**Important notes:** Check current road security. Do not expand the route into border areas without specific local confirmation.
+The usual Simien Mountains route continues by road from Gondar through Debark. Arrange this with a guide, operator or accommodation and confirm that the park is open, the access road is usable and any scout or ranger requirements have not changed.
 
-**Route:** Dire Dawa to Harar  
-**Best option:** Arranged car, reliable local taxi or operator transfer.  
-**Typical duration:** Road transfer rather than a full travel day, but conditions and security decide.  
-**Departure point:** Dire Dawa airport, station or hotel.  
-**Arrival point:** Harar old city / hotel.  
-**Booking method:** Hotel, operator or trusted driver.  
-**Important notes:** Confirm the corridor shortly before departure. Do not treat eastern border areas as open just because Harar is possible.
+From Bahir Dar, the Lake Tana monasteries are reached by boat and the Blue Nile Falls by road. Either can take half a day or longer. Ask locally about security, access and water levels before paying for the trip.
 
-**Route:** Addis Ababa to Arba Minch and Omo Valley  
-**Best option:** Flight to Arba Minch, then arranged 4WD route with local operator if security allows.  
-**Typical duration:** Several days once on the ground.  
-**Departure point:** Addis Ababa Bole International Airport.  
-**Arrival point:** Arba Minch, then Konso/Jinka/Omo route depending on plan.  
-**Booking method:** Ethiopian Airlines and local operator.  
-**Important notes:** Government advisories in 2026 warn about parts of southern Ethiopia and border areas. Do not improvise this route alone.
+### Harar
+
+The practical route is to fly from Addis to **Dire Dawa**, then continue by car to Harar. Arrange the transfer through your hotel, an operator or a trusted driver and confirm the road shortly before departure.
+
+Conditions can differ beyond Harar towards the border, so check any onward route separately.
+
+### Arba Minch and the Omo Valley
+
+Fly to **Arba Minch**, then continue with a local operator and 4WD for Konso, Jinka and the Omo Valley. Allow several days for the road journey.
+
+Official advisories currently warn against travel to parts of southern Ethiopia and the border regions. Confirm conditions for each part of the route beyond Arba Minch.
 
 ## Buses and road travel
 
-Long-distance buses exist, but the problem is not only comfort. Roadblocks, conflict, fuel shortages, communications shutdowns and local restrictions can disrupt plans. If you use buses, travel by day, buy from a clear operator, and avoid remote road corridors unless current local advice supports it.
+Long-distance buses connect many cities, although road closures, conflict, fuel shortages and communications shutdowns can disrupt services. There have also been attacks on buses crossing between regions.
 
-For short urban hops in Addis, use taxis, ride-hailing where available, or hotel-arranged drivers. Confirm the fare before leaving if the vehicle is not app-based.
+For long-distance buses, travel during daylight, buy the ticket from an established operator and carry water, food and enough cash for a change of plan. Night travel outside Addis carries additional road and security risks.
 
-Buses are best kept for routes that current local contacts specifically recommend. For classic tourist regions, flights plus local transfers are usually safer and more predictable than long road corridors.
+Inside Addis, use yellow taxis, app-based taxis where available or a driver arranged by your hotel. Agree on the fare before leaving when there is no app or meter.
 
-## Security workflow
+## Checks before regional travel
 
 Before each regional move:
 
@@ -123,20 +84,13 @@ Before each regional move:
 - avoid night road travel;
 - keep enough cash for changes of plan.
 
-If two sources disagree, use the more conservative plan. In Ethiopia, the cost of being wrong is higher than the cost of skipping a route.
+If the sources disagree, get more recent local information before choosing the route.
 
 ## Rail
 
-The Ethiopian Railways Corporation describes the **Addis Ababa-Djibouti railway** as a 656 km standard-gauge electric railway with 19 stations, opened for service in 2018. It is relevant if you are travelling toward Djibouti, not for Lalibela, Gondar, Bahir Dar, Harar or the Omo Valley.
+The **Addis Ababa–Djibouti railway** is a 656 km standard-gauge electric railway with 19 stations, opened for service in 2018. It does not help with Lalibela, Gondar, Bahir Dar or the Omo Valley, and it does not go directly into Harar either.
 
-Passenger availability and procedures should be checked directly before planning around the railway. Do not assume that a railway line on a map means a simple tourist connection.
-
-## What to avoid
-
-- Do not plan Lalibela, Gondar, Bahir Dar and the Simiens as an automatic loop without current security confirmation.
-- Do not book a remote road itinerary because an old blog says it is standard.
-- Do not place a domestic flight on the same day as a separate international departure unless you can absorb a missed connection.
-- Do not expand Harar into border-region travel without specific current advice.
+If you want to use it for Djibouti, verify the current passenger timetable and ticket procedure before building the trip around it. Online information about this train is patchy.
 
 ## Source log
 

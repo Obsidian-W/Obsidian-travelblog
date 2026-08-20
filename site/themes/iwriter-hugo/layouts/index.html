@@ -34,7 +34,8 @@
         <div class="row row-cols-1 row-cols-md-2 gy-4">
           {{ $mainPages := where site.RegularPages "Section" "in" site.Params.mainSections }}
           {{ $homepagePages := where $mainPages "Params.ai_generated" "!=" true }}
-          {{ range first 6 $homepagePages }}
+          {{ $paginator := .Paginate $homepagePages }}
+          {{ range $paginator.Pages }}
 
           {{ if eq $sidebar "true"}}
           <div class="col">

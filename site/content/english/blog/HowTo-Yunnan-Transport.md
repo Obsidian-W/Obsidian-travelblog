@@ -17,15 +17,15 @@ Operational transport details were checked in August 2026 where stated.
 
 ## Main transport logic
 
-For most travellers, Yunnan is now a rail trip with a few bus or taxi connections. The classic line is **Kunming -> Dali -> Lijiang -> Shangri-La**. Add **Shilin Stone Forest** as a day trip from Kunming and **Tiger Leaping Gorge** as a road/hiking side trip from Lijiang.
+For most travellers, Yunnan is now a rail trip with a few bus or accommodation-arranged connections. The classic line is **Kunming -> Dali -> Lijiang -> Shangri-La**. Add **Shilin Stone Forest** as a day trip from Kunming and **Tiger Leaping Gorge** as a road/hiking side trip from Lijiang.
 
-Use **12306** for official train checks. Trip.com is easier in English, but the railway source is 12306. Bring your passport to stations; China uses real-name ticketing.
+**China Railway 12306** is the national railway's official website and mobile app for checking timetables and buying train tickets. Its name comes from the railway customer-service number. The official English website is [12306.cn](https://www.12306.cn/en/). Trip.com may be easier to use in English, but it is an intermediary rather than the railway operator. Add each passenger's passport details when booking and carry the same passport to the station because tickets use real-name identification.
 
 Do not plan Yunnan as if every old town has a station in the centre. The rail network is strong, but the last section often decides whether the day is easy: Dali station is away from Dali Old Town, Lijiang station is outside the old town, Shangri-La station is outside Dukezong, and trailheads still need road transport.
 
 ## Arrival in Kunming
 
-**Kunming Changshui International Airport** is the main arrival point. Kunming's official tourism site lists **Metro Line 6** from the airport into the city, with transfers to other metro lines. Taxis and Didi are also practical, especially late or with luggage.
+**Kunming Changshui International Airport** is the main arrival point. Kunming's official tourism site lists **Metro Line 6** from the airport into the city, with transfers to other metro lines. If arriving after the metro closes or with luggage, arrange a pickup directly with your accommodation before arrival.
 
 If you are going straight to a train, check which station you need. **Kunming Railway Station** and **Kunming South Railway Station** are different and far enough apart to matter. Many high-speed trains use Kunming South.
 
@@ -39,7 +39,7 @@ If you are arriving from another Chinese region, flying into **Lijiang**, **Dali
 **Departure point:** Kunming or Kunming South, depending on the train.  
 **Arrival point:** Dali station.  
 **Booking method:** 12306 or a booking platform that issues China rail tickets.  
-**Important notes:** Dali station is not inside the old town. Use taxi, bus or hotel pickup for the last section.
+**Important notes:** Dali station is not inside the old town. Use the bus or arrange pickup with your accommodation for the last section.
 
 **Route:** Dali to Lijiang  
 **Best option:** Train.  
@@ -78,7 +78,7 @@ If you are arriving from another Chinese region, flying into **Lijiang**, **Dali
 **Typical duration:** Half-day range once station/hotel pickup and mountain roads are included.  
 **Departure point:** Dali Old Town, Dali station area or local bus station depending on arrangement.  
 **Arrival point:** Shaxi old town / guesthouse.  
-**Booking method:** Accommodation, local bus station or driver.  
+**Booking method:** Accommodation, local bus station or licensed tour operator.
 **Important notes:** Shaxi is worth an overnight if you are not using a private car.
 
 **Route:** Kunming to Yuanyang rice terraces  
@@ -86,7 +86,7 @@ If you are arriving from another Chinese region, flying into **Lijiang**, **Dali
 **Typical duration:** Long road day.  
 **Departure point:** Kunming coach station serving the southern route.  
 **Arrival point:** Xinjie / Yuanyang terrace area, then local transfer.  
-**Booking method:** Bus station, accommodation or driver.  
+**Booking method:** Bus station, accommodation or licensed tour operator.
 **Important notes:** Best treated as an overnight or two-night excursion. Weather and fog decide whether the terraces are visible.
 
 ## Stone Forest from Kunming
@@ -96,7 +96,7 @@ The official Stone Forest transport page lists several options:
 | Option | How it works | Notes |
 | --- | --- | --- |
 | Tourist bus | Kunming East Bus Station -> Stone Forest Scenic Area | Direct and simple if you are near the east side |
-| Train plus local bus/taxi | Train to Shilin or Shilin West, then local connection | Faster on paper, but requires the last section |
+| Train plus local bus | Train to Shilin or Shilin West, then local bus connection | Faster on paper, but requires the last section |
 | Airport shuttle | Kunming Changshui Airport -> Stone Forest area | Useful only if the schedule matches your flight |
 
 For most visitors already staying in Kunming, the bus from **Kunming East Bus Station** or a private car is easiest. Returning the same day is realistic. Do not cut the return close to an evening train or flight.
@@ -114,18 +114,18 @@ If you start from Lijiang, confirm whether the transport goes to Qiaotou, Tina's
 | Place | Practical transfer issue |
 | --- | --- |
 | Kunming | Two major rail stations; allow time between airport, city and Kunming South |
-| Dali | Station is outside Dali Old Town; finish by taxi, bus or hotel pickup |
-| Lijiang | Old-town lanes are not luggage-friendly; taxis may stop at gates |
-| Shangri-La | Station is outside Dukezong; use taxi or hotel pickup |
+| Dali | Station is outside Dali Old Town; finish by bus or accommodation-arranged pickup |
+| Lijiang | Old-town lanes are not luggage-friendly; confirm the nearest accessible meeting point with your accommodation |
+| Shangri-La | Station is outside Dukezong; use the bus or accommodation-arranged pickup |
 | Jinghong | Xishuangbanna routes work better as a separate branch |
 
 Build these transfers into the day. A two-hour train can still become a half-day move once station access, waiting time and old-town drop-off are included.
 
 ## Local transport and apps
 
-In cities, use metro where available, taxis and Didi. **Amap** is more useful than Google Maps in mainland China for walking, public transport and station exits. Alipay is usually the easiest payment app for foreign travellers, but set it up before you need it.
+In cities, use the metro and buses where available. **Amap** is more useful than Google Maps in mainland China for walking, public transport and station exits. Alipay is usually the easiest payment app for foreign travellers, but set it up before you need it.
 
-Yunnan old towns are walkable but not luggage-friendly. Dali and Lijiang both have old-town areas where taxis may drop you at a gate rather than at your door.
+Yunnan old towns are walkable but not luggage-friendly. In Dali and Lijiang, ask your accommodation for the nearest accessible bus stop or arrange a confirmed pickup point before arrival.
 
 For trains, use the passport name exactly as on the document used for booking. At stations, leave margin for security, real-name checks and platform access. Chinese stations are efficient, but they are not designed for last-minute running with foreign-passport ticket issues.
 
