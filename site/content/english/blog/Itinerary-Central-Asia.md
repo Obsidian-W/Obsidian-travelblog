@@ -3,6 +3,7 @@ date: "2025-07-01"
 title: "50 Days Across Central Asia"
 description: "A 50-day itinerary through Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Turkmenistan."
 image: "images/blog/samarkand.jpg"
+itinerary_map: "/images/itineraries/central-asia.svg"
 categories: ["Itinerary", "Central Asia"]
 continents: ["Asia"]
 draft: false
@@ -647,9 +648,3 @@ On your way out, admire the airport built like a bird and enjoy the cheap, fixed
 I went Ashgabat-Milano as Paris is not deserved since covid, it was inexpensive for the quality, the only
 downside was the 100€ bus to go back home. One hundred for a bus, sheesh, what a bunch of loonies.
 Turkmenistan > Italy.
-
-
-
----
-Comments?
----

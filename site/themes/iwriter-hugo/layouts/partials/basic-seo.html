@@ -5,7 +5,13 @@
 {{- $isSearch := eq .RelPermalink ("/search/" | relLangURL) -}}
 {{- $pageNumber := 1 -}}
 {{- if .IsNode -}}
-  {{- $pageNumber = .Paginator.PageNumber -}}
+  {{- if .IsHome -}}
+    {{- $mainPages := where site.RegularPages "Section" "in" site.Params.mainSections -}}
+    {{- $homepagePages := where $mainPages "Params.ai_generated" "!=" true -}}
+    {{- $pageNumber = (.Paginate $homepagePages).PageNumber -}}
+  {{- else -}}
+    {{- $pageNumber = .Paginator.PageNumber -}}
+  {{- end -}}
 {{- end -}}
 {{- $isPaged := gt $pageNumber 1 -}}
 {{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
@@ -45,10 +51,28 @@
 
 {{- $image := "" -}}
 {{- with .Params.image -}}
-  {{- $image = . | absURL -}}
+  {{- $source := . -}}
+  {{- if or (hasPrefix $source "https://") (hasPrefix $source "http://") -}}
+    {{- $image = $source -}}
+  {{- else -}}
+    {{- with resources.Get $source -}}
+      {{- $image = .Permalink -}}
+    {{- else -}}
+      {{- $image = $source | absURL -}}
+    {{- end -}}
+  {{- end -}}
 {{- else -}}
   {{- with site.Params.metadata.image -}}
-    {{- $image = . | absURL -}}
+    {{- $source := . -}}
+    {{- if or (hasPrefix $source "https://") (hasPrefix $source "http://") -}}
+      {{- $image = $source -}}
+    {{- else -}}
+      {{- with resources.Get $source -}}
+        {{- $image = .Permalink -}}
+      {{- else -}}
+        {{- $image = $source | absURL -}}
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 

@@ -14,7 +14,7 @@
   translation: Contactez-moi
 
 - id: contact_intro
-  translation: Questions voyage, aide pour un itinéraire, ou proposition de collaboration.
+  translation: Une question de voyage, besoin d'aide pour un itinéraire ou envie de proposer une collaboration ? Les partenariats commerciaux, placements de produits, demandes presse et autres propositions professionnelles sont également bienvenus.
 
 - id: contact_response_time
   translation: Les réponses sont plus simples si vous indiquez votre destination, vos dates et votre budget.
@@ -48,3 +48,42 @@
 
 - id: submit
   translation: soumettre un message
+
+- id: written_by
+  translation: Écrit par
+
+- id: author_bio
+  translation: Moi, c'est Obsidian, « Traveller extraordinaire ». Français heureux de partager mes itinéraires, mes pensées et des articles utiles que j'aurais bien aimé avoir avant de partir, comme certaines informations de transport. J'espère combler un manque d'informations sur certaines destinations.
+
+- id: about_author
+  translation: En savoir plus sur Obsidian
+
+- id: about
+  translation: À propos
+
+- id: privacy_policy
+  translation: Politique de confidentialité
+
+- id: footer_information
+  translation: Informations du site
+
+- id: comments_heading
+  translation: Des commentaires ?
+
+- id: itinerary_map_alt
+  translation: "Carte de l’itinéraire : %s"
+
+- id: itinerary_map_open
+  translation: "Ouvrir la carte interactive de l’itinéraire %s"
+
+- id: itinerary_map_caption
+  translation: "Aperçu du parcours — positions approximatives. Survolez ou sélectionnez une étape pour la retrouver dans l’article."
+
+- id: itinerary_map_close
+  translation: "Fermer la carte de l’itinéraire"
+
+- id: itinerary_map_expand
+  translation: "Agrandir la carte"
+
+- id: itinerary_map_stages
+  translation: "Étapes du parcours"

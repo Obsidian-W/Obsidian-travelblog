@@ -104,8 +104,3 @@ Mangystau fits into a wider trip across Kazakhstan or Central Asia. From Aktau, 
 - **Uzbekistan**: There are trains south from Aktau toward Beyneu, where you can connect onwards to Nukus (in Karakalpakstan,). This is a good option if you want to see the ship graveyard and head towards the silk road.  
 - **Istanbul**: Flights are common, I came through Istanbul, Turkiye (goated country btw).
 - **Tblissi**: A lot of flights as well, it might be a decent option.
-
-
----
-Comments?
----

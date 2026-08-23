@@ -17,14 +17,19 @@ url = "blog/"
 weight = 3
 
 [[main]]
+name = "Mes itinéraires"
+url = "categories/itinéraire/"
+weight = 4
+
+[[main]]
 name = "Catégories"
 url = "categories/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Par continents"
 url = "continents/"
-weight = 5
+weight = 6
 
 [[main]]
 parent = "Par continents"
@@ -65,4 +70,4 @@ weight = 6
 [[main]]
 name = "Carte"
 url = "travel-map/"
-weight = 6
+weight = 7

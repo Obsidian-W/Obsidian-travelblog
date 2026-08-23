@@ -17,7 +17,7 @@
         {{ if .Params.form_name }}
         <div class="contact-form mt-5 pt-4 border-top">
           <h2 class="h3 mb-3">{{ i18n `contact_me` }}</h2>
-          <p class="mb-4">{{ i18n `contact_intro` }}</p>
+          <p class="contact-form__intro">{{ i18n `contact_intro` }}</p>
           <form action="{{ site.Params.contact_form_action }}" method="post" name="{{ .Params.form_name }}" {{ if site.Params.netlify }}data-netlify="true" netlify-honeypot="always-empty"{{ end }}>
             <input type="hidden" name="form-name" value="{{ .Params.form_name }}">
             <div class="row g-4">

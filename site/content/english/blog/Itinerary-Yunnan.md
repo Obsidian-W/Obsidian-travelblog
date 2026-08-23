@@ -3,6 +3,7 @@ date: "2024-07-25"
 title: "One week in Yunnan"
 description: "A one-week Yunnan itinerary covering Kunming, Dali, Lijiang and Tiger Leaping Gorge."
 image: "images/blog/lijiang.jpg"
+itinerary_map: "/images/itineraries/yunnan.svg"
 categories: ["Itinerary", "China"]
 continents: ["Asia"]
 draft: false
@@ -40,7 +41,7 @@ and one in Diqing/Shangri-La -- You'll thank me later.
 | Day 3 | [Dali](#day-3-dali) | First old town stop |
 | Day 4 | [Lake Erhai and Xizhou](#day-4-lake-erhai--xizhou) | Villages and lakeside cycling |
 | Day 5 | [Lijiang](#day-5-lijiang) | Old town and canals |
-| Day 6 | [Jade Dragon Snow Mountain](#day-6-lijiang-jade-dragon-snow-mountain) | High altitude day trip |
+| Day 6 | [Jade Dragon Snow Mountain](#day-6-jade-dragon-snow-mountain-lijiang) | High altitude day trip |
 | Day 7 | [Tiger Leaping Gorge](#day-7-lijiang-tiger-leaping-gorge) | Best scenery of the route |
 | Day 8 | [Shangri-La](#day-8-shangri-la) | Tibetan end to the trip |
 
@@ -174,7 +175,7 @@ I stayed above the old town so I could have a bird eye view of Lijiang.
 
 ---
 
-## Day 6: Lijiang Jade Dragon Snow Mountain
+## Day 6: Jade Dragon Snow Mountain (Lijiang)
 
 Day trip to **Blue Moon Valley** and the **Jade Dragon Snow Mountain** area.  
 Altitude hits 4500m near the top, so bring warm clothes even in summer.  
@@ -191,7 +192,7 @@ like one said *forbidden to assholes* instead of *Smoking is prohibited*. And on
 If you have time and can understand chinese, you can checkout the Theatre: **Impression Lijiang.**
 I've seen it from afar, I couldn't understand anything.
 
-![Jade Dragon](images/blog/yunnan7.jpg)
+![Jade Dragon Snow Mountain](images/blog/yunnan7.jpg)
 ^*Looks like Pamukkale*
 
 ---
@@ -244,7 +245,3 @@ is to ask the hostel directly, they had many documents on nearby hikes, but most
 > (Check if it applies to you), it's much better
 > I would have rather done 12 days or something, I loved it so much
 > On the plus side, I can return there and enjoy it again!
-
----
-Comments?
----

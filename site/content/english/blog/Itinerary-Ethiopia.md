@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "3 weeks in Ethiopia"
 description: "A three-week Ethiopia itinerary covering Addis Ababa, the historic north, Harar, Danakil and the Simien Mountains."
 image: "images/blog/eth0b.jpg"
+itinerary_map: "/images/itineraries/ethiopia.svg"
 categories: ["Itinerary", "Ethiopia", "Africa"]
 continents: ["Africa"]
 draft: false
@@ -340,9 +341,3 @@ The issue with Ethiopia is that the roads are terrible, so everything goes throu
 Ethiopia is a country that demands patience and respect (and a taste for street fights).  
 It's chaotic, corrupt, alive, and endlessly complex, but it's also one of the last places where travel still feels *wild*.
 I don't recommend it, but if you're keen for it, I hope that my itinerary will be of use.
-
----
-
-Comments?
-
----

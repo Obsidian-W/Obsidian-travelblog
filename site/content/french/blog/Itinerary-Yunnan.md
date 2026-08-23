@@ -3,6 +3,7 @@ date: "2024-07-25"
 title: "Une semaine dans le Yunnan"
 description: "Itinéraire d'une semaine dans le Yunnan, entre Kunming, Dali, Lijiang et les gorges du Saut du Tigre."
 image: "images/blog/lijiang.jpg"
+itinerary_map: "/images/itineraries/yunnan.svg"
 categories: ["Itinéraire", "Chine"]
 continents: ["Asie"]
 draft: false
@@ -38,7 +39,7 @@ Note : cet article sur la logistique peut aussi être une bonne lecture complém
 | Jour 3 | [Dali](#jour-3--dali) | Première vieille ville |
 | Jour 4 | [Lac Erhai et Xizhou](#jour-4--le-lac-erhai--xizhou) | Villages et lac |
 | Jour 5 | [Lijiang](#jour-5--lijiang) | Vieille ville et ambiance |
-| Jour 6 | [Montagne du Dragon de Jade](#jour-6--la-montagne-du-dragon-de-jade) | Journée altitude |
+| Jour 6 | [Montagne du Dragon de Jade](#jour-6--montagne-du-dragon-de-jade-lijiang) | Journée altitude |
 | Jour 7 | [Gorge du Saut du Tigre](#jour-7--la-gorge-du-saut-du-tigre) | Plus belle journée nature |
 | Jour 8 | [Shangri-La](#jour-8--shangri-la) | Fin plus tibétaine |
 
@@ -166,7 +167,7 @@ J’ai dormi sur les hauteurs, avec une belle vue sur la vieille ville.
 
 ---
 
-## Jour 6 : La Montagne du Dragon de Jade
+## Jour 6 : Montagne du Dragon de Jade (Lijiang)
 
 Excursion à la journée vers la **Montagne du Dragon de Jade** et la **Vallée de la Lune Bleue**.  
 L’altitude monte jusqu’à **4 500 m**, prévois des vêtements chauds, même en été.  
@@ -183,7 +184,7 @@ et un autre *« peinture de voiture ecleptique »* au lieu de *« voiture élect
 Si vous parlez un peu chinois, le **théâtre Impression Lijiang** vaut le détour.  
 Je l’ai vu de loin, sans comprendre un mot.  
 
-![Jade Dragon](images/blog/yunnan7.jpg)
+![Montagne du Dragon de Jade](images/blog/yunnan7.jpg)
 ^*On dirait Pamukkale, non ?*
 
 ---

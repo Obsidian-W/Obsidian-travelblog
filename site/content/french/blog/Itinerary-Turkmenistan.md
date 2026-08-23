@@ -3,6 +3,7 @@ date: "2025-08-01"
 title: "3 jours au Turkménistan"
 description: "Itinéraire court au Turkménistan, de la frontière ouzbèke à Darvaza et Achgabat."
 image: "images/blog/turkmenistan2.jpg"
+itinerary_map: "/images/itineraries/turkmenistan.svg"
 categories: ["Itinéraire", "Turkménistan"]
 continents: ["Asie"]
 draft: false

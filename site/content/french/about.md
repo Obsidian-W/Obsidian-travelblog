@@ -5,16 +5,13 @@ image: images/about.jpg
 layout: about
 draft: false
 form_name: contact
-aliases:
-  - contact/
 ---
 ## Hey, moi c'est Obsidian
 
 Aussi connu comme Timothé Paris, Écrivain et Voyageur téméraire, j'ai créé ce blog pour aider ceux qui souhaiteraient obtenir des informations sur les lieux dans lesquelles peu voyage.
 Ainsi, mon but est de partager des itinéraires, des infos sur les transports, des bons plans ainsi que des articles sur des lieux rares.
 
-Ce blog est entièrement sans pub et sans tracking.
-Je le fais purement pour le plaisir de partager.
+Ce blog est publié de manière indépendante. La publicité n'influence ni les destinations abordées ni ce que j'en écris.
 
 ## Contact
 
@@ -24,5 +21,6 @@ Expliquez simplement votre projet : où vous voulez partir, le type de voyage en
 
 ### Youtube
 
-{{< youtube EK4u4SAeqSo>}}\
-Petite vidéo du corridor du Wakhan
+{{< youtube EK4u4SAeqSo >}}
+
+Cette courte vidéo a été tournée pendant un trajet dans le corridor du Wakhan. Je la remplacerai par une meilleure vidéo.

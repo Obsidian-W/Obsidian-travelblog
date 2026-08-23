@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "Un mois en Afrique de l’Est"
 description: "Un itinéraire d’un mois en Tanzanie, au Kenya, en Ouganda et au Rwanda, avec étapes, transports et remarques pratiques."
 image: "images/blog/kilwa.jpg"
+itinerary_map: "/images/itineraries/east-africa.svg"
 categories: ["Itinéraire", "Afrique"]
 continents: ["Afrique"]
 draft: false
@@ -26,11 +27,10 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 
 ---
 
-**Article complémentaire :**  
-#### [Conseils pratiques pour voyager en Afrique](/blog/tips-africa)
+**À lire aussi**
 
-Et un autre pour les safaris à petit prix :  
-#### [Comment faire un safari pas cher ?](/blog/tips-cheap-safaris)
+- [Conseils pratiques pour voyager en Afrique](/blog/tips-africa)
+- [Comment faire un safari pas cher ?](/blog/tips-cheap-safaris)
 
 ---
 
@@ -511,9 +511,9 @@ Les motos-taxis sont nombreux et fiables, les gens adorables.
 
 ## Jour 33 – Ruhengeri
 
-Bus vers le nord (3 h 30) jusqu’à **Ruhengeri**, porte d’entrée du **Volcanoes National Park**.  
-Ambiance montagneuse, fraîche, très tranquille.  
-J’ai profité du calme pour lire et glander dans les restos locaux.
+Depuis la gare routière de Nyabugogo à Kigali, prends un bus direct pour Musanze/Ruhengeri (environ 3h30).
+Ruhengeri est la porte d’entrée du **Parc national des Volcans**.
+Le climat plus frais et les vues sur les montagnes en font un endroit agréable pour ralentir. J’en ai profité pour lire, jouer aux jeux vidéo et manger dans les restaurants locaux.
 
 ---
 

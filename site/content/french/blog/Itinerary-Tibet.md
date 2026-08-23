@@ -3,6 +3,7 @@ date: "2024-08-13"
 title: "Une semaine au Tibet"
 description: "Itinéraire d'une semaine au Tibet, de Lhassa aux monastères, lacs et routes d'altitude."
 image: "images/blog/tibet.jpg"
+itinerary_map: "/images/itineraries/tibet.svg"
 categories: ["Itinéraire", "Chine"]
 continents: ["Asie"]
 draft: false
@@ -169,7 +170,3 @@ Going from one side to the other makes you go back 30 or 40 years back in time; 
 And, important info, if you think this part of the trip is just one long lonely muddy road, well...
 That's wrong! You cross a beautiful national park and our driver made many stops along the way, for some excellent viewpoints.
 If you're lucky, perhaps you may gaze on a very rare Red Panda?
-
----
-Comments?
----

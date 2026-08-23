@@ -24,14 +24,41 @@
           </ul>
         </div>
 
+        {{ with .Params.itinerary_map }}
+        {{ $dialogID := printf "itinerary-map-%s" ($.Title | urlize) }}
+        <figure class="itinerary-map" data-itinerary-map>
+          <div class="itinerary-map__preview-wrap">
+            <iframe class="itinerary-map__preview" data-itinerary-map-preview src="{{ . | relURL }}" title="{{ printf (i18n `itinerary_map_alt`) $.Title }}"></iframe>
+            <button class="itinerary-map__trigger" type="button" data-itinerary-map-trigger aria-haspopup="dialog" aria-controls="{{ $dialogID }}" aria-label="{{ printf (i18n `itinerary_map_open`) $.Title }}">
+              <span aria-hidden="true">&#x26F6;</span> {{ i18n "itinerary_map_expand" }}
+            </button>
+          </div>
+          <figcaption>{{ i18n "itinerary_map_caption" }}</figcaption>
+          <dialog class="itinerary-map__dialog" id="{{ $dialogID }}" data-itinerary-map-dialog aria-label="{{ printf (i18n `itinerary_map_open`) $.Title }}">
+            <div class="itinerary-map__dialog-inner">
+              <button class="itinerary-map__close" type="button" data-itinerary-map-close aria-label="{{ i18n `itinerary_map_close` }}">&times;</button>
+              <iframe class="itinerary-map__object" data-itinerary-map-object src="{{ . | relURL }}" title="{{ printf (i18n `itinerary_map_alt`) $.Title }}"></iframe>
+              <nav class="itinerary-map__stages" aria-label="{{ i18n `itinerary_map_stages` }}">
+                <h2>{{ i18n "itinerary_map_stages" }}</h2>
+                <ol data-itinerary-map-stages></ol>
+              </nav>
+            </div>
+          </dialog>
+        </figure>
+        {{ end }}
+
         <div class="content">
-          {{.Content}}
+          {{ .Content }}
         </div>
+        {{ if eq .Section "blog" }}
+        {{ partial "article-author.html" . }}
+        {{ end }}
         <!-- comments -->
         {{ if site.Config.Services.Disqus.Shortname }}
-        <div class="mt-5">
+        <section class="article-comments">
+          <h2 class="h3 mb-4">{{ i18n "comments_heading" }}</h2>
           {{ template "_internal/disqus.html" . }}
-        </div>
+        </section>
         {{ end }}
 
       </div>
@@ -45,7 +72,8 @@
 
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 gy-4">
-      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) }}
+      {{ $currentPage := . }}
+      {{ $related := where (where site.RegularPages "Section" "in" site.Params.mainSections) "RelPermalink" "ne" $currentPage.RelPermalink }}
       {{ range first 3 $related }}
       <div class="col">
         <div class="blog-card card mb-3">

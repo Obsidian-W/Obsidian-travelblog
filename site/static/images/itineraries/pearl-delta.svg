@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Pearl River Delta route map</title>
+  <desc id="desc">Pearl River Delta itinerary: Shenzhen Bao'an, Hong Kong North, Lantau, Hong Kong Central, Macau, Guangzhou, Shenzhen.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Pearl River Delta</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M-775.5,1787.8 L-1010.2,1691.8 L-1018.5,1424.8 L-877.4,1284.7 L-564.4,1197.6 L-400.7,1204.9 L-336.9,1323.5 L-462.5,1459.9 L-528.4,1638.8 L-775.5,1787.8 Z M-9130.4,-5699.5 L-9153.1,-5876.3 L-8957.4,-5957.2 L-9214.8,-6495.5 L-8648.6,-6619.3 L-8501.3,-6688.0 L-8295.4,-7243.2 L-7728.1,-7141.4 L-7568.6,-7281.5 L-7555.2,-7592.1 L-7318.4,-7621.5 L-7100.1,-7827.7 L-6987.9,-7853.4 L-6912.7,-7636.7 L-6672.8,-7472.5 L-6265.1,-7356.0 L-6067.5,-7106.2 L-6177.6,-6744.2 L-6074.7,-6609.9 L-5734.9,-6556.9 L-5349.9,-6513.3 L-5003.9,-6320.2 L-4827.9,-6285.6 L-4697.1,-6000.2 L-4529.3,-5816.0 L-4214.2,-5823.4 L-3623.3,-5753.6 L-3243.4,-5796.6 L-2961.3,-5750.4 L-2538.1,-5562.1 L-2192.2,-5562.6 L-2065.6,-5466.0 L-1732.0,-5632.9 L-1270.7,-5740.5 L-841.4,-5752.0 L-507.8,-5861.1 L-301.9,-6026.9 L-102.2,-6131.3 L-148.5,-6233.7 L-240.1,-6352.8 L-89.8,-6552.7 L70.8,-6524.9 L365.2,-6461.9 L650.4,-6626.1 L1085.9,-6746.3 L1296.0,-6951.4 L1496.7,-7039.6 L1912.7,-7080.5 L2138.2,-7045.9 L2169.0,-7156.1 L1910.6,-7372.8 L1681.0,-7471.9 L1460.7,-7357.0 L1178.6,-7405.3 L1017.0,-7366.5 L942.8,-7492.9 L1145.7,-7802.5 L1284.6,-8036.5 L1627.5,-7919.5 L2031.1,-8115.2 L2028.0,-8251.6 L2286.4,-8580.6 L2446.0,-8679.8 L2441.9,-8850.8 L2285.4,-8924.8 L2521.2,-9079.1 L2876.3,-9134.7 L3256.3,-9143.1 L3683.5,-9050.7 L3934.7,-8936.9 L4111.8,-8624.2 L4218.9,-8490.9 L4318.8,-8300.4 L4424.8,-7996.6 L4922.1,-7897.5 L5260.8,-7677.1 L5376.1,-7385.9 L5811.6,-7385.4 L6058.7,-7507.6 L6531.3,-7599.4 L6381.0,-7320.3 L6270.8,-7207.0 L6172.0,-6867.5 L5980.5,-6565.8 L5632.5,-6620.4 L5387.5,-6511.2 L5462.6,-6245.7 L5421.4,-5879.5 L5275.2,-5871.1 L5277.3,-5713.7 L5093.0,-5896.3 L4978.7,-5722.6 L4537.0,-5589.3 L4582.3,-5425.6 L4334.2,-5437.2 L4199.3,-5534.2 L4002.7,-5314.4 L3687.6,-5147.5 L3453.9,-4948.7 L3054.5,-4859.0 L2844.4,-4713.6 L2535.6,-4629.2 L2687.9,-4772.9 L2628.2,-4893.6 L2854.7,-5101.9 L2703.4,-5264.6 L2454.2,-5154.9 L2130.9,-4939.2 L1954.9,-4739.3 L1674.9,-4724.1 L1528.7,-4579.8 L1680.0,-4370.0 L1913.7,-4319.1 L1923.0,-4180.0 L2149.5,-4089.2 L2469.7,-4310.7 L2724.0,-4190.0 L2908.3,-4182.1 L2954.6,-4019.5 L2550.0,-3932.9 L2416.1,-3765.5 L2138.2,-3610.2 L1992.0,-3393.0 L2299.8,-3222.4 L2412.0,-2917.6 L2586.0,-2633.7 L2780.6,-2395.5 L2775.5,-2165.2 L2596.3,-2080.7 L2664.3,-1915.4 L2833.1,-1818.9 L2788.8,-1566.5 L2715.7,-1321.0 L2556.2,-1293.2 L2347.2,-957.3 L2115.5,-550.7 L1849.9,-180.8 L1456.6,105.2 L1059.2,366.5 L736.9,402.1 L561.9,539.6 L463.1,438.9 L301.4,593.1 L-98.1,748.4 L-400.7,795.7 L-498.6,1123.1 L-657.1,1141.4 L-732.3,916.3 L-664.3,796.7 L-1048.3,697.5 L-1183.2,747.9 L-1471.5,667.1 L-1607.4,541.2 L-1562.1,362.8 L-1823.6,306.1 L-1961.6,189.6 L-2204.5,354.9 L-2483.6,390.6 L-2711.1,389.0 L-2864.5,465.1 L-3012.7,510.2 L-2969.5,864.9 L-3121.9,856.5 L-3147.6,783.6 L-3156.9,655.6 L-3365.9,745.8 L-3490.5,688.6 L-3702.6,572.1 L-3619.2,315.0 L-3800.4,254.7 L-3868.3,-30.7 L-4170.0,20.7 L-4136.0,-347.1 L-3865.2,-605.8 L-3853.9,-861.3 L-3862.1,-1098.5 L-3986.7,-1172.5 L-4082.5,-1355.1 L-4249.3,-1332.0 L-4558.1,-1378.7 L-4461.3,-1508.8 L-4595.2,-1701.4 L-4799.0,-1570.7 L-5038.9,-1646.8 L-5369.4,-1449.5 L-5628.9,-1219.2 L-5859.5,-1180.3 L-5985.1,-1263.8 L-6136.4,-1271.1 L-6340.3,-1343.0 L-6494.7,-1264.3 L-6684.2,-1034.0 L-6707.9,-1277.9 L-6882.9,-1212.9 L-7216.5,-1242.8 L-7539.7,-1314.1 L-7771.4,-1450.0 L-7993.8,-1511.4 L-8089.5,-1660.4 L-8251.2,-1704.5 L-8539.4,-1906.5 L-8769.0,-2002.0 L-8887.4,-1928.0 L-9284.8,-2144.7 L-9565.9,-2341.0 L-9646.2,-2682.5 L-9440.3,-2641.1 L-9431.0,-2799.0 L-9545.3,-2958.0 L-9516.5,-3210.9 L-9823.3,-3574.0 L-10293.8,-3699.4 L-10378.2,-3937.6 L-10589.3,-4082.4 L-10640.8,-4171.1 L-10684.0,-4347.9 L-10673.7,-4468.6 L-10847.7,-4538.9 L-10941.4,-4507.9 L-11013.5,-4794.4 L-10932.1,-4865.8 L-10972.3,-4938.2 L-10698.4,-5084.6 L-10500.8,-5145.5 L-10198.1,-5103.5 L-10090.0,-5301.8 L-9723.4,-5338.5 L-9621.5,-5461.3 L-9170.6,-5629.2 L-9130.4,-5699.5 Z"><title>China</title></path>
+    <path class="route-halo" d="M484.2,438.5 Q504.2,454.0 535.7,481.9 Q567.1,509.8 535.7,517.5 Q504.2,525.3 534.2,523.7 Q564.3,522.2 475.6,534.6 Q386.9,547.0 392.7,536.1 Q398.4,525.3 371.2,486.5 Q344.0,447.8 325.5,353.3 Q306.9,258.7 376.9,280.4 Q447.0,302.1 491.3,371.9 L535.7,441.6" />
+    <path class="route" d="M484.2,438.5 Q504.2,454.0 535.7,481.9 Q567.1,509.8 535.7,517.5 Q504.2,525.3 534.2,523.7 Q564.3,522.2 475.6,534.6 Q386.9,547.0 392.7,536.1 Q398.4,525.3 371.2,486.5 Q344.0,447.8 325.5,353.3 Q306.9,258.7 376.9,280.4 Q447.0,302.1 491.3,371.9 L535.7,441.6" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Shenzhen Bao'an" transform="translate(484.2 438.5)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Shenzhen Bao'an</title>
+    </g>
+<g class="stop stop-link" data-section="1" data-stop-name="Hong Kong North" transform="translate(567.1 509.8)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Hong Kong North</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Lantau" transform="translate(504.2 525.3)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Lantau</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Hong Kong Central" transform="translate(564.3 522.2)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Hong Kong Central</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="Macau" transform="translate(386.9 547.0)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Macau</title>
+    </g>
+<g class="stop stop-link" data-section="5" data-stop-name="Guangzhou" transform="translate(306.9 258.7)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Guangzhou</title>
+    </g>
+<g class="stop stop-link end" data-section="6" data-stop-name="Shenzhen" transform="translate(535.7 441.6)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Shenzhen</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Shenzhen Bao'an" x="496.2" y="428.5" text-anchor="start">Shenzhen Bao'an</text>
+
+<text class="place-label stop-link" data-section="2" data-stop-name="Lantau" x="516.2" y="515.3" text-anchor="start">Lantau</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Hong Kong Central" x="576.3" y="540.2" text-anchor="start">Hong Kong Central</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="Macau" x="398.9" y="537.0" text-anchor="start">Macau</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Guangzhou" x="318.9" y="276.7" text-anchor="start">Guangzhou</text>
+
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Shenzhen Bao'an" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Shenzhen Bao'an</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Hong Kong North" transform="translate(900 203.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Hong Kong North</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Lantau" transform="translate(900 261.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Lantau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Hong Kong Central" transform="translate(900 319.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Hong Kong Central</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="5. Macau" transform="translate(900 377.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Macau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="6. Guangzhou" transform="translate(900 435.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Guangzhou</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="7. Shenzhen" transform="translate(900 493.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Shenzhen</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+</svg>

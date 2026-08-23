@@ -73,8 +73,3 @@ Showers twice a day if possible, it also help maintaining clean clothes.
 If an item has no clear use on the planned route, leave it behind. Most ordinary toiletries and clothing can be replaced during the trip, although specialised equipment may be harder to find.
 
 Travel light and keep it simple: every unnecessary kilo feels ten times heavier after a week.
-
-
----
-Comments?
----

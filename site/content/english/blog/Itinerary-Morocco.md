@@ -3,6 +3,7 @@ date: "2026-05-01"
 title: "My two weeks in Morocco - South to North"
 description: "A two-week Morocco itinerary from Marrakech and the Atlas to Fes, Chefchaouen, Rabat and Casablanca."
 image: "images/blog/morocco.jpg"
+itinerary_map: "/images/itineraries/morocco.svg"
 categories: ["Itinerary", "Africa", "Morocco"]
 continents: ["Africa"]
 draft: false
@@ -250,7 +251,3 @@ Exactly two weeks, yay!
 - **SIM card**: Easy to find, most european carriers will also work with some data in Morocco (check if it applies to you).
 - **Best season**: Shoulder seasons, late april heat is already coming in.  
 - **ATMs**: Scams everywhere. They will steal your money, give you high rates, abusive fees and no one will help you.
-
----
-Comments?
----

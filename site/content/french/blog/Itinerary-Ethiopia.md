@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "3 semaines en Éthiopie"
 description: "Itinéraire de trois semaines en Éthiopie, entre Addis-Abeba, le nord historique, Harar, le Danakil et les montagnes du Simien."
 image: "images/blog/eth0b.jpg"
+itinerary_map: "/images/itineraries/ethiopia.svg"
 categories: ["Itinéraire", "Éthiopie", "Afrique"]
 continents: ["Afrique"]
 draft: false

@@ -44,12 +44,12 @@
   {{ else if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (or (eq .Data.Plural "categories") (eq .Data.Plural "continents")) }}
   <div class="container taxonomy-page">
     <div class="row spaced-row">
-      <div class="col-lg-8">
+      <div class="{{ if eq .Kind `term` }}col-12{{ else }}col-lg-8{{ end }}">
         <h1 class="category-title display-4 mb-4">
           {{ .Title }}
         </h1>
 
-        <div class="row row-cols-1 row-cols-md-2 g-4">
+        <div class="row row-cols-1 row-cols-md-2{{ if eq .Kind `term` }} row-cols-xl-3{{ end }} g-4">
           {{ $paginator:= .Paginate .Data.Pages 12 }}
           {{ range $paginator.Pages }}
           <div class="col">
@@ -80,11 +80,13 @@
           {{ partial "components/custom-pagination.html" . }}
         </div>
       </div>
+      {{ if ne .Kind "term" }}
       <div class="col-lg-4 mt-5 mt-lg-0">
         <div class="bg-body ms-xl-3 p-4 rounded">
           {{ partial "widgets/categories.html" . }}
         </div>
       </div>
+      {{ end }}
     </div>
   </div>
   {{ else }}

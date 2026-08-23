@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "One week in Uganda"
 description: "A one-week Uganda itinerary covering Kampala, Jinja, Murchison Falls and Lake Bunyonyi."
 image: "images/blog/rwenzori.jpg"
+itinerary_map: "/images/itineraries/uganda.svg"
 categories: ["Itinerary", "Africa"]
 continents: ["Africa"]
 draft: false
@@ -146,7 +147,3 @@ I really needed this rest, and so did many travelers.
 
 You can go further or home. Your choice :)
 Hope you enjoyed!
-
----
-Comments?
----

@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "Une semaine au Rwanda"
 description: "Itinéraire d'une semaine au Rwanda, entre Kigali, le lac Kivu et les parcs nationaux."
 image: "images/blog/rwanda1.jpg"
+itinerary_map: "/images/itineraries/rwanda.svg"
 categories: ["Itinéraire", "Afrique"]
 continents: ["Afrique"]
 draft: false
@@ -12,13 +13,10 @@ draft: false
 > 
 > Cet article est un extrait d’un récit plus long.
 
-____  
+**À lire aussi**
 
-Note : Cet article logistique peut aussi t’être utile à lire  
-#### [Conseils pour voyager en Afrique](/blog/tips-africa)
-
-Et celui-là aussi, pour les safaris pas chers :  
-#### [Conseils pour les safaris à petit budget](/blog/tips-cheap-safaris)
+- [Conseils pour voyager en Afrique](/blog/tips-africa)
+- [Conseils pour les safaris à petit budget](/blog/tips-cheap-safaris)
 
 # Itinéraire rapide
 
@@ -64,11 +62,9 @@ Il n’y a pas tant de choses à voir à Kigali, mais j’adore cette atmosphèr
 
 ## Jour 3 – Ruhengeri
 
-Bus vers le nord (3 h 30 env.).  
-Porte d’entrée du **Parc National des Volcans**.  
-Climat plus frais, montagnes au loin, ambiance posée.  
-
-Il n’y a pas grand-chose à faire en ville, alors j’ai lu, joué à la console et mangé dans quelques restos.
+Depuis la gare routière de Nyabugogo à Kigali, prends un bus direct pour Musanze/Ruhengeri (environ 3h30).
+Ruhengeri est la porte d’entrée du **Parc national des Volcans**.
+Le climat plus frais et les vues sur les montagnes en font un endroit agréable pour ralentir. J’en ai profité pour lire, jouer aux jeux vidéo et manger dans quelques restaurants.
 
 ---
 

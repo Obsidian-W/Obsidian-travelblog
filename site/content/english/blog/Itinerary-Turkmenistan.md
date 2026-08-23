@@ -3,6 +3,7 @@ date: "2025-08-01"
 title: "3 days in Turkmenistan"
 description: "A short Turkmenistan itinerary from the Uzbek border to Darvaza and Ashgabat."
 image: "images/blog/turkmenistan2.jpg"
+itinerary_map: "/images/itineraries/turkmenistan.svg"
 categories: ["Itinerary", "Turkmenistan"]
 continents: ["Asia"]
 draft: false
@@ -140,7 +141,3 @@ Turkmenistan > Italy.
 
 
 - That's it folk. That was a short article, I know. I'm open to edit it if needed.
-
----
-Comments?
----

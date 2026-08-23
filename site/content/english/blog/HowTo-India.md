@@ -217,7 +217,3 @@ As long as you respect the culture, take your time, enforce your boundaries and 
 Doesn't sound too hard, right?
 
 I'll publish all my itineraries for later, it will take me some time.
-
----
-Comments?
----

@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "One week in Rwanda"
 description: "A one-week Rwanda itinerary covering Kigali, Lake Kivu and the national parks."
 image: "images/blog/rwanda1.jpg"
+itinerary_map: "/images/itineraries/rwanda.svg"
 categories: ["Itinerary", "Africa"]
 continents: ["Africa"]
 draft: false
@@ -12,13 +13,10 @@ draft: false
 > 
 > This is an excerpt from a longer article, so it's a bit short.
 
-\_\_\_\_  
+**Related reading**
 
-Note: This article detailing logistic can be a nice read as well  
-#### [Tips on how to travel Africa](/blog/tips-africa)
-
-I got this one too, for Cheap safaris!  
-#### [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
+- [Tips on how to travel Africa](/blog/tips-africa)
+- [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
 
 # Itinerary done quick
 
@@ -71,9 +69,9 @@ There aren't many things to see in Kigali, but I love it.
 
 ## Day 3 Ruhengeri
 
-Take a bus heading north (3h30 min).  
-Ruhengiri is the gateway to **Volcanoes National Park**.  
-Cooler weather, nice mountain views, but nothing else; Do what you can with your free time, I decided to read, play video games and eat in restaurants.
+From Nyabugogo Bus Park in Kigali, take a direct bus to Musanze/Ruhengeri (around 3h30).
+Ruhengeri is the gateway to **Volcanoes National Park**.
+The cooler weather and mountain views make it a pleasant place to slow down. I used the free time to read, play video games and eat in restaurants.
 
 I learnt later that they are spots to see wildlife around the city, but my lack of knowledge mean you will be better off with a local guide.
 
@@ -153,7 +151,3 @@ Use the last day for shopping, coffee, or just resting before your flight.
 - Go North West to Uganda
 - Fight with gorillas in lava filled volcanoes in Congo
 - ♫♪ Coucou les congolais ♪♫
-
----
-Comments?
----

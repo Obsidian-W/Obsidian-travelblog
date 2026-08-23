@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "Two weeks in Tanzania"
 description: "A two-week Tanzania itinerary covering Dar es Salaam, Kilwa, safari, Lake Natron and Zanzibar."
 image: "images/blog/kilwa.jpg"
+itinerary_map: "/images/itineraries/tanzania.svg"
 categories: ["Itinerary", "Africa"]
 continents: ["Africa"]
 draft: false
@@ -335,7 +336,3 @@ A typical Swahili coast city.
 
 A quiet final stop before crossing into Kenya and a good way to slightly break the trip.
 To sleep, either: In Bagamoyo, back to Dar, or in Tanga, a bit more north.
-
----
-Comments?
----

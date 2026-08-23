@@ -1,0 +1,11 @@
+<aside class="article-author" aria-labelledby="article-author-name">
+  <div class="article-author__image">
+    {{ partial "image.html" (dict "Src" "images/about.jpg" "Class" "article-author__photo") }}
+  </div>
+  <div class="article-author__content">
+    <p class="article-author__eyebrow">{{ i18n "written_by" }}</p>
+    <h2 class="h4 mb-2" id="article-author-name">Obsidian</h2>
+    <p class="mb-2">{{ i18n "author_bio" }}</p>
+    <a href="{{ "about/" | relLangURL }}">{{ i18n "about_author" }}</a>
+  </div>
+</aside>

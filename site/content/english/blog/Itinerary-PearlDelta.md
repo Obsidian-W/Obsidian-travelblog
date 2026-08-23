@@ -3,6 +3,7 @@ date: "2025-09-27"
 title: "A week in the Pearl Delta"
 description: "A one-week itinerary through Hong Kong, Macau, Shenzhen and Guangzhou."
 image: "images/blog/pearldelta.jpg"
+itinerary_map: "/images/itineraries/pearl-delta.svg"
 categories: ["Itinerary", "China"]
 continents: ["Asia"]
 draft: false
@@ -267,8 +268,3 @@ Shopping, old town, the harbour, a hike... There are many possibilities, but She
 Add a day for the casinos in Macau or spend one more night in Guangzhou to have more leisure!
 
 You can also add a day in HK to hike, it's a hiking paradise after all :)
-
-
----
-Comments?
----

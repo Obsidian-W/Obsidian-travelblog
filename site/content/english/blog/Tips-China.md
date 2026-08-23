@@ -86,7 +86,3 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 - **People taking pictures**: Chinese love to take pictures of foreigners. I don't wanna know what they do with them... *Insert Larry.webp*
 
 ![Larry](images/blog/larry.webp)
-
----
-Comments?
----

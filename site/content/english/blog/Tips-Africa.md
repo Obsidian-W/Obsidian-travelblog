@@ -92,7 +92,3 @@ A deal? Scam. Bus prices? For tourists. Don't trust anyone.
 > For the last point, it happened to someone I met.
 
 ![Safari](images/blog/tanzania.jpg)
-
----
-Comments?
----

@@ -100,8 +100,3 @@ The bureaucracy and fees are part of the package. If you prepare your documents,
 
 By the way here's my itinerary:
 [With the tour I did](../itinerary-turkmenistan)  
-
-
----
-Comments?
----

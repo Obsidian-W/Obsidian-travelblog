@@ -11,7 +11,7 @@
   translation: Contact me
 
 - id: contact_intro
-  translation: Travel questions, itinerary help, or collaboration requests.
+  translation: Have a travel question, need help with an itinerary, or want to discuss a collaboration? Commercial partnerships, product placements, press enquiries, and other professional proposals are also welcome.
 
 - id: contact_response_time
   translation: Replies are usually easier when you include your destination, timing, and budget.
@@ -54,3 +54,42 @@
 
 - id: search_for
   translation: Search results for
+
+- id: written_by
+  translation: Written by
+
+- id: author_bio
+  translation: I'm Obsidian, "Traveller extraordinaire". I'm a Frenchman happy to share my itineraries, my outlook and helpful articles I truly needed before travelling, such as firsthand transport information. I aim to fill knowledge gaps about less-travelled places.
+
+- id: about_author
+  translation: More about Obsidian
+
+- id: about
+  translation: About
+
+- id: privacy_policy
+  translation: Privacy policy
+
+- id: footer_information
+  translation: Site information
+
+- id: comments_heading
+  translation: Comments?
+
+- id: itinerary_map_alt
+  translation: "Route map for %s"
+
+- id: itinerary_map_open
+  translation: "Open the interactive route map for %s"
+
+- id: itinerary_map_caption
+  translation: "Route overview — positions are approximate. Hover or select a stop to find it in the article."
+
+- id: itinerary_map_close
+  translation: "Close the route map"
+
+- id: itinerary_map_expand
+  translation: "Expand map"
+
+- id: itinerary_map_stages
+  translation: "Route stages"

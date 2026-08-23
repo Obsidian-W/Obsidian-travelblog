@@ -3,6 +3,7 @@ date: "2025-07-01"
 title: "50 jours en Asie centrale"
 description: "Itinéraire de 50 jours au Kazakhstan, au Kirghizistan, au Tadjikistan, en Ouzbékistan et au Turkménistan."
 image: "images/blog/samarkand.jpg"
+itinerary_map: "/images/itineraries/central-asia.svg"
 categories: ["Itinéraire", "Asie centrale"]
 continents: ["Asie"]
 draft: false

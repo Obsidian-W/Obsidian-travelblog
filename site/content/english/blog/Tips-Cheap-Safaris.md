@@ -53,8 +53,3 @@ The only difference: they're sipping wine in a lodge at night, and you're in a t
 For me, that trade-off is more than fine.  
 
 However, truth be told, sometimes it feels a bit "on rail". It was like going to the Thoiry Zoo near Paris, seeing one animal after the other in a way that was crafter by the guide. I was tired on the third day, it felt a bit too similar. I'm not that crazy about wildlife, so it checks out.
-
-
----
-Comments?
----

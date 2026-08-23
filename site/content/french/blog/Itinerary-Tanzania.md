@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "Deux semaines en Tanzanie"
 description: "Itinéraire de deux semaines en Tanzanie, entre Dar es Salaam, Kilwa, safari, lac Natron et Zanzibar."
 image: "images/blog/kilwa.jpg"
+itinerary_map: "/images/itineraries/tanzania.svg"
 categories: ["Itinéraire", "Afrique"]
 continents: ["Afrique"]
 draft: false
@@ -272,7 +273,3 @@ Aujourd’hui, c’est calme, poussiéreux, plein de charme.
 
 Vieilles maisons coloniales, palmiers, pêcheurs — une belle pause avant le Kenya.  
 Tu peux dormir ici, à Dar, ou plus loin à **Tanga** selon ton plan.
-
----
-Comments?
----

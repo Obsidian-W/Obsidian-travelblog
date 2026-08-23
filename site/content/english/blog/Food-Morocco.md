@@ -2,7 +2,7 @@
 date: "2026-05-01"
 title: "Morocco food guide"
 description: "What to eat in Morocco and where to look for it."
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg"
+image: "images/blog/morocco1.jpg"
 categories: ["Food", "Morocco", "Africa"]
 continents: ["Africa"]
 ai_generated: true
@@ -16,8 +16,6 @@ draft: false
 **Tajine** is found throughout Morocco. The name refers to the shallow clay pot with a conical lid as well as the dish cooked inside it. Recipes vary by region and household, with versions based on meat, fish or vegetables.
 
 ## Marrakesh: tanjia and Jemaa el-Fnaa
-
-![Tanjia in Marrakesh](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg)
 
 **Tanjia is a speciality of Marrakesh.** Meat, preserved lemon, garlic, cumin, saffron and fat are placed in a tall clay jar and slow-cooked, traditionally in the embers of a communal oven or hammam furnace. The result is very tender meat in a concentrated sauce.
 

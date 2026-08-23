@@ -3,6 +3,7 @@ date: "2023-08-15"
 title: "One month in East Africa"
 description: "A one-month itinerary through Tanzania, Kenya, Uganda and Rwanda, with route notes and practical travel context."
 image: "images/blog/kilwa.jpg"
+itinerary_map: "/images/itineraries/east-africa.svg"
 categories: ["Itinerary", "Africa"]
 continents: ["Africa"]
 draft: false
@@ -17,7 +18,6 @@ draft: false
 
 
 {{< youtube vUrVeRGo5IM >}}
-(Loading test, there is a cross-site cookie issue on my dev server)
 
 Before diving into my itinerary, a few considerations:
 
@@ -29,13 +29,10 @@ Before diving into my itinerary, a few considerations:
 - Info is hard to get online, I'll try to bring as much useful intel I can
 - Prices date from 2023, might have hiked up in the meantime
 
-\_\_\_\_  
+**Related reading**
 
-Note: This article detailing logistic can be a nice read as well  
-#### [Tips on how to travel Africa](/blog/tips-africa)
-
-I got this one too, for Cheap safaris!  
-#### [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
+- [Tips on how to travel Africa](/blog/tips-africa)
+- [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
 
 # Itinerary done quick
 
@@ -576,10 +573,9 @@ There aren't many things to see in Kigali, but I love it.
 
 ## Day 33 Ruhengeri
 
-Bus north (3h30 min).  
-Gateway to **Volcanoes National Park**.  
-Cooler weather, nice mountain views, but nothing else; Do what you can with your free time,
-I decided to read, play video games and eat in restaurants.
+From Nyabugogo Bus Park in Kigali, take a direct bus to Musanze/Ruhengeri (around 3h30).
+Ruhengeri is the gateway to **Volcanoes National Park**.
+The cooler weather and mountain views make it a pleasant place to slow down. I used the free time to read, play video games and eat in restaurants.
 
 ---
 
@@ -613,7 +609,3 @@ Great sunsets and peaceful evenings.
 Back to Kigali (3h).  
 Use the last day for shopping, coffee, or just resting before your flight.  
 It's the end of the article and I'm getting lazy!
-
----
-Comments?
----

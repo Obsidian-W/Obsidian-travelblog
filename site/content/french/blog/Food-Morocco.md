@@ -2,7 +2,7 @@
 date: "2026-05-01"
 title: "Guide cuisine : Maroc"
 description: "Quoi manger au Maroc et où chercher."
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg"
+image: "images/blog/morocco1.jpg"
 categories: ["Cuisine", "Maroc", "Afrique"]
 continents: ["Afrique"]
 ai_generated: true
@@ -12,8 +12,6 @@ draft: false
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
 ## Marchés de Marrakech, tanjia et pâtisseries
-
-![Tanjia à Marrakech](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tangia%20in%20Marrakech%2001.jpg)
 
 **La tanjia** est le plat à chercher à Marrakech. La viande, le citron confit, l'ail, les épices et l'huile cuisent lentement dans une jarre en terre haute. Ce n'est pas un tajine : le récipient et la cuisson sont différents.
 

@@ -105,8 +105,3 @@ See the snow!
 And that's it!
 
 Bring warm clothes, plan ahead for hotels and transportation
-
-
----
-Comments?
----
