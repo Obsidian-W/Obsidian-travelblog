@@ -52,12 +52,12 @@ And here are some tips by the way
 - This is not a good solo destination if you're poor like me
 - Better to have a group
 
-#### [Tips on how to travel Turkemnistan](/blog/howto-turkmenistan)
+#### [Tips on how to travel Turkmenistan](/blog/howto-turkmenistan)
 
 ## Day 1 Konye
 
 First thing first, find your way in the country.
-I started from Uzbekitan. The logical road used to be UZ-TM-IR
+I started from Uzbekistan. The logical road used to be UZ-TM-IR
 nowadays, it's only possible to go from UZ to TM.
 So I went to the Shavat border in Uzbekistan, taking a shared taxi from Khiva
 One hour later I was at the border, filled with Turkmen coming home with their
@@ -108,7 +108,7 @@ Nice isn't it?
 The Darvaza crater during the day is quite a worrying sight, dying out and not much to boast.
 The gates to Hell are soon to be just a hole in the desert.
 
-Anyaway, we continued, seeing other craters on the way as well as the sand dunes, through the bumpy road.
+Anyway, we continued, seeing other craters on the way as well as the sand dunes, through the bumpy road.
 To where? Ashgabat of course.
 
 A city of white marble, of elegance, of rules (And of a ruler), dazzling in the desert.

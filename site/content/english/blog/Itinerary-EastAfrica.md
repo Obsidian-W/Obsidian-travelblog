@@ -9,7 +9,7 @@ continents: ["Africa"]
 draft: false
 ---
 
-> Tanzania, Kenya, Ouganda & Rwanda: 4 Countries in one month!  
+> Tanzania, Kenya, Uganda & Rwanda: 4 Countries in one month!
 >  \> As I'm starting with this blog, I'll share in a slightly different format.  
 > I'll start with my usual considerations before giving an itinerary outline and
 > an even more detailed version of the itinerary.  
@@ -54,7 +54,7 @@ Before diving into my itinerary, a few considerations:
 | Day 9  | [Zanzibar](#day-9-road-to-zanzibar) | Long bus Dar + ferry |
 | Day 10 | [Zanzibar - Stone Town](#day-10-stone-town) | Stone Town |
 | Day 11 | [Zanzibar - Prison Island](#day-11-prison-island-and-beach) | Prison island + sand beach |
-| Day 12 | [Zanzibar - Spices](#day-12-spice-tour) | Spice tour + boat in the evening |
+| Day 12 | [Zanzibar - Spices](#day-12-spice-tour) | Spice tour, then ferry to Dar |
 | Day 13 | [Kilwa Masoko](#day-13-road-to-kilwa-masoko) | South coast |
 | Day 14 | [Kilwa Kisiwani](#day-14-kilwa-kisiwani) | Ruins visit |
 | Day 15 | [Kilwa Kivanje](#day-15-kilwa-kivanje) | Around Kilwa |
@@ -81,8 +81,7 @@ Before diving into my itinerary, a few considerations:
 | Day 26 | [Rwenzori](#day-26-rwenzori-mountains-day-1) | Trek |
 | Day 27 | [Rwenzori](#day-27-rwenzori-mountains-day-2) | Trek |
 | Day 28 | [Kabale](#day-28-road-to-kabale) | The worst road... |
-| Day 29 | [Lake Bunyoni](#day-29-lake-bunyonyi-day-1) | Lake Bunyonyi 1 |
-| Day 30 | [Lake Bunyoni](#day-30-lake-bunyonyi-day-2) | Lake Bunyonyi 2 |
+| Days 29–30 | [Lake Bunyonyi](#days-2930-lake-bunyonyi) | Boat trip, kayaking and rest |
 
 ## 🇷🇼 RWANDA
 
@@ -136,11 +135,11 @@ Welcome to Africa btw.
 ![Tarangire](images/blog/tanzania.jpg)
 
 I went on a three days safari with the local agency linked to the Arusha Backpackers hostel, (I don't remember the name),
-A Tunisian guy, Bessa - owner of the first hostel in Tunis helped me, out with the negociations.
-It's always better negociating with a friend.
+A Tunisian guy, Bessa - owner of the first hostel in Tunis helped me, out with the negotiations.
+It's always better negotiating with a friend.
 
 Safaris starts early. Expect a long drive into **Tarangire**, a forested area famous for its elephants (see the picture).
-The day was kinda long, but it was a blast, very reminescent of Thoiry back home (it's a drive-in Zoo).
+The day was kinda long, but it was a blast, very reminiscent of Thoiry back home (it's a drive-in Zoo).
 It was my first real safari and that was really exciting, I was beaming! 
 
 Your guide will help you spot all the wildlife, but they will normally remain pretty far from the animals, especially if
@@ -232,7 +231,7 @@ and do honey keeping. I shared meals with them as well as watch a few show on th
 *^A view of Lushoto from the heights*
 
 
-I Spent the day hiking to the **Irente Viewpoint**.  The trail was nice, going through nature fror some
+I Spent the day hiking to the **Irente Viewpoint**.  The trail was nice, going through nature for some
 bits and through local villages with nice kids greeting you at every opportunity.
 All of this was still a blur for me.
 
@@ -299,15 +298,16 @@ Join a **spice tour** inland! I went with the same tour company as the day befor
 It's a bit touristy, but worth it for the smells and samples (Plus, I was alone, so I had my very own private tour to the farm)
 That's a good half day spent for something important.
 
-In the evening, hop on a small dhow boat for sunset and/or return to Dar.
-I did the later as my bus left very early.
+After the spice tour, return to Stone Town and take an evening ferry to **Dar es Salaam** if continuing to Kilwa the next morning. A sunset dhow only fits if you are keeping another night on Zanzibar; doing it before the ferry would make the evening too tight.
+
+I took the ferry to Dar because the southbound bus left early the next morning. Sleep near a practical road connection rather than adding more Stone Town sightseeing after arrival.
 
 
 ---
 
 ## Day 13 Road to Kilwa Masoko
 
-Ferry back to **Dar**, then catch a southbound bus (8–9 h) toward **Kilwa Masoko**. 
+From **Dar**, catch a southbound bus towards **Kilwa Masoko**. That is already an 8–9 hour road day, so I took the Zanzibar ferry the evening before.
 
 There were two bus to Kilwa: One leaves at 5:30, the other at noon.
 There might be other companies, but I have no intel on those.
@@ -347,7 +347,7 @@ It was expensive, quite a detour and exhausting, but I don't regret it.
 ## Day 15 Kilwa Kivanje
 
 I visited the nearby Kilwas with the guide from the tourism bureau.
-It's not particularily interesting, but I was a much cheaper visit and it was relaxing.
+It's not particularly interesting, but I was a much cheaper visit and it was relaxing.
 I then spent the evening relaxing at the beach.
 You'll need that before continuing your way south to Mozambique or back north to Kenya.
 
@@ -356,7 +356,7 @@ You'll need that before continuing your way south to Mozambique or back north to
 ## Day 16 Back to Dar es Salaam
 
 Return north (6–7 h).  
-If you haven't yet, explore Dar-Es-Salam a bit.
+If you haven't yet, explore Dar es Salaam a bit.
 I didn't really like the city, it had no soul.
 But I had to waste a day here (So two days of transport wasted to See Kilwa, do what you want)
 
@@ -415,7 +415,7 @@ Prepare to be there early!
 
 Modern, air-conditioned, surprisingly punctual... Relax and enjoy the scenery and the modernity.
 
-> If you're lucky, you can spot wildlife from your window, especially elephants, girafes and zebras.
+> If you're lucky, you can spot wildlife from your window, especially elephants, giraffes and zebras.
 
 ---
 
@@ -425,7 +425,7 @@ Arrive and get used to the city again.
 
 Walk around the center and see the **National Museum**.  
 Careful, they will make you pay twice if you don't pay attention, they took my card, swiped it twice, I got charged twice.
-They threw the other receipt in the bin, bunch of loosers.
+They threw the other receipt in the bin, bunch of losers.
 
 I slept at the YHA, it was full of weirdos and fanatics.
 
@@ -505,7 +505,7 @@ Otherwise, try to get to a good altitude to see the unique plants.
 
 Second day of hiking. 
 You can sleep in one of the lodge then go higher to see the plants and stuff!
-Honestly, it's one of the prettiest part of Eaast Africa.
+Honestly, it's one of the prettiest part of East Africa.
 
 > Rwenzoris means moon mountains. What a lovely name!
 
@@ -516,7 +516,7 @@ Honestly, it's one of the prettiest part of Eaast Africa.
 
 Rough day on bad roads.  
 It was like 12 hours, I got stuck at the back of a 12 seaters with 20 people.
-A big black guy, sitting on my lap, a girl vomitting just in front of me, the only openable window open
+A big black guy, sitting on my lap, a girl vomiting just in front of me, the only openable window open
 right next to me, with stops lasting hours and autists trying to touch me or grab me.
 
 It was genuinely awful.
@@ -526,20 +526,15 @@ But at the time I went there, there were no other ways direct from the Rwenzoris
 
 ---
 
-## Day 29 Lake Bunyonyi
+## Days 29–30 Lake Bunyonyi
 
-![Bunyoni](images/blog/bunyoni.jpg)
+![Bunyonyi](images/blog/bunyoni.jpg)
 
 Arrive by noon and take a small boat across **Lake Bunyonyi**.  
 Quiet, scenic, dotted with small islands.  
 A perfect spot to rest and read!
 
----
-
-## Day 30 Lake Bunyonyi 2
-
-Second day on the lake.  
-Kayak, read, and recharge before entering Rwanda.
+On the second day, kayak, read, and recharge before entering Rwanda.
 I really needed this rest, and so did many travelers.
 
 ---

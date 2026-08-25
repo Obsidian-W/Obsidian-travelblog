@@ -31,16 +31,25 @@ draft: false
 
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Day 0 to 4 | [Marrakesh and the desert](#day-0-to-4-marrakesh-and-the-desert) | Marrakesh, Ait Benhaddou, Tinghir and Merzouga |
-| Day 5 to 6 | [Casablanca and Rabat](#day-5-to-6-casablanca-and-rabat) | Big cities, modern side and historic cores |
+| Day 0 | [Arrival in Marrakesh](#day-0-arrival-in-marrakesh) | Evening arrival |
+| Day 1 | [Marrakesh](#day-1-marrakesh) | Medina, Bahia Palace and Jemaa el-Fnaa |
+| Day 2 | [Ait Benhaddou and the Rose Valley](#day-2-ait-benhaddou-and-the-rose-valley) | First day of the desert tour |
+| Day 3 | [Tinghir, Todra Gorge and Merzouga](#day-3-tinghir-todra-gorge-and-merzouga) | Gorge, road stops and dunes |
+| Day 4 | [Return to Marrakesh](#day-4-return-to-marrakesh) | Long drive back and final evening |
+| Day 5 | [Casablanca](#day-5-casablanca) | Hassan II Mosque and Habous |
+| Day 6 | [Rabat](#day-6-rabat) | Udayas, Hassan Tower and Chellah |
 | Day 7 | [Meknes and its surroundings](#day-7-meknes-and-its-surroundings) | Meknes, Volubilis and Moulay Idriss |
-| Day 8 to 9 | [Fes and the Middle Atlas](#day-8-to-9-fes-and-the-middle-atlas) | Fes, Ifrane and cedar forests |
-| Day 10 to 12 | [Chefchaouen](#day-10-to-12-lovely-blue-city---chefchaouen) | Blue city and easy mountain base |
-| Day 13 and 14 | [Tangier and sights of Spain](#day-13-and-14-tangier-and-sights-of-spain) | Tangier, nearby coast and final views |
+| Day 8 | [Meknes to Fes](#day-8-meknes-to-fes) | Bab Mansour, train and Fes medina |
+| Day 9 | [Middle Atlas](#day-9-middle-atlas) | Ifrane and cedar forests |
+| Day 10 | [Fes to Chefchaouen](#day-10-fes-to-chefchaouen) | Transfer and first walk through the blue city |
+| Day 11 | [Akchour](#day-11-akchour) | Waterfall and God's Bridge hike |
+| Day 12 | [Chefchaouen](#day-12-chefchaouen) | National park walk and a slower day |
+| Day 13 | [Tangier](#day-13-tangier) | Medina, Kasbah and Strait views |
+| Day 14 | [Departure from Tangier](#day-14-departure-from-tangier) | Shopping and journey home |
 
 ---
 
-## Day 0 to 4: Marrakesh and the desert
+## Day 0: Arrival in Marrakesh
 
 ![Marrakesh](images/blog/morocco1.jpg)
 ^*Old part of the city, near the tombs*
@@ -53,6 +62,12 @@ And also because of the colonial era. Very uncool.
 
 Once I arrived, I went straight to my hostel, a riad-style hostel that was of poor quality despite its high prices.
 
+There is little reason to plan sightseeing after an evening flight. This is a useful time to get cash, buy water, confirm the next morning's starting point and learn the route between the accommodation and Jemaa el-Fnaa.
+
+---
+
+## Day 1: Marrakesh
+
 > The interesting part of Marrakesh is quite small, actually. As long as you're near the centre, everything is easily done on foot.
 
 I spent my first day around **Jemaa el-Fnaa**, the **Bahia Palace**, the **Koutoubia Mosque**, the **jewish district** and some random places throughout the city.
@@ -60,8 +75,13 @@ Jemaa el-Fnaa is exactly as busy and chaotic as expected, not my vibe. The Bahia
 I didn't especially like Marrakesh, too crowded, too busy and just not my vibe.
 The best activity I did was photographing cats around the city, I got a whole collection of cat pictures.
 
-> Note the **Marjorelle Garden** needs to be booked weeks in advance, I couldn't go.
+> Note the **Majorelle Garden** needs to be booked weeks in advance, I couldn't go.
 
+Use the evening for Jemaa el-Fnaa if you only saw it during the day. The square changes after sunset, while the Koutoubia area gives you space to walk away from the densest part of the medina.
+
+---
+
+## Day 2: Ait Benhaddou and the Rose Valley
 
 For the following three days, I joined a desert tour from Marrakesh to Merzouga. 
 
@@ -77,12 +97,24 @@ Probably my favourite place in Morocco, scenery-wise. The viewpoint of Ait Benha
 
 Then the first day also included the **Rose Valley** and several smaller stops on the way towards the desert.
 
+This is already a full road day. Ait Benhaddou is the main visit; the pass, viewpoints and Rose Valley are shorter stops between long sections in the vehicle.
+
+---
+
+## Day 3: Tinghir, Todra Gorge and Merzouga
+
 On the second day, in the pretty town of **Tinghir**, we stopped mainly in the pretty **Todra Gorge** and made our way to **Merzouga** with small stops along the way
 
 ![The desert](images/blog/morocco2.jpg)
 ^*The dunes of Merzouga*
 
 The highlight of the second day was the dunes near **Merzouga**, pictured above.
+
+The gorge and the dunes belong on the same tour day because the route continues east rather than returning to a previous base. Expect most of the afternoon to be spent reaching Merzouga.
+
+---
+
+## Day 4: Return to Marrakesh
 
 The tour returned to Marrakesh on the third day. It is a lot of driving, especially on the way back, but three days is probably the minimum needed to do the trip.
 
@@ -97,7 +129,7 @@ And also, my feelings of the tour, since it's the most important here:
 
 ---
 
-## Day 5 to 6: Casablanca and Rabat
+## Day 5: Casablanca
 
 ![The desert](images/blog/morocco3.jpg)
 ^*Rabat, a world of contrasts*
@@ -107,6 +139,12 @@ Instead of returning directly to Marrakesh, I joined a tour that left from Marra
 Casablanca is super boring.
 
 The **Hassan II Mosque** is worth visiting, and it is easily the main reason to stop there. It is enormous, beautifully located beside the sea and much more impressive than the rest of the city. Apart from the mosque, I did not find much reason to stay. The **Habous district** was okayish, and that's it.
+
+A half-day is enough for this version of Casablanca. Visit the mosque first, add Habous if the timing works, then stay near a station that makes the next morning's departure simple.
+
+---
+
+## Day 6: Rabat
 
 
 From Casablanca, I continued to **Rabat** with the ONCF, it was painfully slow and late, but it did the trick for a few euros.
@@ -152,10 +190,10 @@ the city viewpoint (From where you can find Volubilis)
 
 > Note: The place is full of scammers, beggars, weirdoes and all kind of crooks. Most sacred place in Morocco my ass...
 
-To enter the mausoleum, you have to be muslim. Not that long ago, it was reserved to Morrocans, I kinda understand why, it's not that significant inside.
+To enter the mausoleum, you have to be muslim. Not that long ago, it was reserved to Moroccans, I kinda understand why, it's not that significant inside.
 Plus the spectacle of weeping grannies in front of the main tomb is uncanny. Not something I can understand.
 
-> If you're not muslim, don't cheat your way in, it's disrecpectful. Idriss 1st was the great-great grandson of the prophet (PBUH)
+> If you're not muslim, don't cheat your way in, it's disrespectful. Idriss 1st was the great-great grandson of the prophet (PBUH)
 
 I walked to Volubilis, because I could.
 
@@ -164,11 +202,11 @@ I had a guided tour I shared with some visiting frenchies, which were so kind th
 
 Then, I had an evening walk in Meknes. Meknes is much calmer than Fes, and it is easy to visit without spending the entire day fighting crowds.
 
-The next day, I visited **Bab mansour**, walked in the city then took the train to **Fes**, which only takes around 40 minutes.
-
 ---
 
-## Day 8 to 9: Fes and the Middle Atlas
+## Day 8: Meknes to Fes
+
+I visited **Bab Mansour** and walked through central Meknes in the morning, then took the train to **Fes**, which only takes around 40 minutes.
 
 ![Barbary macaques](images/blog/morocco5.jpg)
 
@@ -178,7 +216,13 @@ It's impressive, but not my kind of stuff.
 I visited **Bab Bou Jeloud**, the **Al-Attarine Madrasa** and the tanneries, among other random stuff.
 Just follow the stream of people and the main street. Don't stray. Really, **do not stray**.
 The tanneries are worth seeing, although small & the smell is indeed bad. Better than the parisian metro or a locker room tho.
-Best thing I did was getting out of the Medina, towars the walls/cemetery to soak in the view.
+Best thing I did was getting out of the Medina, towards the walls/cemetery to soak in the view.
+
+This is enough for a first day in Fes after the short transfer from Meknes. Staying near a clear medina gate also makes it easier to find the accommodation again after dark.
+
+---
+
+## Day 9: Middle Atlas
 
 The next day, I booked a tour through **GetYourGuide** to visit **Ifrane** and the cedar forests.
 
@@ -197,7 +241,7 @@ Best Tajine I had. Really.
 
 ---
 
-## Day 10 to 12: Lovely blue city - Chefchaouen
+## Day 10: Fes to Chefchaouen
 
 ![Barbary macaques](images/blog/morocco6.jpg)
 
@@ -210,23 +254,37 @@ His salty tears didn't deter me from visiting.
 Honestly, just go and enjoy, explore the city and walk around the surrounding hills, see the viewpoints, the sunsets, the cats.
 Eat the food, taste the bakeries, take it in...
 
+The five-hour bus leaves enough time for a first medina walk, a viewpoint and dinner, but keep the longer hikes for the following days.
+
+---
+
+## Day 11: Akchour
+
 
 On the second day, I went to **Akchour** for the waterfall hike and **God's Bridge**. It's an easy one, easily reached by shared taxi
 right next to the bus station. My wait time for each way was around 5 minutes.
 
 The landscape around Chefchaouen is completely different from the southern part of Morocco, much greener and more mountainous.
-I did two hikes, the second one was in the National Park starting from the northern wall. A weird guy wanted to spit on me because
-I refused to buy weed. 
 
 > Fun fact, they sell weed right in front of the police station in the center.
 > Most people visit only for the weed, some only for Instagram pictures.
 > Not that many people go to Akchour
 
-Chefchaouen was also a good place to slow down after moving around constantly for almost two weeks.
+Allow most of the day for the shared taxi, the walk and stops along the river. The waterfall and God's Bridge are separate branches, so doing both requires an early start.
 
 ---
 
-## Day 13 and 14: Tangier and sights of Spain
+## Day 12: Chefchaouen
+
+I used the third day for another hike in the national park, starting from the northern wall. A weird guy wanted to spit on me because I refused to buy weed.
+
+Chefchaouen was also a good place to slow down after moving around constantly for almost two weeks.
+
+The rest of the day works well without a checklist: return to the medina, walk to a different viewpoint, visit the bakeries and leave time for the bus journey ahead.
+
+---
+
+## Day 13: Tangier
 
 ![Tanger](images/blog/morocco7.jpg)
 ^*The Kasbah*
@@ -238,7 +296,11 @@ Additionally, I also visited the old tombs overlooking the sea. You can see Spai
 
 Tangier worked very well as the final stop. From there, you can continue to Spain by ferry, fly home or take the train back south.
 
-As you notice, I'm getting lazy writing this, I didn't stay that long, mostly went shopping as I got home on day 14.
+---
+
+## Day 14: Departure from Tangier
+
+I did not stay long on the final day. I mostly went shopping before leaving for home.
 Exactly two weeks, yay!
 
 ---

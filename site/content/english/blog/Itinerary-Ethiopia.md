@@ -44,7 +44,8 @@ Note: This article detailing logistic can be a nice read as well
 |:----:|:-----------:|:-----:|
 | Day 1     | [Addis Ababa](#day-1-addis-ababa) | Arrival |
 | Day 2     | [Gondar](#day-2-gondar) | Bus to Gondar |
-| Day 3-4   | [Simien Mountains](#day-3-and-4-simien-mountains) | Trek to Simien |
+| Day 3     | [Enter the Simien Mountains](#day-3-enter-the-simien-mountains) | Drive, ranger formalities and first hike |
+| Day 4     | [Simien Mountains](#day-4-simien-mountains) | Cliffs, waterfalls and return |
 | Day 5     | [Gondar](#day-5-gondar) | Town & castle |
 | Day 6     | [Bahir Dar](#day-6-bahir-dar) | Visit the town |
 | Day 7     | [Bahir Dar](#day-7-bahir-dar) | Blue Nile Falls & Lake Tana|
@@ -55,7 +56,9 @@ Note: This article detailing logistic can be a nice read as well
 | Day 12    | [Harar](#day-12-harar) | Old city & hyenas |
 | Day 13    | [Addis Ababa](#day-13-addis-ababa-return) | Return & rest |
 | Day 14    | [Arba Minch](#day-14-arba-minch) | Prepare the Omo valley |
-| Day 15-17 | [Omo Valley](#day-15-to-17-omo) | Omo Valley Tribes |
+| Day 15    | [Dorze](#day-15-dorze) | Village visit and local food |
+| Day 16    | [Turmi and Hamar country](#day-16-turmi-and-hamar-country) | Markets and road journey |
+| Day 17    | [Mursi and Konso](#day-17-mursi-and-konso) | Final Omo Valley visits |
 | Day 18    | [Konso to Moyale](#day-18-konso-to-moyale) | Border to Kenya |
 
 > As you can see, I didn't include the extreme north and the Dalol depression. I couldn't due to the resuming fights
@@ -82,16 +85,16 @@ Spend your day exploring **Meskel Square**, the **Ethnological Museum**, and the
 I also really liked, **Saint George's church** and its turtles as well as the **Holy trinity Cathedral**.
 In the late afternoon, I went up *Mount Entoto**, it's an easy hike up.
 
-At night, Addis' food scene shines, try **Shiro**, **Injera**, and local honey wine (if you're an alcohoolic).
+At night, Addis' food scene shines, try **Shiro**, **Injera**, and local honey wine (if you're an alcoholic).
 
 ---
 
 ## Day 2 Gondar
 
 From Addis, I took a long and early bus (11h) to **Gondar**, the “Camelot of Africa.”  
-There were afew nice stops, but essentialy, it was a wasted day.
+There were a few nice stops, but essentially, it was a wasted day.
 
-On my first evening in Gonder, I walked around my accomodation and spoke with other travelers.
+On my first evening in Gonder, I walked around my accommodation and spoke with other travelers.
 If you have more time, try to see the Fasilides Bath, a bit out of the center, or even
 the Debre Birhan Selassie Church. 
 
@@ -100,7 +103,7 @@ This article is outdated, yet still useful.
 
 ---
 
-## Day 3 and 4 Simien Mountains
+## Day 3 Enter the Simien Mountains
 
 ![Monke](images/blog/eth5.jpg)
 ^*Gelada Baboons*
@@ -121,8 +124,16 @@ It's a good trip, really.
 > And on the same night, amidst the storm, a mexican tourist heard the gunshots 
 > By paying attention, yup, not just rain. Trust the mexican on that.
 
+The drive from Gondar, registration, ranger wait and first walk already fill the day. Camp before dark rather than treating the park entrance as the start of two interchangeable trekking days.
+
+---
+
+## Day 4 Simien Mountains
+
 The second day was pretty much the same as the previous day, with a few other viewpoints, especially cliffs and waterfalls.
 We saw more *Gelada baboons* and a lot of birds.
+
+Use the morning for the farther viewpoints or a longer ridge walk, then leave enough time for the return to Gondar. The exact route depends on the campsite, weather and current park access.
 
 ---
 
@@ -134,7 +145,7 @@ We saw more *Gelada baboons* and a lot of birds.
 Stone castles rise from green hills; **Fasil Ghebbi** is a surreal sight, it looks a bit like medieval Europe.  
 After a morning around the castles (You **HAVE** to hire a guide), I spent the afternoon exploring the city and its sights.
 
-> I also met a nice chinese man named James with whom I travelled manyfolds during the same trip
+> I also met a nice chinese man named James whom I met several times during the same trip
 
 Honestly, Gondar is not a very long visit. Some parts of the centers are nice and riding the many rickshaws is nice.
 
@@ -248,7 +259,7 @@ Truly the best.
 ## Day 13 Return to Addis Ababa
 
 I didn't take the train, buses suited our timing better (we departed at night to get time in Addis).  
-Terrible choice. I got stuck beside a fat muslim woman over 100 kg, sweating rivers and stiking like poo.
+Terrible choice. I got stuck beside a fat muslim woman over 100 kg, sweating rivers and stinking like poo.
 The ride felt eternal, the mercury went up to 47°C around midway.
 
 > Ethiopian hates opening windows in cars, something about bad luck, I think?
@@ -256,7 +267,7 @@ The ride felt eternal, the mercury went up to 47°C around midway.
 
 That night, I went out with my chinese travel partner to **Yob Abyssinia**, a traditional restaurant, famous on Google Maps.  
 It was fun seeing the dances and being invited on stage! The food was meh, though.  
-On the way back, we got **robbed** (James' phone got stollen by three big guys, it turned into a **fistfight**, which we easily won.  
+On the way back, we got **robbed** (James' phone got stolen by three big guys, it turned into a **fistfight**, which we easily won.
 We were two and they were only three, lol.
 Not a dull moment in Addis. Never...
 
@@ -280,21 +291,31 @@ That's how I ended up with Miju.
 
 ---
 
-## Days 15 to 17 Omo Valley Tribes
+## Day 15 Dorze
 
 ![Miju](images/blog/eth7.jpg)
 ^*Miju in the market*
 
-You have a choice of transportation. I did mine.
+On the first day, I visited the Dorze, drank with the king and watched demonstrations of cooking methods, as well as tasting dishes and alcohol.
 
-With my guide, we rode **motorbikes** and hitched trucks after the second day since Miju was too lazy/tired
-to drive.
+The day also includes the road from Arba Minch and time to arrange the next stages with the guide. Keep the first overnight stop close to the following day's route instead of returning to Arba Minch.
 
-On the first day, I visited the Dorze, drank with the king and watched demos of cooking methods.
-As well as tasted dishes and alcohol.
+---
 
-On the second and third day, we met the **Hamar**, **Mursi**, and **Konso** tribes, each with their customs, beauty, and dignity.  
+## Day 16 Turmi and Hamar country
+
+Continue south towards **Turmi** and the Hamar area. Markets are the most useful fixed points because village visits and ceremonies depend on the day, local permission and what is actually happening.
+
+With my guide, we used motorbikes between stops. The transport was part of the day, not spare time between several guaranteed visits.
+
+---
+
+## Day 17 Mursi and Konso
+
+Across the final two days, we met the **Hamar**, **Mursi**, and **Konso** communities, each with their customs, beauty, and dignity. The final day should end towards **Konso**, because the onward route to Moyale begins there the next morning.
 And perhaps more, it's hard to remember all the names.
+
+We hitched trucks after the second day when Miju was too tired to drive. Reaching Konso took much of the final stage and was the destination for the day, rather than another quick visit after several villages.
 
 The best things to do are:
 - Going to local markets

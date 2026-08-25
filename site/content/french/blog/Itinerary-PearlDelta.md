@@ -35,7 +35,7 @@ j’utiliserai donc cet ordre, mais adapte-le à ta situation. 😉
 
 \_\_\_\_
 
-# Itinerary done quick
+# L'itinéraire en bref
 
 ## Delta de la Rivière des Perles
 

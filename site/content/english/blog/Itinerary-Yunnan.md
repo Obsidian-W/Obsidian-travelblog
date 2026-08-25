@@ -11,7 +11,7 @@ draft: false
 
 > Yunnan is my favorite region of China! It's easy to know why
 > 
-> Between the culture, the fabuous food and the sights, it's the perfect entry point to China
+> Between the culture, the fabulous food and the sights, it's the perfect entry point to China
 > It's easy to navigate and well connected
 > The weather is good all year round long
 > Note: This is an excerpt from a longer article
@@ -153,7 +153,7 @@ I spent my evening in Dali old town again. It's lovely and the restaurants are m
 
 Bus from Dali Old Town to **Lijiang** (8:30 departure, arrival around 11:30).  
 There are many buses you can catch from old town, as many do this trip.
-Train are also running, but that means going back to new town, so depending on your accomodation
+Train are also running, but that means going back to new town, so depending on your accommodation
 or your love of Didi (Nice try), it's not ideal.
 
 > If you have one more day, you can stop in Shaxizhen, but it requires a change of bus in Jianchuan.

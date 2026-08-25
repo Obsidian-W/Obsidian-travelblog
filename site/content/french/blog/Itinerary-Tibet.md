@@ -10,163 +10,114 @@ draft: false
 ---
 
 
-> Disclaimer: Don't speak about politics.
+> Avertissement : ne parlez pas de politique.
 
-> Xīzàng/Tibet, once an empire now a rarely explored region of China
-> 
-> Liberated of tiranny in 1951, this mountainous region is filled with history
-> You have to always remember the Chinese Omerta and the glory of its glorious leaders,
-> whose personal suns brighten their days even at night and so lead the people
-> towards halcyon days of the future outshining the remnants of the past.
-> This article is part of a longer one through the Himalaya
-> This was a guided tour, but I leave it open for those that can travel freely
+> Xīzàng/Tibet, autrefois un empire, aujourd'hui une région de Chine rarement explorée.
+>
+> « Libérée » de la tyrannie en 1951, cette région montagneuse est chargée d'histoire.
+> Il faut toujours garder à l'esprit l'omerta chinoise et la gloire de ses glorieux dirigeants,
+> dont les soleils personnels illuminent les jours jusque dans la nuit et guident le peuple
+> vers un avenir radieux qui éclipse les vestiges du passé.
+> Cet article fait partie d'un itinéraire plus long à travers l'Himalaya.
+> J'ai effectué ce voyage avec un guide, mais je laisse les informations accessibles à ceux qui peuvent voyager librement.
 
 \_\_\_\_  
 
-# Itinerary done quick
+# L'itinéraire en bref
 
-## (Insert preferred flag here) Tibet
+## (Insérez ici le drapeau de votre choix) Tibet
 
-| Day | Destination | Notes |
+| Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Day 1 | [Arrival in Lhasa](#day-1-lhasa) | Arrive + Norbulingka |
-| Day 2 | [Lhasa](#day-2-drepung-sera) | Drepung & Sera Monasteries |
-| Day 3 | [Lhasa](#day-3-potala-palace) | Potala - Jokhang - Barkhor |
-| Day 4 | [Gyantse Shigatse](#day-4-gyantse) | Lake Yamdrok, Korola & Gyantse |
-| Day 5 | [Everest Base Camp](#day-5-EBC) | Shigatse and EBC |
-| Day 6 | [Gyirong](#day-6-gyirong) | EBC + Gyirong |
-| Day 7 | [Nepalese border](#day-7-road-to-kathmandu) | Leave to Kathmandu |
+| Jour 1 | [Arrivée à Lhassa](#jour-1-lhassa) | Arrivée et Norbulingka |
+| Jour 2 | [Lhassa](#jour-2-drepung-et-sera) | Monastères de Drepung et Sera |
+| Jour 3 | [Lhassa](#jour-3-palais-du-potala) | Potala, Jokhang et Barkhor |
+| Jour 4 | [Gyantse et Shigatse](#jour-4-gyantse) | Lac Yamdrok, glacier Korola et Gyantse |
+| Jour 5 | [Camp de base de l'Everest](#jour-5-camp-de-base-de-leverest) | Shigatse et camp de base |
+| Jour 6 | [Gyirong](#jour-6-gyirong) | Camp de base puis Gyirong |
+| Jour 7 | [Frontière népalaise](#jour-7-route-vers-katmandou) | Départ vers Katmandou |
   
   ---
   
-## Day 1 Lhasa
+## Jour 1 Lhassa
 
-I arrived in Lhasa by plane from nearly nearby Shangri-La, another tibetan city, but in Yunnan.
-It's 3 days away by car, so the choice of flying was obvious. Trains may exist as well, but that
-really depends on your starting city, from Yunnan, you have to flight, despite the geographic proximity
-(1500 km lol).
+Je suis arrivé à Lhassa en avion depuis Shangri-La, une autre ville tibétaine située dans le Yunnan.
+Il faut trois jours de route entre les deux, donc l'avion s'imposait. Il existe aussi des trains, mais tout dépend de la ville de départ. Depuis le Yunnan, malgré la relative proximité géographique — 1 500 km quand même — il faut prendre l'avion.
 
-I was sick when I arrived, so I didn't visit the Norbulingka palace as intended,
-if you're healthy, do me a favor and visit it and tell in the comments how it was!
-Apparently it can be visited independently.
+J'étais malade à mon arrivée et je n'ai donc pas visité le palais de Norbulingka comme prévu. Si vous êtes en forme, rendez-moi service : allez le voir et racontez-moi dans les commentaires ! Il semble possible de le visiter sans guide.
 
 
-## Day 2 Drepung Sera
+## Jour 2 Drepung et Sera
 
-![A monastery](images/blog/tibet5.jpg)
+![Un monastère](images/blog/tibet5.jpg)
 
-> Drepung and Sera monasteries.
-
-
-The spiritual heart of Lhasa and, by extension, of Tibet. 
-Did I draw you in? Good.
-
-That's an interesting day, seeing the monks debating, seeing the high altitude life,
-having a bird's view on Lhasa, its parks, its life, its vibrancy... 
-I was too sick to remember plainly, but that filled a day quickly!
-
-If you have time, do visit the Tibetan culture museum.  
-It goes in depth on the topic of Tibet's liberation from the evil powers: England, Russia and "more". 
-Thanks to China and its peaceful army, they freed the tibetan slaves
-from the evil alliance of conspirators; Wakanda, Tuvalu and Greenland...
+> Les monastères de Drepung et Sera.
 
 
-## Day 3 Potala palace
+Le cœur spirituel de Lhassa et, par extension, du Tibet. Ça donne envie, non ?
+
+C'est une journée intéressante : on regarde les moines débattre, on découvre la vie en altitude et on profite d'une vue plongeante sur Lhassa, ses parcs et son animation. J'étais trop malade pour me souvenir de tout, mais la journée est passée très vite.
+
+Si vous avez le temps, visitez aussi le musée de la culture tibétaine. Il revient en détail sur la « libération » du Tibet face aux puissances maléfiques : l'Angleterre, la Russie et « d'autres ». Grâce à la Chine et à son armée pacifique, les esclaves tibétains auraient été libérés de l'alliance des conspirateurs : Wakanda, Tuvalu et Groenland...
+
+
+## Jour 3 Palais du Potala
 
 Fuuuuuuu-sion!
-Sorry, those were the potara earrings.
+Désolé, je pensais aux boucles d'oreilles Potara.
 
-So, the potala palace is the masterpiece of Lhasa and Tibet. 
-I would say hat Tibet is worth visiting just for the palace, it's truly a
-world wonder.
+Le palais du Potala est le chef-d'œuvre de Lhassa et du Tibet. À lui seul, il justifie presque le voyage : c'est une véritable merveille.
 
-The whole morning was dedicated to the Potala palace. I've seen every angle, went to the top
-(I fully recovered from my illness, it was due to bad food.) and enjoyed it so much!
+J'y ai consacré toute la matinée. Je l'ai observé sous tous les angles, je suis monté jusqu'en haut et j'en ai vraiment profité. Entre-temps, j'avais complètement récupéré de ma maladie, qui venait probablement d'un mauvais repas.
 
 ![Potala](images/blog/tibet1.jpg)
 
-After the Potala palace, I went right under, to Barkhor Street, to see the monastery, 
-the last one of the big 3: Jokhang!
-There are also a few museum around the area, and a hidden KFC, posing as a traditional building.
-Or perhaps it was there since the ancient times, who knows.
+Après le Potala, je suis descendu vers la rue Barkhor pour visiter le dernier des trois grands monastères : le Jokhang. Il y a aussi quelques musées dans le quartier et un KFC caché dans un bâtiment d'apparence traditionnelle. À moins qu'il ne soit là depuis l'Antiquité, qui sait.
 
 ![KFC](images/blog/tibet2.jpg)
-*KFC in Gyantse*
+*KFC à Gyantse*
 
-## Day 4 Gyantse
+## Jour 4 Gyantse
 
-![Tibetan road](images/blog/tibet3.jpg)
+![Route tibétaine](images/blog/tibet3.jpg)
 
-You got a guide? Yes? You can leave the city. Let's make our way to the EBC!
+Avec un guide, il est enfin possible de quitter la ville. Direction le camp de base de l'Everest !
 
-But first, we need to stop at every possible viewpoint, because you made it to the Himalaya, bitch!
+Mais d'abord, arrêt à presque tous les points de vue : après tout, nous sommes dans l'Himalaya.
 
-The lake Yamdrok is pretty, with its azure color, but is a bit touristy.
-Gyantse is a quick stop, there is one fortification I saw from after.
-It's still the title of the section, but that was boring.
-The Korola glacier was completely filled with trash.
-I cleaned as much as I could under the laugher of the chinese, throwing gas bottles and plastic everywhere they went
-knowing I would pick it up.
-Some guys helped me, french obviously, then we were met by younger chinese people (< 30) that gave more than a hand.
-I think that, together, we picked up half a dozen kilo. Yay.
-Yup, that's all I remember from the melted glacier, take that how you want.
+Le lac Yamdrok est joli, avec sa couleur azur, mais assez touristique. Gyantse n'est qu'un arrêt rapide ; j'ai surtout aperçu ses fortifications depuis la route.
 
-After that, we stopped in Shigatse for the night.
-Ate some delicious food in a restaurant in the old city, that was great.
+Le glacier Korola était couvert de déchets. J'en ai ramassé autant que possible pendant que certaines personnes jetaient encore bouteilles de gaz et plastique, sachant que j'allais les récupérer. Quelques Français m'ont aidé, puis de jeunes Chinois de moins de trente ans nous ont rejoints. Ensemble, nous avons probablement ramassé six kilos de déchets. Voilà surtout ce que je retiens de ce glacier en train de fondre.
 
-## Day 5 EBC
+Nous avons ensuite passé la nuit à Shigatse, où j'ai très bien mangé dans un restaurant de la vieille ville.
 
-![In front of the EBC](images/blog/tibet4.jpg)
+## Jour 5 Camp de base de l'Everest
 
-After a quick visit of the little palace in Shigatse, very interesting while similar 
-to those of Lhasa, we took the long winding road to the Everest Base Camp.
-Probably seven hours on a mountain road. Thanks god it was a good one,
-yet, it was still a drive I'll remember.
-Folks, don't lose you hearing, ever since I lost my sence of balance and I get sick
-in transports.
+![Devant le camp de base de l'Everest](images/blog/tibet4.jpg)
 
-Everest Base Camp is big, very big. There are a lot of tents with ten times as many dancing chinese.
-They party as they made it to the world's roof, in front of the incredible Everest.
-I managed to see the peak, some were there for a week, only to catch that specific glimpse.
-It lasted like 20 minutes during the day, another 20 at night.
-Look at the cool pictures.
+Après une visite rapide du petit palais de Shigatse, intéressant bien qu'assez semblable à ceux de Lhassa, nous avons pris la longue route sinueuse vers le camp de base de l'Everest. Comptez environ sept heures sur une route de montagne. Elle est en bon état, heureusement, mais le trajet reste mémorable. Depuis que j'ai perdu une partie de mon équilibre, les transports me rendent malade.
+
+Le camp de base de l'Everest est immense. De nombreuses tentes accueillent encore plus de visiteurs qui dansent et célèbrent leur arrivée sur le toit du monde, face à l'Everest. J'ai eu la chance d'apercevoir le sommet. Certaines personnes attendaient depuis une semaine pour cette seule éclaircie. Il est resté visible une vingtaine de minutes en journée, puis encore vingt minutes pendant la nuit.
 
 
-## Day 6 Gyirong
+## Jour 6 Gyirong
 
-Before leaving EBC, we visited one of the world's highest monastery Rongbuk.
-It's not interesting architecturally, but there's a bit of history (destroyed by Mao
-Zedong forces, rebuilt by Deng Xiaoping's policies. Life's harsh up there)
+Avant de quitter le camp de base, nous avons visité Rongbuk, l'un des monastères les plus hauts du monde. Son architecture n'est pas particulièrement remarquable, mais son histoire l'est davantage : détruit sous Mao Zedong, il a été reconstruit à l'époque de Deng Xiaoping. La vie est rude là-haut.
 
-If you don't go to Kathmandu, you go back to Lhasa.
-I went on to Nepal, with a very small group.
+Ceux qui ne continuent pas vers Katmandou repartent ensuite vers Lhassa. Pour ma part, j'ai poursuivi vers le Népal avec un tout petit groupe.
 
-We made a stop for lunch in a town in the middle of nowhere, where locals seldom see any foreigners.
-It was weird to have everyone gawking at our very small group. For some, it was the first time they saw a man
-with long hair, weird isn't it?
-It was so remote, it was like catching a glimpse into the "real tibet".
+Nous avons déjeuné dans une ville isolée où les habitants voient rarement des étrangers. Tout le monde observait notre petit groupe ; pour certains, c'était peut-être la première fois qu'ils voyaient un homme aux cheveux longs. L'endroit était tellement reculé qu'il donnait l'impression d'entrevoir un Tibet plus quotidien.
 
-We went past the barley fields, crossed the desert and the dunes, crossed a mountain and...
-met a lush jungle.
-I shit you not, desert to jungle took like, 10 minutes? By driving of course.
-It's just separated by a single range of mountain. The Himalayas are wild man.
-Gyirong is another case of a town where locals barely see any westerners.
-Foreigners, yes, nepali are common, but not a group made of: a German, two french of different
-ethnicities, a latina and an ashkenazi we met along the way.
+Nous avons dépassé les champs d'orge, traversé le désert et les dunes, franchi une montagne puis découvert une jungle luxuriante. Sans exagérer, le passage du désert à la jungle a pris une dizaine de minutes en voiture. Une seule chaîne de montagnes sépare les deux paysages. L'Himalaya est vraiment surprenant.
 
-## Day 7 Road to Kathmandu
+À Gyirong aussi, les habitants voient peu d'Occidentaux. Les voyageurs népalais sont courants, mais notre groupe — un Allemand, deux Français d'origines différentes, une Latina et un Ashkénaze rencontré en chemin — attirait davantage l'attention.
 
-![The infamous gyirong border](images/blog/nepalborder.jpg)
+## Jour 7 Route vers Katmandou
 
-Last day!
+![La fameuse frontière de Gyirong](images/blog/nepalborder.jpg)
 
-And a fun one, in a way.
-The border on the chinese side is super modern, right on time, with a military parade and everything.
-The nepali side is... very different.
-A small mud house with only one entrance, a guy sitting on a stool, in front of a barrel writting things by hand,
-the "roads" which are actually just muddy paths.
-Going from one side to the other makes you go back 30 or 40 years back in time; I'm not even joking.
-  
-And, important info, if you think this part of the trip is just one long lonely muddy road, well...
-That's wrong! You cross a beautiful national park and our driver made many stops along the way, for some excellent viewpoints.
-If you're lucky, perhaps you may gaze on a very rare Red Panda?
+Dernier jour !
+
+Une journée assez amusante, à sa manière. Le poste-frontière chinois est très moderne, ponctuel, avec parade militaire et tout le reste. Côté népalais, l'ambiance est très différente : une petite maison en terre avec une seule entrée, un homme assis sur un tabouret qui remplit les documents à la main devant un tonneau, et des « routes » qui ressemblent surtout à des pistes boueuses. Passer d'un côté à l'autre donne l'impression de remonter trente ou quarante ans en arrière.
+
+Information importante : le trajet ne se résume pas à une longue piste boueuse et solitaire. Il traverse un très beau parc national, et notre chauffeur s'est arrêté plusieurs fois à d'excellents points de vue. Avec beaucoup de chance, vous pourrez peut-être même apercevoir un panda roux.

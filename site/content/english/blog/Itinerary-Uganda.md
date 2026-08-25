@@ -44,8 +44,7 @@ I got this one too, for Cheap safaris!
 | Day 4 | [Rwenzori](#day-26-rwenzori-mountains-day-1) | Trek |
 | Day 5 | [Rwenzori](#day-27-rwenzori-mountains-day-2) | Trek |
 | Day 6 | [Kabale](#day-28-road-to-kabale) | The worst road... |
-| Day 7 | [Lake Bunyoni](#day-29-lake-bunyonyi-day-1) | Lake Bunyonyi 1 |
-| Day 8 | [Lake Bunyoni](#day-30-lake-bunyonyi-day-2) | Lake Bunyonyi 2 |
+| Days 7–8 | [Lake Bunyonyi](#days-78-lake-bunyonyi) | Boat trip, kayaking and rest |
 | Day 9 | [Return to Kampala](#day-30-lake-bunyonyi-day-2) | Way back |
 
 > That's it! Do click on the links (destination name) to learn more!
@@ -104,7 +103,7 @@ Otherwise, try to get to a good altitude to see the unique plants.
 
 Second day of hiking. 
 You can sleep in one of the lodge then go higher to see the plants and stuff!
-Honestly, it's one of the prettiest part of Eaast Africa.
+Honestly, it's one of the prettiest part of East Africa.
 
 > Rwenzoris means moon mountains. What a lovely name!
 
@@ -115,7 +114,7 @@ Honestly, it's one of the prettiest part of Eaast Africa.
 
 Rough day on bad roads.  
 It was like 12 hours, I got stuck at the back of a 12 seaters with 20 people.
-A big black guy, sitting on my lap, a girl vomitting just in front of me, the only openable window open
+A big black guy, sitting on my lap, a girl vomiting just in front of me, the only openable window open
 right next to me, with stops lasting hours and autists trying to touch me or grab me.
 
 It was genuinely awful.
@@ -125,20 +124,15 @@ But at the time I went there, there were no other ways direct from the Rwenzoris
 
 ---
 
-## Day 7 Lake Bunyonyi
+## Days 7–8 Lake Bunyonyi
 
-![Bunyoni](images/blog/bunyoni.jpg)
+![Bunyonyi](images/blog/bunyoni.jpg)
 
 Arrive by noon and take a small boat across **Lake Bunyonyi**.  
 Quiet, scenic, dotted with small islands.  
 A perfect spot to rest and read!
 
----
-
-## Day 8 Lake Bunyonyi 2
-
-Second day on the lake.  
-Kayak, read, and recharge before entering Rwanda.
+On the second day, kayak, read, and recharge before entering Rwanda.
 I really needed this rest, and so did many travelers.
 
 ---

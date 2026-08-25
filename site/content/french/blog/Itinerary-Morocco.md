@@ -27,27 +27,36 @@ draft: false
 Assalam alaykum les amis, voici mon chtit itinéraire pour Al-Maghrib, le Maroc.
 Ceci a été traduit de l'anglais par GPT, sauf quelques petites phrases, for sure.
 Et Mar7aba si vous visitez, points bonus avec un peu de Darija dans votre vocab'. 
-Mon arabe est déguelasse, mais suffisant pour échanger autrement avec les locaux, j'pense
+Mon arabe est dégueulasse, mais suffisant pour échanger autrement avec les locaux, j'pense
 direct ils ont grillé que j'étais banlieusard.
 
 \_\_\_\_
 
-# Itinerary done quick
+# L'itinéraire en bref
 
 ## Maroc
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 0 à 4 | [Marrakech et le désert](#jour-0-à-4--marrakech-et-le-désert) | Marrakech, Ait Benhaddou, Tinghir et Merzouga |
-| Jour 5 à 6 | [Casablanca et Rabat](#jour-5-à-6--casablanca-et-rabat) | Grandes villes et centres historiques |
+| Jour 0 | [Arrivée à Marrakech](#jour-0--arrivée-à-marrakech) | Arrivée en soirée |
+| Jour 1 | [Marrakech](#jour-1--marrakech) | Médina, palais de la Bahia et Jemaa el-Fnaa |
+| Jour 2 | [Aït-Ben-Haddou et la vallée des Roses](#jour-2--aït-ben-haddou-et-la-vallée-des-roses) | Première journée de l'excursion dans le désert |
+| Jour 3 | [Tinghir, gorges du Todra et Merzouga](#jour-3--tinghir-gorges-du-todra-et-merzouga) | Gorges, route et dunes |
+| Jour 4 | [Retour à Marrakech](#jour-4--retour-à-marrakech) | Long trajet retour et dernière soirée |
+| Jour 5 | [Casablanca](#jour-5--casablanca) | Mosquée Hassan-II et Habous |
+| Jour 6 | [Rabat](#jour-6--rabat) | Oudayas, tour Hassan et Chellah |
 | Jour 7 | [Meknès et ses environs](#jour-7--meknès-et-ses-environs) | Meknès, Volubilis et Moulay Idriss |
-| Jour 8 à 9 | [Fès et le Moyen Atlas](#jour-8-à-9--fès-et-le-moyen-atlas) | Médina, forêts et montagne |
-| Jour 10 à 12 | [Chefchaouen](#jour-10-à-12--charmante-ville-bleue---chefchaouen) | Ville bleue et rythme plus lent |
-| Jour 13 et 14 | [Tanger et vues sur l'Espagne](#jour-13-et-14--tanger-et-vues-sur-lespagne) | Dernières étapes sur le détroit |
+| Jour 8 | [De Meknès à Fès](#jour-8--de-meknès-à-fès) | Bab Mansour, train et médina de Fès |
+| Jour 9 | [Moyen Atlas](#jour-9--moyen-atlas) | Ifrane et forêts de cèdres |
+| Jour 10 | [De Fès à Chefchaouen](#jour-10--de-fès-à-chefchaouen) | Trajet et première promenade dans la ville bleue |
+| Jour 11 | [Akchour](#jour-11--akchour) | Cascade et pont de Dieu |
+| Jour 12 | [Chefchaouen](#jour-12--chefchaouen) | Parc national et journée plus lente |
+| Jour 13 | [Tanger](#jour-13--tanger) | Médina, Kasbah et vues sur le détroit |
+| Jour 14 | [Départ de Tanger](#jour-14--départ-de-tanger) | Shopping et retour |
 
 ---
 
-## Jour 0 à 4 : Marrakech et le désert
+## Jour 0 : Arrivée à Marrakech
 
 ![Marrakesh](images/blog/morocco1.jpg)
 ^*Vieille ville, près des tombeaux*
@@ -59,6 +68,12 @@ Nous autres Français avons la chance d'avoir de nombreuses liaisons avec les pa
 
 Une fois arrivé, je suis allé directement à mon auberge, une auberge de style riad qui était de mauvaise qualité malgré ses prix élevés.
 
+Après un vol en soirée, inutile de prévoir des visites. J'en ai profité pour retirer du cash, acheter de l'eau, repérer le point de départ du lendemain et mémoriser le chemin entre l'auberge et Jemaa el-Fnaa.
+
+---
+
+## Jour 1 : Marrakech
+
 > La partie intéressante de Marrakech est en réalité assez petite. Tant que vous êtes près du centre, tout se fait facilement à pied.
 
 J'ai passé ma première journée autour de **Jemaa el-Fnaa**, du **palais de la Bahia**, de la **mosquée Koutoubia**, du **quartier juif** et de quelques endroits choisis au hasard dans toute la ville.
@@ -68,6 +83,11 @@ La meilleure activité que j'ai faite a été de photographier les chats dans to
 
 > Notez que le **jardin Majorelle** doit être réservé plusieurs semaines à l'avance, je n'ai pas pu y aller.
 
+Le soir, Jemaa el-Fnaa change complètement d'ambiance. Le secteur de la Koutoubia permet aussi de marcher un peu à l'écart de la partie la plus dense de la médina.
+
+---
+
+## Jour 2 : Aït-Ben-Haddou et la vallée des Roses
 
 Pendant les trois jours suivants, j'ai participé à une excursion dans le désert de Marrakech à Merzouga. 
 
@@ -83,12 +103,24 @@ Probablement mon endroit préféré au Maroc pour les paysages. Le point de vue 
 
 Le premier jour comprenait également la **vallée des Roses** et plusieurs petits arrêts sur la route vers le désert.
 
+C'est déjà une grosse journée de route. Aït-Ben-Haddou est la visite principale ; le col, les points de vue et la vallée des Roses sont des arrêts plus courts entre de longues portions en voiture.
+
+---
+
+## Jour 3 : Tinghir, gorges du Todra et Merzouga
+
 Le deuxième jour, dans la jolie ville de **Tinghir**, nous nous sommes principalement arrêtés dans les belles **gorges du Todra**, puis avons poursuivi jusqu'à **Merzouga** avec quelques petits arrêts en chemin.
 
 ![The desert](images/blog/morocco2.jpg)
 ^*Les dunes de Merzouga*
 
 Le highlight de la deuxième journée a été les dunes près de **Merzouga**, visibles ci-dessus.
+
+Les gorges et les dunes se visitent le même jour parce que la route continue vers l'est au lieu de revenir à l'étape précédente. Une bonne partie de l'après-midi sert à rejoindre Merzouga.
+
+---
+
+## Jour 4 : Retour à Marrakech
 
 L'excursion est retournée à Marrakech le troisième jour. Il y a beaucoup de route, surtout au retour, mais trois jours sont probablement le minimum nécessaire pour faire ce voyage.
 
@@ -103,7 +135,7 @@ Et aussi, mon ressenti sur l'excursion, puisque c'est le plus important ici :
 
 ---
 
-## Jour 5 à 6 : Casablanca et Rabat
+## Jour 5 : Casablanca
 
 ![The desert](images/blog/morocco3.jpg)
 ^*Rabat, un monde de contrastes*
@@ -113,6 +145,12 @@ Au lieu de retourner directement à Marrakech, j'ai rejoint une excursion qui pa
 Casablanca est super ennuyeuse.
 
 La **mosquée Hassan-II** mérite une visite, et c'est facilement la principale raison de s'y arrêter. Elle est immense, magnifiquement située au bord de la mer et bien plus impressionnante que le reste de la ville. En dehors de la mosquée, je n'ai pas trouvé beaucoup de raisons de rester. Le **quartier des Habous** était passable, et c'est tout.
+
+Une demi-journée suffit pour cette version de Casablanca. J'ai visité la mosquée en premier, ajouté les Habous, puis dormi près d'une gare pratique pour repartir le lendemain.
+
+---
+
+## Jour 6 : Rabat
 
 
 Depuis Casablanca, j'ai continué vers **Rabat** avec l'ONCF. Le trajet était péniblement lent et en retard, mais pour quelques euros, ça a fait l'affaire.
@@ -170,11 +208,11 @@ J'ai suivi une visite guidée que j'ai partagée avec des Français en visite, q
 
 Ensuite, j'ai fait une promenade en soirée à Meknès. Meknès est beaucoup plus calme que Fès, et il est facile de la visiter sans passer toute la journée à lutter contre la foule.
 
-Le lendemain, j'ai visité **Bab Mansour**, me suis promené dans la ville, puis j'ai pris le train pour **Fès**, ce qui ne prend qu'environ 40 minutes.
-
 ---
 
-## Jour 8 à 9 : Fès et le Moyen Atlas
+## Jour 8 : De Meknès à Fès
+
+Le lendemain, j'ai visité **Bab Mansour**, me suis promené dans le centre de Meknès, puis j'ai pris le train pour **Fès**, ce qui ne prend qu'environ 40 minutes.
 
 ![Barbary macaques](images/blog/morocco5.jpg)
 
@@ -185,6 +223,12 @@ J'ai visité **Bab Bou Jeloud**, la **médersa Al-Attarine** et les tanneries, e
 Suivez simplement le flot de personnes et la rue principale. Ne vous écartez pas. Vraiment, **ne vous écartez pas**.
 Les tanneries valent le détour, même si elles sont petites et que l'odeur est effectivement mauvaise. Toujours mieux que le métro parisien ou un vestiaire.
 La meilleure chose que j'ai faite a été de sortir de la médina, vers les remparts et le cimetière, pour profiter de la vue.
+
+C'était suffisant pour une première journée à Fès après le court trajet depuis Meknès. Dormir près d'une porte facile à identifier aide aussi à retrouver son hébergement après la tombée de la nuit.
+
+---
+
+## Jour 9 : Moyen Atlas
 
 Le lendemain, j'ai réservé une excursion via **GetYourGuide** pour visiter **Ifrane** et les forêts de cèdres.
 
@@ -203,7 +247,7 @@ Le meilleur tajine que j'ai mangé. Vraiment.
 
 ---
 
-## Jour 10 à 12 : Charmante ville bleue - Chefchaouen
+## Jour 10 : De Fès à Chefchaouen
 
 ![Barbary macaques](images/blog/morocco6.jpg)
 
@@ -216,23 +260,37 @@ Ses larmes salées tel celles d'un joueur de LoL ne m'ont pas dissuadé d'y alle
 Franchement, allez-y et profitez-en, explorez la ville et promenez-vous dans les collines environnantes, regardez les points de vue, les couchers de soleil, les chats.
 Mangez, goûtez les pâtisseries, imprégnez-vous de l'ambiance...
 
+Les cinq heures de bus laissent assez de temps pour une première promenade dans la médina, un point de vue et le dîner. J'ai gardé les randonnées plus longues pour les jours suivants.
+
+---
+
+## Jour 11 : Akchour
+
 
 Le deuxième jour, je suis allé à **Akchour** pour la randonnée vers la cascade et le **pont de Dieu**. C'est facile, et on y accède aisément en taxi collectif
 juste à côté de la gare routière. Mon temps d'attente dans chaque sens a été d'environ 5 minutes.
 
 Le paysage autour de Chefchaouen est complètement différent de celui du sud du Maroc, beaucoup plus vert et montagneux.
-J'ai fait deux randonnées, la deuxième dans le parc national en partant du mur nord. Un type bizarre voulait me cracher dessus parce que
-j'ai refusé de lui acheter sa weed. 
 
 > Anecdote amusante : ils vendent de l'herbe juste devant le commissariat de police, dans le centre.
 > La plupart des gens viennent uniquement pour la beuh, certains uniquement pour les photos Instagram.
 > Peu de gens vont à Akchour.
 
-Chefchaouen était aussi un bon endroit pour ralentir après avoir constamment bougé pendant presque deux semaines.
+Il faut prévoir presque toute la journée pour le taxi collectif, la marche et les pauses près de la rivière. La cascade et le pont de Dieu sont sur deux branches différentes ; pour faire les deux, mieux vaut partir tôt.
 
 ---
 
-## Jour 13 et 14 : Tanger et vues sur l'Espagne
+## Jour 12 : Chefchaouen
+
+Le troisième jour, j'ai fait une autre randonnée dans le parc national en partant du mur nord. Un type bizarre voulait me cracher dessus parce que j'ai refusé de lui acheter sa weed.
+
+Chefchaouen était aussi un bon endroit pour ralentir après avoir constamment bougé pendant presque deux semaines.
+
+Le reste de la journée fonctionne très bien sans checklist : retour dans la médina, autre point de vue, pâtisseries et un peu de temps libre avant le prochain trajet en bus.
+
+---
+
+## Jour 13 : Tanger
 
 ![Tanger](images/blog/morocco7.jpg)
 ^*La Kasbah*
@@ -244,7 +302,11 @@ J'ai également visité les anciennes tombes qui surplombent la mer. On peut voi
 
 Tanger fonctionnait très bien comme dernière étape. De là, vous pouvez continuer vers l'Espagne en ferry, rentrer en avion ou reprendre le train vers le sud.
 
-Comme vous le remarquez, je deviens lazy dans l'écriture, je ne suis pas resté très longtemps, j'ai surtout fait du shopping puisque je suis rentré chez moi le 14e jour.
+---
+
+## Jour 14 : Départ de Tanger
+
+Je ne suis pas resté longtemps le dernier jour. J'ai surtout fait du shopping avant de rentrer chez moi.
 Exactement deux semaines, yay !
 
 ---

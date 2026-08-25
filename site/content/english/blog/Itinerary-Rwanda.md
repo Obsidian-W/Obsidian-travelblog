@@ -24,12 +24,12 @@ draft: false
 
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Day 1 | [Kigali](#day-31-road-to-kigali) | Enter Rwanda |
-| Day 2 | [Kigali](#day-32-kigali) | Enjoy the city |
-| Day 3 | [Ruhengeri](#day-33-ruhengeri) | Arrive and prepare for a hike |
-| Day 4 | [Volcanoes National Park](#day-34-volcanoes-np) | Volcanoes/Gorillas |
-| Day 5 | [Kibuye](#day-35-kibuye) | Go see Lake Kivu |
-| Day 6 | [Kigali](#day-36-return-to-kigali) | Departure |
+| Day 1 | [Kigali](#day-1-road-to-kigali) | Enter Rwanda |
+| Day 2 | [Kigali](#day-2-kigali) | Enjoy the city |
+| Day 3 | [Ruhengeri](#day-3-ruhengeri) | Arrive and prepare for a hike |
+| Day 4 | [Volcanoes National Park](#day-4-volcanoes-national-park) | Volcanoes/Gorillas |
+| Day 5 | [Kibuye](#day-5-kibuye) | Go see Lake Kivu |
+| Day 6 | [Kigali](#day-6-return-to-kigali) | Departure |
 
 
 > That's it! Do click on the links (destination name) to learn more!
@@ -40,7 +40,7 @@ So...
 I came to Kigali by bus from Uganda.
 There are many crossings, mine was in **Katuna**.
 Smooth and organized, it's one of the main crossing.
-My original plan was to go straight to Ruhengiri, but the border there is hard to access, unless you have your own transportation.
+My original plan was to go straight to Ruhengeri, but the border there is hard to access, unless you have your own transportation.
 
 So I arrived in **Kigali** by afternoon; it's clean, hilly and calm.
 I decided to relax.
@@ -58,7 +58,7 @@ Kigali can also be access by land from Tanzania, but due to a lack of experience
 Visit the **Genocide Memorial**, check a cafe or eat some Rolex (Rolled eggs) and the see the conference center. 
 
 The city is spotless and easy to navigate with moto-taxis.
-Be warned, the memorial is hardcore. I use to work as a kindgarten teacher, the parts with the children was gut-wrenching. There, you got warned.
+Be warned, the memorial is hardcore. I used to work as a kindergarten teacher, the parts with the children was gut-wrenching. There, you got warned.
 
 There aren't many things to see in Kigali, but I love it.
 
@@ -90,7 +90,7 @@ If ya lucky, that's it. I met a traveler that did it the day before I did and ha
 > You need a permit to do the Hikes/Gorilla Trekking. Check prices online.
 
 So, how to do it?
-Take the bus/car/rideshare to the ranger station early in the morning, register for the hike or gorilla watching, find-same minded travelers and enjoy.
+Take the bus/car/rideshare to the ranger station early in the morning, register for the hike or gorilla watching, find like-minded travelers and enjoy.
 You can (and should?) book through the VisitRwanda Website.
 
 The hike to Mount Bisoke is 65€/75$ (August 2026).
@@ -103,7 +103,7 @@ Those prices are for non-residents, I found that online for the rest:
 
 Foreign Non-Residents: $1,500 USD
 Foreign Residents in Rwanda: $500 USD
-Arican Passport Holders: $500 USD
+African Passport Holders: $500 USD
 East African Community (EAC) Citizens (including Rwanda): $200 USD
 
 > Careful of the gorilla scam, locals will tell you they have a way to see gorillas for "cheap".
@@ -118,7 +118,7 @@ Head south by bus (4h).
 Great sunsets and peaceful evenings.
 
 I went to a very similar place in Uganda, so I know the vibe: Chill.
-Take a book, relax, swim, ejoy the local life...
+Take a book, relax, swim, enjoy the local life...
 Depending on the type of traveler you are, you can definitely enjoy it for days.
 
 > If you have time, you can enjoy the Congo Nile trail, it was my original plan
@@ -127,7 +127,7 @@ Depending on the type of traveler you are, you can definitely enjoy it for days.
 
 ---
 
-## Day 5+ bis Congo Nile
+## Optional extension: Congo Nile Trail
 
 Extend for how many days you like!
 
@@ -136,7 +136,7 @@ The Congo Nile Trail is a nice coastal walk you can do section by sections or as
 ---
 
 
-## Day 6 / Last day Return to Kigali
+## Day 6 Return to Kigali
 
 Back to Kigali (3 hours from Kibuye).  
 Use the last day for shopping, coffee, or just resting before your flight.  

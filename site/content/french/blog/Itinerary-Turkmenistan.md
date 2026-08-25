@@ -76,7 +76,7 @@ Contact:
 - Phone: +993 61 67 22 66  
 - Mail: ruslanhydyrov@gmail.com  
 
-If you get in touch, **tell him you come thanks to Timothé Paris** (that's me). He'll know.  
+Si vous le contactez, **dites-lui que vous venez de la part de Timothé Paris** — c'est moi. Il comprendra.  
 
 
 Une centaine de dollars plus tard (visa + entrée + test COVID), me voilà officiellement en Turkménistan !

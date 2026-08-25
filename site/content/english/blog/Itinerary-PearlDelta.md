@@ -9,7 +9,7 @@ continents: ["Asia"]
 draft: false
 ---
 
-> One of the most densely inhabitated region in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau...
+> One of the most densely inhabited regions in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau...
 >
 > The Pearl Delta!
 Amidst those big cities, patches of rewarding nature!
@@ -25,7 +25,7 @@ Before diving into my itinerary, a few considerations:
 - Hong Kong is not really China, the **one country two systems** policy still remains, hence Hong Kong has its own visa policy and rules.
 - To survive in mainland China, Alipay and a translator apps are lifesavers. Cash is accepted, but annoying to use and find.
 - AMAP is now in english, even on Android, it works very well in mainland China. Google Maps is better in HK
-- Never speak abour politics. It's touchy.
+- Never speak about politics. It's touchy.
 - I did it in 7 days, but 8 would have been better. Damn flight deals.
 
 I did a loop itinerary from/to Shenzhen as the flights were less than 100$ both ways from Phnom Penh,
@@ -45,7 +45,7 @@ so I'll keep that order, adapt to your situation ;)
 | Day 4 | [Hong Kong - Central](#day-4-hong-kong---central) | Skyline, Peak and city core |
 | Day 5 | [Macau](#day-5-macau) | Heritage center and casino city |
 | Day 6 | [Guangzhou](#day-6-guangzhou) | Canton food and urban exploration |
-| Day 7 | [Guangzhou / Shenzhen](#day-7-last-day---guangzhoushenzen) | Flexible final day before flying out |
+| Day 7 | [Guangzhou / Shenzhen](#day-7-last-day---guangzhoushenzhen) | Flexible final day before flying out |
 | Day X | [More days ideas](#day-x-with-more-days-ideas) | Extra stops if you can stretch the trip |
 
 ---
@@ -91,7 +91,7 @@ You can leave this for later if you return to Shenzhen.
 ## Day 2: Hong Kong - North (Mong kok, TST & more)
 
 The bus from Shenzhen will drop you around **Mong Kok**, if you come from the airport, it's easy to reach.
-It's also an area wth plenty of accomodation.
+It's also an area with plenty of accommodation.
 > Fret not if you're further, the *YHA* is in Sham Shui Po, an easy trip by subway. If you're poor like me, then it's nice to be out of the center.
 
 ![Central](images/blog/hk-center.jpg)
@@ -110,7 +110,7 @@ The viewpoints are many and so are the sights, eating opportunities and other co
 
 ### (Late) Afternoon
 
-**Lets go to Tsim Sha Tsui!**
+**Let's go to Tsim Sha Tsui!**
 
 South of this part of HK, you have another nice cluster: Nice buildings, the **avenue of stars**, the **Bruce Lee statue** and the harbor.
 There are plenty of museums as well, if that's your thing. I'm pretty much bored out of them, so I visit sparingly.
@@ -146,7 +146,7 @@ From **Ngong Ping Village** (near the Buddha), there is a cable car station and 
 Early in the afternoon, there are buses every 30 minutes going to the **Tai'O** fishing village. That's the destination.
 > According to GMaps, bus number 21 is the only direct one, if you want to go down using the cable car, then you can use buses 1 and 11, it's a 20 minutes drive.
 
-Walk around the market, spot the cats and eat delicious mochis! AThere is a promenade near the sea, a few nice shops (inexpensive compared to the rest of the country) and a marker.
+Walk around the market, spot the cats and eat delicious mochis! There is a promenade near the sea, a few nice shops (inexpensive compared to the rest of the country) and a marker.
 After that visit, it'll probably be late, head back to *Tung Chung* by bus (Bus number 11) and zip back to mainland HK by subway (Orange line).
 
 > From Tai'O,  it's easily two hours to get back to the center of Hong Kong... Be prepared to be dead tired.
@@ -158,20 +158,20 @@ After that visit, it'll probably be late, head back to *Tung Chung* by bus (Bus 
 ### Morning
 
 Now let's explore the last important island of Hong Kong: **Hong Kong Island** (of course).
-The beautiful skyscrappers of the coastline, the **monster building** in **Causeway Bay**, the batteries and forts...
+The beautiful skyscrapers of the coastline, the **monster building** in **Causeway Bay**, the batteries and forts...
 Just by going east along the coast, you have sights after sights. (I recommend taking the bus, it's quite spread out, use and abuse it)
 If you like uncommon sights, you can go a bit further out and check out the **Haw Par mansion** or the **Hong Kong movie archives** (I haven't been inside but the building is cool)
-Once I visited all of that I went to get some eggtarts from *Bakehouse* in Central (And to grab some lunch on the go)
+Once I visited all of that I went to get some egg tarts from *Bakehouse* in Central (And to grab some lunch on the go)
 
 
 ### Afternoon
 
-If you too went to *Bakehouse* in Central, then you are near one of the main touristic area, the **Central-Mid levels escalors** and the main parts of Central.
+If you too went to *Bakehouse* in Central, then you are near one of the main touristic area, the **Central-Mid-Levels Escalators** and the main parts of Central.
 Enjoy the street art, the cool building and the escalator letting you go all the way to the base of **Mount Victoria**.
 And then... It's hiking time again.
 
 Go up the mountain for a good sunset/night view of the city!
-If you went up Lantau the previous day, without hurting youreslf like I did, then it should be fine. Even with one limping leg, I did it easily.
+If you went up Lantau the previous day, without hurting yourself like I did, then it should be fine. Even with one limping leg, I did it easily.
 
 That's it for Hong Kong. If you have more time, then you can head to more museums, go shopping, see different viewpoints, see a horse race near **Wan Chai**, perhaps even go to **Lamma Island**...
 If I were to be stranded one month in HK, I legit would never be bored!
@@ -234,7 +234,7 @@ Right after the mausoleum stands the big park hosting the famous **ram statue** 
 teaching about the city's history and fights with pirates. Interesting and good for pictures!
 Before the dark replace the blue, use the metro to zap to the **English district in Shamian**.
 You can have a leisurely walk near **colonial buildings**, close to the river. In the late afternoon it's busy in a good way.
-It does't take too much time and allow you to see another side of the city.
+It doesn't take too much time and allow you to see another side of the city.
 
 Afterwards, it should be around nightfall, head to the center to see the light show near the **Guangzhou TV Tower**,
 iirc it's the **Huacheng Plaza**, the small island and then the new tower is across.
@@ -246,25 +246,33 @@ Hopefully, by now there are better transportation apps in english (AMAP was stil
 
 ---
 
-## Day 7: Last day - Guangzhou/Shenzen
+## Day 7: Last day - Guangzhou/Shenzhen
+
+> Note: This is exactly what I did, I left early morning on the 8th day.
 
 ### Morning
 
-Use remaining time to finish the visit in Guangzou, I recommend to see the **Shen Clan Ancestral Hall**, but be sure to book in advance (online only)
+Use remaining time to finish the visit in Guangzhou, I recommend to see the **Chen Clan Ancestral Hall**, but be sure to book in advance (online only)
 then head to the station and zip to Shenzhen.
-If you have time, the two parks neaer the Hall are both equally green and beautiful, it's nice to take a break from the big city.
+
+If you have time, the two parks near the Chen Clan Ancestral Hall are both equally green and beautiful, it's nice to take a break from the big city.
+
+If your flight leaves from Guangzhou, say goodbye to the city!
 
 ### Afternoon
 
-We are getting to the end of this article and i'm gtting Lazy. So refer to day 1 of Shenzhen and finish any unfinished business.
+If your flight is from Shenzhen, do the route to Shenzhen and finish any business you may have.
 Shopping, old town, the harbour, a hike... There are many possibilities, but Shenzhen ain't exactly a touristic city.
 
 ---
 
 ## Day X: With more days, ideas
 
-
 **Too much time on your hands?**
-Add a day for the casinos in Macau or spend one more night in Guangzhou to have more leisure!
 
-You can also add a day in HK to hike, it's a hiking paradise after all :)
+Here are a few ideas to stretch the trip!
+
+Add a day for the casinos in Macau or spend one more night in Guangzhou to have more leisure!
+You can also add a day in Hong Kong for hiking, it's a hiking paradise after all :)
+
+I heard Dongguan was also a city like by older men, apparently, it's sin city. Absolutely not my thing. I won't comment about that.

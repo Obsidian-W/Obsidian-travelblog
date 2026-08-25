@@ -38,7 +38,8 @@ Before diving into the itinerary, a few notes:
 |  Day 2  |       [Torysh & Sherkala](#day-2-torysh-sherkala)        | Desert tour begins                  |
 |  Day 3  |        [Bozjyra Plateau](#day-3-bozjyra-plateau)         | Long desert drive, isolated plateau |
 |  Day 4  | [Tiramisu Canyon & Boktu](#day-4-tiramisu-canyon-boktu)  | Unique geological formations        |
-| Day 5-6 |                [Astana](#day-5-6-astana)                 | Modern capital exploration          |
+|  Day 5  |          [Arrival in Astana](#day-5-arrival-in-astana)          | Flight and central sights            |
+|  Day 6  |              [Astana](#day-6-astana)              | Architecture, parks and mosques      |
 |  Day 7  |       [Aqmola & Alzhir](#day-7-aqmola-alzhir)            | Gulag memorial, then night train    |
 |  Day 8  |            [Almaty City](#day-8-almaty-city)             | City exploration, prep for hikes    |
 |  Day 9  |        [Big Almaty Lake](#day-9-big-almaty-lake)         | Mountain hike                       |
@@ -55,13 +56,16 @@ Before diving into the itinerary, a few notes:
 | :-------: | :----------------------------------------------------------: | :----------------------------------------: |
 |  Day 13   |                  [Bishkek](#day-13-bishkek)                  | City exploration, museums, meeting friends |
 |  Day 14   |  [Ala-Archa National Park](#day-14-ala-archa-national-park)  |           Half-day mountain hike           |
-| Day 15-17 |               [Song-Kul](#day-15-17-song-kul)                |          Horse trek and yurt stay          |
+|  Day 15   |       [Kyzart to Song-Kul](#day-15-kyzart-to-song-kul)       |          Transfer and first horse ride     |
+|  Day 16   |             [Song-Kul](#day-16-song-kul)                     |          Full day on the plateau           |
+|  Day 17   |       [Song-Kul to Karakol](#day-17-song-kul-to-karakol)     |          Descent and long transfer         |
 |  Day 18   |                  [Karakol](#day-18-karakol)                  |              City visit, rest              |
 |  Day 19   |                [Jeti-Ögüz](#day-19-jeti-oguz)                |        Red rock cliffs, short hike         |
 |  Day 20   |            [Altyn Arashan](#day-20-altyn-arashan)            |        Long alpine hike, yurt camp         |
 |  Day 21   |           [Rest & Transport](#day-21-trip-to-osh)            |             Long route to Osh              |
 |  Day 22   | [Osh & Pamir Highway Start](#day-22-osh-pamir-highway-start) |        Prep and departure for Pamir        |
-| Day 23-24 | [Peak Lenin and Tulpar-Kul](#day-23-24-peak-lenin-pamir-highlights) | Beginning of the Pamir Highway |
+|  Day 23   | [Tulpar-Kul](#day-23-tulpar-kul) | Drive into the Alay Valley and yurt stay |
+|  Day 24   | [Peak Lenin](#day-24-peak-lenin) | Morning hike and Pamir Highway continuation |
 
 ---
 
@@ -74,19 +78,27 @@ Before diving into the itinerary, a few notes:
 |    Day 28     |          [Yamchun Fortress](#day-28-yamchun-fortress)          | Hot springs + ruins                  |
 |    Day 29     |                 [Kalaikhum](#day-29-kalaikhum)                 | Scenic drive along Panj River        |
 |    Day 30     |                  [Dushanbe](#day-30-dushanbe)                  | End of the Pamir highway             |
-| Day 31 and 32 | [Panjakent and the Seven Lakes](#day-31-and-32-panjakent-seven-lakes) | Hike to the seven lakes and old town |
-| Day 33 and 34 | [Khujand](#day-33-34-khujand-historic-city) | Historic city exploration |
+|    Day 31     |              [Panjakent](#day-31-panjakent)                | Bazaar and archaeological ruins     |
+|    Day 32     |              [Seven Lakes](#day-32-seven-lakes)            | Mountain lake excursion             |
+|    Day 33     |              [Road to Khujand](#day-33-road-to-khujand)    | Transfer and first city walk        |
+|    Day 34     |              [Khujand](#day-34-khujand)                    | Fort, museum and parks              |
+
 ---
 
 ## 🇺🇿 UZBEKISTAN
 
 |    Day    |            Destination            |           Notes            |
 | :-------: | :-------------------------------: | :------------------------: |
-| Day 35-36 |  [Tashkent](#day-35-and-36-tashkent)  |     Capital city visit     |
-| Day 37-38 | [Samarkand](#day-37-and-38-samarkand) |     Registan by sunset     |
-| Day 39-40 |   [Bukhara](#day-39-and-40-bukhara)   | Visit the town of scholars |
-| Day 41-42 |     [Khiva](#day-41-and-42-khiva)     |      Ichan Kala visit      |
-| Day 43-44 | [Nukus & Aral Sea](#day-43-44-nukus-karakalpakstan) | Museum and Aral Sea tour |
+|   Day 35   |  [Arrival in Tashkent](#day-35-arrival-in-tashkent)  | Border crossing and Chorsu |
+|   Day 36   |  [Tashkent](#day-36-tashkent)  | Metro, museums and city centre |
+|   Day 37   | [Tashkent to Samarkand](#day-37-tashkent-to-samarkand) | Gur-e Amir and Registan |
+|   Day 38   | [Samarkand](#day-38-samarkand) | Shah-i-Zinda and Afrosiyob |
+|   Day 39   |   [Bukhara old city](#day-39-bukhara-old-city)   | Poi-Kalyan and trading domes |
+|   Day 40   |   [Bukhara](#day-40-bukhara)   | Ark, backstreets and Lyabi-Hauz |
+|   Day 41   |     [Road to Khiva](#day-41-road-to-khiva)     | Train west and first Ichan Kala walk |
+|   Day 42   |     [Khiva](#day-42-khiva)     | Palaces, minarets and rooftops |
+|   Day 43   | [Nukus](#day-43-nukus) | Savitsky Museum and regional capital |
+|   Day 44   | [Muynak and the Aral Sea](#day-44-muynak-and-the-aral-sea) | Ship cemetery and former shoreline |
 
 ---
 
@@ -115,7 +127,7 @@ A striking Soviet influence is visible in large avenues, dilapidated buildings, 
 The morning is ideal for exploring the coast. Take a walk along the **Skalnaya Tropa Promenade**, a 1.5km scenic path along the cliffs, perfect for morning photos. Spot the **Melovoy Lighthouse**, built atop a residential building, and visit city landmarks like the Ship Statue and the monument to Ukrainian writer Taras Shevchenko.  
 
 Aktau serves as the gateway to the Mangystau region. Use the afternoon to book a tour to Mangystau.
-I personnaly used RedMaya Travel.
+I personally used RedMaya Travel.
 If you have more time in the city, do visit the mosque, the memorial and spot the countless soviet murals on the walls.
 
 ---
@@ -159,19 +171,23 @@ A detour to **Boktu Mountain** underlines the desert’s extreme heat. Optical i
 
 ---
 
-## Day 5-6 Astana
+## Day 5 Arrival in Astana
 
 ![Trip](images/blog/astana.jpg)
 
 I took an early morning flight to **Astana**. The train would have been far too long (close to 24h!)
 
-This city is modern, green, and beautifully planned, a stark contrast to Aktau.  
+This city is modern, green, and beautifully planned, a stark contrast to Aktau. After checking in, use the remaining afternoon for the central axis around **Baiterek**, the riverfront and **Khan Shatyr**. The distances are longer than they look, so this is already enough after the flight.
 
-Over two days, walk the city, explore parks, squares, and monuments such as **Baiterek**, **Hazrat Sultan Mosque**, the **Palace of Peace and Reconciliation**, and **Khan Shatyr**, as well at the brand new mosque, at the edge of the city. It is the bigget mosque of Central Asia, but it strangely devoid of believers.
+---
+
+## Day 6 Astana
+
+Use the second day for **Hazrat Sultan Mosque**, the **Palace of Peace and Reconciliation**, the parks and the new mosque at the edge of the city. It is the biggest mosque in Central Asia, but it was strangely devoid of believers when I visited.
 
 > Construction is ongoing for metro lines and other infrastructure, hopefully it will open soon.
 
-The capital is sunny and open, requiring sunscreen and patience for long pedestrian detours.
+The capital is sunny and open, requiring sunscreen and patience for long pedestrian detours. I was glad to have a second day: the monuments are far enough apart that rushing them would mean spending most of the visit in taxis.
 
 ---
 
@@ -196,7 +212,7 @@ Those trains are comfortable and the trip will ends in no time, even though it l
 
 Arrival in **Almaty**n an historical city that did not preserve its history.
 
-Visit the **Green Bazaar** for local foods and snacks, **Panfilov Park** and **Zenkov Cathedral**, a colorful wooden building, close to an older traditional building (the musicial instrument museum, I believe). If you have time, take the **cable car to Kok Tobe** for city views.
+Visit the **Green Bazaar** for local foods and snacks, **Panfilov Park** and **Zenkov Cathedral**, a colorful wooden building, close to an older traditional building (the musical instrument museum, I believe). If you have time, take the **cable car to Kok Tobe** for city views.
 Museums like the Central State Museum offer historical context, but I haven't been there, someone told me it was more or less the same than the one in Astana. 
 
 The city feels like Grenoble (The french chicago) without delinquency, with parks as calm oases amid Soviet urbanism.
@@ -213,9 +229,9 @@ IT's a really nice city to spend some time in and to base yourself for hikes.
 I went to hike to **Big Almaty Lake** with a friend, starting a bit late due to delays. 
 he route follows a paved road, then water pipes requiring ropes. Military restrictions make the lake hard to access; it appears nearly empty, a contrast to iconic photos. So it was utterly disappointing.
 
-> I inclded it here because in the end it's my itinerary, but, it's much better to skip it and add one more day from the trip to Charyn and Kolsai. 
+> I included it here because in the end it's my itinerary, but, it's much better to skip it and add one more day from the trip to Charyn and Kolsai.
 
-Contoversely, at sunset, the scenery is spectacular, at least ansd at last, a good thing.
+Conversely, at sunset, the scenery is spectacular, at least and at last, a good thing.
 
 ---
 
@@ -225,7 +241,7 @@ Book one of the numerous tour to get out of the city, especially one for Kolsai,
 
 > Two days is better than one, I did it in one, it wasn't great. Everything was rushed and my group was super slow.
 
-The first step is **Lake Kolsai**, abeautiful lake born from an earthquake, amidst a pine forest.
+The first step is **Lake Kolsai**, a beautiful lake born from an earthquake, amidst a pine forest.
 
 Next is **Lake Kaindy**, where a flooded forest presents a surreal scene. Dead tree trunks rise vertically from the water, preserved after a historical landslide. Walking along the shore allows full appreciation of its haunting beauty.  
 
@@ -258,7 +274,7 @@ Evening is reserved for rest and recovery.
 
 --- 
 
-# Kyrgyztan
+# Kyrgyzstan
 
 ## Day 13 Bishkek
 
@@ -284,18 +300,28 @@ It's easy to reach, there is a bus going straight to the trailhead, I found it o
 
 ---
 
-## Day 15-17 Song-Kul
+## Day 15 Kyzart to Song-Kul
 
 ![Trip](images/blog/songkul1.jpg)
 
 
-Three days spent at **Song-Kul**, combining horse trekking and yurt stays.  
-
 Departure early morning from Bishkek, traversing valleys and mountain passes to reach **Kyzart village**. After lunch, each traveler receives a horse, with bags attached. The horses are independent and guide the ride across valleys, rivers, and ridges, experiencing drastic temperature drops from 30°C to 10°C.  
 
-Nights are spent in shared yurts, cold but charming. Over the following days, the trek alternates between steep mountain climbs and open plains for galloping. Horses move with grace through herds of horses and cattle, fully immersing travelers in steppe life.  
+The first night is spent in a shared yurt after the climb towards the plateau. Temperatures fall quickly once the sun disappears, so the riding day and the overnight stop should be treated as one complete stage.
 
-On the final day, descend toward a lush village valley, Song-Kul fading behind. Afternoon transfer with six other travelers heads toward **Karakol**, saving time despite the long journey. Arrival is late evening.
+---
+
+## Day 16 Song-Kul
+
+The full day on the plateau alternates between open plains, lakeside sections and steeper ground around the surrounding ridges. Without the transfer from Bishkek or the onward journey to Karakol, there is time for a longer ride, stops near the lake and a second night in a yurt.
+
+Horses move through herds of horses and cattle across the open steppe. Weather can change quickly even in summer, with a large temperature difference between the afternoon and evening.
+
+---
+
+## Day 17 Song-Kul to Karakol
+
+On the final day, descend towards a lush village valley, with Song-Kul fading behind. An afternoon transfer with six other travellers headed towards **Karakol**, saving time despite the long journey. Arrival was late in the evening.
 
 It was my first multi days hike on a horse, it was truly something.
 I hate horses, but someone roped me into going, so I spent three days on a fart machine that did whatever he wanted.
@@ -314,7 +340,7 @@ Stroll the lively streets, cafés full of Russian and European visitors, and nea
 
 > I went there straight after Song-Kul, using a shared taxi from Kyzart, it took around 7 hours due to road constructions.
 
-it's the most beautiful city of Kyrgyztan, probably because it's a russian/dungan city. I really aprpeciated the abundance of Dungan food.
+it's the most beautiful city of Kyrgyzstan, probably because it's a russian/dungan city. I really appreciated the abundance of Dungan food.
 
 ---
 
@@ -325,7 +351,7 @@ Morning visit to the famous **Sunday animal market**, the largest in Central Asi
 
 Mid-morning minibus takes the group to **Jeti-Ögüz**, with a shared taxi for the final stretch (~1.50€). The hike features red rock cliffs and alpine valleys. The trail to the viewpoint is less exciting, but scenery remains beautiful. 
 
-> Ask for Jeti Oguz Kogort (Resort), only a handful of buses go there, and not year round, seemingly not everyday either. 
+> Ask for Jeti Oguz Kurort (Resort), only a handful of buses go there, and not year round, seemingly not everyday either.
 
 Return to Karakol involves hitchhiking due to missing minibus service. Arrival around 17:00.
 
@@ -339,8 +365,8 @@ Early departure via minibus from Karakol bazaar to trailhead. The first hour is 
 
 Begin an 8-hour alpine hike with a companion. Dense pine forests, gray river valleys, and horses grazing accompany the path. Russian jeeps ferry non-hikers (~20€ each). Arrival at the yurt camp occurs in rain, with the valley more touristy than online photos suggest. The return hike can be done by hitching after the last minibus. A long, wet, and tiring day.
 But so worth it!!
-When you look up pictures of Kyrgyztan online, you'll often see the Altyn Arashan valley.
-Now it's crowded with camps, yurts, tourists and booming infrasture, but you can still find nice spots, especially going further.
+When you look up pictures of Kyrgyzstan online, you'll often see the Altyn Arashan valley.
+Now it's crowded with camps, yurts, tourists and booming infrastructure, but you can still find nice spots, especially going further.
 
 > If you're lazy, you can use a car to go up or down. They ask for 40€ or something similar.
 
@@ -354,7 +380,7 @@ Transport day covers ~400 km to **Osh**, split into a 6-hour minibus and 12-hour
 
 > There is no real night bus to Osh. At least not in 2025. Go to the market and find a Cargo Bus
 
-It's at the "Kerben section" of the Dordoi market says people online. I haven't found ths Kerben thing, but I went where cargo bus were loaded
+It's at the "Kerben section" of the Dordoi market says people online. I haven't found this Kerben thing, but I went where cargo bus were loaded
 and found one leaving to Osh, I was allowed to seat behind the drivers.
 The whole night was seated with a family of four across a single row. Ouch.
 It was around 20€ for the privilege.
@@ -364,7 +390,7 @@ It was around 20€ for the privilege.
 ## Day 22 Osh & Pamir Highway Start
 
 **Osh**, the second city of Kyrgyzstan, is more Uzbek in character but surprisingly modern. Streets feature bubble tea, ice cream, pizza, and bars. Sacred mountain is unimpressive; the city is partially under reconstruction.  
-Dont waste time there it's essentially just a starting point to the Pamir Highway or to Peak Lenin.
+Don't waste time there it's essentially just a starting point to the Pamir Highway or to Peak Lenin.
 
 Prepare for the **Pamir Highway**, a 7-day jeep journey through Gorno-Badakhshan toward Dushanbe. Afternoon briefing, then departure through arid mountains separating Fergana Valley from Alay Valley.
 
@@ -372,20 +398,28 @@ Prepare for the **Pamir Highway**, a 7-day jeep journey through Gorno-Badakhshan
 
 ---
 
-## Day 23-24 Peak Lenin / Pamir Highlights
+## Day 23 Tulpar-Kul
 
 Journey climbs to 3,500 meters, passing villages and rivers with red mountains in view.  
 
-Stop at **Lake Tulpir Kul**, overnight in yurts. Peak Lenin viewpoints reveal snow-capped peaks (~7,000m) and glaciers.
+Stop at **Lake Tulpar-Kul**, overnight in yurts. Peak Lenin viewpoints reveal snow-capped peaks (~7,000m) and glaciers.
 
-With my group we spent one evening and a morning there, we did a small hike and enjoyed the red and green mountains as well
+After the drive from Osh, keep the first walk short. The altitude is a substantial jump from the Fergana Valley, and the yurt camp is the base for the following morning rather than a quick photo stop.
+
+---
+
+## Day 24 Peak Lenin
+
+With my group we spent the morning there, did a small hike and enjoyed the red and green mountains as well
 as the multi colored lakes.
-Honestly, one of Kyrgyztan's prettiest area.
+Honestly, one of Kyrgyzstan's prettiest area.
+
+After the hike, continue towards the Tajik border and the high Pamir route. Keeping this as its own day leaves time for the border formalities and avoids counting the evening arrival at Tulpar-Kul as a full visit.
 
 
 ---
 
-# Tadjikistan
+# Tajikistan
 
 ![Trip](images/blog/pamir2.jpg)
 
@@ -396,9 +430,9 @@ After a morning drive from Peak Lenin, we reached the border then went on to Kar
 The lake sits in a high-altitude desert, surrounded by jagged peaks and minimal vegetation. The water is clear blue and mirrors the mountains, creating a dramatic backdrop. Small local encampments are scattered along the shore. The wind can be strong, and temperatures drop rapidly in the late afternoon.
 
 Evening spent at the motel from THe Shining near the lake.
-It's cold and barebone.
+It's cold and bare-bones.
 Just like the landscape.
-Welcome to Tadjikistan.
+Welcome to Tajikistan.
 
 ---
 
@@ -433,7 +467,7 @@ Morning drive to Khorog, with a stop at Yamchun Fortress, XII-century ruins perc
 We visited Bibi Fatima hot springs, mingling with locals in the warm waters (naked lol).
 
 A light hike along the Panj River provided glimpses of both Afghan and Tajik villages. Arrival in Khorog, Gorno-Badakhshan’s capital (~38,000 inhabitants), was quiet and pleasant, though attractions are limited. The vibe there was bad.
-A member of anoither group got attacked by a guy with a rock, ended up going to the hospital.
+A member of another group got attacked by a guy with a rock, ended up going to the hospital.
 My group was followed by a weirdo named Hugo, trying his best to take the girls with him. He followed us everywhere and was always close by, preying.
 
 
@@ -458,22 +492,29 @@ The final leg of the Pamir Highway brought us to Dushanbe. The drivers pushed ha
 In the end, the best part of the trip was the people I have been with.
 Otherwise, the landscapes are a bit boring for the most part, the vibe is usually weird,  
 the company scammed me a few bucks and robbed me of two days, plus were unable to answer queries...
-Its not a must do, just like Vietnam's **Ha Giang loop**, it's overblown and overrated;
+It's not a must do, just like Vietnam's **Ha Giang loop**, it's overblown and overrated;
 
 Perhaps it's better on a motorbike, like many do. I guess it's part of the appeal.
 
 ---
 
-## Day 31 and 32 Panjakent Seven Lakes
+## Day 31 Panjakent
 
 ![Trip](images/blog/penjakent.jpg)
 
 
 Morning transfer to **Panjakent**, near Uzbek border.  
 
-- Explore local bazaar, taste regional cuisine.  
-- Do a short excursions to **Seven Lakes** area.  
-- See the sunset over archaeological ruins of old Panjakent.  
+- Explore the local bazaar and taste regional cuisine.
+- See the sunset over the archaeological ruins of old Panjakent.
+
+The transfer and the town fill the first day without adding a mountain excursion. Panjakent also works as a practical base because the Seven Lakes road branches south from this part of the country.
+
+---
+
+## Day 32 Seven Lakes
+
+Use a full day for the **Seven Lakes** area. The lakes sit along a mountain valley reached by a slow road, and the upper section takes time even with a driver. A day trip allows several stops and a short walk instead of turning the valley into a detour during the transfer to Khujand.
 
 It's great if you transfer to Uzbekistan from there.
 I mostly followed other people here before heading to Khujand.
@@ -482,86 +523,119 @@ I mostly followed other people here before heading to Khujand.
 
 ---
 
-## Day 33-34 Khujand – Historic City
+## Day 33 Road to Khujand
 
 ![Trip](images/blog/khujand.jpg)
 
 Shared taxi from Panjakent (~4 hours) to Khujand, the second-largest city in Tajikistan.
 
-Khujand is historic, with ancient ruins, a reconstructed fort, small museum, and mausoleum.
-City parks, the 24-meter Stalin statue, and modern interpretations of architecture provide points of interest.  
+After arriving, use the rest of the day for a first walk through the centre, the riverfront and the city parks. The four-hour estimate does not include waiting for a shared taxi to fill or breaks on the road.
+
+---
+
+## Day 34 Khujand
+
+Khujand is historic, with ancient ruins, a reconstructed fort, small museum, and mausoleum. City parks, the 24-meter Stalin statue, and modern interpretations of architecture provide points of interest.
 
 Khujand contrasts sharply with the remote Pamir villages and alpine landscapes, marking the end of the Tajikistan leg of the journey.
 
 The city is worth it for its big museum  
 (close to the boring Sugd historical museum, from the entrance, go left until you find the small gate heading inside)
 You'll find a fake village, a building similar to the one in Uzbekistan, with hilarious paintings of the great leader inside as well
-as a hill overlooking th ecity, (site of cities built by Alexander and Cyrus the greats)
+as a hill overlooking the city, (site of cities built by Alexander and Cyrus the greats)
 
 
 # Uzbekistan
 
-## Day 35 and 36 Tashkent
+## Day 35 Arrival in Tashkent
 
 ![Trip](images/blog/tashkent.jpg)
 
 
 Crossing from Khujand into Uzbekistan takes time beneath the blazing sun. The Tajik side involves long queues and a single building for passport control, while the Uzbek side proves faster but no less chaotic. The final leg to Tashkent feels like a scene from a road movie; crowded marshrutkas, animated drivers, and endless detours through suburban streets before the capital’s skyline finally appears.
 
-Tashkent greets travelers with wide boulevards, fountains, and the scent of freshly cut grass from its manicured parks. Despite its size, the city feels calm and deliberate. The Chorsu Bazaar bursts with color; pyramids of spices, towers of melons, and endless chatter beneath the domed roof. Nearby, Soviet‑era mosaics blend with Islamic architecture, a visual reminder of Uzbekistan’s layered past.
-
-A ride through the Tashkent Metro, built in the 1970s, reveals marble halls and chandeliers worthy of a museum. Above ground, monumental brutalist buildings line vast avenues leading to the Amir Timur Square and the reconstructed Khast‑Imam complex, where ancient Qurans and blue‑tiled domes contrast the modern skyline. By night, the parks glow with fountains and soft music; a gentle end to the capital’s urban rhythm.
+After the border crossing, keep the plan compact. Visit **Chorsu Bazaar** if there is enough daylight, then walk around the surrounding old-city streets or settle near a metro station for the next day.
 
 ---
 
-## Day 37 and 38 Samarkand
+## Day 36 Tashkent
+
+Tashkent has wide boulevards, fountains and manicured parks. Start with the reconstructed **Khast-Imam complex**, return to Chorsu if the market was closed after arrival, then use the metro to reach **Amir Timur Square** and the Soviet-era buildings and mosaics around the centre.
+
+The Tashkent Metro, built in the 1970s, has marble halls, chandeliers and individually designed stations. By night, the central parks glow with fountains and soft music.
+
+---
+
+## Day 37 Tashkent to Samarkand
 
 ![Trip](images/blog/samarkand.jpg)
 
 
 The morning bus from Tashkent reaches Samarkand by early afternoon. Heat shimmers over the city’s turquoise domes, and the Gur‑i Amir Mausoleum rises like a mirage; its golden interior reflecting the ambition of Timur’s empire. A short walk away lies the legendary Registan, three madrassas framing the square with perfect symmetry. At sunset, the tiles flare gold and cobalt, and the evening light‑and‑sound show fills the plaza with theatrical grandeur.
 
-Beyond the monuments, Bibi Khanym Mosque stands half‑restored yet magnificent, while nearby markets hum with daily life. The following morning is devoted to Ulug Beg Observatory, a tribute to the region’s scientific legacy. The Afrosiyob ruins whisper of ancient Maracanda, their surviving frescoes hinting at forgotten empires. Finally, the Shah‑i Zinda necropolis dazzles with a corridor of blue domes and ornate façades; one of Central Asia’s most striking sights.
+Keep the arrival day around **Gur-e Amir** and the **Registan**. They are close enough to visit without crossing the whole city after the bus journey, and the Registan is worth seeing again around sunset.
+
+---
+
+## Day 38 Samarkand
+
+Start with **Shah-i-Zinda**, then continue to **Bibi Khanym Mosque** and **Siab Bazaar**. Use the afternoon for **Ulug Beg Observatory** and the **Afrosiyob Museum**, which are farther from the central monument cluster.
 
 As daylight fades, travelers often continue toward Bukhara, a long road west through endless fields and distant mountains.
 
 ---
 
-## Day 39 and 40 Bukhara
+## Day 39 Bukhara old city
 
 ![Trip](images/blog/tashkent.jpg)
 
 
 Bukhara reveals itself as a labyrinth of sand‑colored walls, minarets, and quiet courtyards. The Po‑i Kalyan complex dominates the skyline, its great minaret once serving as both landmark and legend. Around it, mosques, madrassas, and caravanserais evoke centuries of Silk Road history. The air carries the scent of samsas baking in clay ovens, mingling with the sound of prayers and merchants calling from shaded stalls.
 
-Mornings are perfect for exploring the Ark Fortress or wandering through narrow lanes where artisans still craft ceramics and jewelry. In the afternoon, the Lyabi Hauz square becomes the city’s living room; locals gather beneath mulberry trees, sipping tea by the reflecting pool. At dusk, Bukhara glows softly, its monuments turning amber under the desert sun, the hum of voices fading into calm.
+Use the first day for the continuous walking route from **Lyabi-Hauz** through the trading domes to **Poi-Kalyan**. These sights are close together and remain easy to revisit after dark.
 
 ---
 
-## Day 41 and 42 Khiva
+## Day 40 Bukhara
+
+Spend the morning at the **Ark Fortress**, **Bolo Hauz** and the sights west of the main old-city route. The afternoon can be used for smaller madrassas, residential lanes and workshops before returning to Lyabi-Hauz in the evening.
+
+---
+
+## Day 41 Road to Khiva
 
 ![Trip](images/blog/khiva.jpg)
 
 The journey west continues by train through the steppe, leading to the walled oasis of Khiva. The Ichan Kala old town feels almost untouched, a compact maze of alleys, mud‑brick houses, and minarets glowing blue and sand‑gold under the heat. During the Melon Festival, the streets fill with music and parades, locals offering slices of sweet fruit to passing travelers.
 
+After the train and transfer, keep the first visit to an orientation walk inside **Ichan Kala**. The walls, main gates and Kalta Minor are enough for the arrival day, especially if the train reaches Khiva in the afternoon.
+
+---
+
+## Day 42 Khiva
+
 Within the walls, the Kalta Minor Minaret stands unfinished but striking, wrapped in turquoise tiles. The Kuhna Ark, Tosh Hovli Palace, and countless madrassas preserve the flavor of a desert kingdom. By sunset, Khiva’s rooftops turn copper and rose, and the call to prayer echoes through the silent streets, a moment suspended in time.
 
 ---
 
-## Day 43 & 44 Nukus & Karakalpakstan
+## Day 43 Nukus
 
 ![Trip](images/blog/karakalpakstan.jpg)
 
 
-A long drive north leads to Nukus, gateway to the Karakalpakstan region and the once‑mighty Aral Sea. The Savitsky Museum surprises with avant‑garde Soviet art rescued from censorship, while outside the city the Mizdakhan Necropolis and nearby fortresses rise from the dust like mirages of an ancient world.
+A long drive north leads to Nukus, gateway to the Karakalpakstan region and the once‑mighty Aral Sea. Give the **Savitsky Museum** several hours for its avant-garde Soviet art and Karakalpak collection. If the arrival time allows, add the city centre or arrange the next day's driver rather than starting the Aral Sea road immediately.
 
-Further west, the landscape turns lunar a vast plain where ships once floated. The Ship Cemetery near Moynaq tells the story of ecological disaster: rusted hulls stranded in the sand, silent witnesses to a vanished sea. Travelers stand at the cliff edge overlooking the dry seabed, where waves no longer reach. The silence of Karakalpakstan is haunting, a fitting close to the long road across Central Asia.
+---
+
+## Day 44 Muynak and the Aral Sea
+
+The drive to **Muynak** and the former Aral Sea shoreline is a separate excursion from Nukus. The Ship Cemetery tells the story of the ecological disaster through rusted hulls stranded in the sand, while the museum in town adds context before the return drive.
 
 
 # Turmenistan
 
 
-#### [Tips on how to travel Turkemnistan](/blog/howto-turkmenistan)
+#### [Tips on how to travel Turkmenistan](/blog/howto-turkmenistan)
 #### The Agency
 
 There are plenty of agencies out there, but I can personally recommend the one and only **Ruslan Hydyrov** from IndieGuide. He was reliable, quick to answer emails, and knows the system inside out.
@@ -576,7 +650,7 @@ If you get in touch, **tell him you come thanks to Timothé Paris** (that's me).
 ## Day 45 Konye
 
 First thing first, find your way in the country.
-I started from Uzbekitan. The logical road used to be UZ-TM-IR
+I started from Uzbekistan. The logical road used to be UZ-TM-IR
 nowadays, it's only possible to go from UZ to TM.
 So I went to the Shavat border in Uzbekistan, taking a shared taxi from Khiva
 One hour later I was at the border, filled with Turkmen coming home with their
@@ -618,7 +692,7 @@ Nice isn't it?
 The Darvaza crater during the day is quite a worrying sight, dying out and not much to boast.
 The gates to Hell are soon to be just a hole in the desert.
 
-Anyaway, we continued, seeing other craters on the way as well as the sand dunes, through the bumpy road.
+Anyway, we continued, seeing other craters on the way as well as the sand dunes, through the bumpy road.
 To where? Ashgabat of course.
 
 A city of white marble, of elegance, of rules (And of a ruler), dazzling in the desert.

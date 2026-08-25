@@ -261,7 +261,7 @@ Le vent est fort, les nuits sont froides et les hébergements simples. C'est une
 
 Longue journée de route vers **Murghab**, avec villages abandonnés, pistes abîmées, camions et paysages vides. Murghab est une ville de conteneurs, pauvre mais stratégique pour le commerce avec la Chine.
 
-Autour d'Alichur, les communautés kirghizes et pamiries se croisent. Yak, thé, lait fermenté et nuits très froides font partie du voyage.
+Autour d'Alichur, les communautés kirghizes et pamiriennes se croisent. Yak, thé, lait fermenté et nuits très froides font partie du voyage.
 
 ## Jour 27 Langar et vallée du Wakhan
 
