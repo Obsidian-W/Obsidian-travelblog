@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-## First, accept that the itinerary is not entirely yours
+## Permit and itinerary restrictions
 
 Foreign travellers need permits, an authorised agency, a guide and an approved route. Checkpoints enforce that route, so places not listed in the paperwork cannot be added as spontaneous detours.
 
@@ -31,11 +31,11 @@ Jokhang and Barkhor are active religious and commercial areas, with pilgrims pro
 
 Give it half a day. Go slowly; Lhasa is already high enough that rushing makes the visit worse. Photography rules can vary inside religious sites, so follow the guide and posted signs. The Barkhor is also the easiest place to add a tea-house stop rather than only moving between monuments.
 
-## 3. Choose Sera or Drepung Monastery properly
+## 3. Visit Sera or Drepung Monastery
 
 ![Sera Monastery](https://commons.wikimedia.org/wiki/Special:Redirect/file/IMG%201143%20Lhasa%20Sera.jpg)
 
-Sera's debates are loud, theatrical and far easier to remember than another silent temple room. Drepung is larger, climbs the hillside and gives the better sense of a monastic complex. Doing both while altitude-sick turns religious heritage into a bench-finding exercise.
+Sera is known for its public monastic debates. Drepung is larger, climbs the hillside and gives a broader sense of a monastic complex. Visiting both in one day can be tiring at Lhasa's altitude.
 
 Give it half a day for one monastery, or a full day if combining both at a calm pace. The real constraint is altitude and fatigue, not distance. Keep this day flexible if you arrive sick or sleep badly on the first night.
 
@@ -43,15 +43,15 @@ Give it half a day for one monastery, or a full day if combining both at a calm 
 
 ![Yamdrok Lake](https://commons.wikimedia.org/wiki/Special:Redirect/file/4%2C250m%20Yamdrok%20Tso%20Tibet%20China%20%E8%A5%BF%E8%97%8F%20%E7%BE%8A%E5%8D%93%E9%9B%8D%E6%B9%96%20-%20panoramio.jpg)
 
-The road to Gyantse matters as much as Gyantse: high passes, Yamdrok's impossible blue water and hours of empty plateau. Viewpoint animals and souvenir stalls try to turn every stop into a transaction. Look past them; the landscape does not need a decorated yak.
+The road to Gyantse passes high viewpoints, Yamdrok's blue water and long sections of open plateau. Some viewpoints also have souvenir stalls and animals posed for paid photographs.
 
-Give it a full day from Lhasa to Shigatse with stops. You are not doing this independently; it will be part of the arranged tour vehicle route. Bring layers, sunglasses and water. Do not underestimate how tiring sitting in a vehicle at altitude can be.
+The arranged drive from Lhasa to Shigatse takes a full day with stops. Bring layers, sunglasses and water, as a long road journey at altitude can be tiring.
 
 ## 5. Add Tibet-side Everest Base Camp only if conditions fit
 
 ![Rongbuk and Everest area](https://commons.wikimedia.org/wiki/Special:Redirect/file/Rongbuk%20Monastery%20Everest.jpg)
 
-Everest is a long checkpoint-filled drive, not a casual extra after Shigatse. Clouds may erase the mountain you crossed half of Tibet to see. The high passes and Rongbuk landscape need to be worthwhile on their own or the gamble makes no sense.
+Everest requires a long drive through several checkpoints after Shigatse, and cloud can completely obscure the mountain. The high passes and Rongbuk landscape are therefore a significant part of the visit.
 
 Give it at least two extra days beyond Lhasa-Gyantse-Shigatse, more if you are continuing to the Nepal border or Ngari. Conditions can change quickly, and border-region rules are stricter than Lhasa-only travel. If you are not handling altitude well, skip this rather than forcing it.
 

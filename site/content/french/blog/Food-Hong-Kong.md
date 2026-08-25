@@ -31,13 +31,13 @@ Va plutôt tôt pour le dim sum. En fin de déjeuner, il peut rester moins de ch
 
 Les **wonton noodles** sont un bon repas solo : rapide, clair et facile à trouver. Cherche des échoppes avec un menu court de nouilles plutôt que des restaurants qui font toute la cuisine cantonaise. Oie rôtie, canard rôti, char siu et porc croustillant sont aussi des commandes simples ; choisis les adresses fréquentées où la viande tourne vite.
 
-Yuen Long a des institutions de nouilles anciennes, mais inutile de traverser toute la ville pour un bol. De bonnes adresses existent à Kowloon et sur Hong Kong Island.
+Yuen Long a des institutions de nouilles anciennes. De bonnes adresses existent aussi à Kowloon et sur Hong Kong Island, ce qui évite un long trajet uniquement pour un bol.
 
 ## Cha chaan teng
 
 Les **cha chaan teng** sont les cafés hongkongais. Ils servent aux petits-déjeuners, repas tardifs et pauses bon marché : milk tea, pineapple bun, soupe de macaroni, oeufs, toast, riz au porc, nouilles instantanées et riz gratiné.
 
-Ce n'est pas une cuisine délicate. L'intérêt est la vitesse, le prix et le rythme local. Attends-toi à des tables partagées, un service rapide et des menus qui mélangent cuisine cantonaise et influences occidentales.
+La cuisine est simple, copieuse et abordable. Les tables partagées et le service rapide sont courants, avec des menus qui mélangent cuisine cantonaise et influences occidentales.
 
 ## Dai pai dong et cooked-food markets
 
@@ -45,7 +45,7 @@ Ce n'est pas une cuisine délicate. L'intérêt est la vitesse, le prix et le ry
 
 Pour les repas en plein air ou dans les cooked-food markets, vise les endroits qui tournent beaucoup. Le Hong Kong Tourism Board liste des dai pai dong et marchés cuisinés à Central, Tsim Sha Tsui, Jordan, Tai Hang et Sham Shui Po, avec tomato noodles, beef balls, salt-and-pepper squid, milk tea et pork chop noodles.
 
-Ces lieux peuvent être bondés et directs. Ne viens pas chercher un service calme. Commande quelques plats, partage, et garde tes affaires loin du bord de table.
+Ces lieux peuvent être bondés, avec un service rapide et direct. Les plats sont généralement commandés à plusieurs et partagés.
 
 ## Snacks et marchés
 
@@ -55,7 +55,7 @@ Les snacks sont meilleurs chauds et dans les stands fréquentés. Si un stand re
 
 ## Notes alimentaires
 
-Les végétariens peuvent manger à Hong Kong, mais les cuisines cantonaises utilisent souvent sauce d'huître, pâte de crevette, saindoux ou bouillon de viande. Les restaurants végétariens bouddhistes sont plus sûrs si tu veux éviter les surprises.
+Les végétariens peuvent manger à Hong Kong, mais les cuisines cantonaises utilisent souvent sauce d'huître, pâte de crevette, saindoux ou bouillon de viande. Les restaurants végétariens bouddhistes sont généralement plus fiables pour une restriction stricte.
 
 Sans gluten, c'est difficile : sauce soja, nouilles, pâtes de raviolis et boulangeries sont partout. Riz, plats vapeur simples et quelques restaurants spécialisés aident, mais demande précisément.
 

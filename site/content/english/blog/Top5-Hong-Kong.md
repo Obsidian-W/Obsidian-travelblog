@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Hong Kong does not need five observation decks. These choices force the trip to alternate between harbour, dense city, food, islands and actual mountains.
+These five experiences cover the harbour, the dense city centre, Cantonese food, Lantau and Hong Kong's hiking trails.
 
 ## 1. Ride the Star Ferry across Victoria Harbour
 
@@ -31,13 +31,13 @@ Walking up from the Mid-Levels avoids the Peak Tram queue and provides changing 
 
 Give it two to three hours including transport from Central. Go early, late afternoon or after dark depending on visibility. If the Peak Tram queue is long, use a bus or taxi instead; the view is not worth losing half a day in a queue.
 
-The circle walk is paved, but humidity turns an easy stroll into damp negotiations with your shirt. Check visibility before climbing; haze does not clear because you paid for the tram.
+The circle walk is paved, but the humidity can make it tiring. Check visibility before climbing, as haze can obscure the harbour view.
 
 ## 3. Plan a Cantonese food day
 
 ![Dim sum](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Breakfast.jpg)
 
-Do not waste a Hong Kong food day travelling between five famous pins. Share dim sum in the morning, eat a deliberately small bowl of wonton noodles, then try a cha chaan teng or cooked-food centre. The formats matter more than proving you crossed the city for somebody else's “best” dumpling.
+One practical food-day route is dim sum in the morning, wonton noodles later, then a cha chaan teng or cooked-food centre. Staying within one or two neighbouring districts leaves more time to eat and less time in transit.
 
 Give it the whole day and keep locations flexible. Central, Sheung Wan, Wan Chai, Jordan, Mong Kok and Sham Shui Po all work, but the point is the eating format, not collecting districts.
 
@@ -47,7 +47,7 @@ Go earlier for dim sum and expect shared tables in older places. Carry cash as a
 
 ![Tian Tan Buddha on Lantau](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tian%20Tan%20Buddha%20by%20Beria.jpg)
 
-Take the bus from Tung Chung if the cable-car price annoys you, see the Buddha and Po Lin, then walk past the Wisdom Path. Lantau Peak gave me the best island view of the trip and a rolled ankle that poisoned the next five days. This is mountain terrain, not a decorative attraction path.
+The bus from Tung Chung is a cheaper alternative to the cable car. Visit the Buddha and Po Lin, then continue to the Wisdom Path. Lantau Peak gave me the best island view of the trip and a rolled ankle that affected the next five days. Beyond the main attractions, this is mountain terrain.
 
 Give it most of a day. The cable car is useful but weather-dependent and can have queues. Tai O adds stilt-house scenery and seafood snacks, but it also adds transport time.
 
@@ -57,11 +57,11 @@ The cable car is optional. Check whether it is operating, then choose between it
 
 ![Dragon's Back trail](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragon%27s%20Back%2C%20Hong%20Kong%2002.jpg)
 
-**Dragon's Back** proves Hong Kong is not only towers and shopping centres. Bus 9 drops you near a ridge with sea views and an actual beach at the end. The route is about 8 km; humidity can make that feel like somebody secretly added five more.
+**Dragon's Back** is a ridge hike with sea views and a beach at the end. Bus 9 stops near the trailhead. The route is about 8 km, but humidity can make it considerably more tiring.
 
 Start from **MTR Shau Kei Wan**, take bus 9 to **To Tei Wan**, hike the ridge, then return from Big Wave Bay by bus 9. Go early in hot weather and avoid exposed sections during thunderstorms.
 
-Bring more water than the map seems to justify. Distance is honest; Hong Kong humidity is not.
+Carry plenty of water, especially in hot or humid weather.
 
 ## Source log
 

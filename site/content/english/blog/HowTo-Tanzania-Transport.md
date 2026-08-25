@@ -73,7 +73,7 @@ If your trip starts with safari, flying into **JRO** is usually cleaner than arr
 **Departure point:** Stone Town ferry terminal or ZNZ airport.  
 **Arrival point:** Beach hotel or village.  
 **Booking method:** Hotel, transfer desk, taxi or local transport.  
-**Important notes:** Do not assume Stone Town and the beaches are one transport zone. Staying at a beach means planning separate transfers for Stone Town meals or ferries.
+**Important notes:** Stone Town and the beach areas are separate transport zones. Staying at a beach requires additional transfers for Stone Town meals or ferries.
 
 **Route:** Dar es Salaam to Kilwa Masoko  
 **Best option:** Day bus or private vehicle.  

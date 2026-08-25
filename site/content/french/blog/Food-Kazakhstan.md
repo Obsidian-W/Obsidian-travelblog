@@ -43,7 +43,7 @@ Les prix varient beaucoup dans la capitale. N'utilise pas les restaurants centra
 
 A Aktau et dans le Mangystau, le plan alimentaire doit être pratique. Mange correctement avant de quitter Aktau. En tour désert, les repas dépendent de l'opérateur : pain, thé, soupe, viande, pâtes, riz, snacks et cuisine de camp. Apporte ton eau, fruits, noix et tout aliment précis dont tu as besoin.
 
-Le Mangystau isolé n'est pas l'endroit pour improviser des restrictions alimentaires. Préviens l'opérateur à l'avance et garde quand même de la nourriture de secours.
+Dans le Mangystau, les restrictions alimentaires doivent être organisées avec l'opérateur avant le départ. Garde également de la nourriture de secours.
 
 ## Nouilles, plov et cuisine centrasiatique
 

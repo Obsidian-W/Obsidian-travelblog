@@ -17,9 +17,9 @@ This list includes one medina alongside an earthen ksar, a mosque, Roman ruins a
 
 ![Jemaa el-Fnaa in Marrakesh](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jamaa%20El%20Fna%2C%20Marrakesh%2C%20Morocco%2C%2020250124%201804%207017.jpg)
 
-The central medina is still the best way to understand Marrakesh: **Jemaa el-Fnaa**, the **Koutoubia** area, the **Mellah**, the **Bahia Palace** and the surrounding market streets. Keep it tight. The point is to see the square, the main landmark area and one strong historic interior, not to collect every palace and museum in one day.
+The central medina is still the best way to understand Marrakesh: **Jemaa el-Fnaa**, the **Koutoubia** area, the **Mellah**, the **Bahia Palace** and the surrounding market streets. These places make a manageable one-day route without adding every palace and museum.
 
-Give it one full day. Walk inside the medina and use petit taxis for longer hops, especially if you add **Jardin Majorelle**. The official Jardin Majorelle site says tickets are sold online only, so book ahead if you care about going. Morning is better for the Bahia Palace and Jardin Majorelle. Jemaa el-Fnaa is most active in the evening.
+Give it one full day. Walk inside the medina and use petit taxis for longer hops, especially if you add **Jardin Majorelle**. The official Jardin Majorelle site says tickets are sold online only, so book ahead if you plan to visit. Morning is better for the Bahia Palace and Jardin Majorelle. Jemaa el-Fnaa is most active in the evening.
 
 Marrakesh is crowded and persistent. My overpriced riad-style hostel was poor, much of the obvious food was also expensive and poor, and many people offered services I had not requested. A shorter route through the medina leaves more time for the places you actually want to visit.
 
@@ -37,7 +37,7 @@ The road crosses the High Atlas. In winter or after bad weather, check road cond
 
 ![Hassan II Mosque in Casablanca](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hassan%20II%20Casablanca.jpg)
 
-Casablanca itself did little for me, but the **Hassan II Mosque** justifies the stop. It rises directly beside the Atlantic and is one of the rare major Moroccan mosques that non-Muslims can enter on an official visit. See it, then continue to Rabat unless traffic and concrete are your hobbies.
+Casablanca itself did little for me, but the **Hassan II Mosque** justified the stop. It rises directly beside the Atlantic and is one of the rare major Moroccan mosques that non-Muslims can enter on an official visit. Half a day is enough if the mosque is your main reason for stopping in the city.
 
 Give it half a day if you are passing through Casablanca. The mosque is easy to reach by taxi from **Casa Voyageurs**, **Casa Port** or central hotels. If you arrive by train and continue the same day, leave enough margin for traffic back to the station.
 
@@ -47,7 +47,7 @@ Check the official mosque schedule before going. Visit times can change on Frida
 
 ![Ruins of Volubilis](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruins%20of%20Volubilis%20Morocco.jpg)
 
-Volubilis is readable without archaeological homework: mosaics remain on the ground, arches frame the countryside and the old street plan is obvious. Pair it with Moulay Idriss so the day is not only dead Romans baking under a sun with no shade.
+At Volubilis, mosaics remain on the ground, arches frame the countryside and much of the old street plan is still visible. It pairs well with nearby Moulay Idriss as a one-day trip.
 
 Give it one day from **Meknes**, or a longer day from **Fes**. The simple version is train to Meknes, then grand taxi or arranged taxi to Moulay Idriss and Volubilis. Walking from Moulay Idriss to Volubilis is possible, about 4 km, but the heat and return transport matter. For most visitors, keeping a taxi for the loop is easier.
 
@@ -57,7 +57,7 @@ Go in the morning or late afternoon. The site has little shade, and summer heat 
 
 ![Akchour near Chefchaouen](https://commons.wikimedia.org/wiki/Special:Redirect/file/Akchour%2C%20Chefchaouen.jpg)
 
-Chefchaouen was far more enjoyable than Fes. It is compact, the bakeries are good and the Rif Mountains stop the trip becoming an endless sequence of aggressive medinas. Add Akchour; otherwise two days of blue doors starts to feel like paint inspection.
+Chefchaouen was far more enjoyable than Fes. It is compact, the bakeries are good and the Rif Mountains provide a change from the larger medinas. Akchour adds a full day of hiking to the visit.
 
 Give it two nights if you want the town and Akchour without rushing. Chefchaouen has no train station; use CTM or another coach from **Fes**, **Tangier** or **Tetouan**. Shared grand taxis run from Chefchaouen to Akchour and take about 45 minutes. Confirm the return taxi before starting the hike, especially outside the busiest periods.
 

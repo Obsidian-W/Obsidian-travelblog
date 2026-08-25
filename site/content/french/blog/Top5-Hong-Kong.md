@@ -31,7 +31,7 @@ Le ferry est un transport public, pas seulement un point de vue. Vérifie les in
 
 Prévois deux à trois heures avec le transport depuis Central. Monte tôt, en fin d'après-midi ou de nuit selon la visibilité. Si la file du Peak Tram est longue, prends bus ou taxi ; la vue ne justifie pas de perdre une demi-journée en attente.
 
-Le chemin est pavé et simple, mais la chaleur change l'effort. Prends de l'eau en été et ne compte pas sur une brume qui disparaît vite.
+Le chemin est pavé et simple, mais la chaleur augmente l'effort. Prends de l'eau en été et vérifie la visibilité, car la brume peut persister.
 
 ## 3. Faire une journée cuisine cantonaise
 

@@ -11,7 +11,7 @@ draft: false
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-L'Ouzbékistan est le pays d'Asie centrale le plus simple à organiser en train. Le meilleur premier voyage n'est pas une course dans toutes les villes, mais une ligne Tashkent, Samarkand, Bukhara et Khiva avec assez de temps pour marcher.
+L'Ouzbékistan est le pays d'Asie centrale le plus simple à organiser en train. Un premier itinéraire peut relier Tashkent, Samarkand, Bukhara et Khiva en conservant au moins deux nuits dans les principales étapes.
 
 ## 1. Voir le Registan et Samarkand timouride
 
@@ -31,7 +31,7 @@ Tashkent-Samarkand est le tronçon ferroviaire rapide le plus simple. Réserve t
 
 Prévois deux nuits. Une nuit fonctionne, mais laisse peu de place au matin et au soir, quand le centre se lit mieux sans la lumière dure et les groupes.
 
-La gare est à **Kagan**, hors de Bukhara. Intègre le trajet en taxi plutôt que d'imaginer une arrivée dans la vieille ville.
+La gare est à **Kagan**, hors de Bukhara. Il faut donc ajouter un trajet en taxi jusqu'à la vieille ville.
 
 ## 3. Dormir dans ou près d'Ichan-Kala à Khiva
 

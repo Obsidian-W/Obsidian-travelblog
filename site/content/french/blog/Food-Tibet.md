@@ -21,7 +21,7 @@ Lhassa offre le plus grand choix. Dès que tu pars vers Yamdrok, Gyantse, Shigat
 
 ## Maisons de thé à Lhassa
 
-Les maisons de thé sont le meilleur point d'entrée. Commande du **sweet tea**, du **thé au beurre**, des **momos**, du **thukpa** ou du **thenthuk** et utilise-les comme pause courte plutôt que de transformer chaque repas en restaurant formel.
+Les maisons de thé servent du **sweet tea**, du **thé au beurre**, des **momos**, du **thukpa** et du **thenthuk**. Elles conviennent aussi bien à une courte pause qu'à un repas simple.
 
 | Boisson ou plat | Ce que c'est | Note pratique |
 | --- | --- | --- |
@@ -31,13 +31,13 @@ Les maisons de thé sont le meilleur point d'entrée. Commande du **sweet tea**,
 | Thukpa | Soupe de nouilles | Utile quand l'altitude coupe l'appétit |
 | Thenthuk | Soupe de nouilles tirées à la main | Plus consistant qu'une soupe simple |
 
-Autour du **Barkhor**, les maisons de thé et petits restaurants sont pratiques entre Jokhang, rues commerçantes et visites de monastères. Ne suppose pas que les restaurants choisis par les guides sont toujours les plus locaux ; ils sont souvent utilisés parce qu'ils savent gérer les étrangers et les horaires de groupe.
+Autour du **Barkhor**, les maisons de thé et petits restaurants sont pratiques entre Jokhang, rues commerçantes et visites de monastères. Les guides choisissent souvent des restaurants capables d'accueillir des groupes et de respecter les horaires du circuit ; demande à l'avance si tu souhaites plutôt une maison de thé locale.
 
 ## Tsampa
 
 La **tsampa** est de la farine d'orge grillée. Elle se mélange souvent avec du thé au beurre ou de l'eau pour former une pâte, parfois avec du sucre ou du fromage sec. C'est nourrissant, facile à transporter et adapté à la vie sur le plateau.
 
-Essaie au moins une fois, mais ne t'attends pas à quelque chose entre pain et porridge. Si on t'en propose dans un contexte local, suis le guide ou l'hôte plutôt que d'essayer de maîtriser l'étiquette parfaitement.
+Une fois mélangée, la tsampa forme une pâte dense que l'on pétrit dans le bol avant de la manger. Un guide ou un hôte peut montrer comment la préparer.
 
 ## Nouilles, raviolis et repas simples
 
@@ -65,7 +65,7 @@ Le yak apparaît en hotpot, ragoût, dumplings et snacks séchés. Les produits 
 | Yak séché | Snack dense à base de viande | Boutiques et arrêts de route |
 | Yaourt | Produit laitier épais, parfois sucré | Lhassa et grandes villes |
 
-Les menus peuvent annoncer du yak alors que la viande est du boeuf local ou un approvisionnement mélangé. Prends le libellé comme une indication de restaurant, sauf si ton guide peut confirmer.
+Le yak est proposé sous plusieurs formes, mais l'origine précise de la viande n'est pas toujours indiquée sur les menus destinés aux visiteurs. Le guide ou le restaurant peut préciser l'approvisionnement si cela compte pour toi.
 
 ## Shigatse et villes de route
 
@@ -89,7 +89,7 @@ Sans gluten, le Tibet n'est pas simple : nouilles, dumplings, pain et orge sont 
 
 ## Commander utilement
 
-Utilise ton guide. Le Tibet n'est pas une destination alimentaire indépendante classique pour les étrangers, puisque les permis et le voyage organisé déterminent déjà les arrêts. Si tu veux manger plus local, demande-le avant le départ de la journée pour que le guide choisisse des maisons de thé ou restaurants adaptés plutôt que les salles à manger de groupe.
+Les permis et le voyage organisé déterminent une partie des arrêts. Les demandes de maisons de thé, de petits restaurants ou de plats particuliers doivent être communiquées au guide avant le départ de la journée.
 
 Garde du liquide pour les petits arrêts. Le paiement mobile peut fonctionner en ville, mais les haltes de route et guesthouses isolées ne sont pas le bon endroit pour tester ton moyen de paiement.
 

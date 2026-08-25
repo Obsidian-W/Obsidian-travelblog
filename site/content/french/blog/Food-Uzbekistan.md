@@ -15,7 +15,7 @@ draft: false
 
 ![Plov ouzbek](https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg)
 
-La cuisine ouzbèke repose sur le riz, le blé, la viande, les carottes, les oignons, les produits laitiers, le thé et la cuisson au tandoor. Elle est nourrissante, directe et souvent plus facile à comprendre qu'à commander léger.
+La cuisine ouzbèke repose sur le riz, le blé, la viande, les carottes, les oignons, les produits laitiers, le thé et la cuisson au tandoor. Les plats sont généralement copieux et riches en viande, pâte ou riz.
 
 | Plat | Ce que c'est | Où chercher |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Utilise **Siab Bazaar** pour le non, les fruits, noix et douceurs. Le pain est l
 
 Bukhara est bien pour des repas lents entre deux marches dans la vieille ville. Attends-toi à plov, shashlik, soupes, salades, pain et thé. Les restaurants autour de Lyabi-Hauz sont pratiques mais souvent plus orientés visiteurs ; éloigne-toi un peu de la place principale pour manger plus calmement.
 
-Le centre ancien est compact, donc inutile de sur-planifier les restaurants. Mange quand la chaleur et les visites le permettent.
+Le centre ancien est compact et les restaurants sont faciles à intégrer entre les visites, notamment aux heures les moins chaudes.
 
 ## Khiva et Karakalpakstan
 

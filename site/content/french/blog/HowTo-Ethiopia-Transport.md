@@ -95,7 +95,7 @@ Si tu enchaînes plusieurs vols domestiques, garde-les chez Ethiopian Airlines q
 **Départ :** Aéroport, gare ou hôtel de Dire Dawa.  
 **Arrivée :** Vieille ville / hôtel à Harar.  
 **Réservation :** Hôtel, opérateur ou chauffeur fiable.  
-**Notes importantes :** Confirme le corridor peu avant le départ. Ne considère pas les zones frontalières de l'est comme ouvertes simplement parce que Harar est possible.
+**Notes importantes :** Confirme le corridor peu avant le départ. L'accès à Harar ne garantit pas l'ouverture des zones frontalières de l'est.
 
 **Trajet :** Addis Ababa à Arba Minch et Omo Valley  
 **Meilleure option :** Vol vers Arba Minch, puis route en 4x4 avec opérateur local si la sécurité le permet.  
@@ -129,7 +129,7 @@ Si deux sources se contredisent, prends le plan le plus conservateur. En Éthiop
 
 Ethiopian Railways Corporation décrit le **train Addis Ababa-Djibouti** comme une ligne électrique à écartement standard de 656 km avec 19 gares, ouverte au service en 2018. Elle est pertinente si tu pars vers Djibouti, pas pour Lalibela, Gondar, Bahir Dar, Harar ou l'Omo Valley.
 
-La disponibilité voyageurs et les procédures doivent être vérifiées directement avant de construire un itinéraire autour du train. Ne suppose pas qu'une ligne sur une carte signifie une connexion touristique simple.
+La disponibilité pour les voyageurs et les procédures doivent être vérifiées directement avant de construire un itinéraire autour du train. Une ligne sur la carte ne garantit pas une liaison touristique régulière.
 
 ## A éviter
 

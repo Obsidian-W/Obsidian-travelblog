@@ -15,7 +15,7 @@ draft: false
 
 ![Cross-bridge rice noodles](https://commons.wikimedia.org/wiki/Special:Redirect/file/Crossing%20the%20Bridge%20Noodle%20at%20Qian%20Xiang%20Yuan.jpg)
 
-Kunming is the easiest place to sample food from across Yunnan without changing hotels every night. Look for noodle shops around markets and residential or university areas, Yunnan restaurants for steam-pot chicken and mushroom dishes, Dai restaurants for food from the south of the province, and tea shops specialising in Pu'er.
+Kunming has food from across Yunnan. Look for noodle shops around markets and residential or university areas, Yunnan restaurants for steam-pot chicken and mushroom dishes, Dai restaurants for food from the south of the province, and tea shops specialising in Pu'er.
 
 **Cross-bridge noodles** arrive as components rather than a finished soup: a bowl of very hot broth, rice noodles and small plates of raw meat, herbs and vegetables. Add the meat first so the heat cooks it, then everything else. A layer of chicken fat traps heat at the surface, so the broth remains hotter than it appears.
 
@@ -31,19 +31,19 @@ Wild-mushroom season produces annual poisonings. Some restaurants set timers at 
 
 ![Yunnan goat cheese](https://commons.wikimedia.org/wiki/Special:Redirect/file/Rubing%20Goats%20Cheese%20of%20Yunnan%20China.jpg)
 
-Yunnan is one of the rare parts of China where cheese becomes difficult to avoid. **Rubing** is a firm goat's-milk cheese, usually fried or grilled; its mildness makes it closer to paneer than blue cheese. **Rushan** is cow's-milk curd stretched into thin sheets, dried on bamboo frames and grilled until crisp or chewy.
+Cheese is common in parts of Yunnan. **Rubing** is a firm goat's-milk cheese, usually fried or grilled; its mildness makes it closer to paneer than blue cheese. **Rushan** is cow's-milk curd stretched into thin sheets, dried on bamboo frames and grilled until crisp or chewy.
 
-**Xizhou baba** is a thick griddled flatbread, layered and stuffed in sweet or savoury versions. Sweet fillings may include rose paste or brown sugar; savoury ones use pork, spring onion or pickled vegetables. It is substantial enough to replace lunch, despite vendors treating it like a snack.
+**Xizhou baba** is a thick griddled flatbread, layered and stuffed in sweet or savoury versions. Sweet fillings may include rose paste or brown sugar; savoury ones use pork, spring onion or pickled vegetables. One can be substantial enough for lunch.
 
 Restaurants around Dali and Erhai also serve Bai meals built around vegetables, pork, pickles and lake fish. **Sour-and-spicy fish**, often cooked with pickled vegetables or a local souring ingredient, is worth looking for in the simpler restaurants around the lake.
 
-Dali has many cafes, but do not let that become the whole food plan. Use cafes for breaks, then eat in local restaurants away from the most obvious old-town streets.
+Dali has many cafes as well as local restaurants beyond the busiest old-town streets.
 
 Xizhou is useful because snacks fit naturally into a lake day. Go in the morning or around lunch; late afternoon visits can mean less choice.
 
 ## Naxi food around Lijiang
 
-Lijiang's **chickpea jelly** is made from chickpea starch, not whole chickpeas. Cold versions are slippery and dressed with vinegar, chilli and garlic; fried versions develop a crust while staying wobbly inside. **Cured pork-rib hotpot** is smoky, salty and built for cold evenings. Taste the broth before adding more seasoning unless hypertension is part of the itinerary.
+Lijiang's **chickpea jelly** is made from chickpea starch. Cold versions are slippery and dressed with vinegar, chilli and garlic; fried versions develop a crust while staying wobbly inside. **Cured pork-rib hotpot** is smoky, salty and built for cold evenings. The broth can already be heavily seasoned.
 
 Other easy dishes to find include **Lijiang baba**, a local griddled flatbread, rice noodles for breakfast or lunch, Naxi-style grilled fish and shared mushroom or yak hotpots. Restaurants outside the busiest lanes of the old town are usually a better place to look for them.
 
@@ -55,7 +55,7 @@ If you are hiking Tiger Leaping Gorge from Lijiang, eat properly before leaving 
 
 In Shangri-La, barley, yak or beef, dairy, butter tea, momos and noodle soup replace much of the subtropical food found farther south. **Tsampa** is roasted barley flour, usually mixed with tea or butter tea; **momos** are filled dumplings; and **thukpa** is a simple noodle soup that works particularly well in cold weather. Barley also appears in bread, porridge and alcohol.
 
-Butter tea is salty and fatty; order a small serving before committing to a flask. Yak hotpot is a heavy shared meal, not an intelligent challenge for your first altitude-sick evening.
+Butter tea is salty and fatty and is available by the cup or flask. Yak hotpot is a heavy shared meal, which may be difficult to manage when altitude has affected your appetite.
 
 Altitude can affect appetite. Eat simple meals on the first evening and drink water rather than planning a heavy food tour immediately after arrival.
 

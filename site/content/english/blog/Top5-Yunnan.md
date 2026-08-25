@@ -21,7 +21,7 @@ Shilin is a large field of limestone pillars crossed by walking paths. The main 
 
 Give it one day for Shilin. The official Stone Forest site lists tourist buses from **Kunming East Bus Station** to the scenic area, plus buses from the airport and Shilin stations. The fast train to **Shilin West** can be quicker, but you still need the local connection to the scenic area.
 
-Do not combine Shilin with a same-day train to Dali unless you are comfortable with a long, rigid day. Kunming is big, transfers take time, and Chinese stations are not places to arrive at the last minute.
+Combining Shilin with a same-day train to Dali creates a long, rigid schedule. Kunming is large, transfers take time and railway stations require time for entry and security checks.
 
 ## 2. Use Dali for Lake Erhai and Bai villages
 
@@ -37,7 +37,7 @@ Kunming to Dali is now straightforward by train. Check 12306 for the live timeta
 
 ![Lijiang Old Town](https://commons.wikimedia.org/wiki/Special:Redirect/file/Lijiang%20Old%20Town.jpg)
 
-Lijiang is beautiful and aggressively commercial. Go early, then escape to Baisha or Shuhe before another shop sells you the same scarf. The smaller towns keep the canals and wooden houses without making every lane feel designed by a tourism committee.
+Lijiang is beautiful and heavily commercial. Visit early, then continue to Baisha or Shuhe for quieter canals, wooden houses and fewer tour groups.
 
 Give it two nights if you plan to add **Jade Dragon Snow Mountain** or **Tiger Leaping Gorge** from Lijiang. Stay where you can reach the old town on foot without dragging luggage deep through stone lanes.
 
@@ -47,7 +47,7 @@ The old town is better early in the morning or after the tour groups thin out. B
 
 ![Tiger Leaping Gorge](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tiger-leaping-gorge.jpg)
 
-Tiger Leaping Gorge cures old-town fatigue. The high trail replaces souvenir lanes with switchbacks, guesthouses and a river absurdly far below. A one-day viewpoint visit is not the same thing; sleep in the gorge and let your legs complain properly.
+The Tiger Leaping Gorge high trail runs through steep switchbacks and guesthouse stops above the river. A one-day viewpoint visit only covers a small part of the area, while the usual hike includes a night in the gorge.
 
 Give it two days if possible. A rushed one-day visit is mainly a viewpoint trip, not the classic hike. Most travellers start from the Lijiang side, use a bus or arranged transfer to the trail area, sleep in the gorge, then continue or return the next day.
 
@@ -57,7 +57,7 @@ Check local conditions before committing. Rain, landslides, road works and guest
 
 ![Songzanlin Monastery near Shangri-La](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gandan%20Sumtseling%20Monastery.jpg)
 
-Shangri-La is where Yunnan suddenly becomes cold, high and Tibetan. Dukezong was partly rebuilt after fire, while Songzanlin looks magnificent above the lake even when the altitude makes its stairs personally offensive. It is not “Tibet without paperwork”; it is its own borderland culture.
+Shangri-La is colder and higher than the other stops in this route and has a strong Tibetan cultural presence. Dukezong was partly rebuilt after a fire, while Songzanlin stands above the lake outside town. The altitude can make its stairs tiring.
 
 Give it two nights if you are sensitive to altitude. Shangri-La is much higher than Kunming, Dali or Lijiang, so do not arrive and immediately plan a hard hiking day. The Lijiang-Shangri-La railway opened in 2023, and state media reported the fastest Lijiang-Shangri-La time at about 1 hour 18 minutes when it opened.
 

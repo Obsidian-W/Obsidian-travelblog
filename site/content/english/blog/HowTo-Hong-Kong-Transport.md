@@ -118,7 +118,7 @@ Use an MTR border crossing for local access to the Shenzhen metro and rail netwo
 
 Use **HKeMobility** for multimodal route planning. The Hong Kong Tourism Board describes it as a Transport Department app covering MTR, buses, minibuses, trams, ferries, water taxis, fares, journey times and real-time conditions.
 
-MTR ticketing supports Octopus, single-journey tickets and selected QR/contactless options. Do not assume every small bus or minibus works exactly like the MTR; keep an Octopus topped up.
+MTR ticketing supports Octopus, single-journey tickets and selected QR/contactless options. Payment options on small buses and minibuses vary, so keep an Octopus topped up.
 
 Octopus can be topped up at MTR stations and many convenience stores. The Octopus tourist information says physical tourist cards may need value added before use, and that mobile Octopus top-up can work with some non-Hong Kong cards depending on phone platform and card type.
 

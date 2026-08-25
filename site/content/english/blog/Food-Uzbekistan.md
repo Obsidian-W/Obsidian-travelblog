@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-## Plov is lunch, not rice waiting around all day
+## Plov
 
 ![Uzbek plov](https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg)
 
@@ -19,21 +19,21 @@ Uzbek **plov** is rice cooked in a *kazan* with meat, onions, carrots and plenty
 
 Plov centres cook large batches for lunch. Arrive around midday while the kazan is active, as late-afternoon servings may have been sitting for several hours and can be drier and greasier.
 
-Tashkent versions are often mixed and generously loaded. Samarkand plov may arrive in visible layers, with the rice, carrots and meat kept more distinct, so notice how it has been served before mixing it together.
+Tashkent versions are often mixed and generously loaded. Samarkand plov may arrive in visible layers, with the rice, carrots and meat kept more distinct.
 
-## Samsa: stuck to the oven wall
+## Samsa and non
 
 **Samsa** are pastries slapped onto the inside wall of a hot clay tandir. The classic filling is chopped lamb and onion, including enough fat to keep it juicy. Let them cool briefly before biting, because the meat juices inside can be extremely hot.
 
 Pumpkin samsa are lighter and one of the few common orders that may be meat-free, although the cooking fat still needs checking. The base should be browned and crisp from the oven wall rather than pale and soft from reheating.
 
-**Non** is round tandir bread stamped in the centre with a patterned tool called a *chekich*. The decoration stops the middle from inflating while the rim rises. Samarkand bread is famously dense and durable; it travels well, but only if you resist crushing it beneath your luggage.
+**Non** is round tandir bread stamped in the centre with a patterned tool called a *chekich*. The decoration stops the middle from inflating while the rim rises. Samarkand bread is famously dense and durable, which makes it practical for train journeys.
 
 Other everyday orders include **lagman**, noodles with meat and vegetables; **manti**, large steamed dumplings; and **shashlik**, meat grilled on skewers. They are easier to find throughout the day than plov.
 
 ## Tashkent
 
-At **Chorsu Bazaar**, the bread patterns, stacked dried fruit, nuts and spices are more interesting than another generic restaurant list. Buy small amounts first: sellers are very good at turning “one taste” into enough dried apricots for a minor expedition.
+At **Chorsu Bazaar**, look for patterned bread, dried fruit, nuts and spices. Buy small amounts first, especially when sampling several products.
 
 Avoid taking luggage through Chorsu while trying to taste bread or shop for dried fruit. The aisles can be crowded, and the metro makes it easy to return without carrying a large bag.
 
@@ -55,7 +55,7 @@ Nukus and the road to Muynak thin the menu down to plov, soup, kebabs, bread and
 
 ## Dietary notes
 
-Vegetarian-looking plov may still have cooked beside meat, and soup frequently begins with meat broth. Pumpkin samsa, bread, tomato-cucumber salad, eggs and dairy prevent starvation but can become repetitive enough to make a carrot feel exciting.
+Plov without visible meat may still have been cooked with meat, and soup frequently begins with meat broth. Common options include pumpkin samsa, bread, tomato-cucumber salad, eggs and dairy, although the selection can become repetitive.
 
 Gluten-free travel is difficult because non, samsa, noodles and dumplings are common. Rice dishes help, but plov is not always suitable if cross-contamination matters.
 

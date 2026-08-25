@@ -15,13 +15,13 @@ draft: false
 
 ![Ugali](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%2020251129%20163844.jpg)
 
-**Ugali** is a stiff maize-flour porridge served with beans, greens or meat sauce. It tastes of almost nothing on its own; the sauce is the point. Tear off a piece with your hand, make a dent with your thumb and use it to scoop up the rest.
+**Ugali** is a stiff maize-flour porridge with a mild flavour, served with beans, greens or meat sauce. Tear off a piece with your hand, make a dent with your thumb and use it to scoop up the rest.
 
 Inland, around Arusha, Moshi, Dodoma and Mwanza, you will eat more maize, beans, plantains, meat and greens. On the coast and Zanzibar, expect more rice, coconut, spices and seafood.
 
 **Maharage** are beans in sauce, while **sukuma wiki** are cooked greens, usually collards or kale. The name means “push the week” because they are cheap enough to stretch the budget until payday. **Makande** is maize and beans cooked together: basic, heavy and filling.
 
-**Chipsi mayai** is exactly what it sounds like: chips cooked into an omelette. It is heavy, cheap and usually served with tomato or chilli sauce.
+**Chipsi mayai** is an omelette cooked with chips, usually served with tomato or chilli sauce. It is cheap and filling.
 
 Near Kilimanjaro, try **ndizi nyama**, a meat stew made with green cooking bananas. They are starchy, not sweet, and work more like potatoes.
 
@@ -41,7 +41,7 @@ In Dar, start with **mishkaki**: small skewers of marinated meat cooked over cha
 
 Fish is often priced by size or by piece. Point to the one you want and agree on the price before it reaches the grill. Have it with rice, beans or coconut sauce instead of paying hotel prices for imported seafood.
 
-**Kariakoo Market** is crowded, chaotic and full of produce and snacks. Go because you like markets, not because you expect a relaxed food court.
+**Kariakoo Market** is crowded and busy, with a large selection of produce and snacks. It is a working market rather than a relaxed food court.
 
 Dar is also a useful food stop between long buses, flights and the Zanzibar ferry, with more Indian, Swahili and international choice than smaller towns. Around markets, choose busy places where the food turns over quickly.
 
@@ -53,13 +53,13 @@ On Zanzibar, **pilau** and **biryani** are different dishes, not two names for s
 
 Also look for **octopus curry** and **wali wa nazi**, rice cooked with coconut milk. Darajani Market is useful during the day for produce, spices and snacks.
 
-**Urojo**, or Zanzibar mix, is a thick, tangy soup loaded with potato, fritters, chutney, chilli and whatever else the seller adds. It looks chaotic and tastes far better than it photographs.
+**Urojo**, or Zanzibar mix, is a thick, tangy soup loaded with potato, fritters, chutney, chilli and other toppings chosen by the seller.
 
 **Zanzibar pizza** has very little to do with pizza. It is thin dough folded around meat, egg, vegetables or a sweet filling, then fried on a hot plate.
 
-For breakfast, look for **vitumbua**, small coconut rice cakes cooked in round moulds. **Mandazi** are pieces of fried dough served with tea. Get them fresh; old mandazi are just dry disappointment.
+For breakfast, look for **vitumbua**, small coconut rice cakes cooked in round moulds. **Mandazi** are pieces of fried dough served with tea and are best when freshly cooked.
 
-**Forodhani Gardens** is worth seeing, but it is not automatically the best place to eat. Check the seafood before ordering, ask the price and avoid anything that looks as though it has spent the evening waiting for you.
+**Forodhani Gardens** has many evening food stalls. Check the seafood before ordering, confirm the price and choose food that is being cooked fresh.
 
 ## Kilwa and smaller coastal towns
 
@@ -69,9 +69,9 @@ Do not plan a tight food itinerary here. Eat when the road and boat schedule giv
 
 ## Coffee, juice and alcohol
 
-Tanzania grows coffee around Kilimanjaro and in other highland areas. This does not mean every hotel serves good coffee. A farm tour around Moshi will teach you more than the instant coffee at breakfast.
+Tanzania grows coffee around Kilimanjaro and in other highland areas. Around Moshi, farm tours offer a better introduction to local coffee than the instant coffee commonly served at hotels.
 
-Fresh passion fruit, mango and tamarind juice can be excellent. It can also be syrup diluted with water, so ask what you are getting if you care. Avocado juice is closer to a meal than a drink.
+Fresh passion fruit, mango and tamarind juices are widely available, alongside drinks made from diluted syrup. Avocado juice is particularly thick and filling.
 
 Bottled water remains the easiest option. On long travel days, favour hot food and busy places with rapid turnover.
 

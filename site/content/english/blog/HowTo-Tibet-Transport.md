@@ -21,7 +21,7 @@ Travel is much easier if you're a chinse national, you will have no restrictions
 
 Indian nationals have access to some places other don't, there is a holy mountain popular for pilgramage. For the rest, good luck. Indians always get the short end of the stick. Stay strong my brothers.
 
-## The rule that decides everything
+## Permits and organised travel
 
 Foreign travellers need organised travel and permits for the Tibet Autonomous Region. Independent travel is not the normal option. China Tibet Online states that foreign tourists must be organised by travel agencies with confirmed routes and need a Tibet Travel Permit. For border or non-open areas, additional permits may apply.
 
@@ -122,14 +122,14 @@ Carry passport, permit copy if provided, warm layers, water, snacks, sunglasses,
 
 The roads around Yamdrok, Gyantse, Everest and Gyirong include long winding sections, so carry any motion-sickness medication you normally use.
 
-## What not to assume
+## Restrictions to plan around
 
-- Do not assume you can rent a car and drive yourself.
-- Do not assume a hotel booking and train ticket are enough for entry.
-- Do not assume all Tibetan cultural regions have the same rules: Tibetan areas in Yunnan, Sichuan, Qinghai and Gansu are not the same as the Tibet Autonomous Region.
+- Foreign travellers cannot rent a car and drive themselves in the Tibet Autonomous Region.
+- A hotel booking and train ticket are not enough for entry; the required permits must also be arranged.
+- Tibetan areas in Yunnan, Sichuan, Qinghai and Gansu do not have the same travel rules as the Tibet Autonomous Region.
 - Do not plan tight onward flights after an Everest or border route.
-- Do not assume public buses can replace the agency vehicle for foreign travellers.
-- Do not assume road closures or permit changes will be solved on the day.
+- Public buses cannot replace the agency vehicle on permit-controlled routes for foreign travellers.
+- Road closures and permit changes may require changes to the itinerary.
 
 ## Source log
 

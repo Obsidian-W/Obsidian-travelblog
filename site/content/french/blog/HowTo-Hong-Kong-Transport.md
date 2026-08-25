@@ -144,7 +144,7 @@ Les ferries servent Central-Tsim Sha Tsui, les îles, Lamma, Cheung Chau et quel
 
 Utilise **HKeMobility** pour les trajets multimodaux. Le Hong Kong Tourism Board le décrit comme une application du Transport Department couvrant MTR, bus, minibus, trams, ferries, water taxis, tarifs, durées et conditions en temps réel.
 
-Le MTR accepte Octopus, billets simples et certains paiements QR/sans contact. Ne suppose pas que chaque bus ou minibus fonctionne exactement comme le MTR ; garde une Octopus chargée.
+Le MTR accepte Octopus, billets simples et certains paiements QR/sans contact. Les moyens de paiement peuvent varier dans les bus et minibus, donc garde une Octopus chargée.
 
 Octopus se recharge dans les stations MTR et beaucoup de supérettes. Les informations touristiques Octopus indiquent que certaines cartes physiques touristiques peuvent nécessiter une recharge avant usage, et que l'Octopus mobile peut se recharger avec certaines cartes non hongkongaises selon téléphone et type de carte.
 

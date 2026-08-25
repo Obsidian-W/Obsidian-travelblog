@@ -17,7 +17,7 @@ Cette sélection reste volontairement prudente. L'Éthiopie a des sites historiq
 
 ![National Museum of Ethiopia à Addis Ababa](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ethiopian%20National%20Museum%20in%20Addis%20Ababa.jpg)
 
-Addis Ababa mérite mieux qu'une simple correspondance. La liste courte utile comprend le **National Museum**, **Holy Trinity Cathedral**, **Meskel Square**, **Entoto** si le temps est clair, et un vrai repas éthiopien ou une cérémonie du café. C'est aussi le meilleur endroit pour réévaluer la suite avant de partir en région.
+Addis Ababa peut occuper une ou deux journées avec le **National Museum**, **Holy Trinity Cathedral**, **Meskel Square**, **Entoto** par temps clair, un repas éthiopien et une cérémonie du café. C'est aussi le principal point de départ pour réévaluer la sécurité et les transports avant de partir en région.
 
 Prévois un ou deux jours. Ne cale pas une correspondance serrée vers une région éloignée le jour même, sauf si le vol est protégé et si ton opérateur confirme la situation. Les avis gouvernementaux de 2026 signalent encore des risques importants hors d'Addis, donc les plans doivent être vérifiés peu avant le départ.
 
@@ -39,7 +39,7 @@ Les Simien Mountains sont la principale zone de trek d'Éthiopie : escarpements,
 
 L'accès passe généralement par **Gondar** et **Debark**. Utilise un guide agréé et respecte les exigences du parc pour les scouts ou rangers. Les conditions peuvent changer vite : météo, sécurité routière et instabilité régionale peuvent toutes modifier l'intérêt du trajet.
 
-Ce n'est pas un endroit à improviser seul. Confirme le statut du parc, la route et la sécurité avec des contacts locaux récents avant d'y aller.
+Les randonnées indépendantes ne sont pas adaptées aux contraintes actuelles du parc. Confirme son statut, la route et la sécurité avec des contacts locaux récents avant d'y aller.
 
 ## 4. Associer les châteaux de Gondar aux monastères de Lake Tana
 
@@ -57,7 +57,7 @@ Comme Lalibela, cette route se trouve dans la région Amhara. En 2026, les princ
 
 Harar donne une autre lecture de l'Éthiopie que les hauts plateaux du nord : vieille ville fortifiée, héritage islamique, marchés, ruelles étroites et tradition de nourrissage des hyènes autour de la ville. C'est l'une des étapes culturelles les plus distinctives du pays quand l'accès est réaliste.
 
-L'approche habituelle consiste à voler ou voyager jusqu'à **Dire Dawa**, puis continuer par la route vers Harar. Vérifie la sécurité routière récente avant d'utiliser ce corridor. Ne considère pas l'est du pays ou les zones proches de la frontière somalienne comme ouverts simplement parce que Harar figure sur un itinéraire.
+L'approche habituelle consiste à voler ou voyager jusqu'à **Dire Dawa**, puis continuer par la route vers Harar. Vérifie la sécurité routière récente avant d'utiliser ce corridor. L'accès à Harar ne signifie pas que le reste de l'est du pays ou les zones proches de la frontière somalienne sont ouverts.
 
 Prévois deux nuits si possible. Une seule nuit est faisable, mais laisse peu de marge si le transport prend du retard.
 

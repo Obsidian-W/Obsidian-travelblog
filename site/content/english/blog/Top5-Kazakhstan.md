@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Kazakhstan is absurdly large. Aktau and Almaty are separated by the sort of distance Europeans use to cross several countries and start an argument about languages. These five only belong in one trip if flights or very long trains are part of it.
+Kazakhstan is extremely large, and Aktau and Almaty sit on opposite sides of the country. Combining all five places in one trip requires domestic flights or very long train journeys.
 
 ## 1. Plan a 4WD trip through Mangystau
 
@@ -37,7 +37,7 @@ Astana also works as a flight hub between Aktau, Almaty and other regions. If yo
 
 ![Almaty and mountains](https://commons.wikimedia.org/wiki/Special:Redirect/file/Almaty%20mountains.jpg)
 
-Almaty is Kazakhstan's most comfortable base: leafy streets, a small metro, the Green Bazaar and mountains looming behind ordinary city blocks. It reminded me of Grenoble without the delinquency, which is either praise for Almaty or an attack on Grenoble.
+Almaty is Kazakhstan's most comfortable base: leafy streets, a small metro, the Green Bazaar and mountains visible behind ordinary city blocks. It reminded me of Grenoble, although the city has its own Central Asian character.
 
 Give it two nights before adding mountain day trips. Spend one day in the city, then choose Kok-Tobe, Medeu, Shymbulak or a longer hike depending on weather and fitness. The mountain backdrop is part of the city, but it is still mountain terrain: weather changes quickly and altitude can make climbs slower.
 
@@ -47,7 +47,7 @@ Almaty is also the most practical base before continuing to Kyrgyzstan by road.
 
 ![Charyn Canyon](https://commons.wikimedia.org/wiki/Special:Redirect/file/Charyn%20Canyon%2C%20Balkhash%20District%2C%20Kazakhstan.jpg)
 
-Do not repeat my mistake and cram Charyn, Kolsai and Kaindy into one day. The group moved slowly, the road ate the schedule and every stop became rushed. Give them two days or accept that most of the tour will happen through a vehicle window.
+I visited Charyn, Kolsai and Kaindy in one day, and every stop felt rushed once group delays and driving time were included. Two days gives the three places enough time.
 
 Give it one long day for Charyn only, or two days for Charyn plus Kolsai and Kaindy. Group tours from Almaty are common and reduce the transport problem. Independent public transport is awkward because the last sections are the issue, not just the intercity road.
 
@@ -57,7 +57,7 @@ Spring to autumn is the easier season. In winter, check access and road conditio
 
 ![Medeu near Almaty](https://commons.wikimedia.org/wiki/Special:Redirect/file/Medeo%20in%20Almaty.jpg)
 
-Medeu and Shymbulak make the mountains look suspiciously easy: city bus, cable car, alpine scenery. Above the resort I climbed roughly 1,000 metres toward snow and glaciers. The ascent was rocky; the descent was worse. Pay for the cable car down if your knees have begun writing a resignation letter.
+Medeu and Shymbulak are easy to reach by city bus and cable car. Above the resort I climbed roughly 1,000 metres towards snow and glaciers. The ascent was rocky and the descent was harder, so the cable car is useful for the return.
 
 Give it half a day for Medeu and Shymbulak by cable car, or a full day for a hike. Start early in good weather. Trails above Almaty can be steep, exposed and snow-affected outside summer.
 

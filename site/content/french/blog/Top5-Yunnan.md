@@ -21,7 +21,7 @@ La **Forêt de Pierre** à Shilin est le paysage karstique le plus lisible près
 
 Prévois une journée pour Shilin. Le site officiel de la Forêt de Pierre liste des bus touristiques depuis **Kunming East Bus Station** vers le site, ainsi que des liaisons depuis l'aéroport et les gares de Shilin. Le train rapide vers **Shilin West** peut être plus rapide, mais il faut encore finir le trajet localement.
 
-Ne combine pas Shilin avec un train pour Dali le même jour sauf si tu acceptes une journée longue et rigide. Kunming est grande, les transferts prennent du temps, et on n'arrive pas à la dernière minute dans une gare chinoise.
+Combiner Shilin avec un train pour Dali le même jour impose une journée longue et rigide. Kunming est grande, les transferts prennent du temps et l'accès aux gares comprend des contrôles de sécurité.
 
 ## 2. Utiliser Dali pour le lac Erhai et les villages bai
 
@@ -57,7 +57,7 @@ Vérifie les conditions locales avant de partir. Pluie, glissements de terrain, 
 
 ![Monastère Songzanlin près de Shangri-La](https://commons.wikimedia.org/wiki/Special:Redirect/file/Gandan%20Sumtseling%20Monastery.jpg)
 
-**Shangri-La** est l'extrémité tibétaine du nord-ouest du Yunnan. Les arrêts utiles sont **Dukezong Old Town**, le **monastère Songzanlin** et les paysages de plateau autour. Ce n'est pas un substitut au Tibet, mais c'est un premier contact avec la culture tibétaine sans le système de permis de la Région autonome du Tibet.
+**Shangri-La** est l'extrémité tibétaine du nord-ouest du Yunnan. Les principaux arrêts sont **Dukezong Old Town**, le **monastère Songzanlin** et les paysages de plateau autour. La région a sa propre culture frontalière tibétaine et ne relève pas du système de permis de la Région autonome du Tibet.
 
 Prévois deux nuits si tu réagis à l'altitude. Shangri-La est bien plus haute que Kunming, Dali ou Lijiang, donc évite d'arriver et d'enchaîner directement avec une grosse randonnée. La ligne Lijiang-Shangri-La a ouvert en 2023, et les médias d'Etat annonçaient alors un meilleur temps d'environ 1 h 18 entre les deux villes.
 

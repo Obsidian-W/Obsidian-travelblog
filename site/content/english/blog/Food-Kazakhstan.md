@@ -22,9 +22,9 @@ Modern Kazakh food is better, tho.
 **Beshbarmak** is the dish everyone mentions: horse meat, lamb or beef served over wide sheets of dough with broth and onions. It is a substantial communal dish, and restaurant portions may be intended for several people. Ask how many the serving feeds before ordering; solo travellers will usually find lagman, manty or soup easier to order.
 It's eaten by hands, like god intended.
 
-**Kazy** is horse-rib sausage with a generous strip of fat. It is dense, salty and often sliced over beshbarmak. Try it if you are curious about horse meat; avoid it if visible animal fat disgusts you.
+**Kazy** is horse-rib sausage with a generous strip of fat. It is dense, salty and often sliced over beshbarmak.
 
-**Kuyrdak** is fried meat or offal with onions and potatoes. Unlike beshbarmak, it actually gets browned in the pan, so it is the better order if boiled meat does nothing for you.
+**Kuyrdak** is meat or offal fried with onions and potatoes. Browning it in the pan gives it a different flavour and texture from boiled dishes such as beshbarmak.
 
 ## Cheese
 
@@ -39,7 +39,7 @@ Fresh baursak are soft and slightly oily; small dry ones are better for a bus or
 
 ## Almaty
 
-Almaty is where the choice stops being limited to traditional Kazakh food. Uyghur **lagman**, Uzbek-style plov, Russian food, Korean food and Georgian food are all part of what people actually eat in the city.
+Almaty has a broad mix of traditional Kazakh food, Uyghur **lagman**, Uzbek-style plov, Russian food, Korean food and Georgian food.
 It's a strong USSR culture (+ Korean, who have been displaced here for a long time)
 
 At the **Green Bazaar**, concentrate on things you can compare or carry: dried fruit, nuts, bread, kurt and prepared salads. Sample unfamiliar products before buying a large quantity, particularly strongly flavoured kurt.

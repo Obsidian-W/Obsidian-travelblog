@@ -20,7 +20,7 @@ Price examples were checked online in August 2026, but msay not totally reflect 
 Most Ethiopian meals are built around **injera**, the sour flatbread that works as plate, starch and utensil. Stews, vegetables and meat are served on top or beside it. Tear off a piece of injera with your main hand and use it to pick up food.
 
 Injera is traditionally made with teff (an uncommon cereal) but restaurants may mix teff with wheat, barley or other grains, apparently (Found that info online).
-Thus, gluten-free travellers should ask before assuming it is pure teff. The flavour is sour.
+Gluten-free travellers should confirm that the injera is made from pure teff, as mixed-flour versions contain gluten. The flavour is sour.
 Honestly, I found Injera pretty disgusting, I can't stand sour tastes. So I suffered for my three weeks and a half I had in Ethiopia.
 
 > Fun note: If a girl likes you, she'll handfeed yous Injera. Pretend you like it. It's important. I don't know if the reverse is true.
@@ -78,7 +78,7 @@ Addis is the easiest place to eat broadly: local restaurants, fasting plates, me
 For a first meal, order Injera. It's important to know right away if you can make it.
 Because Injera twice a day is boring.
 
-For coffee, Addis has both traditional coffee ceremonies and normal cafes, so you do not need to force a formal ceremony on a travel day.
+For coffee, Addis has both traditional coffee ceremonies and normal cafes. The latter are more practical on a travel day.
 
 For breakfasts, they are often served in coffee places.
 

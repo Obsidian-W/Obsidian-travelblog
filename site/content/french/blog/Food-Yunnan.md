@@ -30,9 +30,9 @@ Kunming permet aussi de manger dans plusieurs registres de la province sans chan
 | Poulet en marmite vapeur | Soupe de poulet cuite dans une marmite en céramique | Restaurants du Yunnan, surtout à Kunming |
 | Champignons sauvages | Champignons de saison, sautés ou en hotpot | Restaurants sérieux pendant la saison |
 
-Kunming est aussi pratique pour goûter les champignons du Yunnan, mais fais attention aux champignons sauvages. Mange-les dans de vrais restaurants en saison, pas chez un vendeur au hasard.
+Kunming est aussi pratique pour goûter les champignons du Yunnan. Les champignons sauvages doivent être consommés dans des restaurants spécialisés qui respectent les temps de cuisson.
 
-Ne prends pas la saison des champignons à la légère. Le Yunnan connaît chaque année de vrais cas d'intoxication. Commande dans des restaurants qui connaissent le produit et le cuisent correctement.
+Le Yunnan connaît chaque année des cas d'intoxication pendant la saison des champignons. Il faut donc respecter les consignes et les minuteurs éventuels du restaurant avant de commencer à manger.
 
 ## Cuisine bai autour de Dali et Xizhou
 
@@ -49,13 +49,13 @@ Dali est bien pour la cuisine bai, les grillades simples, le poisson du lac et l
 | Rushan | Fines feuilles de fromage de lait, souvent grillées | Stands et restaurants bai |
 | Poisson aigre-épicé | Poisson avec pickles ou assaisonnement local | Restaurants autour du lac |
 
-Dali a beaucoup de cafés, mais ne fais pas tout le programme autour d'eux. Utilise-les pour les pauses, puis mange dans des restaurants locaux hors des rues les plus évidentes.
+Dali compte de nombreux cafés ainsi que des restaurants locaux hors des rues les plus fréquentées de la vieille ville.
 
 Xizhou est utile parce que les snacks s'intègrent naturellement à une journée autour du lac. Passe le matin ou au déjeuner ; en fin d'après-midi, le choix peut être plus réduit.
 
 ## Cuisine naxi autour de Lijiang
 
-La vieille ville de Lijiang est très touristique, donc la qualité varie beaucoup. La bonne approche : rester simple avec nouilles, snacks grillés, plats naxi et repas type hotpot. Si un restaurant vend toutes les cuisines régionales chinoises à la fois, passe ton chemin.
+La vieille ville de Lijiang est très touristique, donc la qualité varie beaucoup. Les restaurants spécialisés proposent notamment nouilles, snacks grillés, plats naxi et hotpots.
 
 | Plat | Ce que c'est | Où |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ L'altitude peut couper l'appétit. Le premier soir, mange simple et bois de l'ea
 
 La cuisine du Yunnan peut être épicée, acide et très herbacée, mais elle change selon les régions. Les végétariens s'en sortent assez bien à Kunming et Dali, mais il faut demander pour le bouillon et l'huile de cuisson. Dans les zones tibétaines, les options existent mais les menus sont plus orientés viande et produits laitiers.
 
-Si tu ne lis pas le chinois, utilise une application de traduction pour les menus. Les menus avec photos aident, mais ils vont souvent avec les restaurants touristiques : pratique, mais pas toujours le meilleur choix.
+Si tu ne lis pas le chinois, une application de traduction aide à lire les menus. Les menus avec photos sont plus fréquents dans les restaurants destinés aux visiteurs.
 
 Pour les prix, évite les vieux chiffres de blogs. Les menus changent selon les villes et les plateformes. D'après des sources voyageurs vérifiées en 2026, les bols de nouilles et snacks restent l'option économique, les hotpots de champignons ou de yak montent dans une gamme moyenne ou haute, et les cafés de vieille ville à Dali ou Lijiang peuvent coûter plus cher que des restaurants locaux servant une meilleure cuisine du Yunnan.
 

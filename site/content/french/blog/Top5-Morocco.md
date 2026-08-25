@@ -19,9 +19,9 @@ Cette courte sélection garde les expériences marocaines qui méritent vraiment
 
 La médina centrale reste la manière la plus utile de comprendre Marrakech : **Jemaa el-Fnaa**, le secteur de la **Koutoubia**, le **Mellah**, le **palais de la Bahia** et les rues de marché autour. Garde le programme serré. L'intérêt est de voir la place, le grand repère de la ville et un bon intérieur historique, pas d'empiler tous les palais et musées.
 
-Prévois une journée complète. Marche dans la médina et prends des petits taxis pour les trajets plus longs, surtout si tu ajoutes le **Jardin Majorelle**. Le site officiel du Jardin Majorelle indique que les billets sont vendus uniquement en ligne, donc réserve à l'avance si tu veux vraiment y aller. Le matin est mieux pour le palais de la Bahia et le Jardin Majorelle. Jemaa el-Fnaa est plus active le soir.
+Prévois une journée complète. Marche dans la médina et prends des petits taxis pour les trajets plus longs, surtout si tu ajoutes le **Jardin Majorelle**. Le site officiel du Jardin Majorelle indique que les billets sont vendus uniquement en ligne, donc réserve à l'avance si tu prévois cette visite. Le matin est mieux pour le palais de la Bahia et le Jardin Majorelle. Jemaa el-Fnaa est plus active le soir.
 
-Ne prévois pas Marrakech comme une première journée calme. La ville est dense, insistante et fatigante. Elle fonctionne mieux avec un programme court, des pauses et sans ajouter tous les musées dans la même journée.
+Marrakech est dense, insistante et fatigante, ce qui en fait une première journée peu reposante. Un programme court avec des pauses est plus facile à gérer.
 
 ## 2. Visiter Ait Benhaddou et les ksour du sud
 
@@ -37,7 +37,7 @@ La route traverse le Haut Atlas. En hiver ou après une mauvaise météo, vérif
 
 ![Mosquée Hassan-II à Casablanca](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hassan%20II%20Casablanca.jpg)
 
-Casablanca ne demande pas beaucoup de temps lors d'un premier voyage au Maroc, mais la **mosquée Hassan-II** fait exception. C'est l'une des rares grandes mosquées marocaines accessibles aux non-musulmans avec une visite guidée officielle, et son emplacement au bord de la mer rend l'arrêt facile à justifier même si tu ignores le reste de la ville.
+Casablanca ne demande pas beaucoup de temps lors d'un premier voyage au Maroc, mais la **mosquée Hassan-II** fait exception. C'est l'une des rares grandes mosquées marocaines accessibles aux non-musulmans avec une visite guidée officielle, et son emplacement au bord de la mer en fait la principale raison d'un court arrêt dans la ville.
 
 Prévois une demi-journée si tu passes par Casablanca. La mosquée se rejoint facilement en taxi depuis **Casa Voyageurs**, **Casa Port** ou les hôtels du centre. Si tu arrives en train et repars le même jour, garde une marge pour le trajet retour vers la gare.
 
@@ -47,7 +47,7 @@ Vérifie les horaires officiels avant d'y aller. Les visites peuvent changer le 
 
 ![Ruines de Volubilis](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ruins%20of%20Volubilis%20Morocco.jpg)
 
-**Volubilis** est le site romain le plus lisible du Maroc : ruines ouvertes, mosaïques, arcs et vues sur les collines. Le plan se comprend bien sur place, même sans visite de musée interminable. **Moulay Idriss Zerhoun** ajoute le contexte de ville de pèlerinage voisine et rend la sortie moins sèche qu'un seul site archéologique.
+**Volubilis** est le site romain le plus lisible du Maroc : ruines ouvertes, mosaïques, arcs et vues sur les collines. Une grande partie du plan de la ville reste visible sur place. **Moulay Idriss Zerhoun** ajoute le contexte d'une ville de pèlerinage voisine à cette journée archéologique.
 
 Prévois une journée depuis **Meknès**, ou une grosse journée depuis **Fès**. La version simple : train jusqu'à Meknès, puis grand taxi ou taxi arrangé vers Moulay Idriss et Volubilis. Marcher de Moulay Idriss à Volubilis est possible, environ 4 km, mais la chaleur et le retour comptent. Pour la plupart des visiteurs, garder un taxi pour la boucle est plus simple.
 
@@ -57,7 +57,7 @@ Vas-y plutôt le matin ou en fin d'après-midi. Le site a peu d'ombre, et la cha
 
 ![Akchour près de Chefchaouen](https://commons.wikimedia.org/wiki/Special:Redirect/file/Akchour%2C%20Chefchaouen.jpg)
 
-Chefchaouen fonctionne mieux comme étape de montagne du nord que comme simple décor bleu. La ville est compacte, plus lente que Fès ou Marrakech, et facile à parcourir à pied. **Akchour** est la vraie raison de rester plus longtemps : cela ajoute une sortie en montagne au lieu d'une journée de médina de plus.
+Chefchaouen combine une ville compacte, plus calme que Fès ou Marrakech, avec les montagnes du Rif. **Akchour** ajoute une journée de randonnée et justifie un séjour plus long.
 
 Prévois deux nuits si tu veux voir la ville et Akchour sans courir. Chefchaouen n'a pas de gare ; prends CTM ou un autre autocar depuis **Fès**, **Tanger** ou **Tétouan**. Les grands taxis partagés vont de Chefchaouen à Akchour en environ 45 minutes. Confirme le retour en taxi avant de commencer la randonnée, surtout hors période très fréquentée.
 

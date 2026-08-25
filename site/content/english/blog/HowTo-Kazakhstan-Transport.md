@@ -50,7 +50,7 @@ Common train uses:
 | Aktau - Beyneu | Overland continuation toward western routes |
 | Tashkent - Almaty | Cross-border rail option when time allows |
 
-Do not assume a train route is daily, fast or convenient just because it exists. Check the current schedule and station before building the day around it.
+Train routes may be infrequent or slow. Check the current schedule and station before building the day around one.
 
 ## Core routes
 

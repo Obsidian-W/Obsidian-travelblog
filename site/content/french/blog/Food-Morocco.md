@@ -42,7 +42,7 @@ Fès est l'étape la plus intéressante pour les pâtisseries, les produits cons
 | Ghriba | Biscuit moelleux aux amandes ou à la semoule | Pâtisseries et boutiques de la médina |
 | Sellou | Mélange de farine grillée, sésame et fruits secs | Boutiques de douceurs |
 
-La pastilla est plutôt un plat de restaurant. La rfissa est un vrai repas ; le pain absorbe le bouillon et c'est plus lourd qu'il n'y paraît. Le khlii se prend dans une épicerie qui tourne bien, pas sur un comptoir à souvenirs.
+La pastilla est plutôt un plat de restaurant. La rfissa est copieuse, car le pain absorbe le bouillon. Le khlii se trouve dans les épiceries fréquentées.
 
 Fès est aussi pratique pour acheter des pâtisseries avant une journée de train ou de bus. Choisis une pâtisserie où les boîtes se remplissent régulièrement. Pour les ghriba et les cornes de gazelle, une boîte rigide vaut mieux qu'un sac en papier si tu les transportes dans un sac à dos.
 
@@ -72,11 +72,11 @@ Meknès est surtout pratique pour les marchés. Cherche les olives, les citrons 
 | Dattes | Marchés et épiceries |
 | Fruits secs | Epiceries et marchés |
 
-Meknès est aussi pratique pour acheter de quoi manger avant Volubilis. Prends du pain, des olives, des fruits et de l'eau avant de quitter la ville ; les options autour du site sont limitées et ce n'est pas l'intérêt de la visite.
+Meknès est aussi pratique pour acheter de quoi manger avant Volubilis. Les options autour du site sont limitées, donc pain, olives, fruits et eau s'achètent plus facilement avant de quitter la ville.
 
 ## Cuisine de montagne autour de Chefchaouen
 
-Chefchaouen est bien pour les petits déjeuners simples et la cuisine de montagne. **La bissara** est le plat utile ici : une soupe épaisse de fèves avec huile d'olive et cumin, souvent mangée le matin ou vers midi.
+Chefchaouen est bien pour les petits déjeuners simples et la cuisine de montagne. **La bissara** est une spécialité courante : une soupe épaisse de fèves avec huile d'olive et cumin, souvent mangée le matin ou vers midi.
 
 | Plat ou boisson | Ce que c'est |
 | --- | --- |
@@ -86,7 +86,7 @@ Chefchaouen est bien pour les petits déjeuners simples et la cuisine de montagn
 | Jus d'avocat | Boisson épaisse mixée |
 | Jus d'orange | Jus frais |
 
-Pour Akchour, prends de l'eau et quelque chose de simple depuis Chefchaouen. Ne compte pas sur un vrai repas pendant la marche. Après la randonnée, les boulangeries et restaurants simples de Chefchaouen suffisent ; ce n'est pas une étape où les noms de restaurants comptent beaucoup.
+Pour Akchour, prends de l'eau et quelque chose de simple depuis Chefchaouen, car les possibilités de repas pendant la marche sont limitées. Des boulangeries et restaurants simples sont disponibles au retour à Chefchaouen.
 
 ## Cafés de Tanger et snacks du nord
 
@@ -111,7 +111,7 @@ Si tu pars en excursion dans le désert, prends des snacks. Les repas de tour pe
 
 ## Végétarien et restrictions alimentaires
 
-Manger végétarien est possible, mais ne pars pas du principe qu'un tajine de légumes utilise forcément un bouillon ou une matière grasse végétarienne. Demande clairement. Les petits déjeuners, pains, soupes, salades, olives et pâtisseries sont les options les plus simples.
+Manger végétarien est possible, mais un tajine de légumes peut contenir un bouillon de viande ou une matière grasse animale. Les petits déjeuners, pains, soupes, salades, olives et pâtisseries sont les options les plus simples ; confirme la composition au moment de commander.
 
 Sans gluten, c'est plus compliqué : pain, msemen, couscous et pâtisseries sont partout. Riz, poisson grillé, viande grillée, oeufs et certains tajines sont plus faciles à gérer, mais les contaminations croisées sont courantes dans les petites cuisines.
 

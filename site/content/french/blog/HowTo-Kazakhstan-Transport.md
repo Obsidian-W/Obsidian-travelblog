@@ -50,7 +50,7 @@ Usages fréquents du train :
 | Aktau - Beyneu | Suite terrestre vers l'ouest ou l'Ouzbékistan |
 | Tashkent - Almaty | Option ferroviaire transfrontalière si tu as le temps |
 
-Ne suppose pas qu'une route est quotidienne, rapide ou pratique parce qu'elle existe sur la carte. Vérifie horaire et gare avant de construire la journée autour.
+Les lignes indiquées sur la carte ne sont pas nécessairement quotidiennes ou rapides. Vérifie l'horaire et la gare avant de construire la journée autour d'un train.
 
 ## Routes principales
 

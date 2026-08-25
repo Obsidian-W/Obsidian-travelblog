@@ -11,7 +11,7 @@ draft: false
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-Cette sélection garde la Tanzanie plus large qu'un simple article safari. Elle couvre faune, histoire de la côte swahilie, contreforts du Kilimandjaro, marche en montagne et culture insulaire. Les choix dépendent beaucoup du budget et de la saison, donc n'essaie pas de tout caser dans un court voyage.
+Cette sélection couvre la faune, l'histoire de la côte swahilie, les contreforts du Kilimandjaro, la marche en montagne et la culture insulaire. Réunir les cinq expériences demande du temps et un budget conséquent.
 
 ## 1. Choisir une vraie route de safari dans le nord
 
@@ -21,7 +21,7 @@ Les parcs du nord sont l'option faune la plus solide pour un premier voyage en T
 
 Prévois au moins trois jours. Quatre à six jours donnent un meilleur équilibre si le Serengeti est inclus, car les distances sont longues. **Arusha** est la base habituelle, avec **Kilimanjaro International Airport** entre Arusha et Moshi.
 
-Ne traite pas le safari comme un simple voyage en bus indépendant. Les droits d'entrée, les véhicules, les distances et les règles de parc rendent un opérateur réaliste pour la plupart des voyageurs. Les safaris en groupe réduisent le prix, mais vérifie ce qui est inclus : frais de parc, niveau de camp ou lodge, repas, eau, prise en charge à l'aéroport et lieu de retour.
+Les droits d'entrée, les véhicules, les distances et les règles des parcs imposent généralement de passer par un opérateur. Les safaris en groupe réduisent le prix, mais vérifie ce qui est inclus : frais de parc, niveau de camp ou lodge, repas, eau, prise en charge à l'aéroport et lieu de retour.
 
 La saison sèche est plus simple pour les pistes et l'observation, mais elle est aussi plus chère et plus chargée. La saison verte peut fonctionner si tu acceptes la pluie et des conditions de route variables.
 

@@ -19,7 +19,7 @@ Les exemples de prix ont été vérifiés en août 2026 et sont indiqués comme 
 
 La plupart des repas éthiopiens tournent autour de **l'injera**, la galette acidulée qui sert à la fois d'assiette, de féculent et de couvert. Les ragoûts, légumes et viandes sont servis dessus ou à côté. On arrache un morceau d'injera avec la main droite pour attraper la nourriture.
 
-L'injera est traditionnellement faite avec du teff, mais les restaurants peuvent mélanger teff, blé, orge ou autres céréales. Les voyageurs sans gluten doivent demander avant de supposer qu'elle est pur teff. Le goût est acide ; si c'est difficile au début, commande du riz ou du pain quand c'est disponible et utilise l'injera pour les sauces.
+L'injera est traditionnellement faite avec du teff, mais les restaurants peuvent mélanger teff, blé, orge ou autres céréales. Les voyageurs sans gluten doivent confirmer qu'elle est faite uniquement avec du teff. Son goût est acide ; du riz ou du pain sont parfois disponibles comme alternatives.
 
 ## Ragoûts de base et plats de jeûne
 
@@ -33,7 +33,7 @@ La commande la plus utile pour commencer est le **beyaynetu**, un plateau de je�
 | Gomen | Légumes verts cuits, souvent avec oignon et ail | Plateaux végétariens et accompagnements |
 | Atkilt wat | Chou, pomme de terre et carotte en sauce | Plats de jeûne et restaurants du quotidien |
 
-Ces plats sont la manière la plus sûre de bien manger sans courir après des adresses nommées. Les restaurants du midi avec beaucoup de rotation valent souvent mieux que les salles traditionnelles vides qui visent seulement les visiteurs.
+Ces plats sont courants dans les restaurants locaux. Les établissements fréquentés à midi ont généralement davantage de rotation que les salles destinées principalement aux visiteurs.
 
 ## Plats de viande
 
@@ -47,7 +47,7 @@ La viande éthiopienne peut être excellente, mais commande-la dans des endroits
 | Key wat | Ragoût de viande rouge épicé | Goût de berbere plus marqué |
 | Alicha wat | Ragoût de viande plus doux | Plus simple si tu veux moins de piment |
 
-La viande crue ou peu cuite existe en Éthiopie, notamment kitfo et tere siga. Cela fait partie de la culture alimentaire, mais ce n'est pas le choix le moins risqué pour un voyageur. Pour le kitfo, demande **leb leb** ou bien cuit.
+La viande crue ou peu cuite existe en Éthiopie, notamment dans le kitfo et le tere siga. Elle présente un risque alimentaire plus élevé. Pour le kitfo, demande **leb leb** ou bien cuit.
 
 ## Petits déjeuners et snacks
 
@@ -59,7 +59,7 @@ Pour les snacks, cherche **sambusa**, pain frais, petits gâteaux, jus de fruits
 
 Addis est l'endroit le plus simple pour manger large : restaurants locaux, plats de jeûne, restaurants de viande, cafés, restaurants d'hôtel et adresses modernes coexistent. C'est la meilleure ville pour apprendre la carte avant les petites étapes.
 
-Pour un premier repas, commande beyaynetu ou shiro. Pour la viande, choisis tibs ou kitfo cuit dans une adresse fréquentée. Pour le café, Addis propose à la fois des cérémonies traditionnelles et des cafés classiques, donc inutile de forcer une cérémonie formelle un jour de transport.
+Pour un premier repas, commande beyaynetu ou shiro. Pour la viande, choisis tibs ou kitfo cuit dans une adresse fréquentée. Addis propose à la fois des cérémonies traditionnelles et des cafés classiques, ces derniers étant plus pratiques un jour de transport.
 
 Les menus en ligne actuels sont utiles comme repère, pas comme liste de prix nationale. Sur des menus d'Addis Ababa vérifiés en août 2026, les plats simples de jeûne et le shiro apparaissaient souvent autour de **650-900 ETB**, le firfir et les assiettes végétariennes mixtes autour de **1 000-1 800 ETB**, et les plats de viande comme tibs, kitfo et doro wat autour de **1 100-2 250 ETB**. Les plateformes de livraison et les restaurants connus de Bole peuvent être plus chers que les petits restaurants locaux ; utilise ces montants comme repères urbains, pas comme coûts fixes pour tout le pays.
 

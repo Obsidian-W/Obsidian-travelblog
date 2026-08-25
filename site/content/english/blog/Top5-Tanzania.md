@@ -11,7 +11,7 @@ draft: false
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
-Tanzania is routinely reduced to safari plus Zanzibar. That is expensive, predictable and unfair to the Usambara Mountains and Kilwa. These five keep the wildlife but refuse to let it swallow the country.
+This list includes a northern safari and Zanzibar alongside the Usambara Mountains, Kilimanjaro's foothills and Kilwa Kisiwani.
 
 ## 1. Choose one strong northern safari route
 
@@ -39,7 +39,7 @@ The ferry from Dar es Salaam is useful when sea conditions and timing work. Flyi
 
 ![Materuni Falls near Moshi](https://commons.wikimedia.org/wiki/Special:Redirect/file/Materuni%20Falls%201.jpg)
 
-You do not need summit money to see Kilimanjaro's foothills. Materuni gives a day walk through Chagga country, coffee farms and a waterfall. The mountain itself may remain behind cloud like an expensive celebrity refusing to leave a hotel.
+Materuni offers a day walk through Chagga country, coffee farms and a waterfall without the cost or time required for a summit route. Kilimanjaro is often hidden by cloud, especially later in the day.
 
 Kilimanjaro International Airport sits between Moshi and Arusha. The airport lists taxis and shared shuttles to both towns, and Air Tanzania lists shuttle pickup points in Arusha and Moshi for its flights. Confirm the pickup time before relying on a shuttle.
 

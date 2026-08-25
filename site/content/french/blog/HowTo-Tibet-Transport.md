@@ -61,7 +61,7 @@ L'aéroport de Lhassa Gonggar est loin du centre. Un guide publié par le gouver
 
 Ton agence peut inclure le transfert aéroport. Confirme avant d'arriver ; c'est souvent plus simple que de gérer le bus juste après un vol en altitude.
 
-Si la prise en charge n'est pas incluse, demande à l'agence si tu peux utiliser le bus public de l'aéroport seul ou si le guide doit te récupérer. Les règles et pratiques d'agence peuvent varier ; ne suppose pas un modèle d'arrivée libre classique.
+Si la prise en charge n'est pas incluse, demande à l'agence si tu peux utiliser seul le bus public de l'aéroport ou si le guide doit te récupérer. Les règles et pratiques d'arrivée varient selon l'agence.
 
 ## Se déplacer dans Lhassa
 
@@ -124,14 +124,14 @@ Garde passeport, copie du permis si fournie, couches chaudes, eau, snacks, lunet
 
 Si tu es sujet au mal des transports, prépare-toi avant Yamdrok, Gyantse, Everest ou Gyirong. Altitude et routes sinueuses se combinent mal.
 
-## Ce qu'il ne faut pas supposer
+## Restrictions à prévoir
 
-- Ne pars pas du principe que tu peux louer une voiture et conduire seul.
-- Ne pars pas du principe qu'une réservation d'hôtel et un billet de train suffisent pour entrer.
-- Ne mélange pas toutes les régions culturelles tibétaines : les zones tibétaines du Yunnan, Sichuan, Qinghai et Gansu ne suivent pas les mêmes règles que la région autonome du Tibet.
+- Les voyageurs étrangers ne peuvent pas louer une voiture et conduire seuls dans la Région autonome du Tibet.
+- Une réservation d'hôtel et un billet de train ne suffisent pas pour entrer ; les permis requis doivent également être organisés.
+- Les zones tibétaines du Yunnan, Sichuan, Qinghai et Gansu ne suivent pas les mêmes règles que la Région autonome du Tibet.
 - Ne prévois pas un vol de continuation trop serré après une route Everest ou frontière.
-- Ne suppose pas que les bus publics peuvent remplacer le véhicule d'agence pour les étrangers.
-- Ne suppose pas que les fermetures de route ou changements de permis se règlent le jour même.
+- Les bus publics ne remplacent pas le véhicule d'agence sur les itinéraires soumis à permis.
+- Les fermetures de route et changements de permis peuvent imposer une modification de l'itinéraire.
 
 ## Sources consultées
 

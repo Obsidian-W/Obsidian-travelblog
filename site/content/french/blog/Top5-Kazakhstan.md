@@ -11,7 +11,7 @@ draft: false
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-Le Kazakhstan est trop grand pour une simple liste de cases à cocher. Cette sélection garde cinq usages différents du pays : désert, capitale, ville, canyon-lacs et haute montagne. N'essaie pas de tout mettre dans un court voyage sans utiliser l'avion.
+Cette sélection couvre cinq régions et expériences différentes : désert, capitale, ville, canyon-lacs et haute montagne. Les réunir dans un court voyage nécessite des vols intérieurs.
 
 ## 1. Prévoir une sortie 4x4 dans le Mangystau
 
@@ -19,7 +19,7 @@ Le Kazakhstan est trop grand pour une simple liste de cases à cocher. Cette sé
 
 Le **Mangystau** est la région désertique la plus marquante du Kazakhstan pour les voyageurs : Bozjyra, Torysh, Sherkala, mosquées souterraines, falaises blanches et longues pistes vides. Les paysages sont forts, mais la logistique compte autant que la visite. La plupart des sites ne se rejoignent pas en transport public classique.
 
-Prévois au moins trois jours depuis **Aktau** si tu veux autre chose qu'un tour photo précipité. Utilise un opérateur local en 4x4, ou une voiture seulement si tu comprends les distances, l'état des pistes et les contraintes de carburant. La chaleur d'été est sévère, et l'hiver peut rendre le camping exposé pénible.
+Prévois au moins trois jours depuis **Aktau** pour éviter une visite précipitée. Un opérateur local en 4x4 est l'option habituelle ; la conduite autonome exige une préparation précise des distances, de l'état des pistes et du carburant. La chaleur d'été est sévère, et l'hiver peut rendre le camping exposé pénible.
 
 Aktau est le point d'entrée pratique. Les vols sont souvent plus simples que le train depuis Astana ou Almaty, car le pays est immense.
 
@@ -27,7 +27,7 @@ Aktau est le point d'entrée pratique. Les vols sont souvent plus simples que le
 
 ![Baiterek à Astana](https://commons.wikimedia.org/wiki/Special:Redirect/file/Baiterek%20August.jpg)
 
-**Astana** sert à comprendre le Kazakhstan moderne : grands axes, architecture gouvernementale, secteur de Baiterek, mosquées, musées et échelle de ville planifiée. Ce n'est pas une ville à juger comme une vieille ville compacte ; les distances et la météo comptent davantage.
+**Astana** montre le Kazakhstan moderne à travers ses grands axes, son architecture gouvernementale, le secteur de Baiterek, ses mosquées et ses musées. La ville est étendue, et les distances comme la météo influencent fortement les déplacements.
 
 Prévois une journée complète, deux si tu veux visiter des musées. Utilise taxis ou VTC pour les trajets longs. L'hiver est froid et venteux ; l'été est plus simple pour marcher, mais les distances restent grandes.
 
@@ -61,7 +61,7 @@ Le corridor **Medeu-Shymbulak** est la manière la plus simple de rejoindre la h
 
 Prévois une demi-journée pour Medeu et Shymbulak en téléphérique, ou une journée complète pour marcher. Pars tôt par beau temps. Les sentiers au-dessus d'Almaty peuvent être raides, exposés et enneigés hors été.
 
-Ne traite pas Big Almaty Lake ou les itinéraires plus hauts comme des promenades urbaines. Les règles de zone frontalière, l'accès routier et les restrictions environnementales peuvent changer ; vérifie les informations locales avant d'y aller.
+Big Almaty Lake et les itinéraires plus hauts sont soumis à des règles de zone frontalière, à des conditions d'accès routier et à des restrictions environnementales qui peuvent changer. Vérifie les informations locales avant d'y aller.
 
 ## Sources consultées
 

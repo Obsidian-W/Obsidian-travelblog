@@ -29,7 +29,7 @@ At Jemaa el-Fnaa, establish the price before accepting bread, olives or small si
 
 ![Ghriba](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ghoriyba%20aux%20amandes.jpg)
 
-Fes cooking leans into sweet-savoury combinations. **Pastilla** hides pigeon or chicken beneath crisp warqa pastry; poultry versions are dusted with sugar and cinnamon. It sounds wrong until the salty filling, almond sweetness and brittle pastry arrive together. Then it's even more wrong.
+Fes cooking leans into sweet-savoury combinations. **Pastilla** combines pigeon or chicken with crisp warqa pastry, almonds, sugar and cinnamon.
 
 > I loved it tbh, but it's not for everyone and gets old fast. It's better shared or eaten in two times (It's lovely for both dinner and breakfast)
 
@@ -38,7 +38,7 @@ Fes cooking leans into sweet-savoury combinations. **Pastilla** hides pigeon or 
 > The owner and his wife are the only two employees, and the location is their home, thus you understand the novelty;
 > Oh, it's also not guaranteed you get a spot, you knock, the owner looks at you, then decide if you can enter!
 
-**Rfissa** is shredded msemen soaked with chicken broth, lentils and fenugreek. It is soft, rich and more filling than its appearance suggests. **Khlii** (Khlee?) is meat preserved with salt, spices and fat, then used with eggs or beans. It is concentrated and salty, and is usually treated as an ingredient rather than eaten alone like jerky. My roommate often get some from his mom, but I never dared try. Apparently it's used for breakfasts or as an ingredient for some dishes.
+**Rfissa** is shredded msemen soaked with chicken broth, lentils and fenugreek. It is soft, rich and filling. **Khlii** (Khlee?) is meat preserved with salt, spices and fat, then used with eggs or beans. It is concentrated and salty, and is usually treated as an ingredient rather than eaten alone like jerky. My roommate often get some from his mom, but I never dared try. Apparently it's used for breakfasts or as an ingredient for some dishes.
 
 For sweets, **cornes de gazelle** are slender almond pastries perfumed with orange blossom. **Ghriba** are round, cracked cookies made in several versions, including almond, sesame and semolina. (But it often breaks apart quickly) **Sellou** is a dense, crumbly mixture of toasted flour, sesame, almonds, spices and fat.
 **Baklava** is not of moroccan origin, but common. They differ from the tunisian/armenian Baklava and are closer to the Turkish ones.

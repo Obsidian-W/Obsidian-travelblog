@@ -17,7 +17,7 @@ Uzbekistan's fast trains make it possible to move between Samarkand, Bukhara and
 
 ![Registan in Samarkand](https://commons.wikimedia.org/wiki/Special:Redirect/file/Registan%20square%20Samarkand.jpg)
 
-Samarkand earns the fame, but Registan is not the whole city. Shah-i-Zinda hit harder: a narrow procession of blue mausoleums instead of one giant square. The Registan light show adds lasers and theatrical effects to the medieval architecture; whether that improves the experience is a matter of taste.
+Samarkand deserves its reputation, but the Registan is not the whole city. I found Shah-i-Zinda more memorable: a narrow procession of blue mausoleums rather than one large square. The Registan light show adds lasers and theatrical effects to the medieval architecture.
 
 Give it two nights. Registan is worth seeing in daylight and again near evening, but do not plan the whole day around one square. Shah-i-Zinda needs slow time because the lane of mausoleums is narrow and busy.
 
@@ -37,7 +37,7 @@ The station is at **Kagan**, outside Bukhara. Build in the taxi transfer rather 
 
 ![Ichan-Kala in Khiva](https://commons.wikimedia.org/wiki/Special:Redirect/file/Khiva%20Itchan%20Kala.JPG)
 
-Khiva risks feeling like a historical theme park because everything sits inside one immaculate wall. Stay overnight. Once the groups leave and the mud-brick lanes turn copper, it stops looking like a film set and earns the detour.
+Khiva can feel heavily staged during the busiest hours because the main sights sit inside one compact walled area. Staying overnight makes it possible to walk the mud-brick lanes before or after the day-trip groups arrive.
 
 Give it one or two nights. One full day is enough for the main sights, but arriving and leaving on the same day makes the city feel like a stage set rather than a place.
 
@@ -47,17 +47,17 @@ Rail access has improved, but check Uzbekistan Railways for the live route. Some
 
 ![Tashkent metro](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tashkent%20Metro%2C%20Kosmonavtlar%20Station.jpeg)
 
-Tashkent is the palate cleanser between blue-tiled cities: enormous boulevards, Soviet mosaics, landscaped parks and metro stations that behave like underground palaces. Chorsu supplies the noise and melons missing from the manicured centre.
+Tashkent has enormous boulevards, Soviet mosaics, landscaped parks and elaborately decorated metro stations. Chorsu Bazaar provides a busier contrast to the manicured centre.
 
 Give it one full day at the start or end. The metro is useful both as transport and as a way to see station design. Chorsu works best in the morning or around lunch.
 
-Tashkent is also where you solve SIM cards, cash, train tickets and onward flights before smaller cities.
+Tashkent is also a practical place to arrange SIM cards, cash, train tickets and onward flights before continuing to smaller cities.
 
 ## 5. Go to Nukus for the Savitsky Museum
 
 ![Savitsky Museum collection in Nukus](https://commons.wikimedia.org/wiki/Special:Redirect/file/S%C3%B3zana%2C%20wall%20embroidery%2C%201970%E2%80%9380.jpg)
 
-Nukus looks like a poor reward for travelling beyond Khiva until the Savitsky Museum opens. Soviet avant-garde art survived there because the collection was far from Moscow's attention. Add Muynak only if a rusting ship cemetery and the absence of an entire sea are worth another long road day.
+The Savitsky Museum is the main reason to travel beyond Khiva to Nukus. Its Soviet avant-garde collection survived partly because it was far from Moscow's attention. Muynak and its ship cemetery require another long road journey.
 
 Give it at least one night. Nukus can pair with Khiva by road or rail depending on schedules, but distances and heat make rushed transfers unpleasant.
 

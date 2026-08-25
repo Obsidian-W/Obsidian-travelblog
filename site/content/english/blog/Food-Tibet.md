@@ -15,13 +15,13 @@ draft: false
 
 ![Tibetan butter tea](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tibetan%20butter%20tea.jpg)
 
-Highland barley survives where rice and many vegetables do not. Herds provide meat, butter and cheese. The result is a cuisine built around **tsampa**, tea, dairy, mutton, yak or beef, dumplings and soup—not the huge chilli-and-stir-fry menu many travellers associate with China.
+Highland barley grows in conditions that are difficult for rice and many vegetables, while herds provide meat, butter and cheese. Tibetan cuisine is therefore built around **tsampa**, tea, dairy, mutton, yak or beef, dumplings and soup.
 
 Lhasa gives the widest choice. Once you leave for Yamdrok, Gyantse, Shigatse or Everest, meals become simpler: noodle shops, rice dishes, dumplings, eggs, packaged snacks and whatever your guide knows is open that day.
 
 ## Lhasa tea houses
 
-**Po cha**, or butter tea, is tea churned with salt and butter until the fat emulsifies. It is hot, savoury and richer than ordinary milk tea. Try a small cup first, as the salty flavour is unfamiliar to many visitors.
+**Po cha**, or butter tea, is tea churned with salt and butter until the fat emulsifies. It is hot, savoury and rich, and tea houses sell it by the cup or flask.
 
 Lhasa **sweet tea** combines black tea, milk and sugar and resembles South Asian milk tea. Tea houses sell it by the cup or flask and are everyday social spaces rather than formal tea rooms.
 

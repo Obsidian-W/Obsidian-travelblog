@@ -19,7 +19,7 @@ Les voyageurs étrangers ne peuvent pas visiter la région autonome du Tibet com
 
 ![Palais du Potala à Lhassa](https://commons.wikimedia.org/wiki/Special:Redirect/file/20140505%20Potala%20Palace.jpg)
 
-Le **palais du Potala** est le principal site historique de Lhassa et la raison la plus évidente de garder du vrai temps dans la ville. La visite est encadrée, minutée et physiquement fatigante à cause des escaliers et de l'altitude. Ce n'est pas un lieu à caser entre deux transferts.
+Le **palais du Potala** est le principal site historique de Lhassa. La visite est encadrée, minutée et physiquement fatigante à cause des escaliers et de l'altitude ; il faut lui réserver une demi-journée.
 
 Prévois une demi-journée, plus du temps dehors pour les points de vue et photos. Ne le place pas juste après l'atterrissage si tu réagis mal à l'altitude. Le guide ou l'agence gère normalement les billets, mais confirme le créneau tôt car les règles et quotas peuvent changer.
 
@@ -31,11 +31,11 @@ Le **temple Jokhang** et le circuit du **Barkhor** forment le coeur du vieux Lha
 
 Prévois une demi-journée. Marche lentement ; Lhassa est déjà assez haute pour que la précipitation gâche la visite. Les règles photo peuvent varier dans les lieux religieux, donc suis le guide et les panneaux. Le Barkhor est aussi l'endroit le plus simple pour ajouter une pause dans une maison de thé.
 
-## 3. Choisir correctement Sera ou Drepung
+## 3. Visiter Sera ou Drepung
 
 ![Monastère de Sera](https://commons.wikimedia.org/wiki/Special:Redirect/file/IMG%201143%20Lhasa%20Sera.jpg)
 
-**Sera** et **Drepung** sont les deux choix monastiques les plus utiles autour de Lhassa. Sera est souvent choisi pour les débats des moines ; Drepung donne davantage l'impression d'un grand complexe à flanc de colline avec des vues sur la ville. Mieux vaut en faire un correctement que courir les deux en pleine acclimatation.
+**Sera** et **Drepung** sont les deux principaux monastères à visiter autour de Lhassa. Sera est connu pour les débats des moines ; Drepung est un grand complexe à flanc de colline avec des vues sur la ville. Les visiter tous les deux pendant l'acclimatation peut être fatigant.
 
 Prévois une demi-journée pour un monastère, ou une journée complète si tu combines les deux sans courir. La vraie contrainte est l'altitude et la fatigue, pas la distance. Garde cette journée flexible si tu arrives malade ou si tu dors mal la première nuit.
 
@@ -45,7 +45,7 @@ Prévois une demi-journée pour un monastère, ou une journée complète si tu c
 
 La route de Lhassa vers **Gyantse** et **Shigatse** est la manière la plus accessible de voir le Tibet central hors de Lhassa. Elle traverse des cols élevés et des paysages de plateau, avec le **lac Yamdrok** comme arrêt principal. Le lac est visuellement fort, mais la vraie contrainte reste l'altitude, le vent et la longue journée en véhicule.
 
-Prévois une journée complète de Lhassa à Shigatse avec les arrêts. Tu ne fais pas ce trajet indépendamment ; il fait partie du circuit en véhicule arrangé. Prends des couches, des lunettes de soleil et de l'eau. Même assis en voiture, l'altitude fatigue.
+Le trajet organisé de Lhassa à Shigatse prend une journée complète avec les arrêts. Prends des couches, des lunettes de soleil et de l'eau, car une longue journée en véhicule à cette altitude peut être fatigante.
 
 ## 5. Ajouter Everest Base Camp côté Tibet seulement si les conditions suivent
 

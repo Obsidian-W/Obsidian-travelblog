@@ -17,7 +17,7 @@ Les repères de prix actuels, lorsqu'ils sont mentionnés, ont été vérifiés 
 
 ![Ugali](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%2020251129%20163844.jpg)
 
-L'assiette de base est simple : **ugali**, riz, haricots, légumes verts, ragoût, viande grillée ou poisson. Dans les restaurants locaux, les repas sont copieux et directs. L'ugali se mange avec la main et sert à attraper sauce, légumes ou viande. Le riz est plus simple si tu t'habitues encore.
+L'assiette de base comprend **ugali**, riz, haricots, légumes verts, ragoût, viande grillée ou poisson. Dans les restaurants locaux, les repas sont copieux. L'ugali se mange avec la main et sert à attraper sauce, légumes ou viande ; le riz est souvent disponible comme alternative.
 
 La différence régionale est nette. A l'intérieur, autour d'Arusha, Moshi, Dodoma ou Mwanza, la cuisine repose davantage sur le maïs, les haricots, les bananes plantains, la viande et les feuilles vertes. Sur la côte et à Zanzibar, tu trouveras plus de riz, noix de coco, cardamome, girofle, cannelle, tamarin et fruits de mer.
 
@@ -79,11 +79,11 @@ A Zanzibar et sur la côte, la cuisine change nettement. Attends-toi à du riz, 
 
 Stone Town est le lieu le plus simple pour goûter plusieurs choses dans un petit périmètre. Darajani market est utile en journée. Les zones de street food du soir peuvent être pratiques, mais choisis les stands fréquentés avec beaucoup de rotation.
 
-Ne construis pas tout le plan food de Zanzibar autour de Forodhani. C'est pratique et vivant, mais la qualité varie. Utilise-le pour un snack ou une boisson, puis cherche des cantines locales, cuisines swahilies et adresses de fruits de mer hors des sollicitations les plus visibles du front de mer.
+Forodhani est pratique et vivant, mais la qualité varie. Le marché convient à un snack ou une boisson ; les cantines locales, cuisines swahilies et restaurants de fruits de mer offrent d'autres possibilités hors du front de mer.
 
 ## Kilwa et petites villes côtières
 
-A Kilwa Masoko et dans les petites villes côtières, garde des attentes simples : poisson, riz, haricots, frites, chapati et thé. L'intérêt est le poisson frais et la cuisine côtière simple, pas la variété. Demande à ton hébergement où manger ; les restaurants indépendants peuvent fermer tôt ou manquer de plats.
+A Kilwa Masoko et dans les petites villes côtières, le choix se limite souvent au poisson, riz, haricots, frites, chapati et thé. Les restaurants indépendants peuvent fermer tôt ou manquer de plats ; les hébergements connaissent généralement les adresses ouvertes.
 
 Ne prévois pas un itinéraire culinaire serré ici. Mange là où les trajets et les bateaux te laissent du temps.
 
