@@ -1,5 +1,5 @@
 ---
-date: "2026-08-18"
+date: "2026-08-30"
 title: "How I fell in love with China"
 description: "A totally biased review of the 1st mondial economy"
 image: "images/blog/yunnan3.jpg"
@@ -107,7 +107,7 @@ They are some of the best restaurants, a bit hidden, a bit farther out than the 
 
 ## What I don't like about China
 
-Now that I sold China, let me add the counterweight, because there are plenty of things that need addressing. While I love China and really like Chinese people as a whole... Some things are holding back the country: dubious politics, chaotic behavior, social regressions, or even folks following the steps of the swampy asses yanks.
+Now that I sold China, let me add the counterweight, because there are plenty of things that need addressing. While I love China and really like Chinese people as a whole... Some things are holding back the country: chaotic behavior, social regressions, lack of hygiene are some of them.
 
 ### The Great Firewall
 
@@ -130,24 +130,13 @@ I can't really complain about those while in their country, but I sure hope they
 
 What annoys me most is really the spitting. Thankfully, there are "no spitting" signs everywhere in the country, but jeez, why do they feel the need to spit all over the floor?
 
-### A visibly regressing hygiene
+### Colonialist policies?
 
-
-"A Chinese person only bathes three times in their life: at birth, for their marriage, and for their death." It's a quote I've heard a lot. It's clearly untrue, greatly exaggerated, and perhaps slightly racist.
-But it's not totally wrong either.
-It's like they are forgetting their roots and Confucianist thoughts.
-There is an inherent lack of respect and a tremendous cultural loss by treading this way.
-There are things you shouldn't copy, but some Chinese folks do.
-Adopting the non-hygiene of muslims and americans is not a good thing.
-
-### Colonialist policies
-
-Laos, Ethiopia, Myanmar, Kyrgyztan, Tadjikistan....
+Laos, Myanmar, Kyrgyztan, Cambodia, Ethiopia ...
 
 All those countries have one thing in common: a lot of Chinese investments and interference.
-Slavery in Ethiopia has been brought back by Chinese companies and actors operating there. Laos has to pay for a train that is mostly useful for China (and they are heavily in debt to China, of course), Tajikistan and Kyrgyzstan are important players in the Belt and Road Initiative; they receive investments and roads in exchange for a form of servitude. Myanmar seems to have a whole lot of things happening to it too.
-The Chinese government is playing a worldwide game, heavily inspired by the colonial forces of old.
-And they are masters at it. Whether it's good or bad is not mine to tell. But it exists.
+Most people in these countries are worried of what it's going to bring them.
+I don't really like the lack of transparency in these world shattering plans, however I cannot speak of them in depth due to my lack of knowledge.
 
 ## Checks before travel
 

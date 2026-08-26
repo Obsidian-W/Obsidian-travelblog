@@ -9,6 +9,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > One of the cradle of humankind and the only african country that wasn't colonized
 >  
 > Ethiopia conceals many secrets, definitely on the path less traveled
@@ -111,6 +113,8 @@ This article is outdated, yet still useful.
 With a very small group I left Gondar early, heading into the **Simiens**   
 You **need both a guide and an armed ranger** to enter the park.
 
+I booked locally. If you prefer to arrange it before arriving, [this three-day Simien Mountains trek from Gondar (affiliate link)](https://www.getyourguide.com/gondar-l1965/3-days-adventure-of-wildlife-spotting-trekking-simien-moun-t603334/?partner_id=H1N6CGH&utm_medium=online_publisher) is the closest GetYourGuide option I found to this part of my itinerary. I did not use that operator myself.
+
 We waited nearly **two hours** at the ranger station before being allowed in (there was no one, lol).  
 In the meantime, we enjoyed coffee and watched the broken UN cars going through.
 
@@ -208,6 +212,8 @@ Their greed sicken me.
 Still, nothing diminishes the awe.  
 Walking barefoot through dim tunnels carved in rock, hearing prayers echo, it's timeless.
 
+If you want a guide booked in advance, [this full-day tour of Lalibela's churches (affiliate link)](https://www.getyourguide.com/lalibela-l1095/lalibela-churches-full-day-private-tour-wcoffee-ceremony-t357975/?partner_id=H1N6CGH&utm_medium=online_publisher) covers the main church complexes. I arranged my visit there and did not use this operator.
+
 ---
 
 ## Day 10 Lalibela (Monasteries)
@@ -288,6 +294,8 @@ I did it on the next day, so once again, it was pretty much a wasted day.
 To find a guide, ask for Nairobi. He's the leader, he may not always work as a guide,
 but apparently he's the best. If he's busy, he'll recommend you someone else.
 That's how I ended up with Miju.
+
+I booked my Omo Valley trip locally. [This four-day Omo Valley tour from Arba Minch (affiliate link)](https://www.getyourguide.com/addis-ababa-l1085/omo-valley-4-day-cultural-tour-to-remote-tribes-villages-t801604/?partner_id=H1N6CGH&utm_medium=online_publisher) is an advance-booking alternative covering Dorze, Konso, Turmi, Hamar and Mursi country. I did not take this specific tour.
 
 ---
 

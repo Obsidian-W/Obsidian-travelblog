@@ -8,6 +8,8 @@ continents: ["South America"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > Once someone told me: YoU cAn't Go tO PaTaGOnIa iN wiNtEr, eveRytHing Is clOseD
 
 Well, that was wrong, I went in early August and everything was fine and open
@@ -76,6 +78,8 @@ With more days, I would have moved less and hiked more, like El Chalten
 
 > El Chaltén can be reached from El Calafate even in winter, but buses are limited — usually every two or three days. I booked a tour
 
+For the same kind of long winter day, [this El Chaltén and Mount Fitz Roy trip from El Calafate is an advance-booking option (affiliate link)](https://www.getyourguide.com/el-calafate-l544/from-el-calafate-full-day-tour-to-el-chalten-t239467/?partner_id=H1N6CGH&utm_medium=online_publisher). It is not the operator I used, and winter departures must be checked for your date.
+
 The border crossings are fine but slow down considerably the trips, count one to two hours
 to cross a border.
 Between Chile and Argentina, I had to wait one hour for someone to come to scan the passports.
@@ -100,6 +104,14 @@ See the snow!
 - All the museums should be open
 - No penguins near Punta Arenas
 - Antarctica is off limit in winter
+
+## Tours worth booking ahead
+
+- [Perito Moreno Glacier with an optional boat trip from El Calafate (affiliate link)](https://www.getyourguide.com/el-calafate-l544/el-calafate-perito-moreno-glacier-optional-boat-trip-t231537/?partner_id=H1N6CGH&utm_medium=online_publisher). This is the straightforward option for the glacier day.
+- [Base Torres day hike from Puerto Natales (affiliate link)](https://www.getyourguide.com/puerto-natales-l32145/puerto-natales-base-of-the-towers-day-hike-t419260/?partner_id=H1N6CGH&utm_medium=online_publisher). Check winter operation and trail conditions before paying.
+- [Torres del Paine photography tours, including the full-day photo safari (affiliate link)](https://www.getyourguide.com/torres-del-paine-l177394/photography-tours-tc19/?partner_id=H1N6CGH&utm_medium=online_publisher). The full-day photo safari is the closest current listing I found to the small-group photography tour I did; it is not the same operator.
+
+I did these Patagonia excursions on my trip, but I did not use the three GetYourGuide operators above. The links are alternatives for readers who want to reserve before arrival.
 
 
 And that's it!

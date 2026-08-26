@@ -9,6 +9,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > I finally got the chance to travel to Morocco, so close to France and so cheap for flights...
 >
 > It's probably one of the easiest African countries to visit, with its rail and bus network.
@@ -86,6 +88,8 @@ Use the evening for Jemaa el-Fnaa if you only saw it during the day. The square 
 For the following three days, I joined a desert tour from Marrakesh to Merzouga. 
 
 #### [Linky link here](http://www.tripadvisor.com/AttractionProductReview-g293734-d17533140-3_Day_Marrakech_to_Merzouga_Desert_Tour_Camel_Rides_Overnights-Marrakech_Marrakech.html)
+
+That Tripadvisor link is the tour I actually took. For an alternative with far more recent reviews, [this three-day Marrakesh-to-Merzouga desert tour is available on GetYourGuide (affiliate link)](https://www.getyourguide.com/marrakesh-l208/3-day-desert-tour-from-marrakech-to-merzouga-t52681/?partner_id=H1N6CGH&utm_medium=online_publisher). I may earn a commission from the second link; I did not take that specific tour.
 
 
 The tour cost around **€140**.
@@ -181,6 +185,8 @@ I took the train from Rabat to Meknes, which took around two hours. (Easy to fin
 From Meknes, I visited **Volubilis** and **Moulay Idriss** by taking the public bus. I had to wait 40 minutes to get one that wasn't full.
 I don't really recommend.
 
+If you would rather skip those public-transport connections, [this Fes day trip combines Volubilis, Moulay Idriss and Meknes (affiliate link)](https://www.getyourguide.com/fes-l829/from-fes-volubilis-moulay-idriss-meknes-full-day-trip-t505862/?partner_id=H1N6CGH&utm_medium=online_publisher). It starts in Fes, so it is an alternative arrangement rather than the route I took from Rabat.
+
 If you really want to, the bus 15 goes to Moulay Idriss.
 #### [Maps link to Bus stop](https://maps.app.goo.gl/R5PbaY648MMRk4299)
 
@@ -226,7 +232,7 @@ This is enough for a first day in Fes after the short transfer from Meknes. Stay
 
 The next day, I booked a tour through **GetYourGuide** to visit **Ifrane** and the cedar forests.
 
-[Here's the link, I wish they gave me money](https://www.getyourguide.com/fes-l829/from-fez-middle-atlas-day-trip-t412968/)
+[This is the Middle Atlas tour I booked (affiliate link)](https://www.getyourguide.com/fes-l829/from-fez-middle-atlas-day-trip-t412968/?partner_id=H1N6CGH&utm_medium=online_publisher). I now earn a commission if you book it through that link.
 
 The berber house was more of a museum than anything else, but they served a nice tea./
 The cedar forest was a highlight, just because it's nice to walk in a forested place surrounded by animals.
@@ -271,6 +277,8 @@ The landscape around Chefchaouen is completely different from the southern part 
 > Not that many people go to Akchour
 
 Allow most of the day for the shared taxi, the walk and stops along the river. The waterfall and God's Bridge are separate branches, so doing both requires an early start.
+
+I went independently by shared taxi. If you want transport and a guide arranged from Chefchaouen, [this Akchour waterfall day trip is an alternative (affiliate link)](https://www.getyourguide.com/chefchaouen-l104265/from-chefchaouen-full-day-trip-to-akchour-waterfalls-t600762/?partner_id=H1N6CGH&utm_medium=online_publisher). Check the current itinerary before booking if God's Bridge is essential, because the listing specifically promises the waterfalls.
 
 ---
 

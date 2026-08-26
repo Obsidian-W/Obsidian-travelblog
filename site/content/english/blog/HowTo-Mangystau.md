@@ -8,6 +8,8 @@ continents: ["Asia"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
+
 Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).  
 
 Remote, harsh, desert-like, with landscapes that feel like nowhere else on Earth — cliffs, white canyons, underground mosques, vast plateaus.  
@@ -22,7 +24,9 @@ To get to Aktau, I flew from Paris with a layover in Istanbul. It was the cheape
 
 Independent travel is technically possible, but unless you speak Russian or Kazakh, can drive long hours on bad tracks, and are ready to camp without support, it's far easier to go with a local tour. I can barely drive my mom's 1007, so... I booked a tour.
 
-Indeed, I joined a small group tour with a local tour operator I found online prior to arrival: RedMaya Travel. (I wish I had affiliate links)
+Indeed, I joined a small group tour with a local tour operator I found online prior to arrival: [RedMaya Travel](https://redmaya-travel.kz/english). They are the company I used, and they remain my first recommendation. That direct link is not an affiliate link.
+
+If RedMaya is unavailable or you specifically want to book through GetYourGuide, [this three-day Mangystau jeep and camping tour is an alternative (affiliate link)](https://www.getyourguide.com/mangystau-l191788/aktau-3-day-mangystau-jeep-tour-with-camping-t1131777/?partner_id=H1N6CGH&utm_medium=online_publisher). I may earn a commission from that link, but I did not take that tour: prefer RedMaya if you can.
 We were six travelers split into two cars, with a driver each and the addition of a guide.
 Those three staff members were family, accustomed to work together and had all the necessary camping and cooking guide.
 

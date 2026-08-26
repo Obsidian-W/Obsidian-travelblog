@@ -9,6 +9,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 
 > Let's explore Uganda, home of Knuckles!
 > 
@@ -78,6 +80,8 @@ saw the Hindu temple, rode Boda bodas at my life's peril...
 
 The city is chaotic but friendly, but walking is suicidal.
 
+If you have three extra days rather than only one, [this Murchison Falls safari from Kampala is a practical add-on (affiliate link)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not take that specific tour, and it does not fit inside this nine-day route without extending it.
+
 ---
 
 ## Day 3 Road to Fort Portal
@@ -96,6 +100,8 @@ to get to my hostel.
 Trek or hike shorter routes near the base.  
 If you’re not climbing fully, there are beautiful day trails around **Ruboni Village**.
 Otherwise, try to get to a good altitude to see the unique plants.
+
+For the full mountain rather than my short visit, [this seven-day Rwenzori trek to Margherita Peak is a long GetYourGuide option (affiliate link)](https://www.getyourguide.com/uganda-l169189/9-days-rwenzori-trek-to-margherita-peak-in-uganda-t414530/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not use that operator.
 
 ---
 

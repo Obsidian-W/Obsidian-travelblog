@@ -9,6 +9,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > Let's explore Tanzania and the best safaris!
 > 
 > This is an excerpt from a longer article
@@ -80,6 +82,8 @@ Anyway, use the afternoon to get oriented, withdraw a good amount of cash, **VER
 and check a few safari agencies.  I like to do my "shopping" with local agencies, even though prices are pretty much aligned.
 
 More tips here (I'm lazy, I won't C-Paste my content): [Tips for Cheap Safaris](/blog/tips-cheap-safaris).
+
+I booked my safari locally. [This three-day Tarangire, Ngorongoro and Lake Manyara safari follows the same park sequence (affiliate link)](https://www.getyourguide.com/arusha-l505/arusha-3-day-safari-to-tarangire-ngorongoro-lake-manyara-t834536/?partner_id=H1N6CGH&utm_medium=online_publisher), but I did not use that operator.
 *Join a group with a local operator: it's easy to arrange last minute, and you can get three-days safaris under 500€.*
 
 
@@ -166,6 +170,8 @@ I went in the later afternoon, it was a hard mistake. Always arrive at your dest
 ## Day 6 Moshi
 
 Shaken by the event of the day before I just went on a half-day hike around **Materuni Falls**, at the foot of Mount Kilimanjaro.  
+
+If you want the waterfall, coffee visit and transport arranged, [this Materuni Falls tour from Moshi is an alternative (affiliate link)](https://www.getyourguide.com/moshi-l32320/moshi-materuni-waterfalls-chemka-hot-springs-coffee-tour-t599387/?partner_id=H1N6CGH&utm_medium=online_publisher). I booked locally and did not use this operator.
 I met a nice man, that helped me immensely and spent time with his family. A nice "tuk-tuk" driver with a heart of Gold.
 I also switched hotel and found a safer place.
 
@@ -251,6 +257,8 @@ then spend the afternoon on one of the nearby sandbanks or beaches.
 I found a local agency at the fort with good tours, they were a blast to speak with (Jambo tour or smth like that) and where
 neatly organized.
 
+[This Prison Island, Stone Town and spice-farm combination is an advance-booking alternative (affiliate link)](https://www.getyourguide.com/zanzibar-city-l872/31-tour-prison-island-stone-ton-spice-farm-t632437/?partner_id=H1N6CGH&utm_medium=online_publisher). It combines my next two days into one; I preferred doing them separately with the local agency I found at the fort.
+
 (If you want more comfort and relaxation, base yourself in **Nungwi** or **Paje** for the next days. I heard good things, except for the male prostitutes)
 
 ---
@@ -287,6 +295,8 @@ They also have another location in Dar, I definitely recommend it.
 
 I spent the evening relaxing and shopping for tours to Kilwa Kisiwani.
 I ended up going with the tourism information center, this was the most obvious choice.
+
+I could not find a current GetYourGuide tour that actually visits Kilwa Kisiwani. Do not substitute a generic Zanzibar or Dar es Salaam listing: arrange the boat, guide and ruins visit through the Kilwa tourism office as I did.
 
 ---
 

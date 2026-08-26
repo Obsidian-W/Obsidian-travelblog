@@ -9,6 +9,8 @@ continents: ["Asia"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
+
 
 > Disclaimer: Don't speak about politics.
 
@@ -20,6 +22,10 @@ draft: false
 > towards halcyon days of the future outshining the remnants of the past.
 > This article is part of a longer one through the Himalaya
 > This was a guided tour, but I leave it open for those that can travel freely
+
+I booked [this exact TibetVista Lhasa-to-Kathmandu overland tour](https://www.tibettravel.org/lhasa-to-kathmandu-overland/). I can guarantee that I loved it: TibetVista was absolutely amazing. That direct TibetVista link is not an affiliate link.
+
+If you prefer GetYourGuide, [this eight-day Lhasa-to-Everest Base Camp tour is the closest alternative I found (affiliate link)](https://www.getyourguide.com/lhasa-l1057/8-days-lhasa-to-everest-base-camp-with-tibet-travel-permit-t1121389/?partner_id=H1N6CGH&utm_medium=online_publisher). It returns to Lhasa instead of continuing to Kathmandu, I did not take it, and I may earn money if you book through that specific link. For my route, I still prefer TibetVista.
 
 \_\_\_\_  
 

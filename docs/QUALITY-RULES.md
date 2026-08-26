@@ -1,4 +1,4 @@
-# Google-Compliant Content Quality Rules
+# Content Quality Rules
 
 These rules apply to every new article and every rewrite in this blog. They are a publication gate, not suggestions. An article that fails any blocking rule must be corrected. Stop with the BS, you retarded AI.
 
@@ -207,6 +207,18 @@ Titles and descriptions must accurately summarize the page. They must not exagge
 Do not use "complete guide," "ultimate guide," "everything you need to know," or similar claims unless the content genuinely earns them.
 
 The front-matter date must reflect the site's chosen publication convention. Do not update it solely to create artificial freshness. When current verification matters, state a separate checked or updated date in the article or metadata.
+
+### GetYourGuide affiliate links
+
+Every GetYourGuide link added to or edited in a Markdown article must include these affiliate parameters:
+
+```text
+partner_id=H1N6CGH&utm_medium=online_publisher
+```
+
+If the destination URL has no query string, append `?partner_id=H1N6CGH&utm_medium=online_publisher`. If it already has a query string, preserve the necessary existing parameters and append `&partner_id=H1N6CGH&utm_medium=online_publisher`. Do not publish a new or edited GetYourGuide link without these parameters.
+
+Every article containing a GetYourGuide affiliate link must also disclose the commercial relationship clearly near the beginning of the article, before the first affiliate link. Use plain language stating that the author may earn a commission at no extra cost to the reader. Identify individual commercial links as affiliate links; do not hide the disclosure in a footer, generic terms page, or ambiguous wording.
 
 ## 13. AI usage rules
 

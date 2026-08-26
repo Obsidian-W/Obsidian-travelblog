@@ -8,6 +8,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 Safaris have a reputation for being insanely expensive.  
 I'll tell you how to afford it easily.
 
@@ -33,6 +35,14 @@ But if you're flexible and book locally, you can get a proper multi-day safari f
 Local agencies are the key.  
 For example, in **Arusha (Tanzania)**, there's an agency literally next to the *Arusha Backpackers Hostel*. I walked in and had a tour booked within hours.  
 Otherwise, it's Africa, everyone knows a guy. People will even approach you, just wait and pick the best option, lol.
+
+If you want the price and itinerary fixed before you arrive, these are reasonable packaged alternatives:
+
+- [Three-day Tarangire, Ngorongoro and Lake Manyara safari from Arusha (affiliate link)](https://www.getyourguide.com/arusha-l505/arusha-3-day-safari-to-tarangire-ngorongoro-lake-manyara-t834536/?partner_id=H1N6CGH&utm_medium=online_publisher).
+- [Three-day Murchison Falls safari from Kampala (affiliate link)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher).
+- [Nairobi National Park full- or half-day safari (affiliate link)](https://www.getyourguide.com/en-gb/nairobi-l267/nairobi-national-park-full-day-of-half-day-tour-with-guide-t11393/?partner_id=H1N6CGH&utm_medium=online_publisher).
+
+I did not book these specific operators. Treat their prices as the convenient pre-booking option, then compare them with local quotes before deciding.
 
 ---
 

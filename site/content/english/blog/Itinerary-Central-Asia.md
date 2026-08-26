@@ -9,6 +9,8 @@ continents: ["Asia"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > Kazakhstan → Kyrgyzstan → Tajikistan → Uzbekistan → Turkmenistan  
 >  
 > Two months, five countries, deserts, mountains, and Silk Road legends.  
@@ -127,7 +129,8 @@ A striking Soviet influence is visible in large avenues, dilapidated buildings, 
 The morning is ideal for exploring the coast. Take a walk along the **Skalnaya Tropa Promenade**, a 1.5km scenic path along the cliffs, perfect for morning photos. Spot the **Melovoy Lighthouse**, built atop a residential building, and visit city landmarks like the Ship Statue and the monument to Ukrainian writer Taras Shevchenko.  
 
 Aktau serves as the gateway to the Mangystau region. Use the afternoon to book a tour to Mangystau.
-I personally used RedMaya Travel.
+I personally used [RedMaya Travel](https://redmaya-travel.kz/english). That direct link is not an affiliate link.
+They are my first recommendation. If they are unavailable, [this three-day Mangystau jeep and camping tour is a GetYourGuide alternative (affiliate link)](https://www.getyourguide.com/mangystau-l191788/aktau-3-day-mangystau-jeep-tour-with-camping-t1131777/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not take that specific tour.
 If you have more time in the city, do visit the mosque, the memorial and spot the countless soviet murals on the walls.
 
 ---
@@ -239,6 +242,8 @@ Conversely, at sunset, the scenery is spectacular, at least and at last, a good 
 
 Book one of the numerous tour to get out of the city, especially one for Kolsai, Kaindy and the charyn canyon.
 
+[This two-day Charyn Canyon, Kolsai and Kaindy Lakes tour (affiliate link)](https://www.getyourguide.com/en-gb/almaty-city-l1414/kolsai-kaindy-lakes-and-charyn-canyon-2-day-small-group-tour-t489855/?partner_id=H1N6CGH&utm_medium=online_publisher) gives the route the time I wish my one-day trip had. I did not use this operator.
+
 > Two days is better than one, I did it in one, it wasn't great. Everything was rushed and my group was super slow.
 
 The first step is **Lake Kolsai**, a beautiful lake born from an earthquake, amidst a pine forest.
@@ -325,6 +330,8 @@ On the final day, descend towards a lush village valley, with Song-Kul fading be
 
 It was my first multi days hike on a horse, it was truly something.
 I hate horses, but someone roped me into going, so I spent three days on a fart machine that did whatever he wanted.
+
+My ride crossed from Kyzart to Song-Kul, and I booked it separately. The closest bookable alternative I found is [this three-day Song-Kul trip with a yurt stay and horse riding (affiliate link)](https://www.getyourguide.com/bishkek-l1420/the-issyk-kul-lake-barskoon-waterfalls-canyons2-days-t519105/?partner_id=H1N6CGH&utm_medium=online_publisher). It is not the same route and includes only a shorter horse ride, so do not book it expecting my exact three-day trek.
 **Great**!
 
 ---
@@ -393,6 +400,8 @@ It was around 20€ for the privilege.
 Don't waste time there it's essentially just a starting point to the Pamir Highway or to Peak Lenin.
 
 Prepare for the **Pamir Highway**, a 7-day jeep journey through Gorno-Badakhshan toward Dushanbe. Afternoon briefing, then departure through arid mountains separating Fergana Valley from Alay Valley.
+
+I took a seven-day one-way trip from Osh to Dushanbe. For a bookable alternative, [this ten-day, nine-night Pamir Highway tour from Dushanbe (affiliate link)](https://www.getyourguide.com/dushanbe-l1451/pamir-highway-round-trip-tour-southern-northern-corridor-t626352/?partner_id=H1N6CGH&utm_medium=online_publisher) covers both the southern and northern corridors. It is a round trip rather than the one-way route I took, and I did not use that company, so compare the included accommodation and GBAO permit handling carefully.
 
 ![Trip](images/blog/pamir1.jpg)
 

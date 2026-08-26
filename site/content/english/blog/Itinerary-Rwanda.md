@@ -9,6 +9,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > Let's explore Rwanda, the most advanced african country
 > 
 > This is an excerpt from a longer article, so it's a bit short.
@@ -95,6 +97,8 @@ You can (and should?) book through the VisitRwanda Website.
 
 The hike to Mount Bisoke is 65€/75$ (August 2026).
 
+I arranged the hike at the park. If you want transport, permit and guide organised from Kigali, [this Mount Bisoke day hike is the corresponding GetYourGuide option (affiliate link)](https://www.getyourguide.com/volcanoes-national-park-rwanda-l144502/1-day-hiking-bisoke-volcano-t528173/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not use that operator.
+
 
 Gorilla trekking is 1300€/1500$ for a day.
 Yes, it's expensive.
@@ -108,6 +112,8 @@ East African Community (EAC) Citizens (including Rwanda): $200 USD
 
 > Careful of the gorilla scam, locals will tell you they have a way to see gorillas for "cheap".
 > Apparently, there will never be gorillas. I don't fall into scams, so I didn't check.
+
+For the official, expensive version with transport from Kigali, [this one-day Volcanoes National Park gorilla trek is an advance-booking option (affiliate link)](https://www.getyourguide.com/rwanda-l169163/1-day-rwanda-gorilla-trekking-volcanoes-national-park-t854178/?partner_id=H1N6CGH&utm_medium=online_publisher). The listing states that the US$1,500 gorilla permit is separate, so include it when comparing the final price. I did not take this tour.
 
 ---
 

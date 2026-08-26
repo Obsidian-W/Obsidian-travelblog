@@ -9,6 +9,8 @@ ai_generated: true
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
+
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
 Operational transport and permit-related details were checked in August 2026 where stated.
@@ -31,9 +33,9 @@ Before you pay for flights or trains, confirm the exact permit package with the 
 
 Useful rule: plan the route first, then book the transport that matches the approved route.
 
-I booked from this company:
-https://www.tibettravel.org/lhasa-to-kathmandu-overland/
-And this exact linked tour. (Link may change overttime)
+I booked [this exact Lhasa-to-Kathmandu overland tour with TibetVista](https://www.tibettravel.org/lhasa-to-kathmandu-overland/). I can guarantee that I loved it: TibetVista was absolutely amazing. That TibetVista link is not an affiliate link. (The tour URL may change over time.)
+
+If you prefer GetYourGuide, [this eight-day Lhasa-to-Everest Base Camp tour is the closest alternative I found (affiliate link)](https://www.getyourguide.com/lhasa-l1057/8-days-lhasa-to-everest-base-camp-with-tibet-travel-permit-t1121389/?partner_id=H1N6CGH&utm_medium=online_publisher). It returns to Lhasa rather than continuing to Kathmandu, I did not take it, and I may earn money if you book through that specific link. I still prefer the TibetVista trip I actually took.
 
 
 ## Getting to Lhasa

@@ -8,6 +8,8 @@ continents: ["Africa"]
 draft: false
 ---
 
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+
 > This list has been compiled based on commonalities across the highly diverse African continent.
 It sums up the tools and tricks that are often crucial, especially when moving between different countries and cultures. **Always check country-specific advice!**
 
@@ -79,6 +81,19 @@ A black market for conversion exists in most countries. It also works in Euro in
 ---
 
 ## Other Notes
+
+## Popular tours to use as planning benchmarks
+
+These are bookable options for some of the major trips discussed elsewhere on this site. I did not use these specific operators unless an article explicitly says otherwise; the links are most useful for comparing routes, inclusions and advance-booking prices against local offers.
+
+- [Three-day northern Tanzania safari from Arusha (affiliate link)](https://www.getyourguide.com/arusha-l505/arusha-3-day-safari-to-tarangire-ngorongoro-lake-manyara-t834536/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Three-day Simien Mountains trek from Gondar (affiliate link)](https://www.getyourguide.com/gondar-l1965/3-days-adventure-of-wildlife-spotting-trekking-simien-moun-t603334/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Four-day Omo Valley tour from Arba Minch (affiliate link)](https://www.getyourguide.com/addis-ababa-l1085/omo-valley-4-day-cultural-tour-to-remote-tribes-villages-t801604/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Three-day Murchison Falls safari from Kampala (affiliate link)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Seven-day Rwenzori trek to Margherita Peak (affiliate link)](https://www.getyourguide.com/uganda-l169189/9-days-rwenzori-trek-to-margherita-peak-in-uganda-t414530/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Eight-day Kilimanjaro climb by the Lemosho route (affiliate link)](https://www.getyourguide.com/kilimanjaro-l32590/8-days-kilimanjaro-climbing-itinerary-via-the-lemosho-route-t970896/?partner_id=H1N6CGH&utm_medium=online_publisher)
+
+I did not climb Kilimanjaro. A friend completed an eight-day climb booked through GetYourGuide, but I no longer have their exact listing. The Lemosho tour above uses the same duration; I cannot vouch for that operator.
 
 - **SIM Card**: Buying a local SIM card is cheap and vital for navigation, ride-hailing, and Mobile Money.
 - **Bus vs flights**: Flights are often expensive, but much quicker than bus. Notoriously slow and not as cheap as planned.
