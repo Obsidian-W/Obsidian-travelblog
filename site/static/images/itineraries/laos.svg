@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Laos route map</title>
+  <desc id="desc">Laos itinerary: Vientiane, Luang Prabang, Nong Khiaw, Muang Ngoi, Luang Namtha, Thakhek, Kong Lor, Pakse, Bolaven Plateau, Don Khon.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Laos</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M397.9,719.6 L385.2,651.6 L419.6,604.7 L488.8,594.0 L539.2,602.0 L583.4,624.1 L607.7,585.3 L655.2,606.0 L667.5,643.6 L661.0,711.2 L570.9,754.6 L594.4,788.7 L538.0,792.8 L491.7,815.5 L446.8,807.2 L425.2,777.9 L397.9,719.6 Z"><title>Cambodia</title></path>
+<path class="country" d="M539.2,602.0 L488.8,594.0 L419.6,604.7 L385.2,651.6 L397.9,719.6 L349.9,693.8 L304.0,694.8 L311.9,650.6 L264.6,650.9 L260.3,712.9 L231.4,795.2 L214.0,845.0 L217.7,885.8 L252.6,887.5 L274.4,939.0 L284.1,987.8 L314.0,1020.1 L346.4,1026.6 L374.2,1055.8 L356.6,1079.0 L321.3,1085.8 L317.1,1056.8 L273.3,1032.2 L264.0,1042.2 L242.8,1020.5 L233.7,992.7 L205.2,960.8 L179.1,934.1 L170.4,967.2 L160.2,935.9 L166.0,900.7 L181.8,846.7 L207.9,788.8 L237.2,736.2 L216.3,684.8 L217.1,658.7 L210.9,627.2 L175.2,582.4 L162.5,554.1 L181.0,543.7 L200.5,494.7 L178.7,457.5 L144.6,416.4 L118.7,366.9 L141.3,356.6 L165.8,295.7 L203.6,293.2 L234.9,268.8 L265.6,255.7 L288.7,273.1 L291.8,306.9 L328.1,309.5 L315.0,369.0 L316.1,419.5 L372.7,385.8 L388.7,395.8 L420.1,394.1 L430.9,374.6 L471.5,378.4 L512.2,424.2 L515.7,479.8 L558.9,528.9 L556.6,576.6 L539.2,602.0 Z"><title>Thailand</title></path>
+<path class="country" d="M655.2,606.0 L607.7,585.3 L583.4,624.1 L539.2,602.0 L556.6,576.6 L558.9,528.9 L515.7,479.8 L512.2,424.2 L471.5,378.4 L430.9,374.6 L420.1,394.1 L388.7,395.8 L372.7,385.8 L316.1,419.5 L315.0,369.0 L328.1,309.5 L291.8,306.9 L288.7,273.1 L265.6,255.7 L276.9,234.9 L322.7,198.3 L327.5,211.5 L356.1,213.1 L348.0,148.6 L375.7,140.4 L407.0,184.8 L431.1,236.1 L497.1,236.5 L518.0,285.7 L483.6,300.5 L468.2,320.7 L532.4,354.4 L577.0,421.0 L610.8,470.7 L651.3,509.9 L664.8,549.7 L655.2,606.0 Z"><title>Laos</title></path>
+<path class="country" d="M491.7,815.5 L538.0,792.8 L594.4,788.7 L570.9,754.6 L661.0,711.2 L667.5,643.6 L655.2,606.0 L664.8,549.7 L651.3,509.9 L610.8,470.7 L577.0,421.0 L532.4,354.4 L468.2,320.7 L483.6,300.5 L518.0,285.7 L497.1,236.5 L431.1,236.1 L407.0,184.8 L375.7,140.4 L404.5,126.5 L447.2,126.8 L499.4,120.3 L545.0,90.3 L570.9,111.5 L619.9,121.8 L611.4,154.2 L636.9,177.1 L690.9,191.8 L619.3,240.0 L574.7,293.2 L562.9,332.3 L603.9,391.8 L654.0,465.4 L702.7,500.2 L735.3,545.5 L759.8,649.8 L752.6,748.9 L707.9,786.0 L646.5,822.4 L602.7,869.3 L535.9,921.8 L516.4,885.7 L531.5,847.5 L491.7,815.5 Z"><title>Vietnam</title></path>
+<path class="country" d="M767.3,380.9 L723.3,363.4 L721.8,314.9 L748.2,289.4 L806.9,273.6 L837.6,274.9 L849.5,296.5 L826.0,321.3 L813.6,353.8 L767.3,380.9 Z M-798.7,-980.5 L-803.0,-1012.6 L-766.3,-1027.3 L-814.6,-1125.2 L-708.4,-1147.7 L-680.8,-1160.2 L-642.2,-1261.1 L-535.9,-1242.6 L-506.0,-1268.1 L-503.5,-1324.6 L-459.1,-1329.9 L-418.2,-1367.4 L-397.1,-1372.1 L-383.0,-1332.7 L-338.1,-1302.8 L-261.7,-1281.6 L-224.6,-1236.2 L-245.3,-1170.4 L-226.0,-1146.0 L-162.3,-1136.3 L-90.1,-1128.4 L-25.3,-1093.3 L7.7,-1087.0 L32.2,-1035.1 L63.7,-1001.6 L122.8,-1003.0 L233.5,-990.3 L304.7,-998.1 L357.6,-989.7 L436.9,-955.5 L501.8,-955.6 L525.5,-938.0 L588.0,-968.3 L674.5,-987.9 L755.0,-990.0 L817.5,-1009.8 L856.1,-1040.0 L893.5,-1059.0 L884.8,-1077.6 L867.7,-1099.2 L895.8,-1135.6 L925.9,-1130.5 L981.1,-1119.1 L1034.6,-1148.9 L1116.2,-1170.8 L1155.6,-1208.1 L1193.2,-1224.1 L1271.2,-1231.5 L1313.4,-1225.3 L1319.2,-1245.3 L1270.8,-1284.7 L1227.8,-1302.7 L1186.5,-1281.8 L1133.6,-1290.6 L1103.3,-1283.5 L1089.4,-1306.5 L1127.4,-1362.8 L1153.5,-1405.4 L1217.7,-1384.1 L1293.4,-1419.7 L1292.8,-1444.5 L1341.2,-1504.3 L1371.1,-1522.3 L1370.4,-1553.4 L1341.0,-1566.9 L1385.2,-1594.9 L1451.8,-1605.0 L1523.0,-1606.6 L1603.1,-1589.8 L1650.2,-1569.1 L1683.4,-1512.2 L1703.5,-1488.0 L1722.2,-1453.4 L1742.0,-1398.1 L1835.3,-1380.1 L1898.7,-1340.0 L1920.4,-1287.1 L2002.0,-1287.0 L2048.3,-1309.2 L2136.9,-1325.9 L2108.7,-1275.1 L2088.1,-1254.5 L2069.5,-1192.8 L2033.6,-1138.0 L1968.4,-1147.9 L1922.5,-1128.0 L1936.6,-1079.8 L1928.9,-1013.2 L1901.4,-1011.7 L1901.8,-983.0 L1867.3,-1016.2 L1845.9,-984.7 L1763.1,-960.4 L1771.6,-930.7 L1725.1,-932.8 L1699.8,-950.4 L1662.9,-910.4 L1603.9,-880.1 L1560.1,-843.9 L1485.2,-827.6 L1445.8,-801.2 L1387.9,-785.8 L1416.5,-812.0 L1405.3,-833.9 L1447.8,-871.8 L1419.4,-901.4 L1372.7,-881.4 L1312.1,-842.2 L1279.1,-805.9 L1226.6,-803.1 L1199.2,-776.9 L1227.6,-738.7 L1271.4,-729.5 L1273.1,-704.2 L1315.6,-687.7 L1375.6,-727.9 L1423.2,-706.0 L1457.8,-704.6 L1466.5,-675.0 L1390.6,-659.3 L1365.5,-628.8 L1313.4,-600.6 L1286.0,-561.1 L1343.7,-530.1 L1364.8,-474.7 L1397.4,-423.0 L1433.9,-379.7 L1432.9,-337.9 L1399.3,-322.5 L1412.1,-292.4 L1443.7,-274.9 L1435.4,-229.0 L1421.7,-184.4 L1391.8,-179.3 L1352.6,-118.2 L1309.2,-44.3 L1259.4,22.9 L1185.7,74.9 L1111.2,122.4 L1050.8,128.9 L1018.0,153.9 L999.5,135.6 L969.2,163.7 L894.3,191.9 L837.6,200.5 L819.2,260.0 L789.5,263.3 L775.4,222.4 L788.1,200.7 L716.2,182.6 L690.9,191.8 L636.9,177.1 L611.4,154.2 L619.9,121.8 L570.9,111.5 L545.0,90.3 L499.4,120.3 L447.2,126.8 L404.5,126.5 L375.7,140.4 L348.0,148.6 L356.1,213.1 L327.5,211.5 L322.7,198.3 L320.9,175.0 L281.8,191.4 L258.4,181.0 L218.7,159.8 L234.3,113.1 L200.3,102.1 L187.6,50.2 L131.1,59.6 L137.4,-7.3 L188.2,-54.3 L190.3,-100.8 L188.8,-143.9 L165.4,-157.4 L147.5,-190.6 L116.2,-186.4 L58.3,-194.9 L76.4,-218.5 L51.4,-253.5 L13.1,-229.8 L-31.8,-243.6 L-93.8,-207.7 L-142.4,-165.8 L-185.6,-158.8 L-209.2,-174.0 L-237.5,-175.3 L-275.8,-188.4 L-304.7,-174.1 L-340.2,-132.2 L-344.6,-176.5 L-377.5,-164.7 L-440.0,-170.1 L-500.6,-183.1 L-544.0,-207.8 L-585.7,-219.0 L-603.6,-246.1 L-633.9,-254.1 L-688.0,-290.8 L-731.0,-308.2 L-753.2,-294.7 L-827.7,-334.1 L-880.4,-369.8 L-895.4,-431.9 L-856.8,-424.4 L-855.1,-453.1 L-876.5,-482.0 L-871.1,-528.0 L-928.6,-594.0 L-1016.8,-616.8 L-1032.6,-660.1 L-1072.2,-686.4 L-1081.8,-702.6 L-1089.9,-734.7 L-1088.0,-756.7 L-1120.6,-769.4 L-1138.2,-763.8 L-1151.7,-815.9 L-1136.4,-828.9 L-1144.0,-842.0 L-1092.6,-868.7 L-1055.6,-879.7 L-998.8,-872.1 L-978.6,-908.1 L-909.9,-914.8 L-890.8,-937.1 L-806.3,-967.7 L-798.7,-980.5 Z"><title>China</title></path>
+    
+    <path class="route-halo" d="M400.4,393.1 L374.1,285.5 L399.3,247.1 L403.0,239.3 L334.4,225.7 L518.3,425.3 L514.0,394.8 L570.3,554.3 L594.4,549.8 L576.7,619.7" />
+    <path class="route" d="M400.4,393.1 L374.1,285.5 L399.3,247.1 L403.0,239.3 L334.4,225.7 L518.3,425.3 L514.0,394.8 L570.3,554.3 L594.4,549.8 L576.7,619.7" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Vientiane" transform="translate(400.4 393.1)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Vientiane</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Luang Prabang" transform="translate(374.1 285.5)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Luang Prabang</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="Nong Khiaw" transform="translate(399.3 247.1)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Nong Khiaw</title>
+    </g>
+<g class="stop stop-link" data-section="5" data-stop-name="Muang Ngoi" transform="translate(403.0 239.3)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Muang Ngoi</title>
+    </g>
+<g class="stop stop-link" data-section="6" data-stop-name="Luang Namtha" transform="translate(334.4 225.7)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Luang Namtha</title>
+    </g>
+<g class="stop stop-link" data-section="10" data-stop-name="Thakhek" transform="translate(518.3 425.3)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Thakhek</title>
+    </g>
+<g class="stop stop-link" data-section="11" data-stop-name="Kong Lor" transform="translate(514.0 394.8)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Kong Lor</title>
+    </g>
+<g class="stop stop-link" data-section="12" data-stop-name="Pakse" transform="translate(570.3 554.3)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Pakse</title>
+    </g>
+<g class="stop stop-link" data-section="14" data-stop-name="Bolaven Plateau" transform="translate(594.4 549.8)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Bolaven Plateau</title>
+    </g>
+<g class="stop stop-link end" data-section="15" data-stop-name="Don Khon" transform="translate(576.7 619.7)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Don Khon</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Vientiane" x="412.4" y="383.1" text-anchor="start">Vientiane</text>
+<text class="place-label stop-link" data-section="2" data-stop-name="Luang Prabang" x="386.1" y="303.5" text-anchor="start">Luang Prabang</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="Nong Khiaw" x="411.3" y="237.1" text-anchor="start">Nong Khiaw</text>
+
+<text class="place-label stop-link" data-section="6" data-stop-name="Luang Namtha" x="346.4" y="215.7" text-anchor="start">Luang Namtha</text>
+<text class="place-label stop-link" data-section="10" data-stop-name="Thakhek" x="530.3" y="443.3" text-anchor="start">Thakhek</text>
+
+<text class="place-label stop-link" data-section="12" data-stop-name="Pakse" x="582.3" y="572.3" text-anchor="start">Pakse</text>
+
+<text class="place-label stop-link" data-section="15" data-stop-name="Don Khon" x="588.7" y="637.7" text-anchor="start">Don Khon</text>
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Vientiane" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Vientiane</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="2. Luang Prabang" transform="translate(900 199.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Luang Prabang</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="3. Nong Khiaw" transform="translate(900 253.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Nong Khiaw</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="4. Muang Ngoi" transform="translate(900 307.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Muang Ngoi</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="5. Luang Namtha" transform="translate(900 361.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Luang Namtha</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="10" data-stop-name="6. Thakhek" transform="translate(900 415.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Thakhek</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="11" data-stop-name="7. Kong Lor" transform="translate(900 469.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Kong Lor</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="12" data-stop-name="8. Pakse" transform="translate(900 523.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Pakse</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="14" data-stop-name="9. Bolaven Plateau" transform="translate(900 577.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Bolaven Plateau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="15" data-stop-name="10. Don Khon" transform="translate(900 631.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Don Khon</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+</svg>

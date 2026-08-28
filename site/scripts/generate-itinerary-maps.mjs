@@ -169,6 +169,11 @@ const routes = [
     title: "Azerbaijan",
     countries: ["Azerbaijan", "Georgia", "Armenia", "Russia", "Iran"],
     bounds: [44.5, 38.3, 51.0, 42.7],
+    countryLabels: [
+      P("RUSSIA", 42.45, 48.0), P("GEORGIA", 42.0, 45.1),
+      P("ARMENIA", 40.2, 45.0), P("IRAN", 38.75, 47.2),
+      P("AZERBAIJAN", 39.75, 47.8),
+    ],
     points: [
       P("Baku", 40.41, 49.87), P("Qobustan", 40.09, 49.41, false),
       P("Xinaliq", 41.18, 48.13), P("Sheki", 41.2, 47.17),
@@ -179,6 +184,7 @@ const routes = [
   {
     slug: "georgia",
     title: "Georgia",
+    preserveExistingMap: true,
     countries: ["Georgia", "Armenia", "Azerbaijan", "Russia", "Turkey"],
     bounds: [39.8, 40.7, 47.8, 43.7],
     points: [
@@ -191,6 +197,7 @@ const routes = [
   {
     slug: "armenia",
     title: "Armenia",
+    preserveExistingMap: true,
     countries: ["Armenia", "Georgia", "Azerbaijan", "Turkey", "Iran"],
     bounds: [42.8, 38.5, 47.0, 41.6],
     points: [
@@ -224,6 +231,215 @@ const routes = [
     sectionIndexes: [0, 1, 2, 4, 6, 8, 8, 11, 13, 14, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
     groups: ["Aktau · Mangystau", "Astana · Almaty", "Almaty day trips", "Bishkek · Song-Kul", "Karakol · Osh", "Pamir Highway", "Dushanbe · Khujand", "Tashkent · Samarkand", "Bukhara · Khiva · Nukus", "Konye-Urgench · Ashgabat"],
     groupSections: [0, 4, 6, 11, 14, 20, 25, 28, 30, 33],
+  },
+  {
+    slug: "tajikistan",
+    title: "Tajikistan",
+    countries: ["Tajikistan", "Kyrgyzstan", "Uzbekistan", "Afghanistan", "China"],
+    bounds: [66.2, 36.2, 75.5, 41.4],
+    countryLabels: [
+      P("UZBEKISTAN", 39.5, 66.9), P("KYRGYZSTAN", 40.9, 72.5),
+      P("CHINA", 38.7, 75.0), P("AFGHANISTAN", 36.7, 70.3),
+      P("TAJIKISTAN", 39.4, 70.5),
+    ],
+    points: [
+      P("Karakul", 39.02, 73.53), P("Murghab", 38.17, 73.97),
+      P("Langar", 37.05, 72.68), P("Yamchun", 36.7, 71.84),
+      P("Khorog", 37.49, 71.55), P("Kalaikhum", 38.47, 70.79),
+      P("Dushanbe", 38.56, 68.78), P("Panjakent", 39.5, 67.61),
+      P("Seven Lakes", 39.16, 67.8), P("Khujand", 40.28, 69.63),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 3, 4, 5, 6, 7, 9],
+  },
+  {
+    slug: "mexico",
+    title: "Mexico",
+    countries: ["Mexico", "Guatemala", "Belize"],
+    bounds: [-100.5, 15.0, -86.0, 22.5],
+    points: [
+      P("Mexico City", 19.43, -99.13), P("Puebla", 19.04, -98.2),
+      P("Oaxaca", 17.06, -96.73), P("San Cristobal", 16.74, -92.64),
+      P("Palenque", 17.51, -91.98), P("Merida", 20.97, -89.62),
+      P("Izamal", 20.93, -89.02, false), P("Valladolid", 20.69, -88.2),
+      P("Tulum", 20.17, -87.45), P("Cancun", 21.16, -86.85),
+    ],
+    sectionIndexes: [0, 3, 4, 6, 8, 10, 11, 12, 14, 16],
+  },
+  {
+    slug: "peru",
+    title: "Peru",
+    countries: ["Peru", "Ecuador", "Colombia", "Brazil", "Bolivia", "Chile"],
+    bounds: [-82.0, -19.0, -67.0, 1.0],
+    points: [
+      P("Lima", -12.06, -77.04), P("Huaraz", -9.53, -77.53),
+      P("Trujillo", -8.11, -79.03), P("Paracas", -13.84, -76.25),
+      P("Ica", -14.06, -75.73, false), P("Nazca", -14.83, -74.94, false),
+      P("Arequipa", -16.4, -71.54), P("Cusco", -13.52, -71.98),
+      P("Machu Picchu", -13.16, -72.55, false), P("Puerto Maldonado", -12.59, -69.19),
+      P("Puno", -15.84, -70.03), P("Copacabana", -16.17, -69.09, false),
+    ],
+    sectionIndexes: [0, 1, 5, 7, 8, 9, 10, 12, 18, 20, 24, 25],
+  },
+  {
+    slug: "bolivia",
+    title: "Bolivia",
+    countries: ["Bolivia", "Peru", "Brazil", "Paraguay", "Argentina", "Chile"],
+    bounds: [-71.5, -24.0, -56.5, -9.0],
+    points: [
+      P("La Paz", -16.5, -68.13), P("Torotoro", -18.13, -65.77),
+      P("Cochabamba", -17.39, -66.16), P("Sucre", -19.05, -65.26),
+      P("Potosi", -19.59, -65.75), P("Uyuni", -20.46, -66.82),
+      P("San Pedro de Atacama", -22.91, -68.2, false),
+    ],
+    sectionIndexes: [2, 5, 3, 7, 10, 12, 15],
+  },
+  {
+    slug: "chile",
+    title: "Chile",
+    countries: ["Chile", "Argentina", "Bolivia", "Peru"],
+    bounds: [-76.0, -56.5, -63.0, -17.0],
+    points: [
+      P("San Pedro de Atacama", -22.91, -68.2), P("Santiago", -33.44, -70.65),
+      P("Punta Arenas", -53.16, -70.91), P("Puerto Natales", -51.73, -72.51),
+    ],
+    sectionIndexes: [0, 3, 4, 5],
+  },
+  {
+    slug: "south-america",
+    title: "South America",
+    countries: ["Peru", "Bolivia", "Chile", "Argentina"],
+    bounds: [-82.0, -56.5, -63.0, -7.0],
+    points: [
+      P("Lima", -12.06, -77.04), P("Huaraz", -9.53, -77.53),
+      P("Trujillo", -8.11, -79.03, false), P("Paracas", -13.84, -76.25),
+      P("Ica", -14.06, -75.73, false), P("Nazca", -14.83, -74.94, false),
+      P("Arequipa", -16.4, -71.54), P("Cusco", -13.52, -71.98),
+      P("Machu Picchu", -13.16, -72.55, false), P("Puerto Maldonado", -12.59, -69.19),
+      P("Puno", -15.84, -70.03), P("Copacabana", -16.17, -69.09, false),
+      P("La Paz", -16.5, -68.13), P("Torotoro", -18.13, -65.77, false),
+      P("Cochabamba", -17.39, -66.16, false), P("Sucre", -19.05, -65.26),
+      P("Potosi", -19.59, -65.75, false), P("Uyuni", -20.46, -66.82),
+      P("San Pedro de Atacama", -22.91, -68.2), P("Santiago", -33.44, -70.65),
+      P("Punta Arenas", -53.16, -70.91), P("Puerto Natales", -51.73, -72.51, false),
+      P("El Calafate", -50.34, -72.27),
+    ],
+    sectionIndexes: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3],
+    groups: ["Lima", "Huaraz · Trujillo", "Paracas · Ica · Nazca", "Arequipa", "Cusco · Machu Picchu", "Puerto Maldonado · Titicaca", "La Paz · Torotoro", "Cochabamba · Sucre · Potosi", "Uyuni · Atacama", "Santiago · Patagonia"],
+    groupSections: [0, 0, 0, 0, 0, 0, 1, 1, 1, 2],
+  },
+  {
+    slug: "vietnam",
+    title: "Vietnam",
+    countries: ["Vietnam", "Laos", "Cambodia", "China"],
+    bounds: [102.0, 8.0, 110.5, 24.0],
+    points: [
+      P("Hanoi", 21.03, 105.85), P("Ha Long", 20.95, 107.08),
+      P("Ninh Binh", 20.25, 105.98), P("Ha Giang", 22.83, 104.98),
+      P("Hue", 16.46, 107.59), P("An Bang", 16.45, 107.8, false),
+      P("Da Nang", 16.07, 108.21), P("Hoi An", 15.88, 108.33),
+      P("Ho Chi Minh City", 10.78, 106.7), P("Phu Quoc", 10.22, 103.99),
+    ],
+    sectionIndexes: [0, 6, 9, 2, 11, 13, 14, 16, 18, 22],
+  },
+  {
+    slug: "india",
+    title: "Northern India",
+    countries: ["India", "Nepal", "Bangladesh", "Bhutan", "Pakistan"],
+    bounds: [74.5, 22.0, 89.5, 31.5],
+    points: [
+      P("Sonauli border", 27.47, 83.47), P("Gorakhpur", 26.76, 83.37, false),
+      P("Varanasi", 25.32, 82.97), P("Sarnath", 25.38, 83.02, false),
+      P("Agra", 27.18, 78.01), P("Delhi", 28.61, 77.21),
+    ],
+    sectionIndexes: [0, 0, 0, 2, 3, 4],
+  },
+  {
+    slug: "nepal",
+    title: "Nepal",
+    countries: ["Nepal", "India", "China", "Bhutan", "Bangladesh"],
+    bounds: [79.5, 25.5, 89.5, 31.0],
+    points: [
+      P("Gyirong border", 28.28, 85.38), P("Kathmandu", 27.72, 85.32),
+      P("Bhaktapur", 27.67, 85.43), P("Nagarkot", 27.72, 85.52, false),
+      P("Patan", 27.67, 85.32), P("Lumbini", 27.48, 83.28),
+      P("Sonauli border", 27.47, 83.47, false),
+    ],
+    sectionIndexes: [0, 0, 1, 1, 3, 4, 4],
+  },
+  {
+    slug: "laos",
+    title: "Laos",
+    countries: ["Laos", "Thailand", "Cambodia", "Vietnam", "China"],
+    bounds: [99.5, 12.5, 107.5, 23.5],
+    points: [
+      P("Vientiane", 17.98, 102.63), P("Luang Prabang", 19.89, 102.14),
+      P("Nong Khiaw", 20.57, 102.61),
+      P("Muang Ngoi", 20.71, 102.68, false), P("Luang Namtha", 20.95, 101.4),
+      P("Thakhek", 17.41, 104.83), P("Kong Lor", 17.95, 104.75, false),
+      P("Pakse", 15.12, 105.8), P("Bolaven Plateau", 15.2, 106.25, false),
+      P("Don Khon", 13.96, 105.92),
+    ],
+    sectionIndexes: [0, 2, 4, 5, 6, 10, 11, 12, 14, 15],
+  },
+  {
+    slug: "philippines",
+    title: "The Philippines",
+    countries: ["Philippines"],
+    bounds: [116.5, 7.0, 126.5, 19.5],
+    points: [
+      P("Manila", 14.59, 120.98), P("Banaue", 16.91, 121.06),
+      P("Cebu City", 10.29, 123.9), P("Panglao", 9.58, 123.75),
+    ],
+    sectionIndexes: [0, 2, 4, 6],
+  },
+  {
+    slug: "taiwan",
+    title: "Taiwan",
+    countries: ["Taiwan"],
+    bounds: [119.5, 21.5, 122.5, 25.6],
+    points: [
+      P("Taipei", 25.04, 121.56), P("Hualien", 23.98, 121.61),
+      P("Kaohsiung", 22.62, 120.31), P("Taichung", 24.16, 120.65),
+      P("Sun Moon Lake", 23.86, 120.92),
+    ],
+    sectionIndexes: [0, 3, 5, 7, 8],
+  },
+  {
+    slug: "new-zealand",
+    title: "New Zealand",
+    countries: ["New Zealand"],
+    bounds: [165.0, -48.0, 179.5, -34.0],
+    points: [
+      P("Auckland", -36.85, 174.76), P("Tongariro", -39.24, 175.54),
+      P("Wellington", -41.29, 174.78), P("Nelson", -41.27, 173.28),
+      P("Franz Josef", -43.39, 170.18), P("Queenstown", -45.03, 168.66),
+      P("Te Anau", -45.41, 167.72), P("Christchurch", -43.53, 172.64),
+    ],
+    sectionIndexes: [0, 1, 3, 5, 7, 8, 10, 11],
+  },
+  {
+    slug: "australia",
+    title: "Australia's Northern Territory",
+    countries: ["Australia"],
+    bounds: [128.0, -27.0, 139.0, -10.0],
+    points: [
+      P("Alice Springs", -23.7, 133.88), P("Uluru", -25.34, 131.04),
+      P("Darwin", -12.46, 130.84),
+    ],
+    sectionIndexes: [0, 1, 4],
+  },
+  {
+    slug: "indonesia",
+    title: "Java: Bali to Jakarta",
+    countries: ["Indonesia"],
+    bounds: [105.0, -9.5, 116.5, -5.0],
+    points: [
+      P("Ubud", -8.51, 115.26), P("Banyuwangi", -8.21, 114.37),
+      P("Probolinggo", -7.74, 113.22), P("Yogyakarta", -7.8, 110.36),
+      P("Temanggung", -7.32, 110.18), P("Semarang", -6.97, 110.42),
+      P("Jakarta", -6.18, 106.83),
+    ],
+    sectionIndexes: [0, 2, 4, 5, 8, 11, 12],
   },
 ];
 
@@ -354,6 +570,10 @@ function renderRoute(route) {
   const countryPaths = geometries.map((geometry) =>
     `<path class="country" d="${countryPath(geometry, project)}"><title>${escapeXml(geometry.properties.name)}</title></path>`,
   ).join("\n");
+  const countryLabels = (route.countryLabels ?? []).map((label) => {
+    const [x, y] = project([label.lon, label.lat]);
+    return `<text class="country-label" x="${x.toFixed(1)}" y="${y.toFixed(1)}">${escapeXml(label.name)}</text>`;
+  }).join("\n");
   const routePath = linePath(route.pathPoints ?? route.points, project, route.smoothPath);
   const dense = Boolean(route.groups);
   const seenCoordinates = new Set();
@@ -381,13 +601,14 @@ function renderRoute(route) {
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
   </defs>
   <style>
-    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
   </style>
   <rect class="background" width="1200" height="760" rx="24" />
   <text class="title" x="42" y="52">${escapeXml(route.title)}</text>
   <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
   <g clip-path="url(#map-clip)">
     ${countryPaths}
+    ${countryLabels}
     <path class="route-halo" d="${routePath}" />
     <path class="route" d="${routePath}" />
     ${markers}
@@ -402,7 +623,9 @@ function renderRoute(route) {
 
 fs.mkdirSync(outputDir, { recursive: true });
 for (const route of routes) {
-  fs.writeFileSync(path.join(outputDir, `${route.slug}.svg`), renderRoute(route), "utf8");
+  const outputPath = path.join(outputDir, `${route.slug}.svg`);
+  if (route.preserveExistingMap && fs.existsSync(outputPath)) continue;
+  fs.writeFileSync(outputPath, renderRoute(route), "utf8");
 }
 
 console.log(`Generated ${routes.length} itinerary maps in ${outputDir}`);

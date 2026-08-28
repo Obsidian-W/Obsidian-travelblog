@@ -1,28 +1,131 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-  <title id="title">Tajikistan route map</title><desc id="desc">Tajikistan itinerary route; positions are approximate.</desc>
-  <defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity=".16"/></filter></defs>
-  <style>.bg{fill:#f5f1e9}.frame{fill:#dce8ea}.land{fill:#ded8ca;stroke:#8b8a82;stroke-width:2}.halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:3;filter:url(#shadow)}.start circle{fill:#24735c}.end circle{stroke:#71312d}.stop text{font:700 10px Arial;fill:#fff;text-anchor:middle}.label,.summary{font:600 14px Arial;fill:#292824}.label{paint-order:stroke;stroke:#f5f1e9;stroke-width:4}.heading{font:700 34px Georgia;fill:#292824}.small{font:700 13px Arial;fill:#77736b;letter-spacing:2px}.note{font:11px Arial;fill:#77736b}.divider{stroke:#cbc5b9}.stop-link{cursor:pointer}.stop-link:hover{opacity:.72}</style>
-  <rect class="bg" width="1200" height="760" rx="24"/><text class="heading" x="42" y="52">Tajikistan</text><rect class="frame" x="42" y="82" width="810" height="620" rx="18"/><path class="land" d="M95 170 Q260 80 440 145 T800 155 L820 560 Q650 690 470 620 T90 590 Z"/>
-  <path class="halo" d="M690 175 L720 310 L610 500 L485 410 L390 340 L270 435 L160 300 L180 360 L250 160"/><path class="route" d="M690 175 L720 310 L610 500 L485 410 L390 340 L270 435 L160 300 L180 360 L250 160"/>
-  <g class="stop stop-link start" data-section="0" transform="translate(690 175)"><circle r="11"/><text y="4">1</text></g><text class="label stop-link" data-section="0" x="704" y="163">Karakul</text>
-  <g class="stop stop-link" data-section="1" transform="translate(720 310)"><circle r="11"/><text y="4">2</text></g><text class="label stop-link" data-section="1" x="734" y="298">Murghab</text>
-  <g class="stop stop-link" data-section="2" transform="translate(610 500)"><circle r="11"/><text y="4">3</text></g><text class="label stop-link" data-section="2" x="624" y="488">Wakhan</text>
-  <g class="stop stop-link" data-section="3" transform="translate(485 410)"><circle r="11"/><text y="4">4</text></g><text class="label stop-link" data-section="3" x="499" y="398">Khorog</text>
-  <g class="stop stop-link" data-section="4" transform="translate(390 340)"><circle r="11"/><text y="4">5</text></g><text class="label stop-link" data-section="4" x="404" y="328">Kalaikhum</text>
-  <g class="stop stop-link" data-section="5" transform="translate(270 435)"><circle r="11"/><text y="4">6</text></g><text class="label stop-link" data-section="5" x="284" y="423">Dushanbe</text>
-  <g class="stop stop-link" data-section="6" transform="translate(160 300)"><circle r="11"/><text y="4">7</text></g><text class="label stop-link" data-section="6" x="174" y="288">Panjakent</text>
-  <g class="stop stop-link" data-section="7" transform="translate(180 360)"><circle r="11"/><text y="4">8</text></g><text class="label stop-link" data-section="7" x="194" y="348">Seven Lakes</text>
-  <g class="stop stop-link end" data-section="9" transform="translate(250 160)"><circle r="11"/><text y="4">9</text></g><text class="label stop-link" data-section="9" x="264" y="148">Khujand</text>
-  <line class="divider" x1="878" y1="82" x2="878" y2="702"/><text class="small" x="900" y="108">ROUTE</text>
-  <text class="summary stop-link" data-section="0" x="900" y="145">1. Karakul</text>
-  <text class="summary stop-link" data-section="1" x="900" y="197">2. Murghab</text>
-  <text class="summary stop-link" data-section="2" x="900" y="249">3. Wakhan</text>
-  <text class="summary stop-link" data-section="3" x="900" y="301">4. Khorog</text>
-  <text class="summary stop-link" data-section="4" x="900" y="353">5. Kalaikhum</text>
-  <text class="summary stop-link" data-section="5" x="900" y="405">6. Dushanbe</text>
-  <text class="summary stop-link" data-section="6" x="900" y="457">7. Panjakent</text>
-  <text class="summary stop-link" data-section="7" x="900" y="509">8. Seven Lakes</text>
-  <text class="summary stop-link" data-section="9" x="900" y="561">9. Khujand</text>
-  <text class="note" x="42" y="735">Route positions are approximate</text>
+  <title id="title">Tajikistan route map</title>
+  <desc id="desc">Tajikistan itinerary: Karakul, Murghab, Langar, Yamchun, Khorog, Kalaikhum, Dushanbe, Panjakent, Seven Lakes, Khujand.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Tajikistan</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M-849.2,111.6 L-852.6,-300.4 L-628.4,-366.4 L-612.1,-356.8 L-477.0,-276.8 L-405.8,-234.6 L-322.7,-133.8 L-220.5,-150.0 L-71.3,-158.7 L33.2,-77.2 L26.6,35.0 L68.9,35.7 L86.8,127.3 L197.5,130.9 L221.3,183.8 L253.9,183.1 L291.8,103.3 L406.9,25.3 L456.8,4.7 L482.8,15.7 L409.4,87.9 L473.7,130.1 L535.8,102.3 L638.9,161.1 L527.6,241.5 L461.2,230.6 L425.4,233.4 L412.9,202.4 L431.1,150.5 L314.7,176.5 L286.8,248.3 L245.4,310.0 L172.7,304.7 L150.1,354.1 L214.1,380.6 L232.9,463.8 L184.0,576.9 L118.1,553.5 L69.8,552.7 L72.0,484.2 L-43.7,436.4 L-134.9,381.7 L-191.7,329.1 L-291.1,251.9 L-334.0,136.7 L-363.2,116.3 L-457.6,121.4 L-490.8,98.5 L-500.2,9.4 L-617.5,-49.6 L-690.8,15.3 L-765.1,53.9 L-751.0,110.1 L-849.2,111.6 Z"><title>Uzbekistan</title></path>
+<path class="country" d="M69.8,552.7 L118.1,553.5 L184.0,576.9 L210.6,590.5 L273.7,554.8 L302.8,576.3 L331.0,525.1 L383.1,527.3 L396.6,511.1 L405.7,465.9 L443.3,427.1 L490.3,452.4 L480.9,486.7 L507.2,492.0 L499.1,585.8 L533.6,622.5 L564.0,598.8 L602.6,587.9 L656.8,537.8 L717.0,546.1 L806.7,546.3 L822.4,578.2 L771.6,590.9 L727.4,611.5 L627.3,624.4 L533.9,647.8 L482.8,696.6 L503.5,743.9 L513.5,799.5 L469.9,846.5 L473.7,889.4 L449.9,929.7 L366.8,926.3 L401.3,1000.0 L345.8,1028.4 L308.8,1095.8 L313.5,1162.9 L279.6,1194.3 L247.3,1183.9 L180.8,1198.5 L171.1,1229.9 L106.2,1229.7 L57.9,1292.9 L54.8,1388.0 L-58.4,1434.5 L-119.2,1424.7 L-136.8,1449.1 L-188.8,1434.9 L-276.0,1451.6 L-421.8,1394.6 L-342.8,1293.2 L-350.0,1221.4 L-415.8,1202.4 L-422.7,1131.5 L-451.3,1042.2 L-414.0,981.1 L-451.9,964.7 L-428.1,883.3 L-392.6,744.1 L-303.6,786.5 L-238.1,771.5 L-219.9,720.9 L-151.2,704.0 L-102.0,670.0 L-84.7,580.7 L-11.4,559.1 L2.4,519.2 L43.5,549.1 L69.8,552.7 Z"><title>Afghanistan</title></path>
+<path class="country" d="M184.0,576.9 L232.9,463.8 L214.1,380.6 L150.1,354.1 L172.7,304.7 L245.4,310.0 L286.8,248.3 L314.7,176.5 L431.1,150.5 L412.9,202.4 L425.4,233.4 L461.2,230.6 L429.5,265.0 L334.5,246.5 L326.3,310.8 L420.7,302.1 L528.3,338.4 L693.2,321.5 L715.1,424.8 L743.7,413.7 L796.7,439.0 L793.5,482.5 L806.7,546.3 L717.0,546.1 L656.8,537.8 L602.6,587.9 L564.0,598.8 L533.6,622.5 L499.1,585.8 L507.2,492.0 L480.9,486.7 L490.3,452.4 L443.3,427.1 L405.7,465.9 L396.6,511.1 L383.1,527.3 L331.0,525.1 L302.8,576.3 L273.7,554.8 L210.6,590.5 L184.0,576.9 Z"><title>Tajikistan</title></path>
+<path class="country" d="M456.8,4.7 L476.2,-44.3 L533.6,-60.2 L676.9,-21.6 L690.4,-87.6 L739.9,-110.7 L864.1,-63.8 L895.4,-76.1 L1040.0,-73.0 L1169.2,-61.3 L1213.1,-21.2 L1266.7,-4.7 L1254.4,20.6 L1117.1,81.1 L1086.1,125.4 L974.4,138.6 L941.5,210.1 L849.3,195.0 L789.1,216.9 L705.7,269.7 L718.0,295.8 L693.2,321.5 L528.3,338.4 L420.7,302.1 L326.3,310.8 L334.5,246.5 L429.5,265.0 L461.2,230.6 L527.6,241.5 L638.9,161.1 L535.8,102.3 L473.7,130.1 L409.4,87.9 L482.8,15.7 L456.8,4.7 Z"><title>Kyrgyzstan</title></path>
+<path class="country" d="M3811.1,2694.5 L3739.6,2659.9 L3737.1,2563.6 L3780.1,2513.1 L3875.4,2481.7 L3925.3,2484.4 L3944.7,2527.1 L3906.5,2576.3 L3886.4,2640.8 L3811.1,2694.5 Z M1266.7,-4.7 L1259.8,-68.5 L1319.3,-97.6 L1241.0,-291.7 L1413.4,-336.3 L1458.2,-361.1 L1521.0,-561.2 L1693.7,-524.5 L1742.3,-575.1 L1746.4,-687.0 L1818.5,-697.6 L1885.0,-772.0 L1919.2,-781.2 L1942.1,-703.1 L2015.1,-643.9 L2139.3,-601.9 L2199.5,-511.9 L2165.9,-381.4 L2197.3,-332.9 L2300.8,-313.8 L2418.0,-298.1 L2523.4,-228.5 L2577.0,-216.0 L2616.8,-113.1 L2667.9,-46.7 L2763.9,-49.4 L2943.9,-24.2 L3059.6,-39.7 L3145.5,-23.1 L3274.3,44.8 L3379.7,44.6 L3418.3,79.4 L3519.8,19.3 L3660.3,-19.5 L3791.1,-23.7 L3892.7,-63.0 L3955.4,-122.8 L4016.2,-160.4 L4002.1,-197.3 L3974.2,-240.2 L4020.0,-312.3 L4068.9,-302.3 L4158.6,-279.6 L4245.4,-338.8 L4378.0,-382.1 L4442.0,-456.1 L4503.1,-487.9 L4629.8,-502.6 L4698.5,-490.1 L4707.9,-529.8 L4629.2,-608.0 L4559.3,-643.7 L4492.2,-602.3 L4406.3,-619.7 L4357.0,-605.7 L4334.5,-651.3 L4396.2,-762.9 L4438.6,-847.2 L4543.0,-805.1 L4665.9,-875.6 L4664.9,-924.8 L4743.6,-1043.4 L4792.2,-1079.2 L4791.0,-1140.8 L4743.3,-1167.5 L4815.1,-1223.1 L4923.3,-1243.2 L5039.0,-1246.2 L5169.1,-1212.9 L5245.6,-1171.8 L5299.6,-1059.1 L5332.2,-1011.1 L5362.6,-942.4 L5394.9,-832.9 L5546.3,-797.1 L5649.5,-717.7 L5684.6,-612.7 L5817.2,-612.5 L5892.5,-656.6 L6036.4,-689.7 L5990.6,-589.1 L5957.1,-548.2 L5927.0,-425.8 L5868.7,-317.0 L5762.7,-336.7 L5688.1,-297.4 L5710.9,-201.7 L5698.4,-69.6 L5653.9,-66.6 L5654.5,-9.9 L5598.4,-75.7 L5563.6,-13.1 L5429.1,35.0 L5442.9,94.0 L5367.3,89.8 L5326.2,54.8 L5266.3,134.1 L5170.4,194.2 L5099.2,265.9 L4977.6,298.3 L4913.6,350.7 L4819.5,381.1 L4865.9,329.3 L4847.7,285.8 L4916.7,210.7 L4870.6,152.1 L4794.7,191.6 L4696.3,269.3 L4642.7,341.4 L4557.4,346.9 L4512.9,398.9 L4559.0,474.6 L4630.1,492.9 L4633.0,543.0 L4701.9,575.8 L4799.5,495.9 L4876.9,539.5 L4933.0,542.3 L4947.1,600.9 L4823.9,632.1 L4783.1,692.5 L4698.5,748.5 L4654.0,826.8 L4747.7,888.3 L4781.9,998.2 L4834.9,1100.5 L4894.1,1186.4 L4892.6,1269.4 L4838.0,1299.9 L4858.7,1359.4 L4910.1,1394.2 L4896.7,1485.2 L4874.4,1573.8 L4825.8,1583.8 L4762.1,1704.8 L4691.6,1851.4 L4610.7,1984.8 L4490.9,2087.9 L4369.9,2182.1 L4271.7,2194.9 L4218.4,2244.5 L4188.3,2208.2 L4139.1,2263.8 L4017.5,2319.8 L3925.3,2336.8 L3895.5,2454.8 L3847.2,2461.5 L3824.3,2380.3 L3845.0,2337.2 L3728.0,2301.4 L3687.0,2319.6 L3599.2,2290.5 L3557.8,2245.1 L3571.6,2180.8 L3491.9,2160.3 L3449.9,2118.3 L3375.9,2177.9 L3291.0,2190.8 L3221.7,2190.2 L3174.9,2217.6 L3129.8,2233.9 L3143.0,2361.8 L3096.6,2358.8 L3088.7,2332.5 L3085.9,2286.3 L3022.2,2318.8 L2984.3,2298.2 L2919.7,2256.2 L2945.1,2163.5 L2889.9,2141.8 L2869.2,2038.9 L2777.4,2057.4 L2787.7,1924.8 L2870.2,1831.6 L2873.6,1739.5 L2871.1,1654.0 L2833.2,1627.3 L2804.0,1561.5 L2753.2,1569.8 L2659.2,1553.0 L2688.6,1506.0 L2647.9,1436.6 L2585.8,1483.7 L2512.7,1456.3 L2412.1,1527.4 L2333.1,1610.5 L2262.8,1624.5 L2224.6,1594.4 L2178.5,1591.7 L2116.4,1565.8 L2069.4,1594.2 L2011.7,1677.2 L2004.5,1589.3 L1951.2,1612.7 L1849.6,1601.9 L1751.1,1576.2 L1680.6,1527.2 L1612.8,1505.1 L1583.7,1451.4 L1534.4,1435.5 L1446.6,1362.7 L1376.7,1328.2 L1340.7,1354.9 L1219.6,1276.8 L1134.0,1206.0 L1109.6,1082.9 L1172.3,1097.8 L1175.1,1040.9 L1140.3,983.6 L1149.1,892.4 L1055.6,761.5 L912.4,716.3 L886.6,630.4 L822.4,578.2 L806.7,546.3 L793.5,482.5 L796.7,439.0 L743.7,413.7 L715.1,424.8 L693.2,321.5 L718.0,295.8 L705.7,269.7 L789.1,216.9 L849.3,195.0 L941.5,210.1 L974.4,138.6 L1086.1,125.4 L1117.1,81.1 L1254.4,20.6 L1266.7,-4.7 Z"><title>China</title></path>
+    <text class="country-label" x="103.0" y="313.8">UZBEKISTAN</text>
+<text class="country-label" x="590.7" y="157.3">KYRGYZSTAN</text>
+<text class="country-label" x="808.5" y="403.2">CHINA</text>
+<text class="country-label" x="399.1" y="626.7">AFGHANISTAN</text>
+<text class="country-label" x="416.5" y="324.9">TAJIKISTAN</text>
+    <path class="route-halo" d="M680.4,367.4 L718.7,462.4 L606.4,587.6 L533.2,626.7 L508.0,538.4 L441.8,428.9 L266.7,418.8 L164.8,313.8 L181.4,351.8 L340.7,226.6" />
+    <path class="route" d="M680.4,367.4 L718.7,462.4 L606.4,587.6 L533.2,626.7 L508.0,538.4 L441.8,428.9 L266.7,418.8 L164.8,313.8 L181.4,351.8 L340.7,226.6" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Karakul" transform="translate(680.4 367.4)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Karakul</title>
+    </g>
+<g class="stop stop-link" data-section="1" data-stop-name="Murghab" transform="translate(718.7 462.4)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Murghab</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Langar" transform="translate(606.4 587.6)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Langar</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Yamchun" transform="translate(533.2 626.7)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Yamchun</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Khorog" transform="translate(508.0 538.4)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Khorog</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="Kalaikhum" transform="translate(441.8 428.9)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Kalaikhum</title>
+    </g>
+<g class="stop stop-link" data-section="5" data-stop-name="Dushanbe" transform="translate(266.7 418.8)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Dushanbe</title>
+    </g>
+<g class="stop stop-link" data-section="6" data-stop-name="Panjakent" transform="translate(164.8 313.8)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Panjakent</title>
+    </g>
+<g class="stop stop-link" data-section="7" data-stop-name="Seven Lakes" transform="translate(181.4 351.8)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Seven Lakes</title>
+    </g>
+<g class="stop stop-link end" data-section="9" data-stop-name="Khujand" transform="translate(340.7 226.6)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Khujand</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Karakul" x="668.4" y="357.4" text-anchor="end">Karakul</text>
+<text class="place-label stop-link" data-section="1" data-stop-name="Murghab" x="706.7" y="480.4" text-anchor="end">Murghab</text>
+<text class="place-label stop-link" data-section="2" data-stop-name="Langar" x="618.4" y="577.6" text-anchor="start">Langar</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Yamchun" x="545.2" y="644.7" text-anchor="start">Yamchun</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Khorog" x="520.0" y="528.4" text-anchor="start">Khorog</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="Kalaikhum" x="453.8" y="446.9" text-anchor="start">Kalaikhum</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Dushanbe" x="278.7" y="408.8" text-anchor="start">Dushanbe</text>
+<text class="place-label stop-link" data-section="6" data-stop-name="Panjakent" x="176.8" y="331.8" text-anchor="start">Panjakent</text>
+<text class="place-label stop-link" data-section="7" data-stop-name="Seven Lakes" x="193.4" y="341.8" text-anchor="start">Seven Lakes</text>
+<text class="place-label stop-link" data-section="9" data-stop-name="Khujand" x="352.7" y="244.6" text-anchor="start">Khujand</text>
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Karakul" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Karakul</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Murghab" transform="translate(900 199.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Murghab</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Langar" transform="translate(900 253.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Langar</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Yamchun" transform="translate(900 307.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Yamchun</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="5. Khorog" transform="translate(900 361.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Khorog</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="6. Kalaikhum" transform="translate(900 415.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Kalaikhum</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="7. Dushanbe" transform="translate(900 469.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Dushanbe</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="8. Panjakent" transform="translate(900 523.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Panjakent</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="7" data-stop-name="9. Seven Lakes" transform="translate(900 577.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Seven Lakes</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="9" data-stop-name="10. Khujand" transform="translate(900 631.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Khujand</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>
-

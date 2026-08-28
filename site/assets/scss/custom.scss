@@ -322,3 +322,123 @@
         max-width: 240px;
     }
 }
+.trip-timeline {
+  margin-top: 2.5rem;
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  border: 1px solid rgba(41, 40, 36, 0.14);
+  border-radius: 1.25rem;
+  background: #f5f1e9;
+}
+
+.trip-timeline__heading {
+  max-width: 48rem;
+  margin-bottom: 1.75rem;
+
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.trip-timeline__eyebrow {
+  margin-bottom: 0.35rem;
+  color: #a83d35;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.trip-timeline__list {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  &::before {
+    position: absolute;
+    top: 0.4rem;
+    bottom: 0.4rem;
+    left: 12.95rem;
+    width: 2px;
+    background: rgba(168, 61, 53, 0.22);
+    content: "";
+  }
+}
+
+.trip-timeline__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 12rem minmax(0, 1fr);
+  gap: 2rem;
+  padding: 0 0 1.65rem;
+
+  &::before {
+    position: absolute;
+    top: 0.35rem;
+    left: 12.6rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    border: 2px solid #f5f1e9;
+    border-radius: 50%;
+    background: #a83d35;
+    box-shadow: 0 0 0 2px rgba(168, 61, 53, 0.25);
+    content: "";
+  }
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+
+  time {
+    color: #77736b;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.08rem;
+  }
+
+  h3 span {
+    color: #5f5c56;
+    font-size: 0.92em;
+    font-weight: 400;
+  }
+
+  p {
+    margin: 0;
+    color: #77736b;
+  }
+
+  a {
+    display: inline-block;
+    margin: 0 0.65rem 0.35rem 0;
+    font-weight: 700;
+  }
+}
+
+.trip-timeline__item--tentative::before {
+  background: #f5f1e9;
+  border-color: #a83d35;
+}
+
+@media (max-width: 575px) {
+  .trip-timeline__list::before {
+    left: 0.35rem;
+  }
+
+  .trip-timeline__item {
+    display: block;
+    padding: 0 0 1.75rem 1.75rem;
+
+    &::before {
+      left: 0;
+    }
+
+    time {
+      display: block;
+      margin-bottom: 0.35rem;
+    }
+  }
+}

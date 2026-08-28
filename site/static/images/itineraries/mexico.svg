@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Mexico route map</title>
+  <desc id="desc">Mexico itinerary: Mexico City, Puebla, Oaxaca, San Cristobal, Palenque, Merida, Izamal, Valladolid, Tulum, Cancun.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Mexico</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M-886.9,-421.2 L-823.4,-425.8 L-752.4,-432.2 L-757.6,-420.6 L-673.4,-392.0 L-545.9,-350.4 L-434.8,-350.8 L-390.4,-350.8 L-390.4,-375.2 L-293.7,-375.2 L-273.2,-354.2 L-244.6,-335.6 L-211.4,-309.7 L-192.9,-278.8 L-179.0,-246.4 L-150.1,-228.6 L-103.8,-210.9 L-68.6,-257.6 L-23.0,-258.7 L16.4,-235.1 L44.4,-194.8 L63.7,-160.2 L96.7,-126.6 L108.9,-85.2 L124.6,-57.6 L168.3,-39.2 L207.9,-26.2 L229.6,-28.0 L208.1,23.7 L198.2,66.2 L194.2,145.2 L188.8,174.1 L198.4,206.2 L215.7,235.0 L227.0,280.7 L264.0,324.7 L277.1,358.3 L299.0,387.4 L358.3,403.0 L381.2,427.7 L430.3,411.2 L472.9,405.2 L514.8,394.7 L550.0,384.6 L585.4,360.5 L598.8,326.1 L603.3,276.5 L612.9,259.3 L650.7,243.8 L709.8,230.1 L759.3,232.2 L793.3,227.2 L806.6,239.7 L804.8,268.1 L774.8,303.2 L761.5,339.1 L771.8,349.4 L763.3,374.9 L749.5,420.9 L735.2,405.7 L723.5,406.7 L712.9,407.5 L693.0,443.2 L682.7,436.2 L676.1,438.9 L676.5,447.6 L624.8,446.9 L572.7,447.0 L572.5,480.2 L547.4,480.3 L568.1,500.1 L588.8,513.7 L595.0,526.5 L604.1,530.0 L602.7,550.1 L530.9,550.3 L504.1,598.3 L512.0,609.4 L505.5,623.2 L504.1,640.4 L441.0,576.9 L412.0,557.8 L366.6,542.3 L335.2,546.6 L290.3,568.9 L262.2,574.7 L222.8,559.1 L180.9,547.9 L128.7,520.9 L86.8,512.6 L23.7,485.1 L-23.2,457.0 L-37.3,441.2 L-68.4,437.7 L-125.5,419.0 L-148.9,392.1 L-209.0,358.6 L-237.0,321.4 L-250.2,292.6 L-231.5,286.9 L-237.4,270.0 L-224.5,254.8 L-224.3,234.4 L-243.0,207.8 L-248.0,184.4 L-266.9,154.6 L-316.0,96.0 L-372.3,49.9 L-399.4,13.1 L-447.3,-10.9 L-457.6,-25.4 L-449.1,-61.9 L-477.7,-75.6 L-510.7,-104.3 L-524.5,-145.4 L-554.5,-150.2 L-587.1,-181.3 L-613.2,-210.0 L-615.6,-228.4 L-645.6,-272.9 L-665.5,-318.1 L-664.5,-340.7 L-704.9,-364.1 L-723.6,-361.6 L-755.6,-377.9 L-764.5,-353.9 L-755.2,-325.6 L-749.8,-281.2 L-730.7,-257.0 L-689.2,-216.3 L-680.0,-202.4 L-671.5,-198.2 L-664.1,-178.0 L-654.2,-178.8 L-643.0,-140.7 L-625.9,-125.8 L-614.0,-104.8 L-579.0,-74.8 L-560.5,-19.9 L-543.8,5.9 L-528.4,33.6 L-525.3,64.7 L-498.4,66.6 L-475.9,93.4 L-455.8,119.8 L-457.0,130.4 L-480.5,152.0 L-490.3,151.7 L-505.2,115.9 L-541.6,82.2 L-582.1,53.7 L-610.6,38.7 L-608.8,-4.4 L-617.2,-36.4 L-643.8,-54.7 L-682.2,-81.0 L-689.6,-73.4 L-703.7,-88.8 L-738.1,-103.1 L-771.1,-137.3 L-767.1,-141.7 L-743.9,-138.4 L-723.2,-160.5 L-721.2,-187.1 L-764.3,-229.2 L-797.0,-245.5 L-817.5,-282.3 L-838.3,-321.1 L-864.2,-368.2 L-886.9,-421.2 Z"><title>Mexico</title></path>
+<path class="country" d="M504.1,640.4 L505.5,623.2 L512.0,609.4 L504.1,598.3 L530.9,550.3 L602.7,550.1 L604.1,530.0 L595.0,526.5 L588.8,513.7 L568.1,500.1 L547.4,480.3 L572.5,480.2 L572.7,447.0 L624.8,446.9 L676.5,447.6 L676.1,494.3 L671.6,560.9 L688.3,560.9 L706.4,571.6 L711.3,562.8 L727.7,570.3 L702.2,592.8 L675.9,609.3 L671.8,620.6 L676.3,632.2 L664.6,647.2 L651.5,650.9 L654.5,657.8 L644.1,664.3 L625.0,679.2 L623.2,687.8 L594.6,677.5 L559.6,676.4 L534.1,664.7 L504.1,640.4 Z"><title>Guatemala</title></path>
+<path class="country" d="M676.5,447.6 L676.1,438.9 L682.7,436.2 L693.0,443.2 L712.9,407.5 L723.5,406.7 L723.7,415.4 L734.4,415.7 L733.4,431.7 L724.3,457.3 L729.2,466.3 L723.3,487.5 L726.9,493.1 L720.5,523.0 L709.4,538.5 L699.4,540.4 L688.3,560.9 L671.6,560.9 L676.1,494.3 L676.5,447.6 Z"><title>Belize</title></path>
+    
+    <path class="route-halo" d="M118.5,351.9 L170.5,374.9 L252.6,491.7 L481.1,510.6 L517.9,465.2 L649.8,261.0 L683.3,263.4 L729.1,277.6 L771.0,308.2 L804.5,249.8" />
+    <path class="route" d="M118.5,351.9 L170.5,374.9 L252.6,491.7 L481.1,510.6 L517.9,465.2 L649.8,261.0 L683.3,263.4 L729.1,277.6 L771.0,308.2 L804.5,249.8" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Mexico City" transform="translate(118.5 351.9)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Mexico City</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Puebla" transform="translate(170.5 374.9)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Puebla</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="Oaxaca" transform="translate(252.6 491.7)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Oaxaca</title>
+    </g>
+<g class="stop stop-link" data-section="6" data-stop-name="San Cristobal" transform="translate(481.1 510.6)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. San Cristobal</title>
+    </g>
+<g class="stop stop-link" data-section="8" data-stop-name="Palenque" transform="translate(517.9 465.2)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Palenque</title>
+    </g>
+<g class="stop stop-link" data-section="10" data-stop-name="Merida" transform="translate(649.8 261.0)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Merida</title>
+    </g>
+<g class="stop stop-link" data-section="11" data-stop-name="Izamal" transform="translate(683.3 263.4)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Izamal</title>
+    </g>
+<g class="stop stop-link" data-section="12" data-stop-name="Valladolid" transform="translate(729.1 277.6)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Valladolid</title>
+    </g>
+<g class="stop stop-link" data-section="14" data-stop-name="Tulum" transform="translate(771.0 308.2)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Tulum</title>
+    </g>
+<g class="stop stop-link end" data-section="16" data-stop-name="Cancun" transform="translate(804.5 249.8)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Cancun</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Mexico City" x="130.5" y="341.9" text-anchor="start">Mexico City</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Puebla" x="182.5" y="392.9" text-anchor="start">Puebla</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="Oaxaca" x="264.6" y="481.7" text-anchor="start">Oaxaca</text>
+<text class="place-label stop-link" data-section="6" data-stop-name="San Cristobal" x="493.1" y="528.6" text-anchor="start">San Cristobal</text>
+<text class="place-label stop-link" data-section="8" data-stop-name="Palenque" x="529.9" y="455.2" text-anchor="start">Palenque</text>
+<text class="place-label stop-link" data-section="10" data-stop-name="Merida" x="661.8" y="279.0" text-anchor="start">Merida</text>
+
+<text class="place-label stop-link" data-section="12" data-stop-name="Valladolid" x="717.1" y="295.6" text-anchor="end">Valladolid</text>
+<text class="place-label stop-link" data-section="14" data-stop-name="Tulum" x="759.0" y="298.2" text-anchor="end">Tulum</text>
+<text class="place-label stop-link" data-section="16" data-stop-name="Cancun" x="792.5" y="267.8" text-anchor="end">Cancun</text>
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Mexico City" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Mexico City</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="2. Puebla" transform="translate(900 199.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Puebla</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="3. Oaxaca" transform="translate(900 253.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Oaxaca</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="4. San Cristobal" transform="translate(900 307.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. San Cristobal</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="8" data-stop-name="5. Palenque" transform="translate(900 361.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Palenque</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="10" data-stop-name="6. Merida" transform="translate(900 415.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Merida</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="11" data-stop-name="7. Izamal" transform="translate(900 469.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Izamal</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="12" data-stop-name="8. Valladolid" transform="translate(900 523.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Valladolid</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="14" data-stop-name="9. Tulum" transform="translate(900 577.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Tulum</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="16" data-stop-name="10. Cancun" transform="translate(900 631.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Cancun</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+</svg>

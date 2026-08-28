@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Vietnam route map</title>
+  <desc id="desc">Vietnam itinerary: Hanoi, Ha Long, Ninh Binh, Ha Giang, Hue, An Bang, Da Nang, Hoi An, Ho Chi Minh City, Phu Quoc.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Vietnam</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M310.5,539.8 L301.6,493.0 L325.5,460.7 L373.6,453.4 L408.6,458.9 L439.3,474.1 L456.2,447.4 L489.2,461.6 L497.8,487.5 L493.3,533.9 L430.6,563.8 L447.0,587.2 L407.8,590.1 L375.6,605.7 L344.4,600.0 L329.4,579.8 L310.5,539.8 Z"><title>Cambodia</title></path>
+<path class="country" d="M489.2,461.6 L456.2,447.4 L439.3,474.1 L408.6,458.9 L420.7,441.4 L422.3,408.6 L392.3,374.9 L389.9,336.6 L361.6,305.2 L333.4,302.5 L325.9,316.0 L304.0,317.1 L292.9,310.3 L253.6,333.4 L252.8,298.7 L261.9,257.8 L236.7,256.0 L234.6,232.7 L218.5,220.8 L226.4,206.5 L258.2,181.3 L261.5,190.4 L281.4,191.5 L275.7,147.2 L295.1,141.5 L316.8,172.1 L333.5,207.3 L379.4,207.6 L393.9,241.4 L370.0,251.6 L359.3,265.5 L403.9,288.6 L434.9,334.5 L458.4,368.6 L486.5,395.5 L495.9,422.9 L489.2,461.6 Z"><title>Laos</title></path>
+<path class="country" d="M375.6,605.7 L407.8,590.1 L447.0,587.2 L430.6,563.8 L493.3,533.9 L497.8,487.5 L489.2,461.6 L495.9,422.9 L486.5,395.5 L458.4,368.6 L434.9,334.5 L403.9,288.6 L359.3,265.5 L370.0,251.6 L393.9,241.4 L379.4,207.6 L333.5,207.3 L316.8,172.1 L295.1,141.5 L315.0,132.0 L344.7,132.2 L381.0,127.7 L412.7,107.1 L430.6,121.6 L464.7,128.7 L458.8,151.0 L476.5,166.8 L514.0,176.9 L464.3,210.0 L433.3,246.6 L425.1,273.5 L453.6,314.3 L488.4,365.0 L522.2,388.9 L544.9,420.1 L561.9,491.7 L556.9,559.9 L525.8,585.4 L483.2,610.4 L452.8,642.7 L406.4,678.7 L392.8,653.9 L403.3,627.6 L375.6,605.7 Z"><title>Vietnam</title></path>
+<path class="country" d="M567.1,306.9 L536.6,294.9 L535.5,261.5 L553.9,244.0 L594.6,233.1 L616.0,234.0 L624.3,248.8 L607.9,265.9 L599.3,288.2 L567.1,306.9 Z M-521.1,-629.1 L-524.0,-651.2 L-498.5,-661.3 L-532.1,-728.6 L-458.3,-744.0 L-439.1,-752.6 L-412.3,-822.0 L-338.4,-809.3 L-317.6,-826.8 L-315.9,-865.6 L-285.0,-869.3 L-256.6,-895.1 L-242.0,-898.3 L-232.2,-871.2 L-201.0,-850.7 L-147.9,-836.1 L-122.1,-804.9 L-136.5,-759.6 L-123.1,-742.9 L-78.8,-736.2 L-28.7,-730.8 L16.4,-706.7 L39.3,-702.3 L56.4,-666.6 L78.2,-643.6 L119.3,-644.5 L196.2,-635.8 L245.7,-641.2 L282.4,-635.4 L337.6,-611.9 L382.6,-611.9 L399.1,-599.9 L442.6,-620.7 L502.6,-634.2 L558.6,-635.6 L602.0,-649.3 L628.8,-670.0 L654.8,-683.0 L648.8,-695.8 L636.9,-710.7 L656.4,-735.7 L677.4,-732.2 L715.7,-724.4 L752.9,-744.9 L809.6,-759.9 L836.9,-785.6 L863.1,-796.6 L917.3,-801.7 L946.6,-797.4 L950.7,-811.1 L917.0,-838.2 L887.1,-850.6 L858.4,-836.3 L821.7,-842.3 L800.6,-837.4 L790.9,-853.2 L817.4,-891.9 L835.5,-921.2 L880.1,-906.6 L932.7,-931.0 L932.3,-948.1 L965.9,-989.2 L986.7,-1001.6 L986.2,-1023.0 L965.8,-1032.2 L996.5,-1051.5 L1042.8,-1058.5 L1092.3,-1059.5 L1147.9,-1048.0 L1180.6,-1033.7 L1203.7,-994.6 L1217.6,-978.0 L1230.7,-954.2 L1244.5,-916.2 L1309.2,-903.8 L1353.4,-876.3 L1368.4,-839.9 L1425.1,-839.8 L1457.3,-855.1 L1518.8,-866.6 L1499.2,-831.7 L1484.9,-817.5 L1472.0,-775.1 L1447.1,-737.3 L1401.8,-744.2 L1369.8,-730.5 L1379.6,-697.3 L1374.3,-651.6 L1355.2,-650.5 L1355.5,-630.8 L1331.5,-653.7 L1316.6,-632.0 L1259.1,-615.3 L1265.0,-594.8 L1232.7,-596.3 L1215.1,-608.4 L1189.5,-580.9 L1148.5,-560.1 L1118.0,-535.2 L1066.0,-524.0 L1038.6,-505.8 L998.4,-495.3 L1018.2,-513.2 L1010.5,-528.3 L1040.0,-554.4 L1020.3,-574.7 L987.8,-561.0 L945.7,-534.0 L922.8,-509.0 L886.3,-507.1 L867.2,-489.1 L887.0,-462.9 L917.4,-456.5 L918.6,-439.1 L948.1,-427.8 L989.8,-455.5 L1022.9,-440.4 L1046.9,-439.4 L1053.0,-419.1 L1000.3,-408.2 L982.8,-387.3 L946.6,-367.9 L927.6,-340.7 L967.7,-319.4 L982.3,-281.3 L1005.0,-245.8 L1030.3,-216.1 L1029.6,-187.3 L1006.3,-176.7 L1015.2,-156.1 L1037.1,-144.0 L1031.4,-112.4 L1021.9,-81.7 L1001.1,-78.3 L973.9,-36.3 L943.7,14.5 L909.1,60.8 L857.9,96.5 L806.1,129.2 L764.1,133.6 L741.3,150.8 L728.5,138.2 L707.4,157.5 L655.4,176.9 L616.0,182.8 L603.2,223.8 L582.6,226.1 L572.8,197.9 L581.6,183.0 L531.6,170.6 L514.0,176.9 L476.5,166.8 L458.8,151.0 L464.7,128.7 L430.6,121.6 L412.7,107.1 L381.0,127.7 L344.7,132.2 L315.0,132.0 L295.1,141.5 L275.7,147.2 L281.4,191.5 L261.5,190.4 L258.2,181.3 L257.0,165.3 L229.7,176.6 L213.5,169.5 L185.9,154.9 L196.8,122.8 L173.2,115.2 L164.3,79.5 L125.0,86.0 L129.4,40.0 L164.7,7.6 L166.2,-24.3 L165.1,-53.9 L148.9,-63.2 L136.4,-86.0 L114.7,-83.1 L74.5,-89.0 L87.1,-105.2 L69.6,-129.3 L43.1,-113.0 L11.8,-122.5 L-31.2,-97.8 L-65.0,-69.0 L-95.0,-64.2 L-111.4,-74.6 L-131.1,-75.5 L-157.7,-84.5 L-177.8,-74.7 L-202.4,-45.9 L-205.5,-76.4 L-228.3,-68.2 L-271.8,-72.0 L-313.9,-80.9 L-344.1,-97.9 L-373.0,-105.6 L-385.5,-124.2 L-406.5,-129.7 L-444.1,-154.9 L-474.0,-166.9 L-489.4,-157.6 L-541.2,-184.7 L-577.8,-209.2 L-588.2,-251.9 L-561.4,-246.8 L-560.2,-266.5 L-575.1,-286.4 L-571.3,-318.0 L-611.3,-363.4 L-672.6,-379.0 L-683.6,-408.8 L-711.1,-426.9 L-717.8,-438.0 L-723.4,-460.1 L-722.1,-475.2 L-744.7,-484.0 L-756.9,-480.1 L-766.3,-515.9 L-755.7,-524.8 L-761.0,-533.9 L-725.3,-552.2 L-699.5,-559.8 L-660.1,-554.6 L-646.0,-579.4 L-598.3,-583.9 L-585.0,-599.3 L-526.3,-620.3 L-521.1,-629.1 Z"><title>China</title></path>
+    
+    <path class="route-halo" d="M432.1,197.1 L477.9,200.2 L436.9,227.3 L399.7,127.3 L496.9,374.2 L504.7,374.6 L520.0,389.3 L524.5,396.6 L463.8,594.3 L362.8,616.0" />
+    <path class="route" d="M432.1,197.1 L477.9,200.2 L436.9,227.3 L399.7,127.3 L496.9,374.2 L504.7,374.6 L520.0,389.3 L524.5,396.6 L463.8,594.3 L362.8,616.0" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Hanoi" transform="translate(432.1 197.1)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Hanoi</title>
+    </g>
+<g class="stop stop-link" data-section="6" data-stop-name="Ha Long" transform="translate(477.9 200.2)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Ha Long</title>
+    </g>
+<g class="stop stop-link" data-section="9" data-stop-name="Ninh Binh" transform="translate(436.9 227.3)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Ninh Binh</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Ha Giang" transform="translate(399.7 127.3)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Ha Giang</title>
+    </g>
+<g class="stop stop-link" data-section="11" data-stop-name="Hue" transform="translate(496.9 374.2)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Hue</title>
+    </g>
+<g class="stop stop-link" data-section="13" data-stop-name="An Bang" transform="translate(504.7 374.6)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. An Bang</title>
+    </g>
+<g class="stop stop-link" data-section="14" data-stop-name="Da Nang" transform="translate(520.0 389.3)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Da Nang</title>
+    </g>
+<g class="stop stop-link" data-section="16" data-stop-name="Hoi An" transform="translate(524.5 396.6)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Hoi An</title>
+    </g>
+<g class="stop stop-link" data-section="18" data-stop-name="Ho Chi Minh City" transform="translate(463.8 594.3)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Ho Chi Minh City</title>
+    </g>
+<g class="stop stop-link end" data-section="22" data-stop-name="Phu Quoc" transform="translate(362.8 616.0)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Phu Quoc</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Hanoi" x="444.1" y="187.1" text-anchor="start">Hanoi</text>
+<text class="place-label stop-link" data-section="6" data-stop-name="Ha Long" x="489.9" y="218.2" text-anchor="start">Ha Long</text>
+<text class="place-label stop-link" data-section="9" data-stop-name="Ninh Binh" x="448.9" y="217.3" text-anchor="start">Ninh Binh</text>
+<text class="place-label stop-link" data-section="2" data-stop-name="Ha Giang" x="411.7" y="145.3" text-anchor="start">Ha Giang</text>
+<text class="place-label stop-link" data-section="11" data-stop-name="Hue" x="508.9" y="364.2" text-anchor="start">Hue</text>
+
+<text class="place-label stop-link" data-section="14" data-stop-name="Da Nang" x="532.0" y="379.3" text-anchor="start">Da Nang</text>
+<text class="place-label stop-link" data-section="16" data-stop-name="Hoi An" x="536.5" y="414.6" text-anchor="start">Hoi An</text>
+<text class="place-label stop-link" data-section="18" data-stop-name="Ho Chi Minh City" x="475.8" y="584.3" text-anchor="start">Ho Chi Minh City</text>
+<text class="place-label stop-link" data-section="22" data-stop-name="Phu Quoc" x="374.8" y="634.0" text-anchor="start">Phu Quoc</text>
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Hanoi" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Hanoi</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="2. Ha Long" transform="translate(900 199.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Ha Long</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="9" data-stop-name="3. Ninh Binh" transform="translate(900 253.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Ninh Binh</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="4. Ha Giang" transform="translate(900 307.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Ha Giang</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="11" data-stop-name="5. Hue" transform="translate(900 361.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Hue</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="13" data-stop-name="6. An Bang" transform="translate(900 415.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. An Bang</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="14" data-stop-name="7. Da Nang" transform="translate(900 469.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Da Nang</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="16" data-stop-name="8. Hoi An" transform="translate(900 523.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Hoi An</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="18" data-stop-name="9. Ho Chi Minh City" transform="translate(900 577.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Ho Chi Minh City</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="22" data-stop-name="10. Phu Quoc" transform="translate(900 631.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Phu Quoc</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+</svg>

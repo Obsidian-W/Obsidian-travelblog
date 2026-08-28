@@ -14,6 +14,11 @@
       }
     });
 
+    const articleHeadings = Array.from(document.querySelectorAll(".content h1[id], .content h2[id], .content h3[id]"))
+      .map(function (heading) {
+        return { href: "#" + encodeURIComponent(heading.id), label: heading.textContent.trim() };
+      });
+
     document.querySelectorAll("[data-itinerary-map]").forEach(function (map) {
       const trigger = map.querySelector("[data-itinerary-map-trigger]");
       const dialog = map.querySelector("[data-itinerary-map-dialog]");
@@ -40,7 +45,8 @@
       }
 
       function scrollToSection(index) {
-        const link = articleLinks[index];
+        const targets = articleLinks.length ? articleLinks : articleHeadings;
+        const link = targets[index];
         if (!link) return;
         const target = document.getElementById(decodeURIComponent(link.href.slice(1)));
         if (!target) return;

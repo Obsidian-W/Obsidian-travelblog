@@ -1,5 +1,5 @@
 ---
-date: "2025-09-27"
+date: "2025-03-27"
 title: "A week in the Pearl Delta"
 description: "A one-week itinerary through Hong Kong, Macau, Shenzhen and Guangzhou."
 image: "images/blog/pearldelta.jpg"
@@ -13,7 +13,7 @@ draft: false
 >
 > The Pearl Delta!
 Amidst those big cities, patches of rewarding nature!
-I went for around a week back in April 2025, mainly to **eat as much as possible** (My love for dumplings will last till I die) and see *Hong Kong*,
+I went for around a week in late March and early April 2025, mainly to **eat as much as possible** (My love for dumplings will last till I die) and see *Hong Kong*,
 one of Asia's most interesting city;
 In the end, I had a memorable trip!
 
