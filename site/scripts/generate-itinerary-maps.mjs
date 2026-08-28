@@ -165,6 +165,42 @@ const routes = [
     groupSections: [0, 4, 8, 12, 17, 22, 27, 30],
   },
   {
+    slug: "azerbaijan",
+    title: "Azerbaijan",
+    countries: ["Azerbaijan", "Georgia", "Armenia", "Russia", "Iran"],
+    bounds: [44.5, 38.3, 51.0, 42.7],
+    points: [
+      P("Baku", 40.41, 49.87), P("Qobustan", 40.09, 49.41, false),
+      P("Xinaliq", 41.18, 48.13), P("Sheki", 41.2, 47.17),
+      P("Kish", 41.25, 47.2, false),
+    ],
+    sectionIndexes: [0, 2, 3, 4, 5],
+  },
+  {
+    slug: "georgia",
+    title: "Georgia",
+    countries: ["Georgia", "Armenia", "Azerbaijan", "Russia", "Turkey"],
+    bounds: [39.8, 40.7, 47.8, 43.7],
+    points: [
+      P("Sighnaghi", 41.62, 45.92), P("Tbilisi", 41.72, 44.79),
+      P("Gori", 41.98, 44.11), P("Kazbegi", 42.66, 44.64),
+      P("Mtskheta", 41.84, 44.72), P("Tbilisi", 41.72, 44.79, false),
+    ],
+    sectionIndexes: [0, 1, 3, 4, 5, 5],
+  },
+  {
+    slug: "armenia",
+    title: "Armenia",
+    countries: ["Armenia", "Georgia", "Azerbaijan", "Turkey", "Iran"],
+    bounds: [42.8, 38.5, 47.0, 41.6],
+    points: [
+      P("Alaverdi", 41.1, 44.66), P("Yerevan", 40.18, 44.51),
+      P("Etchmiadzin", 40.16, 44.29, false), P("Garni", 40.12, 44.73),
+      P("Khor Virap", 39.88, 44.58),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 3],
+  },
+  {
     slug: "central-asia",
     title: "Central Asia",
     countries: ["Kazakhstan", "Kyrgyzstan", "Tajikistan", "Uzbekistan", "Turkmenistan"],

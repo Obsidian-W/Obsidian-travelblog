@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Caucasus route map</title>
+  <desc id="desc">Caucasus itinerary through Baku, Xinaliq, Sheki, Sighnaghi, Tbilisi, Gori, Kazbegi, Mtskheta, Alaverdi, Yerevan and Khor Virap.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-name{font:700 18px Arial,sans-serif;fill:#77736b;letter-spacing:1px}.water-label{font:italic 15px Georgia,serif;fill:#78949a}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.day-trip{fill:none;stroke:#d45545;stroke-width:4;stroke-dasharray:9 7;stroke-linecap:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24"/>
+  <text class="title" x="42" y="52">The Caucasus</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18"/>
+  <g clip-path="url(#map-clip)">
+    <path class="country" d="M420 110 L770 105 L835 185 L785 285 L690 315 L605 280 L535 305 L455 255 L390 175 Z"><title>Georgia</title></path>
+    <path class="country" d="M560 300 L690 315 L760 390 L715 565 L630 655 L540 590 L505 470 Z"><title>Armenia</title></path>
+    <path class="country" d="M690 315 L785 285 L835 185 L900 175 L935 255 L900 345 L805 380 L760 390 Z"><title>Azerbaijan</title></path>
+    <path class="country" d="M715 565 L790 545 L825 585 L770 625 L720 615 Z"><title>Nakhchivan</title></path>
+    <text class="country-name" x="570" y="180">GEORGIA</text>
+    <text class="country-name" x="572" y="475" transform="rotate(-70 572 475)">ARMENIA</text>
+    <text class="country-name" x="800" y="330" transform="rotate(-18 800 330)">AZERBAIJAN</text>
+    <text class="water-label" x="782" y="135">Caspian Sea</text>
+
+    <path class="route-halo" d="M861 311 L751 252 L681 283 L650 241 L566 226 L498 233 L548 205 L590 278 L570 316 L600 397 L622 501"/>
+    <path class="route" d="M861 311 L751 252 L681 283 L650 241 L566 226 L498 233 L548 205 L590 278 L570 316 L600 397 L622 501"/>
+    <path class="day-trip" d="M861 311 L815 205 L861 311"/>
+    <path class="day-trip" d="M566 226 L470 288 L566 226"/>
+    <path class="day-trip" d="M566 226 L565 130 L566 226"/>
+    <path class="day-trip" d="M566 226 L590 278 L566 226"/>
+    <path class="day-trip" d="M622 501 L642 565 L622 501"/>
+
+    <g class="stop stop-link start" data-section="0" data-stop-name="Baku" transform="translate(861 311)"><circle r="10"/><text y="4">1</text><title>1. Baku</title></g>
+    <g class="stop stop-link" data-section="3" data-stop-name="Xinaliq" transform="translate(815 205)"><circle r="10"/><text y="4">2</text><title>2. Xinaliq</title></g>
+    <g class="stop stop-link" data-section="4" data-stop-name="Sheki" transform="translate(751 252)"><circle r="10"/><text y="4">3</text><title>3. Sheki</title></g>
+    <g class="stop stop-link" data-section="6" data-stop-name="Sighnaghi" transform="translate(681 283)"><circle r="10"/><text y="4">4</text><title>4. Sighnaghi</title></g>
+    <g class="stop stop-link" data-section="7" data-stop-name="Tbilissi" transform="translate(566 226)"><circle r="10"/><text y="4">5</text><title>5. Tbilissi</title></g>
+    <g class="stop stop-link" data-section="9" data-stop-name="Gori" transform="translate(498 233)"><circle r="10"/><text y="4">6</text><title>6. Gori</title></g>
+    <g class="stop stop-link" data-section="10" data-stop-name="Kazbegi" transform="translate(565 130)"><circle r="10"/><text y="4">7</text><title>7. Kazbegi</title></g>
+    <g class="stop stop-link" data-section="11" data-stop-name="Mtskheta" transform="translate(548 205)"><circle r="10"/><text y="4">8</text><title>8. Mtskheta</title></g>
+    <g class="stop stop-link" data-section="12" data-stop-name="Alaverdi" transform="translate(590 278)"><circle r="10"/><text y="4">9</text><title>9. Alaverdi</title></g>
+    <g class="stop stop-link" data-section="13" data-stop-name="Yerevan" transform="translate(622 501)"><circle r="10"/><text y="4">10</text><title>10. Yerevan</title></g>
+    <g class="stop stop-link end" data-section="15" data-stop-name="Khor Virap" transform="translate(642 565)"><circle r="10"/><text y="4">11</text><title>11. Khor Virap</title></g>
+
+    <text class="place-label stop-link" data-section="0" data-stop-name="Baku" x="846" y="340" text-anchor="end">Baku</text>
+    <text class="place-label stop-link" data-section="3" data-stop-name="Xinaliq" x="801" y="190" text-anchor="end">Xinaliq</text>
+    <text class="place-label stop-link" data-section="4" data-stop-name="Sheki" x="738" y="240" text-anchor="end">Sheki</text>
+    <text class="place-label stop-link" data-section="6" data-stop-name="Sighnaghi" x="695" y="306">Sighnaghi</text>
+    <text class="place-label stop-link" data-section="7" data-stop-name="Tbilissi" x="578" y="250">Tbilissi</text>
+    <text class="place-label stop-link" data-section="9" data-stop-name="Gori" x="485" y="257" text-anchor="end">Gori</text>
+    <text class="place-label stop-link" data-section="10" data-stop-name="Kazbegi" x="578" y="124">Kazbegi</text>
+    <text class="place-label stop-link" data-section="12" data-stop-name="Alaverdi" x="603" y="299">Alaverdi</text>
+    <text class="place-label stop-link" data-section="13" data-stop-name="Yerevan" x="635" y="493">Yerevan</text>
+    <text class="place-label stop-link" data-section="15" data-stop-name="Khor Virap" x="655" y="589">Khor Virap</text>
+  </g>
+
+  <line class="divider" x1="878" y1="82" x2="878" y2="702"/>
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Baku" transform="translate(900 145)"><text class="summary-text">1. Baku</text></g>
+  <g class="summary-stop stop-link" data-section="3" data-stop-name="2. Xinaliq" transform="translate(900 193)"><text class="summary-text">2. Xinaliq</text></g>
+  <g class="summary-stop stop-link" data-section="4" data-stop-name="3. Sheki" transform="translate(900 241)"><text class="summary-text">3. Sheki</text></g>
+  <g class="summary-stop stop-link" data-section="6" data-stop-name="4. Sighnaghi" transform="translate(900 289)"><text class="summary-text">4. Sighnaghi</text></g>
+  <g class="summary-stop stop-link" data-section="7" data-stop-name="5. Tbilissi" transform="translate(900 337)"><text class="summary-text">5. Tbilissi</text></g>
+  <g class="summary-stop stop-link" data-section="9" data-stop-name="6. Gori" transform="translate(900 385)"><text class="summary-text">6. Gori</text></g>
+  <g class="summary-stop stop-link" data-section="10" data-stop-name="7. Kazbegi" transform="translate(900 433)"><text class="summary-text">7. Kazbegi</text></g>
+  <g class="summary-stop stop-link" data-section="11" data-stop-name="8. Mtskheta" transform="translate(900 481)"><text class="summary-text">8. Mtskheta</text></g>
+  <g class="summary-stop stop-link" data-section="12" data-stop-name="9. Alaverdi" transform="translate(900 529)"><text class="summary-text">9. Alaverdi</text></g>
+  <g class="summary-stop stop-link" data-section="13" data-stop-name="10. Yerevan" transform="translate(900 577)"><text class="summary-text">10. Yerevan</text></g>
+  <g class="summary-stop stop-link" data-section="15" data-stop-name="11. Khor Virap" transform="translate(900 625)"><text class="summary-text">11. Khor Virap</text></g>
+  <text class="attribution" x="42" y="735">Route positions are approximate · Dashed lines indicate day trips</text>
+</svg>
