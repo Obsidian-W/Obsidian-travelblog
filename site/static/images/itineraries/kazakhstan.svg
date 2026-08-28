@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Kazakhstan route map</title><desc id="desc">Kazakhstan itinerary route; positions are approximate.</desc>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity=".16"/></filter></defs>
+  <style>.bg{fill:#f5f1e9}.frame{fill:#dce8ea}.land{fill:#ded8ca;stroke:#8b8a82;stroke-width:2}.halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:3;filter:url(#shadow)}.start circle{fill:#24735c}.end circle{stroke:#71312d}.stop text{font:700 10px Arial;fill:#fff;text-anchor:middle}.label,.summary{font:600 14px Arial;fill:#292824}.label{paint-order:stroke;stroke:#f5f1e9;stroke-width:4}.heading{font:700 34px Georgia;fill:#292824}.small{font:700 13px Arial;fill:#77736b;letter-spacing:2px}.note{font:11px Arial;fill:#77736b}.divider{stroke:#cbc5b9}.stop-link{cursor:pointer}.stop-link:hover{opacity:.72}</style>
+  <rect class="bg" width="1200" height="760" rx="24"/><text class="heading" x="42" y="52">Kazakhstan</text><rect class="frame" x="42" y="82" width="810" height="620" rx="18"/><path class="land" d="M95 170 Q260 80 440 145 T800 155 L820 560 Q650 690 470 620 T90 590 Z"/>
+  <path class="halo" d="M150 500 L240 430 L560 180 L515 210 L700 520 L775 500 L720 550 L680 590"/><path class="route" d="M150 500 L240 430 L560 180 L515 210 L700 520 L775 500 L720 550 L680 590"/>
+  <g class="stop stop-link start" data-section="0" transform="translate(150 500)"><circle r="11"/><text y="4">1</text></g><text class="label stop-link" data-section="0" x="164" y="488">Aktau</text>
+  <g class="stop stop-link" data-section="1" transform="translate(240 430)"><circle r="11"/><text y="4">2</text></g><text class="label stop-link" data-section="1" x="254" y="418">Mangystau</text>
+  <g class="stop stop-link" data-section="4" transform="translate(560 180)"><circle r="11"/><text y="4">3</text></g><text class="label stop-link" data-section="4" x="574" y="168">Astana</text>
+  <g class="stop stop-link" data-section="6" transform="translate(515 210)"><circle r="11"/><text y="4">4</text></g><text class="label stop-link" data-section="6" x="529" y="198">Aqmola</text>
+  <g class="stop stop-link" data-section="7" transform="translate(700 520)"><circle r="11"/><text y="4">5</text></g><text class="label stop-link" data-section="7" x="714" y="508">Almaty</text>
+  <g class="stop stop-link" data-section="9" transform="translate(775 500)"><circle r="11"/><text y="4">6</text></g><text class="label stop-link" data-section="9" x="789" y="488">Charyn · Kolsai</text>
+  <g class="stop stop-link" data-section="10" transform="translate(720 550)"><circle r="11"/><text y="4">7</text></g><text class="label stop-link" data-section="10" x="734" y="538">Shymbulak</text>
+  <g class="stop stop-link end" data-section="11" transform="translate(680 590)"><circle r="11"/><text y="4">8</text></g><text class="label stop-link" data-section="11" x="694" y="578">Bishkek road</text>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702"/><text class="small" x="900" y="108">ROUTE</text>
+  <text class="summary stop-link" data-section="0" x="900" y="145">1. Aktau</text>
+  <text class="summary stop-link" data-section="1" x="900" y="197">2. Mangystau</text>
+  <text class="summary stop-link" data-section="4" x="900" y="249">3. Astana</text>
+  <text class="summary stop-link" data-section="6" x="900" y="301">4. Aqmola</text>
+  <text class="summary stop-link" data-section="7" x="900" y="353">5. Almaty</text>
+  <text class="summary stop-link" data-section="9" x="900" y="405">6. Charyn · Kolsai</text>
+  <text class="summary stop-link" data-section="10" x="900" y="457">7. Shymbulak</text>
+  <text class="summary stop-link" data-section="11" x="900" y="509">8. Bishkek road</text>
+  <text class="note" x="42" y="735">Route positions are approximate</text>
+</svg>
+

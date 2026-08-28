@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Uzbekistan route map</title><desc id="desc">Uzbekistan itinerary route; positions are approximate.</desc>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity=".16"/></filter></defs>
+  <style>.bg{fill:#f5f1e9}.frame{fill:#dce8ea}.land{fill:#ded8ca;stroke:#8b8a82;stroke-width:2}.halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:3;filter:url(#shadow)}.start circle{fill:#24735c}.end circle{stroke:#71312d}.stop text{font:700 10px Arial;fill:#fff;text-anchor:middle}.label,.summary{font:600 14px Arial;fill:#292824}.label{paint-order:stroke;stroke:#f5f1e9;stroke-width:4}.heading{font:700 34px Georgia;fill:#292824}.small{font:700 13px Arial;fill:#77736b;letter-spacing:2px}.note{font:11px Arial;fill:#77736b}.divider{stroke:#cbc5b9}.stop-link{cursor:pointer}.stop-link:hover{opacity:.72}</style>
+  <rect class="bg" width="1200" height="760" rx="24"/><text class="heading" x="42" y="52">Uzbekistan</text><rect class="frame" x="42" y="82" width="810" height="620" rx="18"/><path class="land" d="M95 170 Q260 80 440 145 T800 155 L820 560 Q650 690 470 620 T90 590 Z"/>
+  <path class="halo" d="M700 180 L560 285 L415 330 L245 315 L200 235 L190 145"/><path class="route" d="M700 180 L560 285 L415 330 L245 315 L200 235 L190 145"/>
+  <g class="stop stop-link start" data-section="0" transform="translate(700 180)"><circle r="11"/><text y="4">1</text></g><text class="label stop-link" data-section="0" x="714" y="168">Tashkent</text>
+  <g class="stop stop-link" data-section="2" transform="translate(560 285)"><circle r="11"/><text y="4">2</text></g><text class="label stop-link" data-section="2" x="574" y="273">Samarkand</text>
+  <g class="stop stop-link" data-section="4" transform="translate(415 330)"><circle r="11"/><text y="4">3</text></g><text class="label stop-link" data-section="4" x="429" y="318">Bukhara</text>
+  <g class="stop stop-link" data-section="6" transform="translate(245 315)"><circle r="11"/><text y="4">4</text></g><text class="label stop-link" data-section="6" x="259" y="303">Khiva</text>
+  <g class="stop stop-link" data-section="8" transform="translate(200 235)"><circle r="11"/><text y="4">5</text></g><text class="label stop-link" data-section="8" x="214" y="223">Nukus</text>
+  <g class="stop stop-link end" data-section="9" transform="translate(190 145)"><circle r="11"/><text y="4">6</text></g><text class="label stop-link" data-section="9" x="204" y="133">Muynak</text>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702"/><text class="small" x="900" y="108">ROUTE</text>
+  <text class="summary stop-link" data-section="0" x="900" y="145">1. Tashkent</text>
+  <text class="summary stop-link" data-section="2" x="900" y="197">2. Samarkand</text>
+  <text class="summary stop-link" data-section="4" x="900" y="249">3. Bukhara</text>
+  <text class="summary stop-link" data-section="6" x="900" y="301">4. Khiva</text>
+  <text class="summary stop-link" data-section="8" x="900" y="353">5. Nukus</text>
+  <text class="summary stop-link" data-section="9" x="900" y="405">6. Muynak</text>
+  <text class="note" x="42" y="735">Route positions are approximate</text>
+</svg>
+

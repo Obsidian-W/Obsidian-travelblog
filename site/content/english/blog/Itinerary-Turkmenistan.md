@@ -1,5 +1,5 @@
 ---
-date: "2025-08-01"
+date: "2025-08-14"
 title: "3 days in Turkmenistan"
 description: "A short Turkmenistan itinerary from the Uzbek border to Darvaza and Ashgabat."
 image: "images/blog/turkmenistan2.jpg"
