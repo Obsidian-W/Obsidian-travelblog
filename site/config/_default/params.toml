@@ -34,6 +34,9 @@ copyright = "Copyright Obsidian Travels"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 
+# google adsense
+google_adsense = "ca-pub-9678233435673145"
+
 # theme-mode
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
