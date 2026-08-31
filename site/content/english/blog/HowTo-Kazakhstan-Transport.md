@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Astana%20Nurly%
 categories: ["How-to", "Kazakhstan", "Central Asia"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.

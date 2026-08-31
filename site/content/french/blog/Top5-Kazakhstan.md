@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boszhira%20trac
 categories: ["Top 5", "Kazakhstan", "Asie centrale"]
 continents: ["Asie"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.

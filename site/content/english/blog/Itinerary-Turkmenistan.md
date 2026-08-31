@@ -4,7 +4,7 @@ title: "3 days in Turkmenistan"
 description: "A short Turkmenistan itinerary from the Uzbek border to Darvaza and Ashgabat."
 image: "images/blog/turkmenistan2.jpg"
 itinerary_map: "/images/itineraries/turkmenistan.svg"
-categories: ["Itinerary", "Turkmenistan"]
+categories: ["Itinerary", "Central Asia", "Turkmenistan"]
 continents: ["Asia"]
 draft: false
 ---
@@ -56,6 +56,8 @@ And here are some tips by the way
 
 ## Day 1 Konye
 
+![Darvaza and I](images/blog/turkmenistan3.jpg)
+
 First thing first, find your way in the country.
 I started from Uzbekistan. The logical road used to be UZ-TM-IR
 nowadays, it's only possible to go from UZ to TM.
@@ -94,7 +96,6 @@ We visited at night to see the beautiful flames and the stars.
 
 See the pictures:
 
-![Darvaza and I](images/blog/turkmenistan3.jpg)
 
 Nice isn't it?
 

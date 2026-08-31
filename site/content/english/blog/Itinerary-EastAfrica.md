@@ -4,7 +4,7 @@ title: "One month in East Africa"
 description: "A one-month itinerary through Tanzania, Kenya, Uganda and Rwanda, with route notes and practical travel context."
 image: "images/blog/kilwa.jpg"
 itinerary_map: "/images/itineraries/east-africa.svg"
-categories: ["Itinerary", "Africa"]
+categories: ["Itinerary", "East Africa"]
 continents: ["Africa"]
 draft: false
 ---

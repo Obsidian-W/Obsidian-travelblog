@@ -6,7 +6,7 @@ image: "images/blog/morocco1.jpg"
 categories: ["Food", "Morocco", "Africa"]
 continents: ["Africa"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.

@@ -4,7 +4,7 @@ title: "My two weeks in Morocco - South to North"
 description: "A two-week Morocco itinerary from Marrakech and the Atlas to Fes, Chefchaouen, Rabat and Casablanca."
 image: "images/blog/morocco.jpg"
 itinerary_map: "/images/itineraries/morocco.svg"
-categories: ["Itinerary", "Africa", "Morocco"]
+categories: ["Itinerary", "Maghreb", "Morocco"]
 continents: ["Africa"]
 draft: false
 ---
@@ -107,10 +107,11 @@ This is already a full road day. Ait Benhaddou is the main visit; the pass, view
 
 ## Day 3: Tinghir, Todra Gorge and Merzouga
 
-On the second day, in the pretty town of **Tinghir**, we stopped mainly in the pretty **Todra Gorge** and made our way to **Merzouga** with small stops along the way
-
 ![The desert](images/blog/morocco2.jpg)
 ^*The dunes of Merzouga*
+
+On the second day, in the pretty town of **Tinghir**, we stopped mainly in the pretty **Todra Gorge** and made our way to **Merzouga** with small stops along the way
+
 
 The highlight of the second day was the dunes near **Merzouga**, pictured above.
 
@@ -212,9 +213,10 @@ Then, I had an evening walk in Meknes. Meknes is much calmer than Fes, and it is
 
 ## Day 8: Meknes to Fes
 
+![Barbary macaques](images/blog/morocco5.jpg)
+
 I visited **Bab Mansour** and walked through central Meknes in the morning, then took the train to **Fes**, which only takes around 40 minutes.
 
-![Barbary macaques](images/blog/morocco5.jpg)
 
 Fes is probably the most boring city of the trip. The medina is huge, crowded and extremely easy to get lost in, full of unsavory characters trying to cheat you.
 It's impressive, but not my kind of stuff. 

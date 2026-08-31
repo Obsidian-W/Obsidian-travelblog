@@ -4,7 +4,7 @@ title: "Varanasi, Agra and Delhi"
 description: "Six days across northern India, from the Nepal border through Varanasi and Agra to Delhi."
 image: "images/blog/india.jpg"
 itinerary_map: "/images/itineraries/india.svg"
-categories: ["Itinerary", "Asia", "India"]
+categories: ["Itinerary", "South Asia", "India"]
 continents: ["Asia"]
 draft: true
 ---
@@ -28,17 +28,17 @@ draft: true
 
 From Lumbini, take the local connection to **Bhairahawa** and continue to the **Sonauli** border. Immigration is completed on foot: leave Nepal at Belahiya, cross the frontier and enter India at Sonauli. On the Indian side, take a bus to **Gorakhpur**, then change for Varanasi. This sequence occupied almost the entire day of my trip.
 
-After checking in, go straight to the river rather than trying to cover the old city in darkness. The ghats are the point of Varanasi and the first evening gives you time to understand their layout before the full walk on Day 2. Start around **Dashashwamedh Ghat**, walk south for as long as you still have energy and return through the lanes behind the river.
+After checking in, walk to **Dashashwamedh Ghat** and follow the river south. Return through the lanes behind the ghats.
 
 ## Day 2: Varanasi
 
-Start at **Assi Ghat** and follow the river north on foot. This passes a long succession of smaller ghats before **Harishchandra Ghat**, the palaces above the water and **Dashashwamedh Ghat**. The route is simple on the riverfront and much less simple once you enter the old lanes.
+Start at **Assi Ghat** and follow the river north on foot. This passes a long succession of smaller ghats before **Harishchandra Ghat**, the palaces above the water and **Dashashwamedh Ghat**. The lanes behind the river twist through the old city.
 
-Use the middle of the day for the lanes around **Kashi Vishwanath Temple** and the markets behind the ghats. Access rules and queues around the temple can change, so leave time rather than making it the final stop before sunset. Return to Dashashwamedh for the evening **Ganga Aarti**. Watching from the steps costs nothing; boatmen also sell places on the water.
+Use the middle of the day for the lanes around **Kashi Vishwanath Temple** and the markets behind the ghats. Access rules and queues around the temple can change. Return to Dashashwamedh for the evening **Ganga Aarti**. Watching from the steps costs nothing; boatmen also sell places on the water.
 
 ## Day 3: Sarnath
 
-Take a Sarnath-bound local bus from the Varanasi city side and get off near the archaeological area. The useful circuit is compact: **Chaukhandi Stupa**, **Dhamek Stupa**, the excavated monastic remains, **Mulagandha Kuti Vihar** and the **Sarnath Archaeological Museum**. Check the museum's opening day before leaving Varanasi; it is the one stop here that cannot be replaced by walking around the ruins.
+Take a Sarnath-bound local bus from the Varanasi city side and get off near the archaeological area. Visit **Chaukhandi Stupa**, **Dhamek Stupa**, the excavated monastic remains, **Mulagandha Kuti Vihar** and the **Sarnath Archaeological Museum**. Check the museum's opening day before leaving Varanasi.
 
 Return to Varanasi in the afternoon, collect your bag and go to the boarding point printed on the bus ticket. Long-distance buses do not all use one convenient central terminal. I took the overnight bus to Agra, which saved both a hotel night and a sightseeing day.
 
@@ -50,7 +50,7 @@ If the overnight bus arrived very early, this is already a full day. Otherwise a
 
 ## Day 5: Delhi
 
-Take the metro to **Lal Quila** or **Jama Masjid** and spend the day in Old Delhi. Visit **Jama Masjid**, then walk through the market streets towards **Chandni Chowk**, the Sikh **Gurdwara Sis Ganj Sahib** and the lanes around the spice market. The **Red Fort** occupies a large part of the day if you enter the museums rather than only seeing the walls from outside.
+Take the metro to **Lal Quila** or **Jama Masjid** and spend the day in Old Delhi. Visit **Jama Masjid**, then walk through the market streets towards **Chandni Chowk**, the Sikh **Gurdwara Sis Ganj Sahib** and the lanes around the spice market. Allow several hours for the **Red Fort** and its museums.
 
 Finish at **Raj Ghat**, southeast of the fort, before returning by metro. Old Delhi is the part of the city where walking links the sights better than repeatedly entering and leaving the metro, although a cycle-rickshaw is useful once the heat or crowds become tiring.
 
@@ -58,4 +58,4 @@ Finish at **Raj Ghat**, southeast of the fort, before returning by metro. Old De
 
 Start at **Humayun's Tomb**, then continue west to **Lodhi Garden** and the tombs inside it. From there, take the metro or a city bus towards **India Gate** and walk along Kartavya Path towards the government buildings on Raisina Hill.
 
-My flight left shortly after midnight, so this remained a sightseeing day. Collect the luggage before evening and take the **Airport Express** from New Delhi metro station to Terminal 3. For another terminal, check the airline's departure information before boarding: the airport terminals are not interchangeable and the final transfer can consume the time saved by the express line.
+My flight left shortly after midnight, so this remained a sightseeing day. Collect the luggage before evening and take the **Airport Express** from New Delhi metro station to Terminal 3. Check the terminal on the airline booking; transfers between Delhi Airport terminals take additional time.

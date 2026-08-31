@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg"
 categories: ["Cuisine", "Ouzbékistan", "Asie centrale"]
 continents: ["Asie"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.

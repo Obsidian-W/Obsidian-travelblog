@@ -4,7 +4,7 @@ title: "One week in Rwanda"
 description: "A one-week Rwanda itinerary covering Kigali, Lake Kivu and the national parks."
 image: "images/blog/rwanda1.jpg"
 itinerary_map: "/images/itineraries/rwanda.svg"
-categories: ["Itinerary", "Africa"]
+categories: ["Itinerary", "East Africa"]
 continents: ["Africa"]
 draft: false
 ---

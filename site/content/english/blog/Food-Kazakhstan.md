@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beshbarmak.jpg"
 categories: ["Food", "Kazakhstan", "Central Asia"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then reworked quite a lot, like always.

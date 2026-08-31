@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jamaa%20El%20Fn
 categories: ["Top 5", "Maroc", "Afrique"]
 continents: ["Afrique"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.

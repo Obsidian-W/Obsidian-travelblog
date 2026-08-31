@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eating%20Injera
 categories: ["Food", "Ethiopia", "Africa"]
 continents: ["Africa"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was built from an AI-generated base, then totally rewritten because this was utter shit. Don't use AI.

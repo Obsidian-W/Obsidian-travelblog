@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Addis%20Abeba-B
 categories: ["How-to", "Ethiopia", "Africa"]
 continents: ["Africa"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.

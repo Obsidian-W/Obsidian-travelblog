@@ -4,7 +4,7 @@ title: "3 weeks in Ethiopia"
 description: "A three-week Ethiopia itinerary covering Addis Ababa, the historic north, Harar, Danakil and the Simien Mountains."
 image: "images/blog/eth0b.jpg"
 itinerary_map: "/images/itineraries/ethiopia.svg"
-categories: ["Itinerary", "Ethiopia", "Africa"]
+categories: ["Itinerary", "Ethiopia", "East Africa"]
 continents: ["Africa"]
 draft: false
 ---
@@ -244,6 +244,9 @@ I arrived a bit late in the day, despite the flights, so I mostly enjoyed dinner
 ![Harar](images/blog/eth1.jpg)
 ^ *Harar with Solomon*
 
+![Harar 2](images/blog/eth6.jpg)
+^*Harar without Solomon, but James' cameo*
+
 Old stone alleys, green chat leaves, and the instagram-famous **hyena feeding**.  
 Around early noon, I met **Solomon**, a witty Rasta-looking man who works part-time at a museum.  
 If he offers to guide you, **he's the real deal**. Not a scammer. 
@@ -257,8 +260,6 @@ Truly the best.
 > Note: He might have moved to Israel with his wife, I met him in 2023, the ticker ticks, people move
 > The ebbs and flows of life take people to the waves and the clouds.
 
-![Harar 2](images/blog/eth6.jpg)
-^*Harar without Solomon, but James' cameo*
 
 ---
 
@@ -320,6 +321,9 @@ With my guide, we used motorbikes between stops. The transport was part of the d
 
 ## Day 17 Mursi and Konso
 
+![Tribe](images/blog/eth8.jpg)
+^*A tribe in the wild*
+
 Across the final two days, we met the **Hamar**, **Mursi**, and **Konso** communities, each with their customs, beauty, and dignity. The final day should end towards **Konso**, because the onward route to Moyale begins there the next morning.
 And perhaps more, it's hard to remember all the names.
 
@@ -339,8 +343,6 @@ I liked the lifestyle.
 In Turmi, I got into another **street fight**, but out of respect for the guides and the Omo valley tourism industry,
 I'll leave the details out.
 
-![Tribe](images/blog/eth8.jpg)
-^*A tribe in the wild*
 
 ---
 

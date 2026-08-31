@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Registan%20squa
 categories: ["Top 5", "Uzbekistan", "Central Asia"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.

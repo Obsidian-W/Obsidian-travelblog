@@ -2,7 +2,7 @@
 date: "2022-02-01"
 title: "Three weeks in Mexico"
 description: "Mexico City, Puebla, Oaxaca, San Cristobal, Palenque, Merida, Izamal, Valladolid, Tulum and Cancun."
-image: "images/blog/mexico1.jpg"
+image: "images/blog/mexico.jpg"
 itinerary_map: "/images/itineraries/mexico.svg"
 categories: ["Itinerary", "North America", "Mexico"]
 continents: ["North America"]
@@ -62,7 +62,7 @@ Take the direct bus from Puebla CAPU to Oaxaca. Begin at **Santo Domingo**, incl
 
 Use the tourist bus from central Oaxaca to **Monte Albán** and allow most of the morning for the main plaza, tombs and viewpoints over the valley. Back in Oaxaca, visit the **Textile Museum** and the streets around the Zócalo.
 
-Collect the luggage and take the overnight bus to San Cristóbal de las Casas. The road into Chiapas is long enough that using the night service protects the following day.
+Collect the luggage and take the overnight bus to San Cristóbal de las Casas.
 
 ## Day 7: San Cristobal
 
@@ -72,13 +72,18 @@ The overnight bus from Oaxaca arrives at the San Cristóbal terminal within walk
 
 ## Day 8: San Cristobal
 
-I took a cooking and history class here. It was awesome. The class combined the food with the history of the city, so it deserves the main part of the day instead of being squeezed between unrelated sightseeing stops.
+![Mole in southern Mexico](images/blog/mexico6.jpg)
+
+I took a cooking and history class here. It was awesome and covered both the food and the history of the city.
+
 
 I became seriously ill after San Cristóbal. Be careful with the water, including what you use to brush your teeth. I would use sealed bottled or properly filtered water for both drinking and brushing.
 
 Take the night bus towards Palenque after the class.
 
 ## Day 9: Palenque
+
+![Palenque archaeological site](images/blog/mexico4.jpg)
 
 After arriving in Palenque, take a colectivo marked **Ruinas** towards the archaeological zone. Walk from the **Temple of the Inscriptions** and the Palace through the main ceremonial group, then follow the forest paths past the smaller structures and waterfalls inside the site.
 
@@ -96,9 +101,12 @@ Visit **Plaza Grande**, the cathedral and **Casa de Montejo**, then walk through
 
 ## Day 12: Izamal
 
+![The yellow streets of Izamal](images/blog/mexico5.jpg)
+
 Take the morning bus from Mérida to **Izamal**. Visit the **Convent of San Antonio de Padua**, walk through the yellow centre and climb the Kinich Kakmó pyramid for the view over town.
 
-Continue by bus to Valladolid. Direct services are limited; when the timing does not work, return to Mérida and change there instead of waiting most of the afternoon in Izamal.
+
+Continue by bus to Valladolid. Direct services are limited; if there is no suitable departure, return to Mérida and change there.
 
 ## Day 13: Valladolid
 

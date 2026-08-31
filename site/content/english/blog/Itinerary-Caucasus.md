@@ -2,11 +2,11 @@
 date: "2019-07-01"
 title: "How to spend two to three weeks in the Caucasus region?"
 description: "My itinerary over 3 countries: Azerbaijan, Georgia and Armenia"
-image: "images/blog/rwanda1.jpg"
+image: "images/blog/georgia5.jpg"
 itinerary_map: "/images/itineraries/caucasus.svg"
 categories: ["Itinerary", "Europe"]
-continents: ["Europe"]
-draft: true
+continents: ["Eurasia"]
+draft: false
 ---
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
@@ -49,6 +49,10 @@ And, just because, a second preface:
 
 ## Day 1 Arriving in Baku, Azerbaijan
 
+![Baku old city and the Flame Towers](images/blog/azer1.jpg)
+
+![Ceramics in Baku old city](images/blog/azer2.jpg)
+
 I actually came the night before, but it was night, so it doesn't count.
 Went straight to the city center, after a flight through Kiev's airport (A different time... Before the world started turning to dust), from France it wasn't the quickest.
 
@@ -69,6 +73,8 @@ Around the old city there are also a few places worth visiting (They kinda inser
 
 The fountain square and Nizami Street (Main thoroughfares near the old city) -> The paved floor is beautiful, you have a lot of architectures and old balconies to spot.
 
+
+
 > Bad hostel experience number 1. In the middle of the night, I woke up to an old pakistani man watching me sleep.
 > He was genuinely scaring the shit out of me.
 
@@ -76,11 +82,14 @@ The fountain square and Nizami Street (Main thoroughfares near the old city) -> 
 
 ## Day 2 Baku
 
+![Heydar Mosque](images/blog/azer3.jpg)
+
 Day 2 is for the newer side of Baku. 
 You will cross more distances and abuse the subway system a bit more (I kept the first day compact, for this one you'll go farther and further).
 Visit the enormous **Heydar Mosque**, you really shouldn't miss it.
 Then continue your way south to the famous *Heydar Aliyev Center**, whose curves are probably the city's most recognisable piece of modern architecture. Not far from the Aliyev Center, going South West, you have the main bazaar, definitely worth a stop.
 Then, go even more south west, getting close to be back to the old city. You'll find, first, the Heydar Aliyev (again) palace, then one of my favourite building: The ballet theater, with a more russian style of architecture.
+
 
 If you still have energy after all of that, I guess you can visit the museum of modern art, it's nearby.
 Personally, at that point, I was totally beat...
@@ -102,6 +111,8 @@ The full trip takes roughly a day. But doing Gobustan only is half a day, so if 
 
 ## Day 4 Xinaliq
 
+![The road to Xinaliq](images/blog/azer4.jpg)
+
 If you like day trips, why not take a tour through Quba and into the mountains to Xınalıq, one of Azerbaijan's highest villages?
 
 This is what I did. It's hard to visit independently, just like Gobustan, so a tour is recommended.
@@ -114,14 +125,18 @@ Be prepared for a very long day.
 > 2/ To get into Xinaliq's small museum, we had to find the keykeeper. For this, we had to ask the children, that led us
 > us to a man on a roof, which himself told us to ask a little girl, that found the keys in a couple of minutes.
 
+
 ---
 
 ## Day 5 Shaki
+
+![The Palace of the Sheki Khans](images/blog/azer6.jpg)
 
 From Baku **International Bus Terminal** (I don't know why it was here in the first place), take a direct bus to Sheki's central bus station. The road journey is roughly 6 to 7 hours;
 Buy the ticket at the station or through the terminal's booking service and check the departure time in advance.
 
 Then, once in Sheki spend the rest of the day exploring its historic centre and the Palace of the Sheki Khans as well as the caravanserai.
+
 
 > In Sheki, I had one of the worst hostel experience. It was a rundown place with one room with 7 to 9 beds aligned each next to the other. The shower was outside and filled with spiders.
 > But those were the nice things. The worse was that I kept being followed by the owner, that even slept next to me...
@@ -130,14 +145,19 @@ Then, once in Sheki spend the rest of the day exploring its historic centre and 
 
 ## Day 6 Kish
 
+![A meal with Tim in Azerbaijan](images/blog/azer5.jpg)
+
 Take a local marshrutka from central Sheki to Kish, around 15 to 25 minutes away. Visit the old Albanian church, then continue on foot towards Galarsan-Gorarsan fortress.
 Allow several hours for the return hike and take water; return to Sheki by marshrutka (They were plentyful on this side)
 
 > With my friend, Tim, we got a bit lost and ended up crossing a river on foot, jumping and throwing our bags from place to place to cross it. Good times.
 
+
 ---
 
 ## Day 7 Sighnaghi
+
+![Sighnaghi](images/blog/georgia1.jpg)
 
 Back in 2019, I took a bus from Sheki to  the border.
 From the border, I found a bus going to Sighnaghi (that also continued onward to Tbilissi), which mean I stopped where I wanted.
@@ -146,41 +166,77 @@ Start with the old town's cobbled streets and carved wooden balconies, then walk
 From the towers, you can see across the Alazani Valley to the Caucasus.
 
 If your arrival leaves enough time, add **Bodbe Monastery**, just outside Sighnaghi.
-Otherwise, stay in town for the walls, and viewpoints before leaving for Tbilissi.
+(I did it, using a shared taxi from the city center of Sighnaghi, then went straight away to Tbilissi).
 
-Also, I heard that the **Sighnaghi Museum** is quite nice. I Didn't go tho.
+Otherwise, stay in town a bit more, in retrospect, I wish I did this instead of rushing my way to the capital.
 
-Once done, either stay in town or take a marshrutka or a bus to Tbilissi.
-The journey takes about 2 hours 30 minutes and they should be quite common.
+Also, I heard that the **Sighnaghi Museum** is quite nice. I Didn't go tho. It definitely warrant some time.
+
+To go to Tbilissi from Sighnaghi, the journey takes about 2 hours 30 minutes by bus/marshrutka and they should be quite common. I used a shared taxi for this leg, as we were four and it was getting late.
+
 
 ---
 
 ## Day 8 Tbilissi old city
 
-Start at **Freedom Square** and walk into the old city through its steep lanes and wooden-balcony houses. Continue to the **Abanotubani sulphur-bath district**, where the brick domes sit beside the small gorge and waterfall.
+![Tbilissi from above](images/blog/georgia2.jpg)
 
-From there, climb to **Narikala Fortress** and the **Mother of Georgia** statue for the view over the roofs and the river. Walk back down through the Botanical Garden side or return towards **Metekhi Church**, then cross the river and finish around **Rike Park** and the **Bridge of Peace** after dark.
+Start at **Freedom Square** and walk into the old city through its steep lanes and wooden-balcony houses.
+
+Don't miss the Gabriadze Theater Clock Tower!
+It's one of the city prettiest spot, close to the river!
+
+I then recommend to walk alongside(ish) the river, to see the nice brigdes, a view of Rike Park from one side, then the Sioni Church, the museums and the Meidan Bazar.
+
+At this point, it could be around noon, and the spot is filled with restaurants!
+Those are a bit more expensive than the rest, but could be nice. Personally I ate quite a bit later in a Cafe in Rike Park.
+
+Continue to the **Abanotubani sulphur-bath district**, where the brick domes sit beside the small gorge and waterfall.
+
+From there, climb to **Narikala Fortress** and the **Mother of Georgia** statue for the view over the roofs and the river.
+It's not a hard walk and it's quite easy to access, it's definitely a must.
+
+You can either go back down through the Botanical Garden side or use the cable car,
+onwards to **Metekhi Church** and **Rike Park**.
+
+In Rike part, you can spot: The presidential palace, the Darejani palace and the ugly tube building.
+
+> This ugly tube building is gonna disappear soon !
+
+From there you can cross the **Bridge of Peace** (even after dark (It lights up!)) to go back toward the old town.
+
+
+> I had to take a break in my visit due to very heavy rains, I was on my way to do more. But actually... Don't burn yourself out!
 
 ---
 
 ## Day 9 More Tbilissi
 
-Use the second day for the parts of Tbilissi beyond the old city. Walk along **Rustaveli Avenue**, stopping at the Parliament building and whichever museum catches your interest.
+Use the second day for the parts of Tbilissi beyond the old city. Walk along **Rustaveli Avenue**, stopping at the Parliament building and perhaps a museum stop (Like the national museum, if that's your thing).
+Definitely mark the **Opera** on your map, it's nice to look at.
 
-Also do cross to the left bank for **Fabrika** and the surrounding streets, then continue to the huge **Holy Trinity Cathedral**.
+> There is the Park Mtatsminda nearby, I went > for a date.
+> But it's not the best spot in town, I mean, > unless you live there.
 
-I stopped there because I had a date. If you don't have a date , here are things I could have done:
+Around the evening, I crossed to the other bank for **Fabrika** and the surrounding streets, then went on to the huge **Holy Trinity Cathedral**.
+
+So I recommend to do this right away, instead of going to Mtatsminda.
+
+If I had more time I'd done this:
 
 Take Metro Line 1 to **Ghrmaghele**, leave by the exit onto David Guramishvili Avenue and catch bus **360** from the stop on the same side of the road.
 Get off at the **Cadet Corps** stop, then walk uphill for around 10 to 15 minutes to the **Chronicle of Georgia**.
+(It was in my todo list!)
 
 ---
 
 ## Day 10 Day trip to Gori
 
+![Uplistsikhe](images/blog/georgia3.jpg)
+
 Visit Gori for its fortress and Stalin Museum (Which is Stalin's house) with an important side trip to the cave city of Uplistsikhe.
 
-Marshrutkas leave from **Didube Bus station** (in Tbilissi) and take around 2hours to reach Gori's bus station.
+Marshrutkas leave from **Didube Bus station** (in Tbilissi) and take around 2 hours to reach Gori's bus station.
 Uplistsikhe requires an additional local bus from Gori, and the way back to Tbilissi becomes much harder.
 
 > I hitchhiked the way back, It really was a full day trip!
@@ -191,9 +247,14 @@ Important: I did not take this tour, it's just something I just found, it propab
 Uplistsikhe was the highlight of this day trip, it's fun to wander around and there were next to no tourists back then
 I finished my day rather early due to me having another date.
 
+
 ---
 
 ## Day 11 Stephantsminda and Mount Kazbegi
+
+![Ananuri on the Georgian Military Highway](images/blog/georgia4.jpg)
+
+![Gergeti Trinity Church beneath Mount Kazbegi](images/blog/georgia5.jpg)
 
 This was a guided day tour from Tbilissi along the Georgian Military Highway, stopping at Ananuri, Gudauri, Stephantsminda and Gergeti Trinity Church beneath Mount Kazbegi.
 
@@ -204,26 +265,36 @@ The trip is really the exact same one I took, with Gamajorba tours (I can take a
 > Highlights: The Anauri church with the lake backdrop was absolutely stunning. The road was one of the best part too!
 > In the end, Stephantsminda wasn't that impressive, but still a must do.
 
+
+
 ---
 
 ## Day 12 Day trip to Mtskheta
 
 Visit Georgia's ancient capital and Svetitskhoveli Cathedral as well as the jointure of the two rivers (Personnal highlght!)
 
-Take a Mtskheta-bound marshrutka from Didube bus station in Tbilissi. It takes around 45 minutes and drops you near the centre; return marshrutkas leave from the same general area.
+Take a Mtskheta-bound marshrutka from Didube bus station (Always the same!).
+It takes around 45 minutes and drops you near the centre; return marshrutkas leave from the same general area.
+
+> A soon as you arrive, Taxis will ask you to take you to the viewpoint.
+> It's either that or a long walk. You do you.
+> As long as you don't cross the highway on foot like my ex did...
 
 This isn't a full daytrip, leaving more time for sightseeing or enjoying more of Tbilissi, but taking into account lunch, it would take a full morning and an early afternoon. 
+
 To go to Armenia next (if that's your plan) you will need to start the day early (Around 7 in the morning!)
 Or if you're lucky, perhaps you can get the transportation to Alaverdi, reaching it before the evening, good if you're lucky enough to find accommodation. In 2019 it was difficult.
 
 For a shorter guided option that keeps Gori as a separate day, [this half-day Mtskheta tour also visits Jvari and the Chronicle of Georgia (affiliate link)](https://www.getyourguide.com/tbilisi-l1379/tbilisi-explore-mtskheta-the-ancient-capital-of-georgia-t165599/?partner_id=H1N6CGH&utm_medium=online_publisher).
 Again, I went independently and did not use that operator.
 
-Personnaly, I return to Tbilissi early enough to go on with yet another date.
+Personnaly, I returned to Tbilissi early enough to go on with yet another date.
 
 ---
 
 ## Day 13 Alaverdi: Haghpat and Sanahin
+
+![A monastery above Alaverdi](images/blog/armenia1.jpg)
 
 Cross into Armenia and base yourself in Alaverdi to visit the UNESCO-listed monasteries of Haghpat and Sanahin.
 
@@ -242,9 +313,14 @@ For Haghpat, take marshrutka **063** from the same station. This second service 
 
 I'd recommend spending the night in Alaverdi, the crossing from Georgia is slow
 
+
 ---
 
 ## Day 14 Yerevan
+
+![Yerevan from the Cascade](images/blog/armenia3.jpg)
+
+![Saint Gregory the Illuminator Cathedral](images/blog/armenia2.jpg)
 
 Take a marshrutka from Alaverdi to Yerevan. Confirm the departure place and time in Alaverdi the day before, because this connection does not have a dependable online timetable. Allow most of the morning for the journey.
 (And even early afternoon, seriously!)
@@ -255,13 +331,18 @@ Near the cascade, there is a nice square/park full of painters. It feels like an
 The centre is easy to explore on foot, the **Opera** and the liberty square are truly worth it, especially at night for the light show.
 
 I also warmly recommend walking a bit more south to see the Saint Gregory Cathedral!
+
+
 ---
 
 ## Day 15 More Yerevan
 
+![The Matenadaran in Yerevan](images/blog/armenia4.jpg)
+
 Spend another day discovering Yerevan, I recommend the Etchmiadzin monastery (I, for once, shared a taxi with a chinese friend, I don't usually recommend taxis... On the way back, we found the bus (helped by locals))
 We also crashed a marriage. Fun times.
 After that, I went to the Matenadaran manuscript museum and took care of my friend that got sick. If you have more time, you could visit the Ararat Distillery!
+
 
 ---
 

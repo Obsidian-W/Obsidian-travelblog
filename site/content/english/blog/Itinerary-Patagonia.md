@@ -159,7 +159,7 @@ Perito Moreno was one of the highlights. In winter it was quiet, bright blue and
 
 ## Day 8 Return to Punta Arenas
 
-This was a complete transport day. Nothing clever, just two buses back to back:
+This was a complete transport day with two buses back to back:
 
 1. **El Calafate → Puerto Natales** in the morning, around 5 to 7 hours including the border.
 2. **Puerto Natales → Punta Arenas** in the afternoon, around 3 to 4 hours.
@@ -168,7 +168,6 @@ Both used the main bus terminals. I had enough time between them in Puerto Natal
 
 From El Calafate, continuing through Argentina makes more sense. I had to return to Chile, so I couldn't do that.
 
-The itinerary map stops at Perito Moreno to keep the route readable rather than drawing the entire journey backwards on Day 8.
 
 ---
 

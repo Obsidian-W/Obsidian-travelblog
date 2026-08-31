@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/MTR-train.jpg"
 categories: ["How-to", "Hong Kong", "China"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources

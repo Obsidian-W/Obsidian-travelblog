@@ -2,11 +2,11 @@
 date: "2019-07-01"
 title: "One week in Armenia"
 description: "A one-week Armenia itinerary covering Alaverdi, Yerevan, Garni and Khor Virap, with a Gyumri extension."
-image: "images/blog/rwanda1.jpg"
+image: "images/blog/armenia1.jpg"
 itinerary_map: "/images/itineraries/armenia.svg"
-categories: ["Itinerary", "Armenia", "Europe"]
-continents: ["Europe"]
-draft: true
+categories: ["Itinerary", "Armenia", "Caucasus"]
+continents: ["Eurasia"]
+draft: false
 ---
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
@@ -30,9 +30,12 @@ I reached Armenia from Georgia in 2019, at the end of a larger journey across Az
 
 ## Day 1 Alaverdi
 
+![A monastery above Alaverdi](images/blog/armenia1.jpg)
+
 Cross into Armenia and base yourself in **Alaverdi** for the UNESCO-listed monasteries of Haghpat and Sanahin. From Tbilisi, take a Yerevan-bound bus and ask to stop in Alaverdi. You will probably be the only crazy person doing that, but UNESCO sites are worth it!
 
 The monasteries were difficult to reach and I needed taxis, which I don't personally like. Honestly, this stop was complicated and exhausting. It may be easier now, but confirm transport locally rather than trusting an old timetable.
+
 
 From Alaverdi's central bus station, local information currently points to bus 3 for Sanahin, followed by a 15-minute walk, and marshrutka 063 for Haghpat. Services can be infrequent, so check the timetable at the station. Spend the night in Alaverdi: the border crossing from Georgia is slow.
 
@@ -40,17 +43,26 @@ From Alaverdi's central bus station, local information currently points to bus 3
 
 ## Day 2 Yerevan
 
+![Yerevan from the Cascade](images/blog/armenia3.jpg)
+
+![Saint Gregory the Illuminator Cathedral](images/blog/armenia2.jpg)
+
 Take a marshrutka from Alaverdi to Yerevan. Confirm the departure point and time the day before, because the connection does not have a dependable online timetable. Allow most of the morning and possibly early afternoon.
 
 Start at **Republic Square**, walk north towards the Opera, then climb the **Cascade** for its views, sculptures and Cafesjian Center. Near the Cascade is a park full of painters; it felt like an older, better version of Paris. The Opera and Freedom Square are especially worth seeing at night. I also warmly recommend walking south to Saint Gregory the Illuminator Cathedral.
+
+
 
 ---
 
 ## Day 3 More Yerevan
 
+![The Matenadaran in Yerevan](images/blog/armenia4.jpg)
+
 Visit **Etchmiadzin Cathedral**. I shared a taxi there with a Chinese friend, then locals helped us find the bus back. We also crashed a wedding. Fun times.
 
 Afterwards I visited the **Matenadaran** manuscript museum and took care of my friend, who got sick. With more time, add the Ararat Distillery or another Yerevan museum.
+
 
 ---
 

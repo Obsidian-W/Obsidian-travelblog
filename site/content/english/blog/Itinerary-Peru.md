@@ -1,13 +1,15 @@
 ---
 date: "2022-06-30"
 title: "Four weeks in Peru"
-description: "Lima, the Cordillera Blanca, northern ruins, the desert coast, Cusco, Machu Picchu, the Amazon and Lake Titicaca."
-image: "images/blog/cheapflight.jpg"
+description: "Four weeks through Lima, the Cordillera Blanca, Peru's desert coast, Arequipa, Cusco, Machu Picchu, the Amazon and Lake Titicaca."
+image: "images/blog/peru.jpg"
 itinerary_map: "/images/itineraries/peru.svg"
 categories: ["Itinerary", "South America", "Peru"]
 continents: ["South America"]
 draft: true
 ---
+
+> I arrived in Lima the previous evening and did nothing. Day 1 began with a walking tour.
 
 # Itinerary done quick
 
@@ -15,185 +17,169 @@ draft: true
 
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Day 1 | [Lima](#day-1-lima) | Historic centre, Barranco and Pacific coast |
-| Day 2 | [Huaraz](#day-2-huaraz) | Acclimatisation and city viewpoints |
-| Day 3 | [Cordillera Blanca](#day-3-cordillera-blanca) | Hostel-booked mountain hike |
-| Day 4 | [Cordillera Blanca](#day-4-cordillera-blanca) | Hostel-booked mountain hike |
-| Day 5 | [Cordillera Blanca](#day-5-cordillera-blanca) | Hostel-booked mountain hike |
-| Day 6 | [Trujillo](#day-6-trujillo) | Historic centre and Huacas del Sol y de la Luna |
-| Day 7 | [Chan Chan](#day-7-chan-chan) | Chan Chan and Huanchaco |
-| Day 8 | [Paracas](#day-8-paracas) | Paracas National Reserve |
-| Day 9 | [Ica and Huacachina](#day-9-ica-and-huacachina) | Oasis and desert |
-| Day 10 | [Nazca](#day-10-nazca) | Nazca Lines and archaeological museum |
-| Day 11 | [Arequipa](#day-11-arequipa) | Historic centre and Santa Catalina |
-| Day 12 | [Arequipa](#day-12-arequipa) | Yanahuara and Andean museum |
-| Day 13 | [Cusco](#day-13-cusco) | Plaza de Armas, cathedral and Qorikancha |
-| Day 14 | [Sacred Valley](#day-14-sacred-valley) | Pisac, Ollantaytambo and valley villages |
-| Day 15 | [Machu Picchu hike](#day-15-machu-picchu-hike) | First hiking stage |
-| Day 16 | [Machu Picchu hike](#day-16-machu-picchu-hike) | Mountain trail |
-| Day 17 | [Machu Picchu hike](#day-17-machu-picchu-hike) | Third hiking stage |
-| Day 18 | [Machu Picchu hike](#day-18-machu-picchu-hike) | Final approach |
-| Day 19 | [Machu Picchu](#day-19-machu-picchu) | Reserved entrance and citadel |
-| Day 20 | [Cusco](#day-20-cusco) | San Blas and San Pedro Market |
-| Day 21 | [Puerto Maldonado](#day-21-puerto-maldonado) | Amazon river and forest lodge |
-| Day 22 | [Amazon](#day-22-amazon) | Forest and wildlife programme |
-| Day 23 | [Puerto Maldonado](#day-23-puerto-maldonado) | Final lodge activities and return |
-| Day 24 | [Puno](#day-24-puno) | Lake Titicaca waterfront and centre |
-| Day 25 | [Amantani](#day-25-amantani) | Island boat trip and villages |
-| Day 26 | [Copacabana](#day-26-copacabana) | Basilica and Cerro Calvario |
+| Day 1 | [Lima](#day-1-lima) | Historic centre and Barranco |
+| Day 2 | [Huaraz](#day-2-huaraz) | Town and acclimatisation |
+| Day 3 | [Pastoruri Glacier](#day-3-pastoruri-glacier) | Glacier day trip from Huaraz |
+| Day 4 | [Laguna 69](#day-4-laguna-69) | Cordillera Blanca day hike |
+| Day 5 | [Laguna Paron](#day-5-laguna-paron) | Lake and viewpoint |
+| Day 6 | [Trujillo](#day-6-trujillo) | Centre and Huacas de Moche |
+| Day 7 | [Chan Chan and Huanchaco](#day-7-chan-chan-and-huanchaco) | Archaeological complex and coast |
+| Day 8 | [Lima to Paracas](#day-8-lima-to-paracas) | Lima museum and southbound bus |
+| Day 9 | [Paracas](#day-9-paracas) | Ballestas Islands and national reserve |
+| Day 10 | [Ica and Huacachina](#day-10-ica-and-huacachina) | Oasis, dunes and sandboarding |
+| Day 11 | [Nazca](#day-11-nazca) | Nazca Lines, aqueducts and cemetery |
+| Day 12 | [Arequipa](#day-12-arequipa) | White city and Santa Catalina |
+| Day 13 | [Colca Canyon](#day-13-colca-canyon) | Descent into the canyon |
+| Day 14 | [Colca Canyon](#day-14-colca-canyon) | Climb out and return to Arequipa |
+| Day 15 | [Cusco](#day-15-cusco) | Inca centre and Sacsayhuaman |
+| Day 16 | [Rainbow Mountain](#day-16-rainbow-mountain) | High-altitude day trip |
+| Day 17 | [Machu Picchu hike](#day-17-machu-picchu-hike) | Start of the five-day trek |
+| Day 18 | [Machu Picchu hike](#day-18-machu-picchu-hike) | Salkantay Pass |
+| Day 19 | [Machu Picchu hike](#day-19-machu-picchu-hike) | Descent into cloud forest |
+| Day 20 | [Machu Picchu hike](#day-20-machu-picchu-hike) | Final approach |
+| Day 21 | [Machu Picchu](#day-21-machu-picchu) | Reserved entrance and citadel |
+| Day 22 | [Ollantaytambo](#day-22-ollantaytambo) | Fortress and old village |
+| Day 23 | [Cusco](#day-23-cusco) | Remaining sites and adventure trip |
+| Day 24 | [Puerto Maldonado](#day-24-puerto-maldonado) | River transfer, Monkey Island and night walk |
+| Day 25 | [Amazon](#day-25-amazon) | Wildlife navigation and forest trails |
+| Day 26 | [Puerto Maldonado](#day-26-puerto-maldonado) | Lodge activities and return |
+| Day 27 | [Amantani](#day-27-amantani) | Lake Titicaca and homestay |
 
 ## Day 1: Lima
 
-Begin at **Plaza Mayor** with the cathedral, Archbishop's Palace and the streets around the **Monastery of San Francisco**. Walk south through the pedestrian centre to Plaza San Martín. This is enough for central Lima without turning the day into a race across the city.
+Begin with a walking tour around **Plaza Mayor**, the cathedral, Archbishop's Palace and the **Monastery of San Francisco**. Walk through the pedestrian centre to Plaza San Martín, then take the Metropolitano south to **Barranco** for the Bridge of Sighs and the Pacific cliffs.
 
-In the afternoon, take the Metropolitano to **Barranco**. Walk from the main square to the **Bridge of Sighs**, descend towards Bajada de Baños and finish above the Pacific. Return north for the overnight bus to Huaraz. Lima companies use several terminals, so go to the boarding address printed on the ticket, not simply “the bus station”.
+Take the night bus to Huaraz. Lima has separate private bus terminals rather than one central station, so use the address printed on the ticket.
 
 ## Day 2: Huaraz
 
-Leave the bag in Huaraz after the night bus and keep the first day below the altitude of the mountain trails. Walk around **Plaza de Armas**, visit the **Regional Museum of Ancash** and its stone garden, then continue to the market and one of the viewpoints above town.
+Keep the first day in **Huaraz** for acclimatisation. Walk around Plaza de Armas, the Regional Museum of Ancash and its stone garden, then climb to a viewpoint above town.
 
-I booked all three Cordillera Blanca day trips through my hostel for about **€10 each**. The hostel supplied the minibus and trailhead information; I returned to the same bed in Huaraz every evening.
+I booked the next three Cordillera Blanca day trips through the hostel for about **€10 each**. Every evening I returned to the same bed in Huaraz.
 
-## Day 3: Cordillera Blanca
+## Day 3: Pastoruri Glacier
 
-Take the first hostel minibus into the **Cordillera Blanca**. These departures started early because reaching the trailhead already occupied part of the morning. Carry breakfast or buy it before departure; the mountain stops were not a replacement for Huaraz's shops.
+![Pastoruri Glacier in the Cordillera Blanca](images/blog/peru1.jpg)
 
-<!-- Add the exact hike from photographs or the hostel receipt. -->
+Take the hostel minibus south for **Pastoruri Glacier**. The drive crosses the high plateau and stops among the giant puya raimondii plants before the final walk from the car park. The trail is short but rises above 5,000 metres, which is why I kept Huaraz itself as the previous day's acclimatisation.
 
-## Day 4: Cordillera Blanca
+## Day 4: Laguna 69
 
-Use the second hostel excursion for another part of the range. This was again a day trip from Huaraz, with the same bag left at the hostel and the minibus returning in the evening. The useful point for planning is that no multi-day trekking equipment or mountain accommodation was required.
+![Laguna 69 in the Cordillera Blanca](images/blog/peru2.jpg)
 
-Keep the evening free for food and recovery. Three consecutive high-altitude days are already a substantial block even without changing accommodation.
+Leave before dawn for the **Laguna 69** trailhead in Huascarán National Park. The path climbs past waterfalls and a broad glacial valley before the final steep section to the turquoise lake. This was another hostel-booked day trip, with transport back to Huaraz after the hike.
 
-## Day 5: Cordillera Blanca
+## Day 5: Laguna Paron
 
-Take the third and final hostel-booked hike. Confirm before leaving whether the minibus returns early enough for the Trujillo bus; leave the main luggage at reception and collect it after the hike.
-
-Travel north to **Trujillo** overnight when the departure works. This saves a hotel night and protects the following day for the city and the Moche temples.
+Take the third hostel excursion to **Laguna Parón**. Walk beside the lake and climb the rocky viewpoint above it for the full view towards the glaciers. Return to Huaraz, collect the main bag and take the night bus north to Trujillo.
 
 ## Day 6: Trujillo
 
-Walk around Trujillo's **Plaza de Armas**, the cathedral and the coloured colonial façades in the surrounding streets. Continue to the **Casa Urquiaga** or another open colonial house before leaving the centre.
+![Historic central Trujillo](images/blog/peru3.jpg)
 
-In the afternoon, take a local combi towards the Moche district or join a half-day archaeological excursion to the **Huacas del Sol y de la Luna**. The excavated and painted Huaca de la Luna is the main visit. Return to Trujillo for the evening; Chan Chan belongs to the opposite side of the city and gets its own day.
+Walk around Trujillo's Plaza de Armas, cathedral and coloured colonial façades. In the afternoon, take a combi towards Moche or a local tour to the **Huacas del Sol y de la Luna**. The painted walls inside Huaca de la Luna are the main reason to come.
 
-## Day 7: Chan Chan
+## Day 7: Chan Chan and Huanchaco
 
-Take a westbound local bus or a shared archaeological tour to **Chan Chan**. Visit the museum and the accessible palace complex, then continue along the same side of Trujillo to **Huanchaco**. Walk the seafront and look for the traditional *caballitos de totora* before returning to collect the luggage.
+Take a westbound combi or shared tour to **Chan Chan**, then continue to **Huanchaco** on the same side of Trujillo. Visit the beach and the *caballitos de totora*; I also went surfing here. Return to Trujillo for the night bus south.
 
-Take the overnight bus south to Lima. Continue to Paracas from the arrival terminal or transfer to the correct southbound terminal; do not assume the two services use the same building.
+## Day 8: Lima to Paracas
 
-## Day 8: Paracas
+After the night bus, leave the bag and use the morning for one Lima museum, such as the Larco Museum or the Museum of Art of Lima. Take an afternoon bus to **Paracas** and walk around the harbour after checking in.
 
-Leave the bag in Paracas and book a seat in one of the vans entering the **Paracas National Reserve**. The road circuit covers the museum or interpretation stop, the cliffs and beaches around the peninsula, and the desert coast where the landscape matters more than the town itself.
+## Day 9: Paracas
 
-Return to the harbour area for sunset. Boats for the **Ballestas Islands** leave in the morning, so they require an earlier arrival or another night in Paracas.
+![The coast of Paracas National Reserve](images/blog/peru4.jpg)
 
-## Day 9: Ica and Huacachina
+Take the morning boat to the **Ballestas Islands**, then join a van through **Paracas National Reserve** for the peninsula cliffs, beaches and desert coast. Both trips leave from the harbour area and are commonly sold together.
 
-Take the short bus from Paracas to **Ica**, leave the main bag near the terminal and use a local connection to **Huacachina**. Walk around the lagoon and climb the dunes on foot. A dune-buggy and sandboarding outing can fill the late afternoon, but it should only be written as part of my trip once confirmed.
+## Day 10: Ica and Huacachina
 
-Return to Ica for the bus to Nazca. Staying in Ica adds museums and wineries; this itinerary uses it as the transport stop for Huacachina.
+Take the bus to **Ica**, then a taxi or local connection to **Huacachina**. Walk around the oasis and join a late-afternoon dune-buggy and sandboarding trip. Return to Ica for the evening bus to Nazca.
 
-## Day 10: Nazca
+## Day 11: Nazca
 
-The roadside observation tower shows a small group of the **Nazca Lines**. A flight covers a much wider area and requires a separate reservation.
+![The Nazca Lines from the air](images/blog/peru5.jpg)
+![A wrong turn through the outskirts of Nazca](images/blog/peruExtra.jpg)
 
-Back in Nazca, visit the **Antonini Archaeological Museum** and the centre. Collect the bag and take the overnight bus to Arequipa; this is one of the route's most useful night journeys.
+I took a flight over the **Nazca Lines**, then visited the **Cantalloc aqueducts**. Add the Antonini Archaeological Museum, the Chauchilla cemetery and the roadside observation tower if the flight time leaves enough of the day.
 
-## Day 11: Arequipa
-
-After arriving at Arequipa's terminal, take the local bus or an authorised terminal taxi to the accommodation. Walk around the white-stone **Plaza de Armas**, enter the cathedral and continue to the **Church of the Company** and its cloisters.
-
-Give the **Santa Catalina Monastery** the rest of the afternoon. It is effectively a walled neighbourhood of courtyards and painted streets, not a quick church visit.
+I got lost walking through the poorer outskirts of Nazca; that is where the second photograph comes from. It has nothing to do with the Amazon. Take the night bus to Arequipa.
 
 ## Day 12: Arequipa
 
-Start at **San Camilo Market**, then visit the **Museum of Andean Sanctuaries** in the centre. Continue to **Yanahuara** for its church, streets and the view back towards Arequipa's volcanoes through the stone arches.
+![Santa Catalina Monastery in Arequipa](images/blog/peru6.jpg)
 
-Return for the luggage and take the overnight bus to Cusco. Both cities have dedicated interprovincial terminals; buy the ticket for the correct date before the Arequipa sightseeing day fills up.
+Walk around the white-stone Plaza de Armas, cathedral and Church of the Company, then spend the afternoon inside **Santa Catalina Monastery**. Book the Colca Canyon departure and leave the main bag at the accommodation.
 
-## Day 13: Cusco
+## Day 13: Colca Canyon
 
-Leave the bag after the night bus and begin around **Plaza de Armas**, the cathedral and the Jesuit church. Walk through the Inca walls around Hatun Rumiyoc, climb into **San Blas**, then descend to **Qorikancha**.
+![The landscape outside Arequipa](images/blog/peru7.jpg)
 
-Buy or collect everything required by the Machu Picchu operator today. The booked hike begins after the Sacred Valley day, so this is the last easy moment to resolve luggage storage, pickup time and anything missing from the equipment list.
+Leave Arequipa early on the booked two-day trip. Stop at **Cruz del Cóndor**, then begin the long descent into **Colca Canyon**. The trail drops towards the villages and the oasis at the bottom, where the group sleeps.
 
-## Day 14: Sacred Valley
+## Day 14: Colca Canyon
 
-Take a Sacred Valley excursion from Cusco for **Pisac** and **Ollantaytambo**, with the smaller valley stops determined by the booked route. Pisac needs time for the archaeological terraces above the town; Ollantaytambo needs time for the fortress and the old streets below it.
+Start climbing before sunrise. The return to the rim is the hardest part of the two days. Continue by road through Chivay and the high plateau to Arequipa, collect the luggage and take the night bus to Cusco.
 
-Return to Cusco in the evening for the five-day hike pickup. Doing both sites independently by colectivo is possible, but fitting them into one day with a fixed return is less forgiving than the shared excursion.
+## Day 15: Cusco
 
-## Day 15: Machu Picchu hike
+Walk around Plaza de Armas, Qorikancha, San Blas and the Inca walls along Hatun Rumiyoc. Take a local bus or colectivo uphill to **Sacsayhuamán**, then walk back through Q'enqo and the northern side of the city.
 
-Begin the **five-day booked hike**. The booking included the Machu Picchu reservation, so the entrance was already tied to this itinerary rather than purchased on arrival. Leave the main luggage in Cusco and carry only the bag allowed by the operator.
+Collect the equipment and confirm the pickup for the five-day Machu Picchu trek.
 
-<!-- Add the trail name, first stage and overnight stop from the original booking. -->
+## Day 16: Rainbow Mountain
 
-## Day 16: Machu Picchu hike
-
-Continue the second stage with the same group and guide.
-
-<!-- Add the actual pass, village and sleeping place from the booking or photographs. -->
+Leave before dawn on a shared excursion to **Rainbow Mountain**. The trail starts at extreme altitude and climbs towards the striped ridge, with Ausangate visible beyond it. Return to Cusco for the evening cultural performance.
 
 ## Day 17: Machu Picchu hike
 
-This was the middle stage of the booked trek. Food, the route and the overnight stop were part of the package.
-
-<!-- Add the day's landscape, activities and sleeping place from the original booking. -->
+Begin the **five-day booked trek**. My package included the Machu Picchu reservation, transport, food and the guide. The first day passed Humantay Lake before the first camp.
 
 ## Day 18: Machu Picchu hike
 
-Complete the final hiking stage before the reserved Machu Picchu visit.
+Cross **Salkantay Pass**, the highest and coldest part of the trek, then descend towards the next camp.
 
-<!-- Add the actual finish and sleeping place from the original booking. -->
+## Day 19: Machu Picchu hike
 
-## Day 19: Machu Picchu
+Continue down into the warmer cloud forest through the valleys below Salkantay. The vegetation and temperature change completely during this stage.
 
-Enter **Machu Picchu** using the reservation included in the five-day package. Follow the circuit printed on that reservation; access inside the citadel is controlled by the booked circuit and entry time.
+## Day 20: Machu Picchu hike
 
-Return to Cusco with the train and road transfer supplied or specified by the operator. Keep the ticket until the final connection: some packages finish at Ollantaytambo and continue by road rather than taking the train all the way towards Cusco.
+Follow the final approach towards Aguas Calientes, partly along the railway and Urubamba valley. Sleep close to Machu Picchu for the reserved entrance the next morning.
 
-## Day 20: Cusco
+## Day 21: Machu Picchu
 
-Use the day after the hike for **San Pedro Market**, the streets missed around San Blas and any Cusco ticketed site left from Day 13. This is also the buffer if the trek returned later than planned.
+![Machu Picchu](images/blog/peru8.jpg)
 
-Collect the stored luggage and take the overnight bus to Puerto Maldonado. Book the arrival to match the Amazon operator's pickup instructions.
+Enter **Machu Picchu** using the reservation included in the five-day package. Follow the circuit and entrance time printed on the ticket, then return by bus and train towards Ollantaytambo.
 
-## Day 21: Puerto Maldonado
+## Day 22: Ollantaytambo
 
-My **three-day Amazon trip** was booked online. The operator collected the group in Puerto Maldonado and handled the transfer to the river, the boat and the lodge. Keep the confirmation accessible offline: the pickup point matters more here than finding a public bus after arrival.
+Stay in **Ollantaytambo** for the fortress terraces, Temple of the Sun and the old Inca streets below. Take a colectivo back to Cusco in the late afternoon.
 
-The first day includes the journey into the reserve and the lodge's introductory activity.
+## Day 23: Cusco
 
-<!-- Add the lodge and the actual evening excursion from the original booking. -->
+Use the remaining Cusco day for San Pedro Market, the museums included in the tourist ticket and the adventure outing outside the city. Collect the stored luggage and take the night bus to Puerto Maldonado.
 
-## Day 22: Amazon
+## Day 24: Puerto Maldonado
 
-This was the only complete day based at the lodge.
+![Travelling by boat outside Puerto Maldonado](images/blog/peru9.jpg)
 
-<!-- Add the forest walk, wildlife hides, lake or river activity from the booked programme. -->
+My **three-day Amazon trip** was booked online. The operator collected the group in Puerto Maldonado and transferred us by road and boat to the lodge. The first afternoon included **Monkey Island**, followed by a night walk to look for insects, frogs and tarantulas.
 
-## Day 23: Puerto Maldonado
+## Day 25: Amazon
 
-Complete the final lodge activity and return by boat and road to Puerto Maldonado. The operator controls the return time, so do not buy a tightly timed onward ticket without checking the booking.
+This was the complete day based at the lodge. We navigated the river and smaller waterways to spot wildlife, then continued on foot through the forest with the guide. The programme included another walk after dark rather than a rest day.
 
-Take the overnight bus to **Juliaca**, then continue to Puno.
+## Day 26: Puerto Maldonado
 
-## Day 24: Puno
+Finish the final lodge activity, return by boat and road to Puerto Maldonado, then take the night bus towards Juliaca and Puno.
 
-Continue from Juliaca to **Puno**, leave the bag and walk around Plaza de Armas, the cathedral and the pedestrian centre. Finish at the Lake Titicaca waterfront and confirm the next morning's boat departure and return arrangement for Amantani.
+## Day 27: Amantani
 
-## Day 25: Amantani
+![Lake Titicaca](images/blog/peru10.jpg)
 
-Take the morning passenger or excursion boat across Lake Titicaca to **Amantani**. Walk through the island villages and climb towards the **Pachamama** and **Pachatata** viewpoints. The altitude makes the final slope slower than it looks from the harbour.
+Continue from Juliaca to Puno and take the boat across Lake Titicaca to **Amantani**. I had met a Peruvian family during the Amazon trip and they invited me to their home on the island. It became one of the best side trips of the entire journey.
 
-Return to Puno after the island visit.
-
-## Day 26: Copacabana
-
-Take the international bus from Puno to **Copacabana**. Everyone leaves the vehicle for the Peruvian and Bolivian border formalities before reboarding on the other side; keep the hand luggage and passport with you.
-
-After arrival, visit the **Basilica of Our Lady of Copacabana**, walk through the market streets and climb **Cerro Calvario** above Lake Titicaca. Copacabana is the end of the Peru article and the beginning of the Bolivia route.
+Walk through the villages and climb towards the Pachamama and Pachatata viewpoints before staying with the family. Continue to Copacabana the following day for the start of the Bolivia itinerary.

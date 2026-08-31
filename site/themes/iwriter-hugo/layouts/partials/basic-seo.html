@@ -15,7 +15,13 @@
 {{- end -}}
 {{- $isPaged := gt $pageNumber 1 -}}
 {{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
-{{- $shouldNoindex := or $isSearch $isTagLike -}}
+{{- $isTaxonomyIndex := eq .Kind "taxonomy" -}}
+{{- $isThinTerm := false -}}
+{{- if eq .Kind "term" -}}
+  {{- $isThinTerm = lt (len .Pages) 2 -}}
+{{- end -}}
+{{- $pageNoindex := .Params.noindex | default false -}}
+{{- $shouldNoindex := or $isSearch $isTagLike $isPaged $isTaxonomyIndex $isThinTerm $pageNoindex -}}
 
 {{- $pageTitle := .Title | default $siteTitle -}}
 {{- $seoTitle := $pageTitle -}}

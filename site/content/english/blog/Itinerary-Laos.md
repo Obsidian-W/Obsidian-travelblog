@@ -4,7 +4,7 @@ title: "Two weeks in Laos"
 description: "Vientiane, Luang Prabang, Nong Khiaw, Muang Ngoi, Luang Namtha, Thakhek, Pakse, the Bolaven Plateau and Don Khon."
 image: "images/blog/cheapflight.jpg"
 itinerary_map: "/images/itineraries/laos.svg"
-categories: ["Itinerary", "Asia", "Laos"]
+categories: ["Itinerary", "SEA", "Laos"]
 continents: ["Asia"]
 draft: true
 ---

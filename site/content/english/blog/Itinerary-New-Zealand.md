@@ -1,10 +1,10 @@
 ---
-date: "2020-01-13"
-title: "Twelve days in New Zealand"
-description: "Auckland, Tongariro, Wellington, Abel Tasman, Franz Josef, Queenstown, Te Anau and Christchurch."
-image: "images/blog/cheapflight.jpg"
+date: "2020-02-05"
+title: "Two weeks in New Zealand"
+description: "A public-transport and hitchhiking route from Auckland to Tongariro, Wellington, Abel Tasman, Franz Josef, Queenstown, Te Anau and Christchurch."
+image: "images/blog/nz.jpg"
 itinerary_map: "/images/itineraries/new-zealand.svg"
-categories: ["Itinerary", "Oceania", "New Zealand"]
+categories: ["Itinerary", "New Zealand"]
 continents: ["Oceania"]
 draft: true
 ---
@@ -15,69 +15,94 @@ draft: true
 
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Day 1 | [Auckland](#day-1-auckland) | Harbour, Albert Park and Mount Eden |
-| Day 2 | [Tongariro](#day-2-tongariro) | National Park village and short walks |
+| Day 1 | [Auckland](#day-1-auckland) | Harbour, museum and Mount Eden |
+| Day 2 | [Ohakune](#day-2-ohakune) | Railway town and local walk |
 | Day 3 | [Tongariro](#day-3-tongariro) | Tongariro Alpine Crossing |
 | Day 4 | [Wellington](#day-4-wellington) | Waterfront, Te Papa and Mount Victoria |
 | Day 5 | [Wellington](#day-5-wellington) | Parliament, cable car and Weta Workshop |
-| Day 6 | [Nelson](#day-6-nelson) | Nelson centre, cathedral and viewpoint |
+| Day 6 | [Cook Strait and Nelson](#day-6-cook-strait-and-nelson) | Ferry through the Marlborough Sounds |
 | Day 7 | [Abel Tasman](#day-7-abel-tasman) | Beaches and coastal track |
-| Day 8 | [Franz Josef](#day-8-franz-josef) | Glacier valley viewpoint |
-| Day 9 | [Queenstown](#day-9-queenstown) | Lakefront, gardens and skyline |
-| Day 10 | [Queenstown](#day-10-queenstown) | Arrowtown and Queenstown Hill |
-| Day 11 | [Te Anau](#day-11-te-anau) | Lake Te Anau and Milford Sound |
-| Day 12 | [Christchurch](#day-12-christchurch) | Botanic Gardens, centre and Canterbury Museum area |
+| Day 8 | [West Coast](#day-8-west-coast) | Punakaiki and the road to Franz Josef |
+| Day 9 | [Franz Josef](#day-9-franz-josef) | Glacier valley walk |
+| Day 10 | [Queenstown](#day-10-queenstown) | Wānaka road and Lake Wakatipu |
+| Day 11 | [Queenstown](#day-11-queenstown) | Arrowtown and Queenstown Hill |
+| Day 12 | [Te Anau](#day-12-te-anau) | Lake, bird sanctuary and town |
+| Day 13 | [Kepler Track](#day-13-kepler-track) | Day walk from Te Anau |
+| Day 14 | [Christchurch](#day-14-christchurch) | Long transfer across the South Island |
+| Day 15 | [Christchurch](#day-15-christchurch) | Centre and flight towards Alice Springs |
 
 ## Day 1: Auckland
 
-Walk from the harbour through the centre to **Albert Park** and the university area, then continue towards the Domain and **Auckland War Memorial Museum**. Take a local bus to **Mount Eden** late in the day and follow the summit path around the volcanic crater for the city view.
+Walk from the harbour through the centre to **Albert Park**, then continue through the Domain to the **Auckland War Memorial Museum**. Take a local bus to **Mount Eden** in the late afternoon and follow the rim of the volcanic crater for the city view.
 
-## Day 2: Tongariro
+## Day 2: Ohakune
 
-Take the scheduled long-distance coach from Auckland to **National Park village**. There was one useful departure for my route, so the coach determined the day rather than merely connecting two sightseeing stops. From the village, use the booked local shuttle to reach Whakapapa if there is time for the visitor centre and a short volcanic walk.
+Take the southbound InterCity coach from Auckland to **Ohakune**. I stopped here rather than going straight to National Park. The town grew around the railway, and the short walks beside the tracks and towards the old station filled the remaining daylight. Arrange the following morning's trail shuttle before dinner.
 
 ## Day 3: Tongariro
 
-Use a booked trail shuttle for the **Tongariro Alpine Crossing**, from the Mangatepopo trailhead to Ketetahi. The route crosses South Crater, climbs towards Red Crater and descends past the Emerald Lakes. It is point-to-point: the return pickup is part of the hike booking, not something to arrange after reaching the far end.
+![The Tongariro Alpine Crossing](images/blog/nz1.jpg)
+
+Use the booked shuttle from Ohakune to the Mangatepopo trailhead for the **Tongariro Alpine Crossing**. The route climbs through South Crater to Red Crater, passes the Emerald Lakes and descends to Ketetahi. The crossing is exposed and the shuttle can cancel when the weather turns; confirm the pickup point and return time the evening before.
+
+Continue to Wellington on the evening coach if the timetable works, or sleep in Ohakune and leave early on Day 4.
 
 ## Day 4: Wellington
 
-Take the southbound coach to Wellington and leave the bag before walking the waterfront. Give **Te Papa** the main part of the afternoon, then climb **Mount Victoria** only if the arrival and weather leave enough daylight.
+Leave the bag after arriving in Wellington, then walk the waterfront to **Te Papa**. Continue around Oriental Bay and climb **Mount Victoria** for the harbour view.
 
-The cheap Wellington hostel selection was poor and filled quickly during my visit. Mine was filthy and shared with sex workers and men who made the stay deeply unpleasant. I would book earlier here than elsewhere on this route.
+The cheap Wellington hostels were notoriously poor and filled quickly. Mine was filthy and shared with sex workers and men who made the stay deeply unpleasant. Book this stop earlier than the others.
 
 ## Day 5: Wellington
 
-Visit the **Beehive** and Parliament grounds, then ride the cable car uphill and walk back through the **Botanic Garden**. In the afternoon, take the city bus from central Wellington to Miramar for the **Weta Workshop** tour. Weta was worth it: it added an actual workshop visit rather than another film-location photograph.
+Visit the **Beehive** and Parliament grounds, ride the cable car uphill and walk back through the **Botanic Garden**. In the afternoon, take Bus 2 from the centre towards Miramar and get off near the **Weta Workshop**. The workshop tour was worth the trip across the city.
 
-## Day 6: Nelson
+## Day 6: Cook Strait and Nelson
 
-Take the Cook Strait ferry from Wellington to **Picton**, with the Marlborough Sounds at the end of the crossing, then the connecting coach to Nelson. Walk through the centre to **Christ Church Cathedral** and climb Botanical Hill to the **Centre of New Zealand** viewpoint.
+Take the morning ferry from Wellington to **Picton**. The last part threads through the Marlborough Sounds and was the best part of this travel day. Connect to the coach for Nelson after disembarking. I barely visited Nelson: I ate, rested and prepared for the next day's hitchhiking.
 
 ## Day 7: Abel Tasman
 
-Reach **Marahau** or **Kaiteriteri** for a section of the **Abel Tasman Coast Track**. Match the walk to a pre-booked water-taxi pickup rather than choosing the distance after starting; Anchorage and the bays around it make a practical one-day section.
+![The coast in Abel Tasman National Park](images/blog/nz2.jpg)
 
-I hitchhiked from Nelson. It was difficult, particularly because a late lift would also mean missing the useful part of the day in the park. An early shuttle or water-taxi package is the dependable alternative.
+Reach **Marahau** or **Kaiteriteri** for a section of the **Abel Tasman Coast Track**. I hitchhiked from Nelson and it was difficult. A shuttle gives a much safer start if a water taxi has already been booked. One good day combines the boat to Anchorage with the coastal walk back through the bays towards Marahau.
 
-## Day 8: Franz Josef
+## Day 8: West Coast
 
-Continue down the South Island's west coast. I mostly hitchhiked in the South Island; the alternative coach service was sparse and often limited to one useful departure a day.
+My southbound bus made sightseeing stops on the way from Nelson towards Franz Josef, including the **Punakaiki Pancake Rocks**. It was the InterCity west-coast service rather than a simple direct coach. The road follows the Buller Gorge and then the Tasman coast before continuing through Greymouth and Hokitika.
 
-Walk the marked valley route towards the **Franz Josef Glacier** viewpoint after arrival. Heavy fog covered the entire view when I went: I reached the lookout and saw cloud where the glacier was supposed to be. Keep the walk in the itinerary, but do not treat the view as guaranteed.
+Arrive in **Franz Josef** in the evening and walk around the small centre. Keep the glacier valley for the following morning.
 
-## Day 9: Queenstown
+## Day 9: Franz Josef
 
-Follow the west-coast road through Haast and Wānaka to Queenstown. After arrival, walk along **Lake Wakatipu** and through **Queenstown Gardens**. The skyline gondola and Ben Lomond trail begin above the centre; use the gondola viewpoint for a short evening rather than starting the longer hike late.
+Take the local shuttle towards the **Franz Josef Glacier** valley and walk the marked trail to the viewpoint. Heavy fog covered the entire view when I went. I completed the walk and saw cloud where the glacier should have been.
+
+Spend the second half of the day on the Tatare Tunnels walk or around Lake Mapourika, then return to Franz Josef for the night.
 
 ## Day 10: Queenstown
 
-Take the local bus to **Arrowtown** and walk the historic centre and riverside trail. Return to Queenstown for the **Queenstown Hill** walk. This is the better day for the hill because it does not depend on a long intercity arrival first.
+![Queenstown and Lake Wakatipu](images/blog/nz3.jpg)
 
-## Day 11: Te Anau
+Take the coach south through Haast and **Wānaka** to Queenstown. This is another full travel day, but the road through Mount Aspiring National Park is part of the reason to take the bus rather than fly. After arrival, walk along **Lake Wakatipu** and through Queenstown Gardens.
 
-Take the morning coach from Queenstown to Te Anau and continue on a booked **Milford Sound** day trip. The tour bus follows the Milford Road and returns to Te Anau after the cruise.
+## Day 11: Queenstown
 
-## Day 12: Christchurch
+![Queenstown from above](images/blog/nz4.jpg)
 
-Travel from Te Anau through Queenstown towards Christchurch; this is a long final connection and may require two coach bookings. In Christchurch, walk through the Botanic Gardens, the central streets and the Canterbury Museum area before departure.
+Take Bus 2 to **Arrowtown** for the historic centre and riverside trail. Return to Queenstown and climb **Queenstown Hill**. The Ben Lomond summit is a separate full hike and does not fit after Arrowtown.
+
+## Day 12: Te Anau
+
+Take the morning coach from Queenstown to **Te Anau**. Walk the lakefront to the **Te Anau Bird Sanctuary**, then continue along the first easy section of the Kepler Track from the control gates if there is enough daylight.
+
+## Day 13: Kepler Track
+
+Use the full day for the **Kepler Track**. From town, walk or take the short transfer to the control gates, follow the lakeshore through beech forest to Brod Bay and climb towards Luxmore Hut as far as weather and daylight allow. Return by the same path. The hut is a demanding day return; Brod Bay is the shorter version.
+
+## Day 14: Christchurch
+
+Travel from Te Anau through Queenstown to **Christchurch**. The connection takes most of the day and may require separate tickets. I used Christchurch mainly as the stopping point between New Zealand and Australia.
+
+## Day 15: Christchurch
+
+Walk through the **Botanic Gardens**, the Arts Centre and the rebuilt streets around Cathedral Square before the flight. My route continued from Christchurch to the Gold Coast and then Alice Springs.

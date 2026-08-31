@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">South America route map</title>
-  <desc id="desc">South America itinerary: Lima, Huaraz, Trujillo, Paracas, Ica, Nazca, Arequipa, Cusco, Machu Picchu, Puerto Maldonado, Puno, Copacabana, La Paz, Cochabamba, Torotoro, Sucre, Potosi, Uyuni, San Pedro de Atacama, Santiago, Punta Arenas, Puerto Natales, El Calafate, El Chalten, Perito Moreno.</desc>
+  <desc id="desc">South America itinerary: Lima, Huaraz, Trujillo, Paracas, Ica, Nazca, Arequipa, Colca Canyon, Cusco, Rainbow Mountain, Machu Picchu, Puerto Maldonado, Amantani, Copacabana, La Paz, Tiwanaku, Cochabamba, Torotoro, Sucre, Potosi, Uyuni, San Pedro de Atacama, Santiago, Punta Arenas, Puerto Natales, El Calafate, El Chalten, Perito Moreno.</desc>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
@@ -23,8 +23,8 @@
 <text class="country-label" x="459.6" y="441.7">Chile</text>
 <text class="country-label" x="513.1" y="198.7">Bolivia</text>
 <text class="country-label" x="420.0" y="153.1">Peru</text>
-    <path class="route-halo" d="M398.6,145.4 L393.4,113.7 L377.4,95.9 L407.1,167.7 L412.6,170.4 L421.0,180.1 L457.2,199.7 L452.5,163.7 L446.5,159.2 L452.5,163.7 L482.3,152.0 L473.3,192.7 L483.3,196.9 L493.5,201.0 L514.5,212.1 L518.7,221.4 L514.5,212.1 L524.1,232.9 L518.9,239.7 L507.5,250.6 L492.8,281.3 L466.7,413.2 L463.9,660.2 L446.9,642.3 L449.4,624.8 L442.8,612.2 L449.4,624.8 L440.2,626.8 L449.4,624.8 L446.9,642.3 L463.9,660.2" />
-    <path class="route" d="M398.6,145.4 L393.4,113.7 L377.4,95.9 L407.1,167.7 L412.6,170.4 L421.0,180.1 L457.2,199.7 L452.5,163.7 L446.5,159.2 L452.5,163.7 L482.3,152.0 L473.3,192.7 L483.3,196.9 L493.5,201.0 L514.5,212.1 L518.7,221.4 L514.5,212.1 L524.1,232.9 L518.9,239.7 L507.5,250.6 L492.8,281.3 L466.7,413.2 L463.9,660.2 L446.9,642.3 L449.4,624.8 L442.8,612.2 L449.4,624.8 L440.2,626.8 L449.4,624.8 L446.9,642.3 L463.9,660.2" />
+    <path class="route-halo" d="M398.6,145.4 L393.4,113.7 L377.4,95.9 L407.1,167.7 L412.6,170.4 L421.0,180.1 L457.2,199.7 L451.4,189.8 L452.5,163.7 L459.8,168.0 L452.5,163.7 L446.5,159.2 L449.6,160.4 L452.5,163.7 L482.3,152.0 L476.7,190.5 L483.3,196.9 L493.5,201.0 L487.8,201.6 L493.5,201.0 L514.5,212.1 L518.7,221.4 L514.5,212.1 L524.1,232.9 L518.9,239.7 L507.5,250.6 L492.8,281.3 L466.7,413.2 L463.9,660.2 L446.9,642.3 L449.4,624.8 L442.8,612.2 L449.4,624.8 L440.2,626.8 L449.4,624.8 L446.9,642.3 L463.9,660.2" />
+    <path class="route" d="M398.6,145.4 L393.4,113.7 L377.4,95.9 L407.1,167.7 L412.6,170.4 L421.0,180.1 L457.2,199.7 L451.4,189.8 L452.5,163.7 L459.8,168.0 L452.5,163.7 L446.5,159.2 L449.6,160.4 L452.5,163.7 L482.3,152.0 L476.7,190.5 L483.3,196.9 L493.5,201.0 L487.8,201.6 L493.5,201.0 L514.5,212.1 L518.7,221.4 L514.5,212.1 L524.1,232.9 L518.9,239.7 L507.5,250.6 L492.8,281.3 L466.7,413.2 L463.9,660.2 L446.9,642.3 L449.4,624.8 L442.8,612.2 L449.4,624.8 L440.2,626.8 L449.4,624.8 L446.9,642.3 L463.9,660.2" />
     <g class="stop stop-link start" data-section="0" data-stop-name="Lima" transform="translate(398.6 145.4)">
       <circle r="7" />
       
@@ -40,139 +40,157 @@
       
       <title>3. Trujillo</title>
     </g>
-<g class="stop stop-link" data-section="7" data-stop-name="Paracas" transform="translate(407.1 167.7)">
+<g class="stop stop-link" data-section="8" data-stop-name="Paracas" transform="translate(407.1 167.7)">
       <circle r="7" />
       
       <title>4. Paracas</title>
     </g>
-<g class="stop stop-link" data-section="8" data-stop-name="Ica" transform="translate(412.6 170.4)">
+<g class="stop stop-link" data-section="9" data-stop-name="Ica" transform="translate(412.6 170.4)">
       <circle r="7" />
       
       <title>5. Ica</title>
     </g>
-<g class="stop stop-link" data-section="9" data-stop-name="Nazca" transform="translate(421.0 180.1)">
+<g class="stop stop-link" data-section="10" data-stop-name="Nazca" transform="translate(421.0 180.1)">
       <circle r="7" />
       
       <title>6. Nazca</title>
     </g>
-<g class="stop stop-link" data-section="10" data-stop-name="Arequipa" transform="translate(457.2 199.7)">
+<g class="stop stop-link" data-section="11" data-stop-name="Arequipa" transform="translate(457.2 199.7)">
       <circle r="7" />
       
       <title>7. Arequipa</title>
     </g>
-<g class="stop stop-link" data-section="12" data-stop-name="Cusco" transform="translate(452.5 163.7)">
+<g class="stop stop-link" data-section="12" data-stop-name="Colca Canyon" transform="translate(451.4 189.8)">
       <circle r="7" />
       
-      <title>8. Cusco</title>
+      <title>8. Colca Canyon</title>
     </g>
-<g class="stop stop-link" data-section="18" data-stop-name="Machu Picchu" transform="translate(446.5 159.2)">
+<g class="stop stop-link" data-section="14" data-stop-name="Cusco" transform="translate(452.5 163.7)">
       <circle r="7" />
       
-      <title>9. Machu Picchu</title>
+      <title>9. Cusco</title>
     </g>
-<g class="stop stop-link" data-section="20" data-stop-name="Puerto Maldonado" transform="translate(482.3 152.0)">
+<g class="stop stop-link" data-section="15" data-stop-name="Rainbow Mountain" transform="translate(459.8 168.0)">
       <circle r="7" />
       
-      <title>10. Puerto Maldonado</title>
+      <title>10. Rainbow Mountain</title>
     </g>
-<g class="stop stop-link" data-section="23" data-stop-name="Puno" transform="translate(473.3 192.7)">
+<g class="stop stop-link" data-section="20" data-stop-name="Machu Picchu" transform="translate(446.5 159.2)">
       <circle r="7" />
       
-      <title>11. Puno</title>
+      <title>11. Machu Picchu</title>
     </g>
-<g class="stop stop-link" data-section="25" data-stop-name="Copacabana" transform="translate(483.3 196.9)">
+<g class="stop stop-link" data-section="23" data-stop-name="Puerto Maldonado" transform="translate(482.3 152.0)">
       <circle r="7" />
       
-      <title>12. Copacabana</title>
+      <title>12. Puerto Maldonado</title>
     </g>
-<g class="stop stop-link" data-section="27" data-stop-name="La Paz" transform="translate(493.5 201.0)">
+<g class="stop stop-link" data-section="26" data-stop-name="Amantani" transform="translate(476.7 190.5)">
       <circle r="7" />
       
-      <title>13. La Paz</title>
+      <title>13. Amantani</title>
     </g>
-<g class="stop stop-link" data-section="28" data-stop-name="Cochabamba" transform="translate(514.5 212.1)">
+<g class="stop stop-link" data-section="27" data-stop-name="Copacabana" transform="translate(483.3 196.9)">
       <circle r="7" />
       
-      <title>14. Cochabamba</title>
+      <title>14. Copacabana</title>
     </g>
-<g class="stop stop-link" data-section="30" data-stop-name="Torotoro" transform="translate(518.7 221.4)">
+<g class="stop stop-link" data-section="28" data-stop-name="La Paz" transform="translate(493.5 201.0)">
       <circle r="7" />
       
-      <title>15. Torotoro</title>
+      <title>15. La Paz</title>
     </g>
-<g class="stop stop-link" data-section="32" data-stop-name="Sucre" transform="translate(524.1 232.9)">
+<g class="stop stop-link" data-section="29" data-stop-name="Tiwanaku" transform="translate(487.8 201.6)">
       <circle r="7" />
       
-      <title>16. Sucre</title>
+      <title>16. Tiwanaku</title>
     </g>
-<g class="stop stop-link" data-section="35" data-stop-name="Potosi" transform="translate(518.9 239.7)">
+<g class="stop stop-link" data-section="30" data-stop-name="Cochabamba" transform="translate(514.5 212.1)">
       <circle r="7" />
       
-      <title>17. Potosi</title>
+      <title>17. Cochabamba</title>
+    </g>
+<g class="stop stop-link" data-section="31" data-stop-name="Torotoro" transform="translate(518.7 221.4)">
+      <circle r="7" />
+      
+      <title>18. Torotoro</title>
+    </g>
+<g class="stop stop-link" data-section="34" data-stop-name="Sucre" transform="translate(524.1 232.9)">
+      <circle r="7" />
+      
+      <title>19. Sucre</title>
+    </g>
+<g class="stop stop-link" data-section="36" data-stop-name="Potosi" transform="translate(518.9 239.7)">
+      <circle r="7" />
+      
+      <title>20. Potosi</title>
     </g>
 <g class="stop stop-link" data-section="37" data-stop-name="Uyuni" transform="translate(507.5 250.6)">
       <circle r="7" />
       
-      <title>18. Uyuni</title>
+      <title>21. Uyuni</title>
     </g>
 <g class="stop stop-link" data-section="41" data-stop-name="San Pedro de Atacama" transform="translate(492.8 281.3)">
       <circle r="7" />
       
-      <title>19. San Pedro de Atacama</title>
+      <title>22. San Pedro de Atacama</title>
     </g>
 <g class="stop stop-link" data-section="43" data-stop-name="Santiago" transform="translate(466.7 413.2)">
       <circle r="7" />
       
-      <title>20. Santiago</title>
+      <title>23. Santiago</title>
     </g>
 <g class="stop stop-link" data-section="45" data-stop-name="Punta Arenas" transform="translate(463.9 660.2)">
       <circle r="7" />
       
-      <title>21. Punta Arenas</title>
+      <title>24. Punta Arenas</title>
     </g>
 <g class="stop stop-link" data-section="46" data-stop-name="Puerto Natales" transform="translate(446.9 642.3)">
       <circle r="7" />
       
-      <title>22. Puerto Natales</title>
+      <title>25. Puerto Natales</title>
     </g>
 <g class="stop stop-link" data-section="49" data-stop-name="El Calafate" transform="translate(449.4 624.8)">
       <circle r="7" />
       
-      <title>23. El Calafate</title>
+      <title>26. El Calafate</title>
     </g>
 <g class="stop stop-link" data-section="50" data-stop-name="El Chalten" transform="translate(442.8 612.2)">
       <circle r="7" />
       
-      <title>24. El Chalten</title>
+      <title>27. El Chalten</title>
     </g>
 <g class="stop stop-link end" data-section="51" data-stop-name="Perito Moreno" transform="translate(440.2 626.8)">
       <circle r="7" />
       
-      <title>25. Perito Moreno</title>
+      <title>28. Perito Moreno</title>
     </g>
     <text class="place-label stop-link" data-section="0" data-stop-name="Lima" x="410.6" y="135.4" text-anchor="start">Lima</text>
 <text class="place-label stop-link" data-section="1" data-stop-name="Huaraz" x="405.4" y="131.7" text-anchor="start">Huaraz</text>
 
-<text class="place-label stop-link" data-section="7" data-stop-name="Paracas" x="419.1" y="185.7" text-anchor="start">Paracas</text>
+<text class="place-label stop-link" data-section="8" data-stop-name="Paracas" x="419.1" y="185.7" text-anchor="start">Paracas</text>
 
 
-<text class="place-label stop-link" data-section="10" data-stop-name="Arequipa" x="469.2" y="189.7" text-anchor="start">Arequipa</text>
-<text class="place-label stop-link" data-section="12" data-stop-name="Cusco" x="464.5" y="181.7" text-anchor="start">Cusco</text>
+<text class="place-label stop-link" data-section="11" data-stop-name="Arequipa" x="469.2" y="189.7" text-anchor="start">Arequipa</text>
 
-<text class="place-label stop-link" data-section="20" data-stop-name="Puerto Maldonado" x="494.3" y="170.0" text-anchor="start">Puerto Maldonado</text>
-<text class="place-label stop-link" data-section="23" data-stop-name="Puno" x="485.3" y="182.7" text-anchor="start">Puno</text>
-
-<text class="place-label stop-link" data-section="27" data-stop-name="La Paz" x="505.5" y="191.0" text-anchor="start">La Paz</text>
+<text class="place-label stop-link" data-section="14" data-stop-name="Cusco" x="464.5" y="153.7" text-anchor="start">Cusco</text>
 
 
-<text class="place-label stop-link" data-section="32" data-stop-name="Sucre" x="536.1" y="250.9" text-anchor="start">Sucre</text>
+<text class="place-label stop-link" data-section="23" data-stop-name="Puerto Maldonado" x="494.3" y="170.0" text-anchor="start">Puerto Maldonado</text>
+<text class="place-label stop-link" data-section="26" data-stop-name="Amantani" x="488.7" y="180.5" text-anchor="start">Amantani</text>
 
-<text class="place-label stop-link" data-section="37" data-stop-name="Uyuni" x="519.5" y="268.6" text-anchor="start">Uyuni</text>
-<text class="place-label stop-link" data-section="41" data-stop-name="San Pedro de Atacama" x="504.8" y="271.3" text-anchor="start">San Pedro de Atacama</text>
-<text class="place-label stop-link" data-section="43" data-stop-name="Santiago" x="478.7" y="431.2" text-anchor="start">Santiago</text>
-<text class="place-label stop-link" data-section="45" data-stop-name="Punta Arenas" x="475.9" y="650.2" text-anchor="start">Punta Arenas</text>
+<text class="place-label stop-link" data-section="28" data-stop-name="La Paz" x="505.5" y="191.0" text-anchor="start">La Paz</text>
 
-<text class="place-label stop-link" data-section="49" data-stop-name="El Calafate" x="461.4" y="614.8" text-anchor="start">El Calafate</text>
+
+
+<text class="place-label stop-link" data-section="34" data-stop-name="Sucre" x="536.1" y="222.9" text-anchor="start">Sucre</text>
+
+<text class="place-label stop-link" data-section="37" data-stop-name="Uyuni" x="519.5" y="240.6" text-anchor="start">Uyuni</text>
+<text class="place-label stop-link" data-section="41" data-stop-name="San Pedro de Atacama" x="504.8" y="299.3" text-anchor="start">San Pedro de Atacama</text>
+<text class="place-label stop-link" data-section="43" data-stop-name="Santiago" x="478.7" y="403.2" text-anchor="start">Santiago</text>
+<text class="place-label stop-link" data-section="45" data-stop-name="Punta Arenas" x="475.9" y="678.2" text-anchor="start">Punta Arenas</text>
+
+<text class="place-label stop-link" data-section="49" data-stop-name="El Calafate" x="461.4" y="642.8" text-anchor="start">El Calafate</text>
 <text class="place-label stop-link" data-section="50" data-stop-name="El Chalten" x="456.8" y="596.2" text-anchor="start">El Chalten</text>
 <text class="place-label stop-link" data-section="51" data-stop-name="Perito Moreno" x="426.2" y="650.8" text-anchor="end">Perito Moreno</text>
   </g>

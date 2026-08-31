@@ -6,7 +6,7 @@ image: "images/blog/morocco1.jpg"
 categories: ["Cuisine", "Maroc", "Afrique"]
 continents: ["Afrique"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.

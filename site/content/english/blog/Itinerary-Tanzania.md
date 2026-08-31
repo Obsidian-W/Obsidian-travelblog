@@ -4,7 +4,7 @@ title: "Two weeks in Tanzania"
 description: "A two-week Tanzania itinerary covering Dar es Salaam, Kilwa, safari, Lake Natron and Zanzibar."
 image: "images/blog/kilwa.jpg"
 itinerary_map: "/images/itineraries/tanzania.svg"
-categories: ["Itinerary", "Africa"]
+categories: ["Itinerary", "East Africa"]
 continents: ["Africa"]
 draft: false
 ---

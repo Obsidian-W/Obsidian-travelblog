@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bet%20Gyorgis%2
 categories: ["Top 5", "Éthiopie", "Afrique"]
 continents: ["Afrique"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.

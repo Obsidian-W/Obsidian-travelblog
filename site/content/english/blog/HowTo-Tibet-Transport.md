@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lhasa%20train%2
 categories: ["How-to", "Tibet", "China"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.

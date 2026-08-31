@@ -4,7 +4,7 @@ title: "One week in Uganda"
 description: "A one-week Uganda itinerary covering Kampala, Jinja, Murchison Falls and Lake Bunyonyi."
 image: "images/blog/rwenzori.jpg"
 itinerary_map: "/images/itineraries/uganda.svg"
-categories: ["Itinerary", "Africa"]
+categories: ["Itinerary", "East Africa"]
 continents: ["Africa"]
 draft: false
 ---

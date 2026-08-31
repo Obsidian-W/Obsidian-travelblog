@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">Java: Bali to Jakarta route map</title>
-  <desc id="desc">Java: Bali to Jakarta itinerary: Ubud, Banyuwangi, Probolinggo, Yogyakarta, Temanggung, Semarang, Jakarta.</desc>
+  <desc id="desc">Java: Bali to Jakarta itinerary: Ubud, Banyuwangi, Mount Bromo, Yogyakarta, Borobudur, Prambanan, Temanggung, Dieng Plateau, Semarang, Jakarta.</desc>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
@@ -14,80 +14,100 @@
   <g clip-path="url(#map-clip)">
     <path class="country route-country" d="M2577.7,61.9 L2579.0,293.2 L2580.0,524.6 L2517.4,466.3 L2445.9,452.1 L2428.4,472.3 L2339.1,474.5 L2369.0,416.7 L2413.4,397.0 L2395.1,319.8 L2361.2,260.2 L2224.7,200.1 L2166.7,194.1 L2060.9,128.5 L2040.1,163.0 L2013.0,169.2 L1997.0,143.3 L1996.8,112.4 L1943.0,77.5 L2018.8,51.9 L2069.1,53.2 L2063.2,34.5 L1960.0,34.4 L1932.1,-7.9 L1869.2,-21.0 L1839.6,-56.2 L1934.4,-73.4 L1970.4,-96.5 L2083.5,-67.4 L2094.7,-41.0 L2114.4,73.8 L2187.2,116.3 L2246.0,41.0 L2326.9,-1.8 L2389.6,-1.9 L2449.9,22.8 L2502.1,48.3 L2577.7,61.9 Z M1448.6,508.6 L1455.7,522.7 L1456.9,544.2 L1411.0,597.2 L1350.7,612.8 L1342.3,604.3 L1348.7,580.1 L1378.8,536.8 L1448.6,508.6 Z M2099.5,366.8 L2092.6,313.3 L2105.1,287.8 L2119.8,263.8 L2135.7,284.6 L2135.7,318.5 L2099.5,366.8 Z M949.3,-416.5 L909.2,-352.5 L961.0,-285.2 L948.8,-252.5 L1027.9,-186.9 L944.5,-178.5 L920.9,-130.0 L923.9,-65.7 L856.2,-17.2 L854.5,53.6 L827.3,162.1 L816.9,136.9 L736.8,168.9 L708.9,125.5 L658.7,121.4 L623.5,98.7 L539.8,124.2 L514.2,89.9 L468.0,93.7 L410.0,85.6 L399.1,-9.7 L364.1,-29.4 L330.1,-90.1 L320.4,-152.3 L328.6,-218.1 L370.4,-265.2 L382.3,-217.7 L430.5,-177.6 L475.9,-192.2 L520.8,-187.0 L561.8,-222.9 L595.6,-229.2 L662.3,-209.2 L719.6,-224.4 L755.8,-323.1 L783.0,-347.8 L807.3,-428.5 L888.2,-428.5 L949.3,-416.5 Z M1758.7,76.2 L1836.0,96.9 L1861.6,151.2 L1802.3,121.9 L1743.5,116.0 L1703.7,120.7 L1655.0,118.1 L1671.5,79.1 L1758.7,76.2 Z M1582.7,146.4 L1534.0,133.4 L1520.3,102.9 L1591.6,99.4 L1609.1,122.8 L1582.7,146.4 Z M1657.3,-277.1 L1662.3,-238.4 L1703.9,-232.2 L1710.5,-203.2 L1706.7,-141.1 L1670.4,-148.0 L1659.8,-104.9 L1688.7,-67.4 L1668.9,-58.9 L1640.5,-103.8 L1619.7,-194.6 L1633.9,-251.3 L1657.3,-277.1 Z M1304.8,-184.9 L1385.7,-187.9 L1455.4,-239.5 L1467.6,-223.6 L1411.0,-153.1 L1358.0,-139.5 L1290.3,-153.3 L1172.9,-149.8 L1111.3,-139.6 L1101.4,-85.9 L1164.3,-22.7 L1202.4,-54.9 L1333.7,-79.1 L1328.1,-46.4 L1297.4,-56.7 L1266.8,-15.0 L1204.6,12.5 L1271.3,103.5 L1258.6,127.9 L1321.8,209.8 L1321.3,256.5 L1283.8,277.3 L1256.1,252.4 L1290.1,194.2 L1220.9,221.7 L1203.4,202.0 L1212.5,174.6 L1161.8,133.0 L1167.1,63.8 L1119.9,85.3 L1126.0,168.1 L1128.8,269.8 L1084.2,280.0 L1054.0,259.2 L1074.1,193.9 L1063.1,125.4 L1033.5,124.9 L1011.7,76.2 L1040.8,29.7 L1051.0,-26.7 L1086.2,-133.7 L1100.9,-162.9 L1161.0,-215.7 L1216.1,-194.8 L1304.8,-184.9 Z M1119.2,605.6 L1025.9,555.8 L1091.5,541.9 L1128.6,563.5 L1153.2,585.1 L1148.9,604.3 L1119.2,605.6 Z M1193.0,483.4 L1239.9,478.0 L1303.0,452.0 L1292.6,491.4 L1186.9,511.6 L1093.1,502.8 L1093.1,476.9 L1148.9,462.1 L1193.0,483.4 Z M975.9,471.0 L1019.5,465.2 L1037.0,495.4 L955.6,509.7 L906.7,519.2 L868.9,518.6 L893.0,477.7 L931.8,477.1 L950.6,452.0 L975.9,471.0 Z M287.5,333.3 L297.1,358.5 L432.3,365.6 L447.7,336.3 L578.3,370.4 L603.9,416.4 L709.7,429.4 L796.1,471.6 L715.8,498.6 L638.2,470.0 L574.5,471.9 L501.5,466.7 L435.6,453.9 L353.9,426.9 L302.2,419.8 L272.8,428.7 L144.5,399.5 L132.3,369.0 L67.6,363.7 L116.1,295.9 L201.5,300.1 L258.3,327.9 L287.5,333.3 Z M-2.3,-45.8 L9.6,3.7 L34.2,43.4 L85.9,49.6 L120.1,94.6 L102.4,182.9 L99.6,292.8 L21.5,294.2 L-37.8,234.8 L-128.1,176.9 L-158.3,133.9 L-211.5,76.1 L-246.5,22.8 L-300.3,-76.5 L-362.2,-135.8 L-382.7,-196.8 L-408.8,-252.2 L-472.2,-296.9 L-509.0,-357.8 L-562.0,-397.4 L-635.5,-475.8 L-641.6,-511.8 L-596.5,-508.9 L-487.4,-495.2 L-425.0,-425.9 L-370.5,-377.7 L-331.7,-348.1 L-265.0,-271.8 L-193.3,-270.7 L-134.2,-222.1 L-93.4,-162.6 L-39.9,-130.1 L-68.0,-72.2 L-27.7,-47.6 L-2.3,-45.8 Z"><title>Indonesia</title></path>
     <text class="country-label" x="431.9" y="397.3">Indonesia</text>
-    <path class="route-halo" d="M764.7,481.5 L702.0,460.2 L621.0,426.8 L419.5,431.1 L406.9,397.0 L423.8,372.1 L170.9,316.0" />
-    <path class="route" d="M764.7,481.5 L702.0,460.2 L621.0,426.8 L419.5,431.1 L406.9,397.0 L423.8,372.1 L170.9,316.0" />
+    <path class="route-halo" d="M764.7,481.5 L702.0,460.2 L602.0,441.0 L419.5,431.1 L408.3,417.6 L428.7,427.5 L406.9,397.0 L388.5,388.4 L423.8,372.1 L170.9,316.0" />
+    <path class="route" d="M764.7,481.5 L702.0,460.2 L602.0,441.0 L419.5,431.1 L408.3,417.6 L428.7,427.5 L406.9,397.0 L388.5,388.4 L423.8,372.1 L170.9,316.0" />
     <g class="stop stop-link start" data-section="0" data-stop-name="Ubud" transform="translate(764.7 481.5)">
       <circle r="10" />
       <text x="0" y="4">1</text>
       <title>1. Ubud</title>
     </g>
-<g class="stop stop-link" data-section="2" data-stop-name="Banyuwangi" transform="translate(702.0 460.2)">
+<g class="stop stop-link" data-section="3" data-stop-name="Banyuwangi" transform="translate(702.0 460.2)">
       <circle r="10" />
       <text x="0" y="4">2</text>
       <title>2. Banyuwangi</title>
     </g>
-<g class="stop stop-link" data-section="4" data-stop-name="Probolinggo" transform="translate(621.0 426.8)">
+<g class="stop stop-link" data-section="4" data-stop-name="Mount Bromo" transform="translate(602.0 441.0)">
       <circle r="10" />
       <text x="0" y="4">3</text>
-      <title>3. Probolinggo</title>
+      <title>3. Mount Bromo</title>
     </g>
-<g class="stop stop-link" data-section="6" data-stop-name="Yogyakarta" transform="translate(419.5 431.1)">
+<g class="stop stop-link" data-section="5" data-stop-name="Yogyakarta" transform="translate(419.5 431.1)">
       <circle r="10" />
       <text x="0" y="4">4</text>
       <title>4. Yogyakarta</title>
     </g>
-<g class="stop stop-link" data-section="8" data-stop-name="Temanggung" transform="translate(406.9 397.0)">
+<g class="stop stop-link" data-section="6" data-stop-name="Borobudur" transform="translate(408.3 417.6)">
       <circle r="10" />
       <text x="0" y="4">5</text>
-      <title>5. Temanggung</title>
+      <title>5. Borobudur</title>
     </g>
-<g class="stop stop-link" data-section="10" data-stop-name="Semarang" transform="translate(423.8 372.1)">
+<g class="stop stop-link" data-section="7" data-stop-name="Prambanan" transform="translate(428.7 427.5)">
       <circle r="10" />
       <text x="0" y="4">6</text>
-      <title>6. Semarang</title>
+      <title>6. Prambanan</title>
     </g>
-<g class="stop stop-link end" data-section="11" data-stop-name="Jakarta" transform="translate(170.9 316.0)">
+<g class="stop stop-link" data-section="8" data-stop-name="Temanggung" transform="translate(406.9 397.0)">
       <circle r="10" />
       <text x="0" y="4">7</text>
-      <title>7. Jakarta</title>
+      <title>7. Temanggung</title>
+    </g>
+<g class="stop stop-link" data-section="8" data-stop-name="Dieng Plateau" transform="translate(388.5 388.4)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Dieng Plateau</title>
+    </g>
+<g class="stop stop-link" data-section="9" data-stop-name="Semarang" transform="translate(423.8 372.1)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Semarang</title>
+    </g>
+<g class="stop stop-link end" data-section="10" data-stop-name="Jakarta" transform="translate(170.9 316.0)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Jakarta</title>
     </g>
     <text class="place-label stop-link" data-section="0" data-stop-name="Ubud" x="752.7" y="471.5" text-anchor="end">Ubud</text>
-<text class="place-label stop-link" data-section="2" data-stop-name="Banyuwangi" x="690.0" y="478.2" text-anchor="end">Banyuwangi</text>
-<text class="place-label stop-link" data-section="4" data-stop-name="Probolinggo" x="633.0" y="416.8" text-anchor="start">Probolinggo</text>
-<text class="place-label stop-link" data-section="6" data-stop-name="Yogyakarta" x="431.5" y="449.1" text-anchor="start">Yogyakarta</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Banyuwangi" x="690.0" y="478.2" text-anchor="end">Banyuwangi</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="Mount Bromo" x="614.0" y="431.0" text-anchor="start">Mount Bromo</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Yogyakarta" x="431.5" y="449.1" text-anchor="start">Yogyakarta</text>
+
+
 <text class="place-label stop-link" data-section="8" data-stop-name="Temanggung" x="418.9" y="387.0" text-anchor="start">Temanggung</text>
-<text class="place-label stop-link" data-section="10" data-stop-name="Semarang" x="435.8" y="390.1" text-anchor="start">Semarang</text>
-<text class="place-label stop-link" data-section="11" data-stop-name="Jakarta" x="182.9" y="306.0" text-anchor="start">Jakarta</text>
+
+<text class="place-label stop-link" data-section="9" data-stop-name="Semarang" x="435.8" y="362.1" text-anchor="start">Semarang</text>
+<text class="place-label stop-link" data-section="10" data-stop-name="Jakarta" x="182.9" y="334.0" text-anchor="start">Jakarta</text>
   </g>
   <line class="divider" x1="878" y1="82" x2="878" y2="702" />
   <text class="route-title" x="900" y="108">ROUTE</text>
   <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Ubud" transform="translate(900 145.0)">
-      
       <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Ubud</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="2" data-stop-name="2. Banyuwangi" transform="translate(900 203.0)">
-      
+<g class="summary-stop stop-link" data-section="3" data-stop-name="2. Banyuwangi" transform="translate(900 199.0)">
       <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Banyuwangi</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="4" data-stop-name="3. Probolinggo" transform="translate(900 261.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Probolinggo</tspan></text>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="3. Mount Bromo" transform="translate(900 253.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Mount Bromo</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="6" data-stop-name="4. Yogyakarta" transform="translate(900 319.0)">
-      
+<g class="summary-stop stop-link" data-section="5" data-stop-name="4. Yogyakarta" transform="translate(900 307.0)">
       <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Yogyakarta</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="8" data-stop-name="5. Temanggung" transform="translate(900 377.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Temanggung</tspan></text>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="5. Borobudur" transform="translate(900 361.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Borobudur</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="10" data-stop-name="6. Semarang" transform="translate(900 435.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Semarang</tspan></text>
+<g class="summary-stop stop-link" data-section="7" data-stop-name="6. Prambanan" transform="translate(900 415.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Prambanan</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="11" data-stop-name="7. Jakarta" transform="translate(900 493.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Jakarta</tspan></text>
+<g class="summary-stop stop-link" data-section="8" data-stop-name="7. Temanggung" transform="translate(900 469.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Temanggung</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="8" data-stop-name="8. Dieng Plateau" transform="translate(900 523.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Dieng Plateau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="9" data-stop-name="9. Semarang" transform="translate(900 577.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Semarang</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="10" data-stop-name="10. Jakarta" transform="translate(900 631.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Jakarta</tspan></text>
     </g>
   <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>

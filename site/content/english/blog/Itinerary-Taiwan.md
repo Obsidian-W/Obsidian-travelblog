@@ -2,9 +2,9 @@
 date: "2020-01-08"
 title: "Ten days in Taiwan"
 description: "Taipei, the north-east coast, Taroko, Kaohsiung, Taichung and Sun Moon Lake."
-image: "images/blog/cheapflight.jpg"
+image: "images/blog/taiwan.jpg"
 itinerary_map: "/images/itineraries/taiwan.svg"
-categories: ["Itinerary", "Asia", "Taiwan"]
+categories: ["Itinerary", "East Asia", "Taiwan"]
 continents: ["Asia"]
 draft: true
 ---
@@ -42,11 +42,14 @@ Walk through **Dihua Street**, its old shop houses and the Dadaocheng riverfront
 
 ## Day 3: Jiufen and Shifen
 
+![A themed Taiwan Railways train](images/blog/taiwan1.jpg)
+
 Take a Taiwan Railways train from Taipei Main Station to **Ruifang**. Buses leave from outside Ruifang station for **Jiufen**. Walk through the old street, climb to the temple viewpoints and continue beyond the busiest covered section before returning to Ruifang.
 
 Use the Pingxi railway line for **Shifen Old Street** and walk from the station to **Shifen Waterfall**. Return to Ruifang on the same branch line.
 
 Back in Taipei, take an evening train from Taipei Main Station to **Hualien**. Book the east-coast train ahead.
+
 
 ---
 
@@ -58,9 +61,12 @@ Visit **Pine Garden**, then walk down towards the coast and the old railway area
 
 ## Day 5: Taroko
 
+![Taroko Gorge](images/blog/taiwan2.jpg)
+
 I visited **Taroko Gorge** by bus from Hualien. At the time, the bus stopped through the gorge and made it possible to get off for the trails, then continue on a later service.
 
 This day cannot currently be repeated in the same form. The 2024 earthquake badly damaged the gorge. As checked in August 2026, buses 310 and 302 only reach the Taroko Visitor Centre; the Visitor Centre–Tianxiang section and its bus service remain closed. The park publishes the [current Taroko bus and access information](https://www.taroko.gov.tw/ch/titlelist/traffic-information/97).
+
 
 Take the Taiwan Railways service south from Hualien through Taitung to **Kaohsiung**. It is a long section of the island, so reserve a seat and check the live departure before leaving Hualien.
 
@@ -68,7 +74,10 @@ Take the Taiwan Railways service south from Hualien through Taitung to **Kaohsiu
 
 ## Day 6: Kaohsiung
 
+![The Dragon and Tiger Pagodas in Kaohsiung](images/blog/taiwan3.jpg)
+
 Take the local train or metro connection towards Zuoying and visit the temples and pavilions around **Lotus Pond**. Walk between the Dragon and Tiger Pagodas area, Spring and Autumn Pavilions and the northern temples before returning to central Kaohsiung. End at **Liuhe Night Market**.
+
 
 ---
 
@@ -76,23 +85,29 @@ Take the local train or metro connection towards Zuoying and visit the temples a
 
 Use the light rail for **Pier-2 Art Center** and the harbour, then continue to Gushan ferry pier. Take the short ferry to **Cijin Island**, walk through the market street and climb towards the lighthouse and old fort before following the coast to the beach.
 
-Taiwan Railways trains connect Kaohsiung station directly with **Taichung**. High-speed trains are faster, but they use Zuoying and Taichung HSR stations rather than the central conventional stations; for this itinerary, the regular railway keeps the transfer simpler.
+Taiwan Railways trains connect central Kaohsiung directly with **Taichung**. High-speed trains require transfers through Zuoying and Taichung HSR stations.
 
 ---
 
 ## Day 8: Taichung
 
+![Rainbow Village in Taichung](images/blog/taiwan4.jpg)
+
 Start at **Rainbow Village**, then return towards the centre for the old railway-station area, **Taichung Park** and the National Taiwan Museum of Fine Arts. Finish at **Fengjia Night Market**.
 
 Rainbow Village is in Nantun, outside central Taichung. Take a city bus to the **Rainbow Village** stop, then return by bus for the central sights.
+
 
 ---
 
 ## Day 9: Sun Moon Lake
 
+![Cycling beside Sun Moon Lake](images/blog/taiwan5.jpg)
+
 Take the Nantou Bus from Taichung to **Sun Moon Lake** and get off at Shuishe. Use the lake shuttle bus or boat to link **Wenwu Temple**, Ita Thao and the lakeside paths. This was one complete day at the lake, not an overnight stop.
 
 Return to Taichung on the same bus line and take an evening Taiwan Railways train to Taipei. The [Nantou Bus Sun Moon Lake page](https://www.ntbus.com.tw/shuttle.html) carries the current shuttle information.
+
 
 ---
 
@@ -100,4 +115,4 @@ Return to Taichung on the same bus line and take an evening Taiwan Railways trai
 
 Take the metro to Shilin and the connecting city bus to the **National Palace Museum**. Return across Taipei for **Taipei 101**, then climb the Elephant Mountain steps for the skyline view if the weather is clear. This is the final Taipei day before departure.
 
-Taiwan Railways changes its schedules, so use the [official train search](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip112/querybytime?lang=EN_US) for every intercity leg rather than copying the times from my 2020 trip.
+Check the [official Taiwan Railways search](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip112/querybytime?lang=EN_US) for current intercity schedules.

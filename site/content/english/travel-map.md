@@ -33,7 +33,13 @@ This page shows a quick visual overview of the countries I have visited so far.
     </li>
     <li class="trip-timeline__item">
       <time datetime="2018-09-14/2018-09-20">14-20 September 2018</time>
-      <div><h3>Central Europe 1 <span>(Czechia, Poland)</span></h3></div>
+      <div>
+        <h3>Central Europe 1 <span>(Czechia, Poland)</span></h3>
+        <nav aria-label="Central Europe 1 draft itineraries">
+          <a href="/blog/itinerary-prague/">Prague</a>
+          <a href="/blog/itinerary-krakow/">Krakow</a>
+        </nav>
+      </div>
     </li>
     <li class="trip-timeline__item">
       <time datetime="2019-07-01/2019-07-16">1-16 July 2019</time>
@@ -49,28 +55,36 @@ This page shows a quick visual overview of the countries I have visited so far.
     </li>
     <li class="trip-timeline__item">
       <time datetime="2019-09-03/2019-09-26">3-26 September 2019</time>
-      <div><h3>Japan and Korea <span>(Japan, South Korea)</span></h3></div>
+      <div>
+        <h3>Japan and Korea <span>(Japan, South Korea)</span></h3>
+        <nav aria-label="Japan and Korea draft itineraries">
+          <a href="/blog/itinerary-japan/">Japan</a>
+          <a href="/blog/itinerary-south-korea/">South Korea</a>
+        </nav>
+      </div>
     </li>
     <li class="trip-timeline__item trip-timeline__item--tentative">
       <time datetime="2020-01-01/2020-03-31">1 January-31 March 2020</time>
       <div>
         <h3>Tentative world trip <span>(Russia, United Arab Emirates, Philippines, Taiwan, New Zealand, Australia, Indonesia)</span></h3>
         <nav aria-label="Tentative world trip draft itineraries">
+          <a href="/blog/itinerary-moscow/">Moscow</a>
+          <a href="/blog/itinerary-uae-layover/">United Arab Emirates</a>
           <a href="/blog/itinerary-philippines/">Philippines</a>
           <a href="/blog/itinerary-taiwan/">Taiwan</a>
           <a href="/blog/itinerary-new-zealand/">New Zealand</a>
-          <a href="/blog/itinerary-australia/">Australia</a>
+          <a href="/blog/itinerary-australia/">Northern Territories</a>
           <a href="/blog/itinerary-indonesia/">Indonesia</a>
         </nav>
       </div>
     </li>
     <li class="trip-timeline__item">
       <time datetime="2021-08-01/2021-08-06">1-6 August 2021</time>
-      <div><h3>Iceland</h3></div>
+      <div><h3>Iceland</h3><a href="/blog/itinerary-iceland/">Iceland itinerary</a></div>
     </li>
     <li class="trip-timeline__item">
       <time datetime="2021-08-11/2021-08-18">11-18 August 2021</time>
-      <div><h3>Central Europe 2 <span>(Hungary, Slovakia, Austria)</span></h3></div>
+      <div><h3>Central Europe 2 <span>(Hungary, Slovakia, Austria)</span></h3><a href="/blog/itinerary-austrian-hungarian-empire/">Austrian-Hungarian Empire itinerary</a></div>
     </li>
     <li class="trip-timeline__item">
       <time datetime="2022-02-01/2022-02-10">1-10 February 2022</time>
@@ -82,7 +96,7 @@ This page shows a quick visual overview of the countries I have visited so far.
     </li>
     <li class="trip-timeline__item">
       <time datetime="2022-04-26/2022-05-02">26 April-2 May 2022</time>
-      <div><h3>Benelux(ish) <span>(Belgium, Germany, Luxembourg)</span></h3></div>
+      <div><h3>Benelux(ish) <span>(Belgium, Germany, Luxembourg)</span></h3><a href="/blog/itinerary-frankish-territories/">Frankish territories itinerary</a></div>
     </li>
     <li class="trip-timeline__item">
       <time datetime="2022-06-30/2022-08-22">30 June-22 August 2022</time>

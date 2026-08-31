@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">New Zealand route map</title>
-  <desc id="desc">New Zealand itinerary: Auckland, Tongariro, Wellington, Nelson, Franz Josef, Queenstown, Te Anau, Christchurch.</desc>
+  <desc id="desc">New Zealand itinerary: Auckland, Ohakune, Tongariro, Wellington, Nelson, Abel Tasman, Punakaiki, Franz Josef, Queenstown, Te Anau, Christchurch.</desc>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
@@ -14,90 +14,109 @@
   <g clip-path="url(#map-clip)">
     <path class="country route-country" d="M601.9,350.6 L589.3,374.5 L572.7,404.8 L547.0,422.5 L541.2,410.9 L527.2,404.5 L546.5,368.1 L535.5,343.7 L499.6,326.0 L500.5,309.9 L524.7,294.5 L530.4,260.4 L528.8,231.7 L515.2,202.1 L516.2,194.3 L500.2,176.0 L473.9,136.8 L459.8,105.4 L472.4,102.0 L490.5,126.6 L516.5,138.0 L525.9,177.5 L550.2,224.1 L550.8,193.9 L566.0,206.0 L570.9,239.5 L597.9,253.9 L620.5,257.5 L639.5,240.5 L656.5,245.7 L648.4,285.0 L638.2,310.8 L612.7,309.9 L603.8,323.3 L606.9,342.4 L601.9,350.6 Z M360.7,505.2 L389.3,481.9 L409.4,459.0 L424.2,426.0 L437.0,414.8 L441.9,390.0 L465.4,369.6 L472.7,388.4 L480.3,406.7 L504.1,388.8 L513.8,407.4 L513.8,426.1 L501.4,446.6 L479.5,479.2 L462.4,497.1 L474.8,518.4 L449.0,518.9 L420.4,535.6 L411.4,564.6 L392.5,609.4 L366.1,629.2 L349.5,641.8 L318.7,640.9 L297.0,626.3 L260.7,623.2 L255.2,606.9 L273.1,574.1 L315.1,530.4 L336.6,522.0 L360.7,505.2 Z"><title>New Zealand</title></path>
     <text class="country-label" x="384.5" y="505.7">New Zealand</text>
-    <path class="route-halo" d="M530.9,208.2 L557.0,314.1 L531.6,404.8 L481.4,404.0 L377.8,497.8 L327.0,570.5 L295.6,587.3 L460.0,504.0" />
-    <path class="route" d="M530.9,208.2 L557.0,314.1 L531.6,404.8 L481.4,404.0 L377.8,497.8 L327.0,570.5 L295.6,587.3 L460.0,504.0" />
+    <path class="route-halo" d="M530.9,208.2 L552.3,322.0 L557.0,314.1 L531.6,404.8 L481.4,404.0 L473.7,389.8 L416.3,441.2 L377.8,497.8 L327.0,570.5 L295.6,587.3 L460.0,504.0" />
+    <path class="route" d="M530.9,208.2 L552.3,322.0 L557.0,314.1 L531.6,404.8 L481.4,404.0 L473.7,389.8 L416.3,441.2 L377.8,497.8 L327.0,570.5 L295.6,587.3 L460.0,504.0" />
     <g class="stop stop-link start" data-section="0" data-stop-name="Auckland" transform="translate(530.9 208.2)">
       <circle r="10" />
       <text x="0" y="4">1</text>
       <title>1. Auckland</title>
     </g>
-<g class="stop stop-link" data-section="1" data-stop-name="Tongariro" transform="translate(557.0 314.1)">
+<g class="stop stop-link" data-section="1" data-stop-name="Ohakune" transform="translate(552.3 322.0)">
       <circle r="10" />
       <text x="0" y="4">2</text>
-      <title>2. Tongariro</title>
+      <title>2. Ohakune</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Tongariro" transform="translate(557.0 314.1)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Tongariro</title>
     </g>
 <g class="stop stop-link" data-section="3" data-stop-name="Wellington" transform="translate(531.6 404.8)">
       <circle r="10" />
-      <text x="0" y="4">3</text>
-      <title>3. Wellington</title>
+      <text x="0" y="4">4</text>
+      <title>4. Wellington</title>
     </g>
 <g class="stop stop-link" data-section="5" data-stop-name="Nelson" transform="translate(481.4 404.0)">
       <circle r="10" />
-      <text x="0" y="4">4</text>
-      <title>4. Nelson</title>
-    </g>
-<g class="stop stop-link" data-section="7" data-stop-name="Franz Josef" transform="translate(377.8 497.8)">
-      <circle r="10" />
       <text x="0" y="4">5</text>
-      <title>5. Franz Josef</title>
+      <title>5. Nelson</title>
     </g>
-<g class="stop stop-link" data-section="8" data-stop-name="Queenstown" transform="translate(327.0 570.5)">
+<g class="stop stop-link" data-section="6" data-stop-name="Abel Tasman" transform="translate(473.7 389.8)">
       <circle r="10" />
       <text x="0" y="4">6</text>
-      <title>6. Queenstown</title>
+      <title>6. Abel Tasman</title>
     </g>
-<g class="stop stop-link" data-section="10" data-stop-name="Te Anau" transform="translate(295.6 587.3)">
+<g class="stop stop-link" data-section="7" data-stop-name="Punakaiki" transform="translate(416.3 441.2)">
       <circle r="10" />
       <text x="0" y="4">7</text>
-      <title>7. Te Anau</title>
+      <title>7. Punakaiki</title>
     </g>
-<g class="stop stop-link end" data-section="11" data-stop-name="Christchurch" transform="translate(460.0 504.0)">
+<g class="stop stop-link" data-section="8" data-stop-name="Franz Josef" transform="translate(377.8 497.8)">
       <circle r="10" />
       <text x="0" y="4">8</text>
-      <title>8. Christchurch</title>
+      <title>8. Franz Josef</title>
+    </g>
+<g class="stop stop-link" data-section="9" data-stop-name="Queenstown" transform="translate(327.0 570.5)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Queenstown</title>
+    </g>
+<g class="stop stop-link" data-section="11" data-stop-name="Te Anau" transform="translate(295.6 587.3)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Te Anau</title>
+    </g>
+<g class="stop stop-link end" data-section="13" data-stop-name="Christchurch" transform="translate(460.0 504.0)">
+      <circle r="10" />
+      <text x="0" y="4">11</text>
+      <title>11. Christchurch</title>
     </g>
     <text class="place-label stop-link" data-section="0" data-stop-name="Auckland" x="542.9" y="198.2" text-anchor="start">Auckland</text>
-<text class="place-label stop-link" data-section="1" data-stop-name="Tongariro" x="569.0" y="332.1" text-anchor="start">Tongariro</text>
-<text class="place-label stop-link" data-section="3" data-stop-name="Wellington" x="543.6" y="394.8" text-anchor="start">Wellington</text>
-<text class="place-label stop-link" data-section="5" data-stop-name="Nelson" x="493.4" y="422.0" text-anchor="start">Nelson</text>
-<text class="place-label stop-link" data-section="7" data-stop-name="Franz Josef" x="389.8" y="487.8" text-anchor="start">Franz Josef</text>
-<text class="place-label stop-link" data-section="8" data-stop-name="Queenstown" x="339.0" y="588.5" text-anchor="start">Queenstown</text>
-<text class="place-label stop-link" data-section="10" data-stop-name="Te Anau" x="307.6" y="577.3" text-anchor="start">Te Anau</text>
-<text class="place-label stop-link" data-section="11" data-stop-name="Christchurch" x="472.0" y="522.0" text-anchor="start">Christchurch</text>
+<text class="place-label stop-link" data-section="1" data-stop-name="Ohakune" x="564.3" y="340.0" text-anchor="start">Ohakune</text>
+
+<text class="place-label stop-link" data-section="3" data-stop-name="Wellington" x="543.6" y="422.8" text-anchor="start">Wellington</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Nelson" x="493.4" y="394.0" text-anchor="start">Nelson</text>
+
+
+<text class="place-label stop-link" data-section="8" data-stop-name="Franz Josef" x="389.8" y="515.8" text-anchor="start">Franz Josef</text>
+<text class="place-label stop-link" data-section="9" data-stop-name="Queenstown" x="339.0" y="560.5" text-anchor="start">Queenstown</text>
+<text class="place-label stop-link" data-section="11" data-stop-name="Te Anau" x="307.6" y="605.3" text-anchor="start">Te Anau</text>
+<text class="place-label stop-link" data-section="13" data-stop-name="Christchurch" x="472.0" y="494.0" text-anchor="start">Christchurch</text>
   </g>
   <line class="divider" x1="878" y1="82" x2="878" y2="702" />
   <text class="route-title" x="900" y="108">ROUTE</text>
   <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Auckland" transform="translate(900 145.0)">
-      
       <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Auckland</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Tongariro" transform="translate(900 203.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Tongariro</tspan></text>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Ohakune" transform="translate(900 194.1)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Ohakune</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="3" data-stop-name="3. Wellington" transform="translate(900 261.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Wellington</tspan></text>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Tongariro" transform="translate(900 243.2)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Tongariro</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="5" data-stop-name="4. Nelson" transform="translate(900 319.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Nelson</tspan></text>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Wellington" transform="translate(900 292.3)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Wellington</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="7" data-stop-name="5. Franz Josef" transform="translate(900 377.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Franz Josef</tspan></text>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="5. Nelson" transform="translate(900 341.4)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Nelson</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="8" data-stop-name="6. Queenstown" transform="translate(900 435.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Queenstown</tspan></text>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="6. Abel Tasman" transform="translate(900 390.5)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Abel Tasman</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="10" data-stop-name="7. Te Anau" transform="translate(900 493.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Te Anau</tspan></text>
+<g class="summary-stop stop-link" data-section="7" data-stop-name="7. Punakaiki" transform="translate(900 439.5)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Punakaiki</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="11" data-stop-name="8. Christchurch" transform="translate(900 551.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Christchurch</tspan></text>
+<g class="summary-stop stop-link" data-section="8" data-stop-name="8. Franz Josef" transform="translate(900 488.6)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Franz Josef</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="9" data-stop-name="9. Queenstown" transform="translate(900 537.7)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Queenstown</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="11" data-stop-name="10. Te Anau" transform="translate(900 586.8)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Te Anau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="13" data-stop-name="11. Christchurch" transform="translate(900 635.9)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">11. Christchurch</tspan></text>
     </g>
   <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>

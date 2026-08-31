@@ -4,7 +4,7 @@ title: "Three weeks in Vietnam"
 description: "Hanoi, Ha Giang, Ha Long Bay, Ninh Binh, Hue, Da Nang, Hoi An, Ho Chi Minh City and Phu Quoc."
 image: "images/blog/cheapflight.jpg"
 itinerary_map: "/images/itineraries/vietnam.svg"
-categories: ["Itinerary", "Asia", "Vietnam"]
+categories: ["Itinerary", "SEA", "Vietnam"]
 continents: ["Asia"]
 draft: true
 ---
@@ -51,7 +51,7 @@ In the afternoon, cross into the French Quarter for the Opera House and the stre
 
 ## Day 2: Hanoi
 
-Visit the **Temple of Literature**, then continue to the **Ho Chi Minh complex**, One Pillar Pagoda and the grounds around the mausoleum. Use the afternoon for the Museum of Ethnology or the Vietnamese Women's Museum; they sit in different parts of Hanoi and should not be treated as adjacent stops.
+Visit the **Temple of Literature**, then continue to the **Ho Chi Minh complex**, One Pillar Pagoda and the grounds around the mausoleum. In the afternoon, choose either the Museum of Ethnology or the Vietnamese Women's Museum; they are in different parts of Hanoi.
 
 I stayed at **Old Quarter View Hanoi Hostel** and booked the Ha Giang Loop, Ha Long Bay and Ninh Binh trips there.
 
@@ -63,19 +63,13 @@ My Ha Giang Loop was a motorcycle tour **with a driver**, booked through the hos
 
 Meet the group in Ha Giang and begin north through the first valleys and passes. The operator supplied the motorcycle, driver and accommodation; keep only the small bag permitted for the loop and leave the main luggage with the tour office.
 
-<!-- Add the first overnight stop and viewpoints from the hostel booking. -->
-
 ## Day 4: Ha Giang Loop
 
 Continue through **Quản Bạ**, the Heaven's Gate area and the road towards Yên Minh. This is the day for the limestone plateau and mountain villages between the larger towns, with stops chosen by the driver and group.
 
-<!-- Add the exact village visits and overnight stop from the hostel booking. -->
-
 ## Day 5: Dong Van
 
 Walk around **Đồng Văn old town** before crossing **Mã Pí Lèng Pass** above the Nho Quế River. The pass is one of the loop's main road sections, with the driver handling the exposed bends and viewpoint stops.
-
-<!-- Add the river activity and overnight stop if they were included. -->
 
 ## Day 6: Ha Giang
 
@@ -85,13 +79,9 @@ Complete the final mountain section and return to Ha Giang. Collect the main lug
 
 The hostel-booked trip included the road transfer from Hanoi and the cruise. Board the boat at the operator's harbour, leave the luggage in the cabin and sail into the limestone islands for the first cave, beach or viewpoint in the programme.
 
-<!-- Add the boat, cabin and first-day stops from the hostel booking. -->
-
 ## Day 8: Ha Long Bay
 
 Continue the cruise programme with its cave and water activities. The exact bay, kayaking stop and sleeping place belong to the package booked through Old Quarter View Hanoi Hostel.
-
-<!-- Add the actual cave, kayaking area and overnight location. -->
 
 ## Day 9: Hanoi
 
@@ -101,7 +91,7 @@ Finish the final cruise activity and return to the harbour, then use the road tr
 
 The Ninh Binh trip was also booked through **Old Quarter View Hanoi Hostel**. The road transfer left Hanoi for the former capital at **Hoa Lư**, followed by the boat route through the limestone landscape at **Tràng An**.
 
-Stay around Tam Cốc or Ninh Binh after the organised portion instead of returning to Hanoi, keeping the second day for the sites outside that package.
+Stay around Tam Cốc or Ninh Binh after the organised portion. Use the second day for the sites outside the hostel package.
 
 ## Day 11: Ninh Binh
 
@@ -155,7 +145,7 @@ Take a full-day organised trip from Ho Chi Minh City into the **Mekong Delta**. 
 
 Take a half- or full-day organised bus from central Ho Chi Minh City to the **Củ Chi tunnels**. The visit covers the preserved tunnel area, entrances, traps and wartime interpretation before the return journey.
 
-The public-bus route requires changes and leaves less control over the final admission slot, so the organised city departure is the practical version for this itinerary.
+The public-bus route requires several changes. Organised day trips leave from Ho Chi Minh City and coordinate the temple visit with its admission hours.
 
 ## Day 22: Cao Dai Temple
 

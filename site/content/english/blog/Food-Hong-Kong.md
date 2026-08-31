@@ -6,7 +6,7 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Bre
 categories: ["Food", "Hong Kong", "China"]
 continents: ["Asia"]
 ai_generated: true
-draft: false
+draft: true
 ---
 
 > Note: this article was, at the beginning, AI-generated, then reworked
