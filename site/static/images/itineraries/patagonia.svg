@@ -1,56 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-  <title id="title">Winter Patagonia route map</title>
-  <desc id="desc">One-way itinerary from Punta Arenas through Puerto Natales and Torres del Paine to El Calafate, El Chaltén and Perito Moreno Glacier. The return journey is omitted.</desc>
+  <title id="title">Patagonia route map</title>
+  <desc id="desc">Patagonia itinerary: Punta Arenas, Puerto Natales, Torres del Paine, Base Torres, El Calafate, El Chaltén, Perito Moreno.</desc>
   <defs>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16"/></filter>
-    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18"/></clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
   </defs>
   <style>
-    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.land{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.border{fill:none;stroke:#aaa69d;stroke-width:1.5;stroke-dasharray:5 5}.country-name{font:700 17px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.water-label{font:italic 15px Georgia,serif;fill:#78949a}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.day-trip{fill:none;stroke:#d45545;stroke-width:4;stroke-dasharray:9 7;stroke-linecap:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow)}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.note{font:italic 12px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.place-label:hover,.place-label:focus-visible{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.context-country{fill:#eeeae1;stroke:#aaa79f}.route-country{fill:#d8d0bf;stroke:#74736d;stroke-width:1.7}.country-label{font:700 10px Arial,sans-serif;fill:#77736b;letter-spacing:1px;text-anchor:middle;paint-order:stroke;stroke:#f1ede5;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
   </style>
-  <rect class="background" width="1200" height="760" rx="24"/>
-  <text class="title" x="42" y="52">Patagonia in winter</text>
-  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18"/>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Patagonia</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
   <g clip-path="url(#map-clip)">
-    <path class="land" d="M260 55 L790 55 L814 144 L786 225 L805 315 L770 395 L783 470 L734 533 L746 603 L690 702 L530 702 L493 650 L462 610 L430 560 L402 510 L375 458 L343 400 L322 336 L301 275 L282 206 Z"/>
-    <path class="border" d="M472 70 L482 150 L468 230 L490 305 L474 382 L500 455 L486 528 L520 605 L548 680"/>
-    <path class="land" d="M260 488 L231 515 L245 538 L217 566 L239 589 L210 620 L247 646 L224 677 L275 706 L329 690 L312 650 L335 616 L307 583 L332 550 L296 520 Z"/>
-    <text class="country-name" x="350" y="340" transform="rotate(-76 350 340)">CHILE</text>
-    <text class="country-name" x="655" y="360" transform="rotate(-76 655 360)">ARGENTINA</text>
-    <text class="water-label" x="84" y="390" transform="rotate(-78 84 390)">Pacific Ocean</text>
-    <text class="water-label" x="804" y="390" transform="rotate(78 804 390)">Atlantic Ocean</text>
-
-    <path class="route-halo" d="M390 612 L430 496 L456 405 L470 390 L586 350 L604 176"/>
-    <path class="route" d="M390 612 L430 496 L456 405 L470 390 L586 350 L604 176"/>
-    <path class="day-trip" d="M586 350 L676 286 L586 350"/>
-    <path class="day-trip" d="M586 350 L512 395 L586 350"/>
-
-    <g class="stop stop-link start" data-section="0" data-stop-name="Punta Arenas" transform="translate(390 612)"><circle r="10"/><text y="4">1</text><title>1. Punta Arenas</title></g>
-    <g class="stop stop-link" data-section="1" data-stop-name="Puerto Natales" transform="translate(430 496)"><circle r="10"/><text y="4">2</text><title>2. Puerto Natales</title></g>
-    <g class="stop stop-link" data-section="2" data-stop-name="Torres del Paine" transform="translate(456 405)"><circle r="10"/><text y="4">3</text><title>3. Torres del Paine</title></g>
-    <g class="stop stop-link" data-section="3" data-stop-name="Base Torres" transform="translate(470 390)"><circle r="10"/><text y="4">4</text><title>4. Base Torres</title></g>
-    <g class="stop stop-link" data-section="4" data-stop-name="El Calafate" transform="translate(586 350)"><circle r="10"/><text y="4">5</text><title>5. El Calafate</title></g>
-    <g class="stop stop-link" data-section="5" data-stop-name="El Chaltén" transform="translate(604 176)"><circle r="10"/><text y="4">6</text><title>6. El Chaltén</title></g>
-    <g class="stop stop-link end" data-section="6" data-stop-name="Perito Moreno" transform="translate(512 395)"><circle r="10"/><text y="4">7</text><title>7. Perito Moreno Glacier</title></g>
-
-    <text class="place-label stop-link" data-section="0" data-stop-name="Punta Arenas" x="376" y="638" text-anchor="end">Punta Arenas</text>
-    <text class="place-label stop-link" data-section="1" data-stop-name="Puerto Natales" x="416" y="520" text-anchor="end">Puerto Natales</text>
-    <text class="place-label stop-link" data-section="2" data-stop-name="Torres del Paine" x="442" y="389" text-anchor="end">Torres del Paine</text>
-    <text class="place-label stop-link" data-section="3" data-stop-name="Base Torres" x="482" y="383">Base Torres</text>
-    <text class="place-label stop-link" data-section="4" data-stop-name="El Calafate" x="600" y="374">El Calafate</text>
-    <text class="place-label stop-link" data-section="5" data-stop-name="El Chaltén" x="618" y="169">El Chaltén</text>
-    <text class="place-label stop-link" data-section="6" data-stop-name="Perito Moreno" x="498" y="421" text-anchor="end">Perito Moreno</text>
+    <path class="country route-country" d="M618.2,524.2 L641.0,568.5 L670.8,640.0 L748.4,697.3 L832.0,721.0 L805.2,768.8 L748.4,773.5 L718.1,739.9 L682.0,737.3 L618.2,737.2 L618.2,524.2 Z M1275.4,-1614.3 L1260.4,-1537.9 L1244.5,-1439.9 L1245.1,-1345.0 L1232.0,-1323.7 L1227.5,-1262.0 L1223.4,-1212.3 L1299.3,-1130.6 L1291.1,-1064.7 L1328.3,-1023.2 L1325.3,-976.6 L1267.9,-854.3 L1179.4,-803.2 L1059.7,-783.3 L994.1,-792.8 L1006.8,-736.0 L994.5,-664.6 L1005.5,-616.5 L969.6,-583.0 L908.6,-569.7 L851.2,-604.6 L828.0,-579.6 L836.3,-484.8 L876.7,-456.1 L909.4,-486.1 L927.0,-436.5 L872.2,-407.0 L824.3,-347.7 L815.5,-251.7 L801.3,-200.7 L745.0,-200.3 L698.1,-151.6 L680.9,-80.1 L739.6,-10.1 L796.8,9.1 L776.2,94.8 L705.7,148.6 L667.0,260.3 L612.4,298.0 L588.1,342.6 L607.2,441.7 L647.0,496.9 L621.8,492.1 L566.6,477.1 L422.2,464.3 L397.4,408.8 L398.7,337.3 L359.0,343.4 L337.9,308.9 L332.7,207.8 L378.5,165.8 L397.4,105.3 L390.3,57.0 L422.2,-24.4 L443.9,-150.6 L437.4,-206.6 L463.6,-224.7 L457.2,-260.7 L429.5,-279.8 L449.2,-319.8 L422.2,-356.0 L408.2,-466.1 L432.3,-485.4 L422.2,-601.7 L436.1,-699.4 L452.2,-784.4 L487.9,-819.1 L469.9,-912.1 L469.7,-999.8 L514.8,-1062.1 L513.3,-1141.9 L547.5,-1234.9 L547.7,-1322.7 L532.2,-1340.1 L504.7,-1504.8 L541.4,-1602.8 L535.6,-1695.1 L557.1,-1781.8 L596.3,-1871.4 L638.4,-1930.7 L620.5,-1968.1 L633.0,-1998.8 L631.1,-2157.8 L696.0,-2204.8 L716.6,-2303.9 L709.3,-2327.8 L759.0,-2414.0 L837.2,-2390.8 L872.2,-2321.9 L895.7,-2398.6 L963.6,-2394.7 L973.2,-2374.2 L1083.1,-2218.5 L1131.9,-2204.2 L1204.7,-2133.6 L1266.2,-2096.3 L1274.8,-2054.2 L1216.1,-1909.2 L1276.3,-1883.4 L1343.4,-1868.7 L1390.7,-1884.0 L1444.8,-1957.2 L1454.5,-2041.3 L1484.1,-2059.7 L1514.0,-2004.6 L1512.7,-1928.4 L1462.4,-1875.8 L1422.5,-1836.9 L1355.0,-1744.4 L1275.4,-1614.3 Z"><title>Argentina</title></path>
+<path class="country route-country" d="M618.2,524.2 L618.2,737.2 L682.0,737.3 L718.1,739.9 L698.3,778.5 L647.2,808.1 L617.7,805.0 L582.5,797.2 L539.1,768.7 L476.5,754.8 L401.3,701.5 L340.5,650.3 L258.2,543.4 L307.4,563.5 L391.2,627.2 L470.5,661.5 L501.3,617.7 L520.6,552.3 L575.6,512.9 L618.2,524.2 Z M561.0,-2819.6 L590.2,-2754.7 L598.2,-2685.9 L629.6,-2645.6 L610.7,-2553.2 L642.9,-2446.2 L666.3,-2314.8 L709.3,-2327.8 L716.6,-2303.9 L696.0,-2204.8 L631.1,-2157.8 L633.0,-1998.8 L620.5,-1968.1 L638.4,-1930.7 L596.3,-1871.4 L557.1,-1781.8 L535.6,-1695.1 L541.4,-1602.8 L504.7,-1504.8 L532.2,-1340.1 L547.7,-1322.7 L547.5,-1234.9 L513.3,-1141.9 L514.8,-1062.1 L469.7,-999.8 L469.9,-912.1 L487.9,-819.1 L452.2,-784.4 L436.1,-699.4 L422.2,-601.7 L432.3,-485.4 L408.2,-466.1 L422.2,-356.0 L449.2,-319.8 L429.5,-279.8 L457.2,-260.7 L463.6,-224.7 L437.4,-206.6 L443.9,-150.6 L422.2,-24.4 L390.3,57.0 L397.4,105.3 L378.5,165.8 L332.7,207.8 L337.9,308.9 L359.0,343.4 L398.7,337.3 L397.4,408.8 L422.2,464.3 L566.6,477.1 L621.8,492.1 L568.7,491.5 L539.9,514.9 L486.2,549.3 L476.5,638.4 L451.2,640.6 L383.9,609.6 L315.5,543.1 L241.2,488.6 L222.5,428.2 L239.5,372.3 L209.4,308.9 L201.6,146.3 L227.2,54.6 L290.2,-19.2 L199.5,-47.0 L256.4,-131.2 L276.6,-289.8 L343.1,-256.2 L374.2,-453.8 L334.2,-479.1 L315.5,-360.0 L277.9,-373.4 L296.6,-509.8 L317.1,-686.6 L344.3,-751.8 L327.2,-844.8 L322.4,-952.3 L347.6,-955.4 L384.1,-1109.4 L425.4,-1262.0 L450.7,-1404.2 L437.0,-1547.1 L454.8,-1625.7 L447.5,-1743.6 L482.6,-1860.0 L493.3,-2044.5 L512.4,-2242.6 L531.1,-2455.9 L526.8,-2612.0 L514.4,-2746.3 L545.1,-2770.7 L561.0,-2819.6 Z"><title>Chile</title></path>
+    <text class="country-label" x="509.3" y="289.5">Argentina</text>
+<text class="country-label" x="447.0" y="361.3">Chile</text>
+    <path class="route-halo" d="M481.6,574.2 L386.7,437.8 L333.0,362.4 L358.0,362.4 L386.7,437.8 L401.6,305.2 L364.0,208.9 L401.6,305.2 L349.1,320.5 L401.6,305.2 L386.7,437.8 L481.6,574.2" />
+    <path class="route" d="M481.6,574.2 L386.7,437.8 L333.0,362.4 L358.0,362.4 L386.7,437.8 L401.6,305.2 L364.0,208.9 L401.6,305.2 L349.1,320.5 L401.6,305.2 L386.7,437.8 L481.6,574.2" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Punta Arenas" transform="translate(481.6 574.2)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Punta Arenas</title>
+    </g>
+<g class="stop stop-link" data-section="1" data-stop-name="Puerto Natales" transform="translate(386.7 437.8)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Puerto Natales</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Torres del Paine" transform="translate(333.0 362.4)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Torres del Paine</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Base Torres" transform="translate(358.0 362.4)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Base Torres</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="El Calafate" transform="translate(401.6 305.2)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. El Calafate</title>
+    </g>
+<g class="stop stop-link" data-section="5" data-stop-name="El Chaltén" transform="translate(364.0 208.9)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. El Chaltén</title>
+    </g>
+<g class="stop stop-link end" data-section="6" data-stop-name="Perito Moreno" transform="translate(349.1 320.5)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Perito Moreno</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Punta Arenas" x="493.6" y="564.2" text-anchor="start">Punta Arenas</text>
+<text class="place-label stop-link" data-section="1" data-stop-name="Puerto Natales" x="398.7" y="455.8" text-anchor="start">Puerto Natales</text>
+<text class="place-label stop-link" data-section="2" data-stop-name="Torres del Paine" x="345.0" y="352.4" text-anchor="start">Torres del Paine</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Base Torres" x="370.0" y="380.4" text-anchor="start">Base Torres</text>
+<text class="place-label stop-link" data-section="4" data-stop-name="El Calafate" x="413.6" y="295.2" text-anchor="start">El Calafate</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="El Chaltén" x="376.0" y="226.9" text-anchor="start">El Chaltén</text>
+<text class="place-label stop-link" data-section="6" data-stop-name="Perito Moreno" x="361.1" y="310.5" text-anchor="start">Perito Moreno</text>
   </g>
-
-  <line class="divider" x1="878" y1="82" x2="878" y2="702"/>
-  <text class="route-title" x="900" y="108">ONE-WAY ROUTE</text>
-  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Punta Arenas" transform="translate(900 158)"><text class="summary-text">1. Punta Arenas</text></g>
-  <g class="summary-stop stop-link" data-section="1" data-stop-name="2. Puerto Natales" transform="translate(900 220)"><text class="summary-text">2. Puerto Natales</text></g>
-  <g class="summary-stop stop-link" data-section="2" data-stop-name="3. Torres del Paine" transform="translate(900 282)"><text class="summary-text">3. Torres del Paine</text></g>
-  <g class="summary-stop stop-link" data-section="3" data-stop-name="4. Base Torres" transform="translate(900 344)"><text class="summary-text">4. Base Torres</text></g>
-  <g class="summary-stop stop-link" data-section="4" data-stop-name="5. El Calafate" transform="translate(900 406)"><text class="summary-text">5. El Calafate</text></g>
-  <g class="summary-stop stop-link" data-section="5" data-stop-name="6. El Chaltén" transform="translate(900 468)"><text class="summary-text">6. El Chaltén</text></g>
-  <g class="summary-stop stop-link" data-section="6" data-stop-name="7. Perito Moreno" transform="translate(900 530)"><text class="summary-text">7. Perito Moreno</text></g>
-  <text class="note" x="900" y="590"><tspan x="900">Day 8 return omitted</tspan><tspan x="900" dy="19">for readability.</tspan></text>
-  <text class="note" x="42" y="735">Route positions are approximate · Dashed lines indicate day trips</text>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Punta Arenas" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Punta Arenas</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Puerto Natales" transform="translate(900 203.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Puerto Natales</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Torres del Paine" transform="translate(900 261.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Torres del Paine</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Base Torres" transform="translate(900 319.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Base Torres</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="5. El Calafate" transform="translate(900 377.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. El Calafate</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="6. El Chaltén" transform="translate(900 435.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. El Chaltén</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="7. Perito Moreno" transform="translate(900 493.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Perito Moreno</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>

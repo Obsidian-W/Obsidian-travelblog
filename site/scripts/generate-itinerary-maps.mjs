@@ -9,7 +9,7 @@ const topology = JSON.parse(
 );
 const outputDir = path.join(siteDir, "static", "images", "itineraries");
 
-const P = (name, lat, lon, label = true) => ({ name, lat, lon, label });
+const P = (name, lat, lon, label = true, labelDx, labelDy, labelAnchor) => ({ name, lat, lon, label, labelDx, labelDy, labelAnchor });
 
 const routes = [
   {
@@ -184,7 +184,6 @@ const routes = [
   {
     slug: "georgia",
     title: "Georgia",
-    preserveExistingMap: true,
     countries: ["Georgia", "Armenia", "Azerbaijan", "Russia", "Turkey"],
     bounds: [39.8, 40.7, 47.8, 43.7],
     points: [
@@ -197,7 +196,6 @@ const routes = [
   {
     slug: "armenia",
     title: "Armenia",
-    preserveExistingMap: true,
     countries: ["Armenia", "Georgia", "Azerbaijan", "Turkey", "Iran"],
     bounds: [42.8, 38.5, 47.0, 41.6],
     points: [
@@ -286,12 +284,13 @@ const routes = [
     countries: ["Bolivia", "Peru", "Brazil", "Paraguay", "Argentina", "Chile"],
     bounds: [-71.5, -24.0, -56.5, -9.0],
     points: [
-      P("La Paz", -16.5, -68.13), P("Torotoro", -18.13, -65.77),
-      P("Cochabamba", -17.39, -66.16), P("Sucre", -19.05, -65.26),
-      P("Potosi", -19.59, -65.75), P("Uyuni", -20.46, -66.82),
+      P("Copacabana", -16.17, -69.09, true, -14, -14, "end"), P("Isla del Sol", -16.02, -69.16, false),
+      P("La Paz", -16.5, -68.13, true, 14, 24, "start"), P("Cochabamba", -17.39, -66.16, true, -14, -16, "end"),
+      P("Torotoro", -18.13, -65.77, true, 16, 18, "start"), P("Sucre", -19.05, -65.26, true, 16, 25, "start"),
+      P("Potosi", -19.59, -65.75, true, -14, -12, "end"), P("Uyuni", -20.46, -66.82),
       P("San Pedro de Atacama", -22.91, -68.2, false),
     ],
-    sectionIndexes: [2, 5, 3, 7, 10, 12, 15],
+    sectionIndexes: [0, 1, 2, 3, 5, 7, 10, 12, 15],
   },
   {
     slug: "chile",
@@ -300,9 +299,11 @@ const routes = [
     bounds: [-76.0, -56.5, -63.0, -17.0],
     points: [
       P("San Pedro de Atacama", -22.91, -68.2), P("Santiago", -33.44, -70.65),
-      P("Punta Arenas", -53.16, -70.91), P("Puerto Natales", -51.73, -72.51),
+      P("Punta Arenas", -53.16, -70.91, true, 16, 25, "start"), P("Puerto Natales", -51.73, -72.51, true, -16, 30, "end"),
+      P("Torres del Paine", -50.94, -73.41, true, -16, -16, "end"), P("El Calafate", -50.34, -72.27, true, 16, 22, "start"),
+      P("El Chalten", -49.33, -72.89, true, 16, -16, "start"), P("Perito Moreno", -50.5, -73.05, false),
     ],
-    sectionIndexes: [0, 3, 4, 5],
+    sectionIndexes: [0, 3, 4, 5, 6, 8, 9, 10],
   },
   {
     slug: "south-america",
@@ -316,16 +317,30 @@ const routes = [
       P("Arequipa", -16.4, -71.54), P("Cusco", -13.52, -71.98),
       P("Machu Picchu", -13.16, -72.55, false), P("Puerto Maldonado", -12.59, -69.19),
       P("Puno", -15.84, -70.03), P("Copacabana", -16.17, -69.09, false),
-      P("La Paz", -16.5, -68.13), P("Torotoro", -18.13, -65.77, false),
-      P("Cochabamba", -17.39, -66.16, false), P("Sucre", -19.05, -65.26),
+      P("La Paz", -16.5, -68.13), P("Cochabamba", -17.39, -66.16, false),
+      P("Torotoro", -18.13, -65.77, false), P("Sucre", -19.05, -65.26),
       P("Potosi", -19.59, -65.75, false), P("Uyuni", -20.46, -66.82),
       P("San Pedro de Atacama", -22.91, -68.2), P("Santiago", -33.44, -70.65),
       P("Punta Arenas", -53.16, -70.91), P("Puerto Natales", -51.73, -72.51, false),
-      P("El Calafate", -50.34, -72.27),
+      P("El Calafate", -50.34, -72.27), P("El Chalten", -49.33, -72.89, true, 14, -16, "start"),
+      P("Perito Moreno", -50.5, -73.14, true, -14, 24, "end"),
     ],
-    sectionIndexes: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3],
+    sectionIndexes: [0, 1, 5, 7, 8, 9, 10, 12, 18, 20, 23, 25, 27, 28, 30, 32, 35, 37, 41, 43, 45, 46, 49, 50, 51],
+    pathPoints: [
+      P("Lima", -12.06, -77.04), P("Huaraz", -9.53, -77.53), P("Trujillo", -8.11, -79.03),
+      P("Paracas", -13.84, -76.25), P("Ica", -14.06, -75.73), P("Nazca", -14.83, -74.94),
+      P("Arequipa", -16.4, -71.54), P("Cusco", -13.52, -71.98), P("Machu Picchu", -13.16, -72.55),
+      P("Cusco", -13.52, -71.98), P("Puerto Maldonado", -12.59, -69.19), P("Puno", -15.84, -70.03),
+      P("Copacabana", -16.17, -69.09), P("La Paz", -16.5, -68.13), P("Cochabamba", -17.39, -66.16),
+      P("Torotoro", -18.13, -65.77), P("Cochabamba", -17.39, -66.16), P("Sucre", -19.05, -65.26),
+      P("Potosi", -19.59, -65.75), P("Uyuni", -20.46, -66.82), P("San Pedro de Atacama", -22.91, -68.2),
+      P("Santiago", -33.44, -70.65), P("Punta Arenas", -53.16, -70.91), P("Puerto Natales", -51.73, -72.51),
+      P("El Calafate", -50.34, -72.27), P("El Chalten", -49.33, -72.89), P("El Calafate", -50.34, -72.27),
+      P("Perito Moreno", -50.5, -73.14), P("El Calafate", -50.34, -72.27), P("Puerto Natales", -51.73, -72.51),
+      P("Punta Arenas", -53.16, -70.91),
+    ],
     groups: ["Lima", "Huaraz · Trujillo", "Paracas · Ica · Nazca", "Arequipa", "Cusco · Machu Picchu", "Puerto Maldonado · Titicaca", "La Paz · Torotoro", "Cochabamba · Sucre · Potosi", "Uyuni · Atacama", "Santiago · Patagonia"],
-    groupSections: [0, 0, 0, 0, 0, 0, 1, 1, 1, 2],
+    groupSections: [0, 1, 7, 10, 12, 20, 27, 28, 37, 43],
   },
   {
     slug: "vietnam",
@@ -333,13 +348,13 @@ const routes = [
     countries: ["Vietnam", "Laos", "Cambodia", "China"],
     bounds: [102.0, 8.0, 110.5, 24.0],
     points: [
-      P("Hanoi", 21.03, 105.85), P("Ha Long", 20.95, 107.08),
-      P("Ninh Binh", 20.25, 105.98), P("Ha Giang", 22.83, 104.98),
+      P("Hanoi", 21.03, 105.85), P("Ha Giang", 22.83, 104.98),
+      P("Ha Long", 20.95, 107.08), P("Ninh Binh", 20.25, 105.98),
       P("Hue", 16.46, 107.59), P("An Bang", 16.45, 107.8, false),
       P("Da Nang", 16.07, 108.21), P("Hoi An", 15.88, 108.33),
       P("Ho Chi Minh City", 10.78, 106.7), P("Phu Quoc", 10.22, 103.99),
     ],
-    sectionIndexes: [0, 6, 9, 2, 11, 13, 14, 16, 18, 22],
+    sectionIndexes: [0, 2, 6, 9, 11, 13, 14, 16, 18, 22],
   },
   {
     slug: "india",
@@ -379,7 +394,7 @@ const routes = [
       P("Pakse", 15.12, 105.8), P("Bolaven Plateau", 15.2, 106.25, false),
       P("Don Khon", 13.96, 105.92),
     ],
-    sectionIndexes: [0, 2, 4, 5, 6, 10, 11, 12, 14, 15],
+    sectionIndexes: [0, 1, 3, 4, 5, 7, 8, 9, 10, 12],
   },
   {
     slug: "philippines",
@@ -398,11 +413,12 @@ const routes = [
     countries: ["Taiwan"],
     bounds: [119.5, 21.5, 122.5, 25.6],
     points: [
-      P("Taipei", 25.04, 121.56), P("Hualien", 23.98, 121.61),
+      P("Taipei", 25.04, 121.56), P("Jiufen", 25.11, 121.84),
+      P("Hualien", 23.98, 121.61),
       P("Kaohsiung", 22.62, 120.31), P("Taichung", 24.16, 120.65),
-      P("Sun Moon Lake", 23.86, 120.92),
+      P("Sun Moon Lake", 23.86, 120.92), P("Taipei (return)", 25.03, 121.49),
     ],
-    sectionIndexes: [0, 3, 5, 7, 8],
+    sectionIndexes: [0, 2, 3, 5, 7, 8, 9],
   },
   {
     slug: "new-zealand",
@@ -424,9 +440,10 @@ const routes = [
     bounds: [128.0, -27.0, 139.0, -10.0],
     points: [
       P("Alice Springs", -23.7, 133.88), P("Uluru", -25.34, 131.04),
+      P("Kings Canyon", -24.26, 131.56),
       P("Darwin", -12.46, 130.84),
     ],
-    sectionIndexes: [0, 1, 4],
+    sectionIndexes: [0, 1, 3, 4],
   },
   {
     slug: "indonesia",
@@ -439,7 +456,85 @@ const routes = [
       P("Temanggung", -7.32, 110.18), P("Semarang", -6.97, 110.42),
       P("Jakarta", -6.18, 106.83),
     ],
-    sectionIndexes: [0, 2, 4, 5, 8, 11, 12],
+    sectionIndexes: [0, 2, 4, 6, 8, 10, 11],
+  },
+  {
+    slug: "kazakhstan",
+    title: "Kazakhstan",
+    countries: ["Kazakhstan"],
+    bounds: [45.0, 39.0, 88.0, 56.5],
+    points: [
+      P("Aktau", 43.65, 51.16), P("Torysh", 44.32, 51.74),
+      P("Bozjyra", 43.42, 54.07), P("Bokty", 43.1, 53.82, false),
+      P("Astana", 51.17, 71.43), P("Aqmola", 51.0, 70.95, false),
+      P("Almaty", 43.24, 76.89), P("Big Almaty Lake", 43.05, 76.99, false),
+      P("Kolsai · Charyn", 43.0, 78.65), P("Shymbulak", 43.13, 77.08, false),
+      P("Bishkek road", 42.87, 74.6),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11],
+  },
+  {
+    slug: "caucasus",
+    title: "The Caucasus",
+    countries: ["Azerbaijan", "Georgia", "Armenia"],
+    bounds: [39.0, 37.5, 51.0, 43.8],
+    points: [
+      P("Baku", 40.41, 49.87), P("Xinaliq", 41.18, 48.13),
+      P("Sheki", 41.19, 47.17), P("Sighnaghi", 41.62, 45.92),
+      P("Tbilisi", 41.72, 44.83), P("Gori", 41.98, 44.12),
+      P("Kazbegi", 42.66, 44.64), P("Mtskheta", 41.84, 44.72),
+      P("Alaverdi", 41.1, 44.66), P("Yerevan", 40.19, 44.52),
+      P("Etchmiadzin", 40.16, 44.29, false), P("Garni", 40.11, 44.73),
+      P("Khor Virap", 39.88, 44.58),
+    ],
+    sectionIndexes: [0, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 15],
+  },
+  {
+    slug: "kyrgyzstan",
+    title: "Kyrgyzstan",
+    countries: ["Kyrgyzstan"],
+    bounds: [68.0, 38.8, 81.2, 44.0],
+    points: [
+      P("Bishkek", 42.87, 74.57), P("Ala-Archa", 42.64, 74.49),
+      P("Kyzart", 42.0, 74.95), P("Song-Kul", 41.84, 75.15),
+      P("Karakol", 42.49, 78.39), P("Jeti-Ögüz", 42.33, 78.24),
+      P("Altyn Arashan", 42.35, 78.61), P("Osh", 40.53, 72.8),
+      P("Tulpar-Kul", 39.49, 72.9), P("Peak Lenin", 39.35, 72.88),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 4, 6, 7, 8, 10, 11],
+  },
+  {
+    slug: "uzbekistan",
+    title: "Uzbekistan",
+    countries: ["Uzbekistan"],
+    bounds: [54.0, 36.5, 73.0, 46.5],
+    points: [
+      P("Tashkent", 41.3, 69.24), P("Samarkand", 39.65, 66.96),
+      P("Bukhara", 39.77, 64.46), P("Khiva", 41.38, 60.36),
+      P("Nukus", 42.46, 59.61), P("Muynak", 43.77, 59.03),
+    ],
+    sectionIndexes: [0, 2, 4, 6, 8, 9],
+  },
+  {
+    slug: "patagonia",
+    title: "Patagonia",
+    countries: ["Chile", "Argentina"],
+    bounds: [-75.5, -54.5, -67.5, -48.0],
+    points: [
+      P("Punta Arenas", -53.16, -70.92), P("Puerto Natales", -51.73, -72.51),
+      P("Torres del Paine", -50.94, -73.41), P("Base Torres", -50.94, -72.99),
+      P("El Calafate", -50.34, -72.26), P("El Chaltén", -49.33, -72.89),
+      P("Perito Moreno", -50.5, -73.14),
+    ],
+    pathPoints: [
+      P("Punta Arenas", -53.16, -70.92), P("Puerto Natales", -51.73, -72.51),
+      P("Torres del Paine", -50.94, -73.41), P("Base Torres", -50.94, -72.99),
+      P("Puerto Natales", -51.73, -72.51, false), P("El Calafate", -50.34, -72.26),
+      P("El Chaltén", -49.33, -72.89), P("El Calafate", -50.34, -72.26, false),
+      P("Perito Moreno", -50.5, -73.14), P("El Calafate", -50.34, -72.26, false),
+      P("Puerto Natales", -51.73, -72.51, false), P("Punta Arenas", -53.16, -70.92, false),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 4, 5, 6],
   },
 ];
 
@@ -472,6 +567,26 @@ function geometryRings(geometry) {
   if (geometry.type === "Polygon") return geometry.arcs.map(stitch);
   if (geometry.type === "MultiPolygon") return geometry.arcs.flatMap((polygon) => polygon.map(stitch));
   return [];
+}
+
+function ringBounds(ring) {
+  return ring.reduce((bounds, [lon, lat]) => [
+    Math.min(bounds[0], lon), Math.min(bounds[1], lat),
+    Math.max(bounds[2], lon), Math.max(bounds[3], lat),
+  ], [Infinity, Infinity, -Infinity, -Infinity]);
+}
+
+function visibleGeometry(geometry, mapBounds) {
+  const [mapMinLon, mapMinLat, mapMaxLon, mapMaxLat] = mapBounds;
+  const overlaps = geometryRings(geometry).map(ringBounds).map((bounds) => {
+    const minLon = Math.max(bounds[0], mapMinLon);
+    const minLat = Math.max(bounds[1], mapMinLat);
+    const maxLon = Math.min(bounds[2], mapMaxLon);
+    const maxLat = Math.min(bounds[3], mapMaxLat);
+    return { minLon, minLat, maxLon, maxLat, area: Math.max(0, maxLon - minLon) * Math.max(0, maxLat - minLat) };
+  }).filter((overlap) => overlap.area > 0);
+  if (!overlaps.length) return null;
+  return overlaps.reduce((largest, overlap) => overlap.area > largest.area ? overlap : largest);
 }
 
 function escapeXml(value) {
@@ -523,9 +638,9 @@ function countryPath(geometry, project) {
 function markerLabel(point, index, project, section) {
   if (!point.label) return "";
   const [x, y] = project([point.lon, point.lat]);
-  const anchor = x > 650 ? "end" : "start";
-  const dx = anchor === "end" ? -12 : 12;
-  const dy = index % 2 === 0 ? -10 : 18;
+  const anchor = point.labelAnchor ?? (x > 650 ? "end" : "start");
+  const dx = point.labelDx ?? (anchor === "end" ? -12 : 12);
+  const dy = point.labelDy ?? (index % 2 === 0 ? -10 : 18);
   return `<text class="place-label stop-link" data-section="${section}" data-stop-name="${escapeXml(point.name)}" x="${(x + dx).toFixed(1)}" y="${(y + dy).toFixed(1)}" text-anchor="${anchor}">${escapeXml(point.name)}</text>`;
 }
 
@@ -563,14 +678,32 @@ function routeSummary(route) {
 
 function renderRoute(route) {
   const project = makeProjector(route.bounds);
-  const geometries = topology.objects.countries.geometries.filter((geometry) => route.countries.includes(geometry.properties.name));
-  const missing = route.countries.filter((name) => !geometries.some((geometry) => geometry.properties.name === name));
+  const allGeometries = topology.objects.countries.geometries;
+  const missing = route.countries.filter((name) => !allGeometries.some((geometry) => geometry.properties.name === name));
   if (missing.length) throw new Error(`${route.slug}: missing country geometries: ${missing.join(", ")}`);
 
-  const countryPaths = geometries.map((geometry) =>
-    `<path class="country" d="${countryPath(geometry, project)}"><title>${escapeXml(geometry.properties.name)}</title></path>`,
+  const visibleGeometries = allGeometries.map((geometry) => ({
+    geometry,
+    visible: visibleGeometry(geometry, route.bounds),
+    isRouteCountry: route.countries.includes(geometry.properties.name),
+  })).filter((item) => item.visible).sort((left, right) => Number(left.isRouteCountry) - Number(right.isRouteCountry));
+
+  const countryPaths = visibleGeometries.map(({ geometry, isRouteCountry }) =>
+    `<path class="country${isRouteCountry ? " route-country" : " context-country"}" d="${countryPath(geometry, project)}"><title>${escapeXml(geometry.properties.name)}</title></path>`,
   ).join("\n");
-  const countryLabels = (route.countryLabels ?? []).map((label) => {
+
+  const manualCountryNames = new Set((route.countryLabels ?? []).map((label) => label.name.toLowerCase()));
+  const automaticCountryLabels = visibleGeometries.filter(({ geometry, visible }) => {
+    if (manualCountryNames.has(geometry.properties.name.toLowerCase())) return false;
+    const [minX, maxY] = project([visible.minLon, visible.minLat]);
+    const [maxX, minY] = project([visible.maxLon, visible.maxLat]);
+    return Math.abs(maxX - minX) >= 48 && Math.abs(maxY - minY) >= 24;
+  }).map(({ geometry, visible }) => ({
+    name: geometry.properties.name,
+    lon: (visible.minLon + visible.maxLon) / 2,
+    lat: (visible.minLat + visible.maxLat) / 2,
+  }));
+  const countryLabels = [...automaticCountryLabels, ...(route.countryLabels ?? [])].map((label) => {
     const [x, y] = project([label.lon, label.lat]);
     return `<text class="country-label" x="${x.toFixed(1)}" y="${y.toFixed(1)}">${escapeXml(label.name)}</text>`;
   }).join("\n");
@@ -601,7 +734,7 @@ function renderRoute(route) {
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
   </defs>
   <style>
-    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{fill:#ded8ca;stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.country-label{font:700 11px Arial,sans-serif;fill:#77736b;letter-spacing:1.2px;text-anchor:middle;paint-order:stroke;stroke:#ded8ca;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.context-country{fill:#eeeae1;stroke:#aaa79f}.route-country{fill:#d8d0bf;stroke:#74736d;stroke-width:1.7}.country-label{font:700 10px Arial,sans-serif;fill:#77736b;letter-spacing:1px;text-anchor:middle;paint-order:stroke;stroke:#f1ede5;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
   </style>
   <rect class="background" width="1200" height="760" rx="24" />
   <text class="title" x="42" y="52">${escapeXml(route.title)}</text>

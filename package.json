@@ -14,6 +14,9 @@
     "build:preview": "npm --prefix site run build",
     "build:hugo": "npm --prefix site run build",
     "build:hugo:preview": "npm --prefix site run build",
+    "images:audit": "node site/scripts/enhance-blog-images.mjs",
+    "images:enhance": "node site/scripts/enhance-blog-images.mjs --write",
+    "images:enhance-curated": "node site/scripts/enhance-curated-blog-images.mjs",
     "cypress:open": "cypress open --e2e",
     "cypress:run": "cypress run --e2e"
   },
@@ -28,7 +31,8 @@
     "autoprefixer": "^10.4.7",
     "eslint": "^8.2.0",
     "eslint-plugin-cypress": "^2.13.3",
-    "hugo-bin": "^0.98.0"
+    "hugo-bin": "^0.98.0",
+    "sharp": "^0.33.5"
   },
   "dependencies": {
     "cypress": "^10.5.0",

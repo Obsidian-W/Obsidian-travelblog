@@ -1,26 +1,151 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-  <title id="title">Kazakhstan route map</title><desc id="desc">Kazakhstan itinerary route; positions are approximate.</desc>
-  <defs><filter id="shadow"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity=".16"/></filter></defs>
-  <style>.bg{fill:#f5f1e9}.frame{fill:#dce8ea}.land{fill:#ded8ca;stroke:#8b8a82;stroke-width:2}.halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:3;filter:url(#shadow)}.start circle{fill:#24735c}.end circle{stroke:#71312d}.stop text{font:700 10px Arial;fill:#fff;text-anchor:middle}.label,.summary{font:600 14px Arial;fill:#292824}.label{paint-order:stroke;stroke:#f5f1e9;stroke-width:4}.heading{font:700 34px Georgia;fill:#292824}.small{font:700 13px Arial;fill:#77736b;letter-spacing:2px}.note{font:11px Arial;fill:#77736b}.divider{stroke:#cbc5b9}.stop-link{cursor:pointer}.stop-link:hover{opacity:.72}</style>
-  <rect class="bg" width="1200" height="760" rx="24"/><text class="heading" x="42" y="52">Kazakhstan</text><rect class="frame" x="42" y="82" width="810" height="620" rx="18"/><path class="land" d="M95 170 Q260 80 440 145 T800 155 L820 560 Q650 690 470 620 T90 590 Z"/>
-  <path class="halo" d="M150 500 L240 430 L560 180 L515 210 L700 520 L775 500 L720 550 L680 590"/><path class="route" d="M150 500 L240 430 L560 180 L515 210 L700 520 L775 500 L720 550 L680 590"/>
-  <g class="stop stop-link start" data-section="0" transform="translate(150 500)"><circle r="11"/><text y="4">1</text></g><text class="label stop-link" data-section="0" x="164" y="488">Aktau</text>
-  <g class="stop stop-link" data-section="1" transform="translate(240 430)"><circle r="11"/><text y="4">2</text></g><text class="label stop-link" data-section="1" x="254" y="418">Mangystau</text>
-  <g class="stop stop-link" data-section="4" transform="translate(560 180)"><circle r="11"/><text y="4">3</text></g><text class="label stop-link" data-section="4" x="574" y="168">Astana</text>
-  <g class="stop stop-link" data-section="6" transform="translate(515 210)"><circle r="11"/><text y="4">4</text></g><text class="label stop-link" data-section="6" x="529" y="198">Aqmola</text>
-  <g class="stop stop-link" data-section="7" transform="translate(700 520)"><circle r="11"/><text y="4">5</text></g><text class="label stop-link" data-section="7" x="714" y="508">Almaty</text>
-  <g class="stop stop-link" data-section="9" transform="translate(775 500)"><circle r="11"/><text y="4">6</text></g><text class="label stop-link" data-section="9" x="789" y="488">Charyn · Kolsai</text>
-  <g class="stop stop-link" data-section="10" transform="translate(720 550)"><circle r="11"/><text y="4">7</text></g><text class="label stop-link" data-section="10" x="734" y="538">Shymbulak</text>
-  <g class="stop stop-link end" data-section="11" transform="translate(680 590)"><circle r="11"/><text y="4">8</text></g><text class="label stop-link" data-section="11" x="694" y="578">Bishkek road</text>
-  <line class="divider" x1="878" y1="82" x2="878" y2="702"/><text class="small" x="900" y="108">ROUTE</text>
-  <text class="summary stop-link" data-section="0" x="900" y="145">1. Aktau</text>
-  <text class="summary stop-link" data-section="1" x="900" y="197">2. Mangystau</text>
-  <text class="summary stop-link" data-section="4" x="900" y="249">3. Astana</text>
-  <text class="summary stop-link" data-section="6" x="900" y="301">4. Aqmola</text>
-  <text class="summary stop-link" data-section="7" x="900" y="353">5. Almaty</text>
-  <text class="summary stop-link" data-section="9" x="900" y="405">6. Charyn · Kolsai</text>
-  <text class="summary stop-link" data-section="10" x="900" y="457">7. Shymbulak</text>
-  <text class="summary stop-link" data-section="11" x="900" y="509">8. Bishkek road</text>
-  <text class="note" x="42" y="735">Route positions are approximate</text>
-</svg>
+  <title id="title">Kazakhstan route map</title>
+  <desc id="desc">Kazakhstan itinerary: Aktau, Torysh, Bozjyra, Bokty, Astana, Aqmola, Almaty, Big Almaty Lake, Kolsai · Charyn, Shymbulak, Bishkek road.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
+    <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
+  </defs>
+  <style>
+    .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.context-country{fill:#eeeae1;stroke:#aaa79f}.route-country{fill:#d8d0bf;stroke:#74736d;stroke-width:1.7}.country-label{font:700 10px Arial,sans-serif;fill:#77736b;letter-spacing:1px;text-anchor:middle;paint-order:stroke;stroke:#f1ede5;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
+  </style>
+  <rect class="background" width="1200" height="760" rx="24" />
+  <text class="title" x="42" y="52">Kazakhstan</text>
+  <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
+  <g clip-path="url(#map-clip)">
+    <path class="country context-country" d="M248.6,572.4 L247.9,469.2 L296.3,452.6 L299.9,455.0 L329.1,475.1 L344.5,485.7 L362.5,510.9 L384.6,506.9 L416.9,504.7 L439.4,525.1 L438.0,553.2 L447.2,553.4 L451.0,576.4 L475.0,577.3 L480.1,590.6 L487.2,590.4 L495.4,570.4 L520.3,550.8 L531.1,545.7 L536.7,548.4 L520.8,566.5 L534.7,577.1 L548.1,570.1 L570.5,584.9 L546.4,605.0 L532.0,602.3 L524.3,603.0 L521.6,595.2 L525.5,582.2 L500.3,588.7 L494.3,606.7 L485.3,622.2 L469.6,620.9 L464.7,633.2 L478.6,639.9 L482.6,660.7 L472.1,689.1 L457.8,683.2 L447.4,683.0 L447.8,665.9 L422.8,653.9 L403.1,640.2 L390.8,627.0 L369.3,607.6 L360.0,578.8 L353.7,573.6 L333.3,574.9 L326.1,569.2 L324.1,546.8 L298.7,532.0 L282.9,548.3 L266.8,558.0 L269.8,572.1 L248.6,572.4 Z"><title>Uzbekistan</title></path>
+<path class="country context-country" d="M960.9,-540.2 L1001.6,-546.5 L1038.2,-532.5 L1081.6,-505.3 L1076.9,-480.2 L1035.8,-476.7 L983.4,-484.8 L952.0,-495.5 L937.6,-515.5 L911.9,-521.1 L960.9,-540.2 Z M1131.5,-491.4 L1179.2,-475.5 L1173.7,-464.1 L1067.5,-453.3 L1101.8,-490.1 L1117.4,-493.2 L1131.5,-491.4 Z M1809.5,-403.3 L1859.3,-402.1 L1927.4,-387.2 L1912.5,-366.4 L1843.1,-367.2 L1811.9,-360.6 L1774.6,-378.8 L1784.7,-398.0 L1809.5,-403.3 Z M1986.4,-381.2 L2033.7,-373.8 L2011.9,-362.7 L1981.8,-365.2 L1946.8,-376.3 L1951.3,-385.4 L1986.4,-381.2 Z M1829.0,-325.8 L1846.8,-336.9 L1870.4,-339.4 L1897.1,-328.7 L1899.4,-321.4 L1870.9,-321.2 L1832.3,-324.3 L1829.0,-325.8 Z M39.1,-528.1 L75.9,-533.1 L104.5,-533.5 L108.4,-525.9 L119.1,-532.7 L136.9,-537.3 L164.9,-531.1 L157.6,-526.9 L132.3,-523.2 L115.4,-521.0 L112.7,-516.4 L90.7,-511.8 L70.3,-518.4 L81.0,-527.2 L39.1,-528.1 Z M-377.5,207.7 L-412.1,208.1 L-435.3,204.9 L-431.0,192.6 L-405.1,183.6 L-385.3,188.4 L-377.0,192.9 L-379.0,200.6 L-377.5,207.7 Z M202.3,-336.4 L247.4,-361.0 L242.3,-373.7 L284.4,-388.5 L346.6,-406.5 L409.3,-411.7 L441.5,-422.2 L478.2,-425.8 L491.3,-414.7 L478.6,-406.0 L411.9,-392.1 L354.4,-378.7 L295.9,-352.1 L267.8,-324.7 L238.3,-297.8 L242.1,-274.5 L278.1,-251.6 L267.0,-249.1 L205.5,-252.7 L200.5,-265.2 L166.3,-272.7 L163.6,-287.8 L182.9,-293.8 L182.2,-309.1 L219.6,-333.0 L202.3,-336.4 Z M1886.5,225.2 L1893.0,252.2 L1892.5,279.7 L1900.2,308.0 L1919.2,357.6 L1891.3,348.4 L1879.8,388.9 L1898.1,417.6 L1897.6,437.2 L1883.3,420.3 L1870.9,442.0 L1867.5,418.4 L1869.6,391.2 L1867.4,360.9 L1871.7,339.8 L1872.6,302.3 L1861.6,274.8 L1863.2,236.4 L1880.6,223.6 L1873.2,210.6 L1881.5,206.7 L1886.5,225.2 Z M1657.9,546.9 L1655.2,542.0 L1655.1,527.8 L1664.7,527.0 L1667.4,493.9 L1662.5,469.9 L1678.6,460.1 L1701.5,465.0 L1714.1,437.7 L1720.7,407.1 L1727.9,396.8 L1737.8,371.6 L1706.7,379.9 L1690.4,390.9 L1661.7,390.9 L1654.1,364.6 L1631.8,344.6 L1599.1,335.7 L1592.1,308.2 L1585.5,291.0 L1578.5,279.0 L1566.8,250.7 L1550.2,240.4 L1522.1,232.1 L1497.1,232.8 L1473.7,237.9 L1458.1,251.8 L1468.5,258.5 L1468.7,273.9 L1458.2,282.9 L1441.2,312.6 L1441.4,325.0 L1414.8,342.7 L1392.2,332.1 L1369.8,334.4 L1359.9,325.0 L1348.6,322.0 L1321.0,341.8 L1296.2,346.4 L1278.9,353.3 L1255.2,348.8 L1237.7,349.1 L1226.3,334.7 L1207.8,321.3 L1188.9,317.6 L1165.1,321.3 L1147.3,326.4 L1120.6,314.7 L1117.0,293.7 L1094.8,286.5 L1077.7,283.2 L1056.6,271.6 L1037.1,300.6 L1044.7,317.1 L1026.4,336.6 L999.2,329.6 L980.4,328.6 L967.8,315.5 L948.2,315.1 L931.8,306.5 L903.1,319.7 L867.1,343.8 L847.3,348.6 L839.9,351.0 L830.0,333.8 L805.7,337.6 L797.6,325.7 L784.5,320.2 L775.5,304.1 L765.0,299.0 L738.0,306.2 L712.0,290.1 L701.9,304.7 L659.9,233.6 L635.8,211.9 L642.7,203.1 L595.5,229.6 L577.4,231.2 L579.0,215.9 L554.9,206.3 L535.2,213.2 L529.2,184.1 L495.4,178.1 L478.4,189.7 L431.3,200.1 L422.1,207.0 L351.6,216.7 L343.0,226.3 L356.6,245.5 L338.5,252.7 L342.1,260.4 L323.9,274.0 L354.5,293.3 L349.8,306.6 L323.3,305.4 L317.8,313.7 L293.7,299.2 L263.9,299.7 L243.9,311.5 L221.5,300.2 L180.0,280.8 L150.6,281.5 L111.8,312.0 L109.4,332.5 L90.1,316.2 L75.0,347.0 L80.5,352.7 L69.6,374.0 L85.6,393.0 L99.6,392.2 L111.6,410.9 L109.7,425.3 L119.3,429.9 L110.7,446.5 L92.4,451.1 L73.7,480.0 L90.8,506.6 L89.0,525.5 L109.5,558.5 L98.3,569.7 L95.0,576.9 L86.7,575.0 L73.8,557.9 L68.5,557.0 L56.6,550.5 L50.9,539.0 L33.3,533.1 L21.8,537.5 L18.6,532.3 L-7.1,518.9 L-34.8,514.4 L-50.7,509.6 L-53.0,512.9 L-77.0,489.2 L-98.5,478.7 L-114.8,462.2 L-101.1,457.7 L-85.4,434.3 L-96.0,423.2 L-68.2,411.7 L-68.8,405.6 L-85.7,410.1 L-85.0,397.7 L-75.3,389.9 L-57.1,387.8 L-54.1,378.5 L-58.3,363.0 L-50.7,348.3 L-50.9,340.1 L-78.7,331.0 L-89.7,331.3 L-101.3,318.2 L-115.8,322.6 L-139.6,312.8 L-139.2,307.3 L-145.9,295.1 L-161.0,293.8 L-162.6,285.1 L-157.8,279.4 L-169.9,263.6 L-189.4,266.3 L-195.1,264.8 L-199.9,271.2 L-206.9,270.1 L-211.5,252.1 L-216.0,242.8 L-212.3,240.2 L-197.1,241.2 L-189.8,235.1 L-195.2,227.6 L-207.9,222.7 L-206.8,217.6 L-214.5,212.5 L-226.3,194.1 L-222.2,186.6 L-224.1,173.5 L-242.5,166.8 L-252.4,170.1 L-255.1,163.2 L-274.9,156.1 L-281.0,139.6 L-282.6,126.0 L-291.7,119.5 L-283.5,110.7 L-289.2,84.6 L-275.7,68.4 L-278.6,63.5 L-257.2,48.0 L-276.9,34.7 L-236.6,-1.1 L-219.1,-17.3 L-212.0,-31.5 L-239.9,-50.7 L-232.2,-69.0 L-249.2,-89.9 L-236.5,-113.8 L-258.4,-145.8 L-241.0,-166.9 L-269.8,-185.5 L-267.1,-205.2 L-251.9,-207.7 L-219.8,-219.0 L-200.4,-228.7 L-169.5,-211.8 L-117.9,-205.1 L-46.7,-173.5 L-32.2,-160.1 L-31.0,-141.5 L-51.9,-126.7 L-82.7,-119.3 L-166.8,-140.6 L-180.6,-137.0 L-149.9,-116.5 L-148.7,-103.5 L-147.4,-74.9 L-123.2,-66.3 L-108.4,-59.1 L-106.0,-72.6 L-117.4,-84.7 L-105.4,-95.3 L-59.8,-77.9 L-44.0,-84.7 L-56.6,-105.2 L-12.8,-132.6 L4.6,-131.0 L22.2,-121.2 L33.2,-140.5 L17.5,-157.2 L26.7,-173.9 L12.9,-191.3 L65.6,-182.3 L76.3,-166.6 L52.5,-163.2 L52.6,-147.6 L67.4,-138.0 L96.5,-144.1 L101.1,-161.9 L140.4,-175.3 L206.2,-199.3 L220.4,-198.0 L201.9,-180.9 L225.2,-178.1 L238.7,-187.6 L274.0,-188.4 L302.0,-200.0 L323.5,-183.1 L344.8,-201.7 L325.1,-217.9 L334.9,-227.2 L390.5,-218.7 L416.7,-209.9 L484.9,-177.9 L497.5,-192.6 L478.4,-207.4 L477.8,-213.3 L455.1,-216.1 L461.3,-229.4 L451.2,-251.2 L450.7,-260.2 L485.4,-285.6 L497.8,-311.0 L511.8,-316.5 L561.7,-309.1 L565.6,-293.6 L547.7,-270.9 L559.5,-261.9 L565.5,-242.3 L561.2,-203.9 L582.1,-186.8 L573.9,-168.0 L537.0,-128.3 L558.6,-124.1 L566.0,-134.2 L586.8,-141.4 L591.8,-155.3 L608.1,-168.6 L597.1,-184.6 L605.9,-203.0 L585.3,-205.4 L580.8,-220.9 L595.8,-249.0 L571.3,-271.9 L605.0,-290.8 L600.7,-310.7 L610.1,-311.4 L620.0,-295.8 L612.6,-268.8 L632.7,-263.6 L624.1,-283.8 L655.6,-294.9 L694.8,-296.4 L729.5,-280.4 L712.8,-303.7 L710.9,-333.6 L743.7,-339.2 L789.0,-338.0 L829.8,-341.7 L814.5,-356.3 L836.3,-374.7 L857.9,-375.5 L894.5,-389.4 L944.3,-393.1 L950.6,-400.8 L1000.1,-403.4 L1015.5,-397.1 L1057.8,-412.0 L1092.4,-411.5 L1097.6,-423.6 L1115.5,-435.5 L1160.0,-447.0 L1192.3,-438.0 L1166.7,-431.0 L1209.3,-426.8 L1214.4,-412.9 L1231.6,-419.7 L1286.7,-419.4 L1329.2,-405.7 L1344.3,-395.2 L1339.6,-380.6 L1318.8,-372.3 L1269.3,-356.8 L1255.1,-348.5 L1278.5,-344.5 L1306.3,-337.5 L1323.3,-342.8 L1332.9,-324.8 L1341.2,-332.1 L1371.3,-336.5 L1431.8,-331.9 L1436.3,-318.8 L1515.1,-314.6 L1516.1,-336.0 L1556.1,-331.1 L1586.2,-331.3 L1616.6,-316.5 L1625.3,-298.5 L1614.1,-286.8 L1637.8,-264.8 L1667.4,-253.4 L1685.6,-282.8 L1715.8,-270.2 L1747.9,-277.7 L1784.4,-269.1 L1798.2,-277.0 L1829.1,-273.0 L1815.5,-299.1 L1840.4,-311.2 L2010.5,-293.0 L2026.5,-276.4 L2075.8,-255.0 L2151.9,-260.3 L2189.4,-255.6 L2205.1,-244.1 L2202.8,-223.6 L2226.0,-215.6 L2251.2,-221.3 L2284.6,-222.1 L2320.2,-216.6 L2355.9,-219.7 L2388.7,-194.7 L2412.0,-203.7 L2396.8,-221.6 L2405.2,-234.1 L2465.3,-226.2 L2504.5,-227.9 L2558.6,-214.6 L-4196.4,-202.3 L-4150.2,-180.9 L-4100.8,-153.1 L-4102.4,-135.7 L-4089.8,-128.7 L-4094.1,-149.0 L-4043.0,-144.9 L-4006.1,-118.6 L-4024.8,-106.5 L-4055.7,-103.6 L-4056.1,-76.2 L-4063.7,-70.4 L-4081.3,-71.2 L-4095.7,-80.9 L-4120.7,-89.1 L-4124.9,-101.3 L-4144.1,-105.8 L-4165.4,-102.2 L-4175.7,-112.0 L-4171.6,-122.4 L-4194.2,-115.8 L-4185.7,-102.6 L-4196.4,-90.7 L2584.9,-90.6 L2560.7,-78.2 L2536.3,-80.3 L2553.2,-65.4 L2564.5,-42.3 L2573.2,-34.8 L2575.3,-23.2 L2570.5,-15.7 L2535.4,-21.9 L2482.7,-0.8 L2465.9,2.5 L2437.1,22.2 L2409.8,39.4 L2402.9,52.1 L2376.0,32.7 L2326.9,54.7 L2318.3,44.3 L2300.1,56.3 L2275.0,52.5 L2268.9,70.9 L2246.3,98.0 L2247.0,109.4 L2268.4,115.6 L2265.9,156.4 L2248.4,157.4 L2240.3,180.9 L2248.2,193.0 L2215.2,207.3 L2208.7,239.2 L2180.6,246.1 L2174.9,274.5 L2147.8,300.6 L2140.8,281.3 L2132.8,240.5 L2122.3,178.2 L2131.3,139.4 L2147.2,122.6 L2148.2,109.5 L2177.5,103.3 L2211.1,68.0 L2243.6,39.2 L2277.4,16.8 L2292.5,-22.7 L2269.7,-20.3 L2258.4,2.8 L2210.6,33.6 L2195.2,-0.9 L2146.5,8.6 L2099.3,55.6 L2114.9,72.7 L2072.9,80.0 L2043.7,82.9 L2045.1,62.7 L2015.9,58.4 L1992.5,72.2 L1934.9,67.4 L1872.9,75.7 L1811.9,130.4 L1739.7,196.5 L1769.4,200.0 L1778.6,217.5 L1796.9,223.8 L1809.0,209.8 L1829.7,211.6 L1856.9,242.4 L1857.5,266.3 L1842.8,294.2 L1841.2,327.7 L1832.7,372.5 L1804.3,413.0 L1798.0,432.4 L1772.4,465.0 L1747.0,497.4 L1734.9,513.9 L1709.8,530.3 L1697.9,530.7 L1686.1,517.1 L1660.8,537.6 L1657.9,546.9 Z M-4196.4,-273.8 L-4193.9,-275.0 L-4178.0,-274.9 L-4150.7,-266.9 L-4152.4,-263.1 L-4171.8,-256.4 L-4196.4,-254.7 L2564.3,-253.3 L2561.0,-262.1 L-4196.4,-273.8 Z M-175.8,441.8 L-170.9,434.9 L-157.5,440.9 L-151.4,442.0 L-149.0,447.5 L-146.1,448.4 L-146.0,450.8 L-136.8,457.6 L-117.5,455.9 L-121.3,465.8 L-141.9,470.7 L-167.4,487.0 L-177.9,481.2 L-173.7,468.1 L-194.4,459.9 L-191.0,454.5 L-173.0,445.2 L-175.8,441.8 Z"><title>Russia</title></path>
+<path class="country context-country" d="M847.3,348.6 L867.1,343.8 L903.1,319.7 L931.8,306.5 L948.2,315.1 L967.8,315.5 L980.4,328.6 L999.2,329.6 L1026.4,336.6 L1044.7,317.1 L1037.1,300.6 L1056.6,271.6 L1077.7,283.2 L1094.8,286.5 L1117.0,293.7 L1120.6,314.7 L1147.3,326.4 L1165.1,321.3 L1188.9,317.6 L1207.8,321.3 L1226.3,334.7 L1237.7,349.1 L1255.2,348.8 L1278.9,353.3 L1296.2,346.4 L1321.0,341.8 L1348.6,322.0 L1359.9,325.0 L1369.8,334.4 L1392.2,332.1 L1383.1,353.2 L1369.7,381.2 L1374.6,392.6 L1385.2,389.1 L1403.8,393.5 L1418.3,383.1 L1433.5,392.1 L1450.5,411.6 L1448.5,421.6 L1433.6,418.5 L1406.2,422.2 L1393.0,430.1 L1379.1,448.7 L1350.5,459.5 L1331.7,474.4 L1312.3,468.7 L1301.7,466.2 L1291.8,484.2 L1297.8,495.0 L1300.9,504.3 L1287.7,513.7 L1274.2,528.7 L1252.2,538.5 L1223.9,539.6 L1193.5,549.3 L1171.6,564.4 L1163.2,555.7 L1140.4,555.7 L1112.6,538.7 L1094.0,534.5 L1069.0,538.4 L1030.0,532.1 L1009.3,532.8 L998.2,516.1 L989.6,490.3 L978.0,487.2 L955.2,469.7 L929.9,465.8 L907.5,461.0 L900.7,448.9 L908.0,416.2 L894.9,393.6 L868.1,383.1 L852.3,368.2 L847.3,348.6 Z"><title>Mongolia</title></path>
+<path class="country context-country" d="M472.1,689.1 L482.6,660.7 L478.6,639.9 L464.7,633.2 L469.6,620.9 L485.3,622.2 L494.3,606.7 L500.3,588.7 L525.5,582.2 L521.6,595.2 L524.3,603.0 L532.0,602.3 L525.2,610.9 L504.6,606.3 L502.8,622.4 L523.3,620.2 L546.5,629.3 L582.2,625.1 L586.9,651.0 L593.1,648.2 L604.6,654.5 L603.9,665.4 L606.7,681.4 L587.3,681.4 L574.3,679.3 L562.6,691.8 L554.2,694.6 L547.7,700.5 L540.2,691.3 L542.0,667.8 L536.3,666.5 L538.3,657.9 L528.1,651.5 L520.0,661.3 L518.0,672.6 L515.1,676.7 L503.9,676.1 L497.8,689.0 L491.4,683.6 L477.8,692.5 L472.1,689.1 Z"><title>Tajikistan</title></path>
+<path class="country context-country" d="M531.1,545.7 L535.3,533.4 L547.7,529.4 L578.7,539.1 L581.6,522.5 L592.3,516.7 L619.1,528.5 L625.9,525.4 L657.2,526.2 L685.1,529.1 L694.6,539.2 L706.2,543.3 L703.6,549.6 L673.9,564.8 L667.2,575.9 L643.0,579.2 L635.9,597.2 L616.0,593.4 L602.9,598.9 L584.9,612.1 L587.5,618.6 L582.2,625.1 L546.5,629.3 L523.3,620.2 L502.8,622.4 L504.6,606.3 L525.2,610.9 L532.0,602.3 L546.4,605.0 L570.5,584.9 L548.1,570.1 L534.7,577.1 L520.8,566.5 L536.7,548.4 L531.1,545.7 Z"><title>Kyrgyzstan</title></path>
+<path class="country context-country" d="M183.3,559.2 L191.6,549.8 L213.0,544.0 L225.8,551.9 L239.0,573.8 L248.6,572.4 L269.8,572.1 L266.8,558.0 L282.9,548.3 L298.7,532.0 L324.1,546.8 L326.1,569.2 L333.3,574.9 L353.7,573.6 L360.0,578.8 L369.3,607.6 L390.8,627.0 L403.1,640.2 L422.8,653.9 L447.8,665.9 L447.4,683.0 L441.7,682.1 L432.8,674.6 L429.8,684.6 L413.9,690.0 L410.2,712.4 L399.6,721.0 L384.7,725.2 L380.8,737.9 L366.6,741.6 L347.3,731.0 L345.7,707.4 L331.7,706.4 L310.1,681.6 L295.1,678.5 L274.2,664.3 L260.9,661.7 L252.6,667.0 L240.0,666.1 L226.6,682.2 L210.1,687.6 L206.6,667.8 L209.3,638.5 L194.6,629.0 L199.4,609.8 L187.0,608.2 L191.1,584.6 L208.9,591.5 L225.4,582.5 L211.7,565.7 L206.3,549.6 L191.1,556.8 L189.2,577.3 L183.3,559.2 Z"><title>Turkmenistan</title></path>
+<path class="country context-country" d="M109.2,891.3 L98.8,876.6 L98.6,861.7 L92.6,861.7 L95.7,841.4 L86.0,820.1 L62.9,804.8 L49.8,778.1 L54.2,756.2 L63.7,746.6 L62.3,730.2 L49.9,721.8 L37.7,688.4 L27.4,666.0 L31.1,657.3 L25.2,625.1 L38.1,617.2 L41.1,627.7 L50.7,640.7 L63.5,644.4 L70.4,643.6 L92.6,622.9 L99.6,620.8 L105.2,629.1 L98.7,642.9 L110.5,657.6 L115.1,656.2 L121.1,676.9 L138.9,682.7 L152.0,696.7 L178.8,701.6 L208.3,694.2 L210.1,687.6 L226.6,682.2 L240.0,666.1 L252.6,667.0 L260.9,661.7 L274.2,664.3 L295.1,678.5 L310.1,681.6 L331.7,706.4 L345.7,707.4 L347.3,731.0 L339.7,765.9 L334.5,786.3 L342.7,790.4 L334.7,805.8 L340.8,828.1 L342.3,845.9 L356.6,850.7 L358.1,868.7 L341.0,894.1 L350.3,908.8 L357.9,925.7 L376.0,938.1 L376.4,962.7 L385.5,967.3 L387.0,980.2 L359.9,994.6 L352.8,1027.2 L317.3,1018.7 L296.8,1012.3 L275.5,1008.7 L267.5,974.3 L258.5,969.3 L244.0,974.3 L225.0,987.9 L202.0,978.6 L183.0,957.1 L164.9,949.1 L152.2,922.5 L138.3,885.1 L128.2,889.7 L116.2,880.4 L109.2,891.3 Z"><title>Iran</title></path>
+<path class="country context-country" d="M70.4,643.6 L63.5,644.4 L55.9,628.2 L55.9,623.9 L47.6,623.9 L42.0,616.4 L38.1,617.2 L30.7,609.0 L16.7,602.0 L18.5,588.4 L15.3,578.5 L41.5,574.2 L45.4,581.5 L52.6,586.4 L48.8,593.4 L58.8,603.0 L53.5,611.9 L61.5,619.5 L69.9,624.1 L70.4,643.6 Z"><title>Armenia</title></path>
+<path class="country context-country" d="M1256.5,1220.0 L1241.1,1211.3 L1240.5,1187.1 L1249.8,1174.5 L1270.4,1166.6 L1281.2,1167.3 L1285.4,1178.0 L1277.2,1190.3 L1272.8,1206.5 L1256.5,1220.0 Z M706.2,543.3 L704.7,527.3 L717.6,520.0 L700.7,471.4 L738.0,460.2 L747.7,453.9 L761.2,403.8 L798.6,413.0 L809.1,400.3 L810.0,372.2 L825.6,369.6 L839.9,351.0 L847.3,348.6 L852.3,368.2 L868.1,383.1 L894.9,393.6 L908.0,416.2 L900.7,448.9 L907.5,461.0 L929.9,465.8 L955.2,469.7 L978.0,487.2 L989.6,490.3 L998.2,516.1 L1009.3,532.8 L1030.0,532.1 L1069.0,538.4 L1094.0,534.5 L1112.6,538.7 L1140.4,555.7 L1163.2,555.7 L1171.6,564.4 L1193.5,549.3 L1223.9,539.6 L1252.2,538.5 L1274.2,528.7 L1287.7,513.7 L1300.9,504.3 L1297.8,495.0 L1291.8,484.2 L1301.7,466.2 L1312.3,468.7 L1331.7,474.4 L1350.5,459.5 L1379.1,448.7 L1393.0,430.1 L1406.2,422.2 L1433.6,418.5 L1448.5,421.6 L1450.5,411.6 L1433.5,392.1 L1418.3,383.1 L1403.8,393.5 L1385.2,389.1 L1374.6,392.6 L1369.7,381.2 L1383.1,353.2 L1392.2,332.1 L1414.8,342.7 L1441.4,325.0 L1441.2,312.6 L1458.2,282.9 L1468.7,273.9 L1468.5,258.5 L1458.1,251.8 L1473.7,237.9 L1497.1,232.8 L1522.1,232.1 L1550.2,240.4 L1566.8,250.7 L1578.5,279.0 L1585.5,291.0 L1592.1,308.2 L1599.1,335.7 L1631.8,344.6 L1654.1,364.6 L1661.7,390.9 L1690.4,390.9 L1706.7,379.9 L1737.8,371.6 L1727.9,396.8 L1720.7,407.1 L1714.1,437.7 L1701.5,465.0 L1678.6,460.1 L1662.5,469.9 L1667.4,493.9 L1664.7,527.0 L1655.1,527.8 L1655.2,542.0 L1643.1,525.5 L1635.6,541.2 L1606.5,553.2 L1609.4,568.0 L1593.1,567.0 L1584.2,558.2 L1571.3,578.1 L1550.5,593.2 L1535.1,611.1 L1508.8,619.3 L1495.0,632.4 L1474.6,640.0 L1484.7,627.0 L1480.7,616.1 L1495.6,597.3 L1485.7,582.6 L1469.3,592.5 L1448.0,612.0 L1436.4,630.1 L1417.9,631.4 L1408.3,644.5 L1418.3,663.4 L1433.7,668.0 L1434.3,680.6 L1449.2,688.8 L1470.3,668.8 L1487.0,679.7 L1499.2,680.4 L1502.2,695.1 L1475.6,702.9 L1466.8,718.1 L1448.5,732.1 L1438.8,751.7 L1459.1,767.2 L1466.5,794.7 L1477.9,820.4 L1490.8,841.9 L1490.4,862.7 L1478.6,870.3 L1483.1,885.3 L1494.2,894.0 L1491.3,916.8 L1486.5,939.0 L1476.0,941.5 L1462.2,971.9 L1447.0,1008.6 L1429.5,1042.0 L1403.6,1067.9 L1377.4,1091.5 L1356.2,1094.7 L1344.6,1107.1 L1338.1,1098.0 L1327.5,1112.0 L1301.2,1126.0 L1281.2,1130.3 L1274.8,1159.9 L1264.3,1161.5 L1259.4,1141.2 L1263.9,1130.4 L1238.6,1121.4 L1229.7,1126.0 L1210.7,1118.7 L1201.7,1107.3 L1204.7,1091.2 L1187.5,1086.0 L1178.4,1075.5 L1162.4,1090.5 L1144.0,1093.7 L1129.0,1093.5 L1118.9,1100.4 L1109.2,1104.5 L1112.0,1136.5 L1102.0,1135.8 L1100.3,1129.2 L1099.7,1117.6 L1085.9,1125.8 L1077.7,1120.6 L1063.7,1110.1 L1069.2,1086.9 L1057.3,1081.4 L1052.8,1055.6 L1032.9,1060.2 L1035.2,1027.0 L1053.0,1003.6 L1053.8,980.5 L1053.2,959.1 L1045.0,952.4 L1038.7,935.9 L1027.7,938.0 L1007.4,933.8 L1013.8,922.0 L1004.9,904.6 L991.5,916.4 L975.7,909.6 L953.9,927.4 L936.9,948.2 L921.7,951.7 L913.4,944.2 L903.4,943.5 L890.0,937.0 L879.8,944.1 L867.3,964.9 L865.8,942.9 L854.3,948.8 L832.3,946.1 L811.0,939.6 L795.7,927.3 L781.1,921.8 L774.8,908.3 L764.1,904.3 L745.1,886.1 L730.0,877.4 L722.2,884.1 L696.0,864.6 L677.5,846.8 L672.2,815.9 L685.8,819.7 L686.4,805.4 L678.9,791.1 L680.8,768.2 L660.6,735.4 L629.6,724.0 L624.0,702.5 L610.1,689.4 L606.7,681.4 L603.9,665.4 L604.6,654.5 L593.1,648.2 L586.9,651.0 L582.2,625.1 L587.5,618.6 L584.9,612.1 L602.9,598.9 L616.0,593.4 L635.9,597.2 L643.0,579.2 L667.2,575.9 L673.9,564.8 L703.6,549.6 L706.2,543.3 Z"><title>China</title></path>
+<path class="country context-country" d="M68.5,557.0 L73.8,557.9 L86.7,575.0 L95.0,576.9 L98.3,569.7 L109.5,558.5 L119.4,573.2 L129.0,593.1 L137.8,594.4 L143.6,601.9 L128.1,604.2 L124.8,625.9 L121.5,635.8 L114.7,642.3 L115.1,656.2 L110.5,657.6 L98.7,642.9 L105.2,629.1 L99.6,620.8 L92.6,622.9 L70.4,643.6 L69.9,624.1 L61.5,619.5 L53.5,611.9 L58.8,603.0 L48.8,593.4 L52.6,586.4 L45.4,581.5 L41.5,574.2 L46.1,569.6 L60.1,577.6 L70.3,579.3 L72.8,576.0 L63.6,560.9 L68.5,557.0 Z M63.5,644.4 L50.7,640.7 L41.1,627.7 L38.1,617.2 L42.0,616.4 L47.6,623.9 L55.9,623.9 L55.9,628.2 L63.5,644.4 Z"><title>Azerbaijan</title></path>
+<path class="country context-country" d="M-53.0,512.9 L-50.7,509.6 L-34.8,514.4 L-7.1,518.9 L18.6,532.3 L21.8,537.5 L33.3,533.1 L50.9,539.0 L56.6,550.5 L68.5,557.0 L63.6,560.9 L72.8,576.0 L70.3,579.3 L60.1,577.6 L46.1,569.6 L41.5,574.2 L15.3,578.5 L-2.9,564.8 L-22.9,566.1 L-20.1,554.1 L-24.8,535.0 L-35.7,524.7 L-46.1,521.5 L-53.0,512.9 Z"><title>Georgia</title></path>
+<path class="country route-country" d="M839.9,351.0 L825.6,369.6 L810.0,372.2 L809.1,400.3 L798.6,413.0 L761.2,403.8 L747.7,453.9 L738.0,460.2 L700.7,471.4 L717.6,520.0 L704.7,527.3 L706.2,543.3 L694.6,539.2 L685.1,529.1 L657.2,526.2 L625.9,525.4 L619.1,528.5 L592.3,516.7 L581.6,522.5 L578.7,539.1 L547.7,529.4 L535.3,533.4 L531.1,545.7 L520.3,550.8 L495.4,570.4 L487.2,590.4 L480.1,590.6 L475.0,577.3 L451.0,576.4 L447.2,553.4 L438.0,553.2 L439.4,525.1 L416.9,504.7 L384.6,506.9 L362.5,510.9 L344.5,485.7 L329.1,475.1 L299.9,455.0 L296.3,452.6 L247.9,469.2 L248.6,572.4 L239.0,573.8 L225.8,551.9 L213.0,544.0 L191.6,549.8 L183.3,559.2 L182.3,552.3 L186.9,540.7 L183.3,530.9 L161.5,521.3 L153.0,496.2 L142.5,489.1 L141.9,480.0 L160.2,482.6 L161.0,462.2 L177.0,457.6 L193.5,461.8 L196.9,434.5 L193.5,417.2 L174.6,418.5 L158.6,411.6 L136.8,424.0 L119.3,429.9 L109.7,425.3 L111.6,410.9 L99.6,392.2 L85.6,393.0 L69.6,374.0 L80.5,352.7 L75.0,347.0 L90.1,316.2 L109.4,332.5 L111.8,312.0 L150.6,281.5 L180.0,280.8 L221.5,300.2 L243.9,311.5 L263.9,299.7 L293.7,299.2 L317.8,313.7 L323.3,305.4 L349.8,306.6 L354.5,293.3 L323.9,274.0 L342.1,260.4 L338.5,252.7 L356.6,245.5 L343.0,226.3 L351.6,216.7 L422.1,207.0 L431.3,200.1 L478.4,189.7 L495.4,178.1 L529.2,184.1 L535.2,213.2 L554.9,206.3 L579.0,215.9 L577.4,231.2 L595.5,229.6 L642.7,203.1 L635.8,211.9 L659.9,233.6 L701.9,304.7 L712.0,290.1 L738.0,306.2 L765.0,299.0 L775.5,304.1 L784.5,320.2 L797.6,325.7 L805.7,337.6 L830.0,333.8 L839.9,351.0 Z"><title>Kazakhstan</title></path>
+    <text class="country-label" x="409.2" y="544.9">Uzbekistan</text>
+<text class="country-label" x="447.0" y="361.9">Russia</text>
+<text class="country-label" x="535.7" y="609.7">Tajikistan</text>
+<text class="country-label" x="604.5" y="573.0">Kyrgyzstan</text>
+<text class="country-label" x="315.6" y="584.6">Turkmenistan</text>
+<text class="country-label" x="717.1" y="434.6">China</text>
+<text class="country-label" x="92.8" y="597.1">Azerbaijan</text>
+<text class="country-label" x="454.8" y="384.3">Kazakhstan</text>
+    <path class="route-halo" d="M158.0,506.9 L169.0,488.1 L212.9,513.3 L208.1,522.3 L539.9,296.2 L530.8,300.9 L642.7,518.4 L644.6,523.7 L675.9,525.1 L646.3,521.4 L599.6,528.7" />
+    <path class="route" d="M158.0,506.9 L169.0,488.1 L212.9,513.3 L208.1,522.3 L539.9,296.2 L530.8,300.9 L642.7,518.4 L644.6,523.7 L675.9,525.1 L646.3,521.4 L599.6,528.7" />
+    <g class="stop stop-link start" data-section="0" data-stop-name="Aktau" transform="translate(158.0 506.9)">
+      <circle r="10" />
+      <text x="0" y="4">1</text>
+      <title>1. Aktau</title>
+    </g>
+<g class="stop stop-link" data-section="1" data-stop-name="Torysh" transform="translate(169.0 488.1)">
+      <circle r="10" />
+      <text x="0" y="4">2</text>
+      <title>2. Torysh</title>
+    </g>
+<g class="stop stop-link" data-section="2" data-stop-name="Bozjyra" transform="translate(212.9 513.3)">
+      <circle r="10" />
+      <text x="0" y="4">3</text>
+      <title>3. Bozjyra</title>
+    </g>
+<g class="stop stop-link" data-section="3" data-stop-name="Bokty" transform="translate(208.1 522.3)">
+      <circle r="10" />
+      <text x="0" y="4">4</text>
+      <title>4. Bokty</title>
+    </g>
+<g class="stop stop-link" data-section="4" data-stop-name="Astana" transform="translate(539.9 296.2)">
+      <circle r="10" />
+      <text x="0" y="4">5</text>
+      <title>5. Astana</title>
+    </g>
+<g class="stop stop-link" data-section="6" data-stop-name="Aqmola" transform="translate(530.8 300.9)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Aqmola</title>
+    </g>
+<g class="stop stop-link" data-section="7" data-stop-name="Almaty" transform="translate(642.7 518.4)">
+      <circle r="10" />
+      <text x="0" y="4">7</text>
+      <title>7. Almaty</title>
+    </g>
+<g class="stop stop-link" data-section="8" data-stop-name="Big Almaty Lake" transform="translate(644.6 523.7)">
+      <circle r="10" />
+      <text x="0" y="4">8</text>
+      <title>8. Big Almaty Lake</title>
+    </g>
+<g class="stop stop-link" data-section="9" data-stop-name="Kolsai · Charyn" transform="translate(675.9 525.1)">
+      <circle r="10" />
+      <text x="0" y="4">9</text>
+      <title>9. Kolsai · Charyn</title>
+    </g>
+<g class="stop stop-link" data-section="10" data-stop-name="Shymbulak" transform="translate(646.3 521.4)">
+      <circle r="10" />
+      <text x="0" y="4">10</text>
+      <title>10. Shymbulak</title>
+    </g>
+<g class="stop stop-link end" data-section="11" data-stop-name="Bishkek road" transform="translate(599.6 528.7)">
+      <circle r="10" />
+      <text x="0" y="4">11</text>
+      <title>11. Bishkek road</title>
+    </g>
+    <text class="place-label stop-link" data-section="0" data-stop-name="Aktau" x="170.0" y="496.9" text-anchor="start">Aktau</text>
+<text class="place-label stop-link" data-section="1" data-stop-name="Torysh" x="181.0" y="506.1" text-anchor="start">Torysh</text>
+<text class="place-label stop-link" data-section="2" data-stop-name="Bozjyra" x="224.9" y="503.3" text-anchor="start">Bozjyra</text>
 
+<text class="place-label stop-link" data-section="4" data-stop-name="Astana" x="551.9" y="286.2" text-anchor="start">Astana</text>
+
+<text class="place-label stop-link" data-section="7" data-stop-name="Almaty" x="654.7" y="508.4" text-anchor="start">Almaty</text>
+
+<text class="place-label stop-link" data-section="9" data-stop-name="Kolsai · Charyn" x="663.9" y="515.1" text-anchor="end">Kolsai · Charyn</text>
+
+<text class="place-label stop-link" data-section="11" data-stop-name="Bishkek road" x="611.6" y="518.7" text-anchor="start">Bishkek road</text>
+  </g>
+  <line class="divider" x1="878" y1="82" x2="878" y2="702" />
+  <text class="route-title" x="900" y="108">ROUTE</text>
+  <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Aktau" transform="translate(900 145.0)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Aktau</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Torysh" transform="translate(900 194.1)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Torysh</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Bozjyra" transform="translate(900 243.2)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Bozjyra</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Bokty" transform="translate(900 292.3)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Bokty</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="5. Astana" transform="translate(900 341.4)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Astana</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="6" data-stop-name="6. Aqmola" transform="translate(900 390.5)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Aqmola</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="7" data-stop-name="7. Almaty" transform="translate(900 439.5)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">7. Almaty</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="8" data-stop-name="8. Big Almaty Lake" transform="translate(900 488.6)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">8. Big Almaty Lake</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="9" data-stop-name="9. Kolsai · Charyn" transform="translate(900 537.7)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">9. Kolsai · Charyn</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="10" data-stop-name="10. Shymbulak" transform="translate(900 586.8)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">10. Shymbulak</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="11" data-stop-name="11. Bishkek road" transform="translate(900 635.9)">
+      
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">11. Bishkek road</tspan></text>
+    </g>
+  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+</svg>
