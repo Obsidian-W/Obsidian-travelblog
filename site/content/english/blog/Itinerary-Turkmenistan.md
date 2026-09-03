@@ -14,7 +14,7 @@ draft: false
 > Turkmenistan is a dynastic dictatorship and one of the world's least visited country
 > Entry requirements are harsh, it's expensive and a bit remote
 > Is it worth it? That depends on you.
-> This article is part of a longer one through central Asia
+> **Part of a larger journey:** this focused Turkmenistan guide is adapted from the final section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the three-day country detail, or open the complete trip for the full route from the Caspian Sea to the Gates of Hell.
 > This was a guided tour, but I leave it open for those that can travel freely
 
 \_\_\_\_  

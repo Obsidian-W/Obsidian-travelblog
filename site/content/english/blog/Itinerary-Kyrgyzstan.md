@@ -11,7 +11,9 @@ draft: true
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-This is the Kyrgyzstan part of my longer [Central Asia itinerary](/blog/itinerary-central-asia). I entered from Almaty, crossed the country through Song-Kul and Karakol, then went to Osh because I was starting the Pamir Highway.
+> **Part of a larger journey:** this focused Kyrgyzstan guide is adapted from the Kyrgyzstan section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the country detail, or open the complete trip for the full route from the Caspian Sea to Turkmenistan.
+
+I entered from Almaty, crossed the country through Song-Kul and Karakol, then went to Osh because I was starting the Pamir Highway.
 
 # Itinerary done quick
 

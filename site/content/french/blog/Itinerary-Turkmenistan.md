@@ -15,7 +15,7 @@ draft: false
 > L’entrée est compliquée, c’est cher et un peu reculé.  
 > Est-ce que ça vaut le coup ? À toi d’en juger.  
 >  
-> Cet article fait partie d’un récit plus long à travers l’Asie centrale.  
+> **Une étape d'un voyage plus long :** ce guide consacré au Turkménistan est adapté de la dernière partie de mon [itinéraire complet de 50 jours en Asie centrale](/fr/blog/itinerary-central-asia/). Restez ici pour le détail des trois jours, ou ouvrez le grand itinéraire pour suivre tout le trajet de la mer Caspienne aux Portes de l'Enfer.  
 > J’étais en **voyage organisé**, mais je laisse les infos pour ceux qui peuvent voyager librement.
 
 ---

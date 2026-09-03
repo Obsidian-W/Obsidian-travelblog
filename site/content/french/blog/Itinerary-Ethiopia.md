@@ -15,6 +15,8 @@ draft: false
 > Peut-être à cause de la guerre civile ou de la peur qu’inspire encore le mot *Afrique*,  
 > le nom d’une déesse oubliée pour un continent gravé dans les mémoires.  
 
+> **Relié à un voyage plus long :** cet itinéraire en Éthiopie ouvre mon grand voyage en Afrique de l'Est. Consultez mon [itinéraire complet en Afrique de l'Est](/fr/blog/itinerary-eastafrica/) pour voir comment j'ai continué par le Kenya, la Tanzanie, l'Ouganda et le Rwanda.
+
 Ce voyage faisait partie de mon périple en Afrique de l’Est.  
 Je l’ai fait en **juillet 2023**, et j’ai rédigé cet article en **octobre 2025**.
 

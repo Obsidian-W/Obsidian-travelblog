@@ -11,7 +11,7 @@ draft: false
 
 > **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux toucher une commission sans frais supplémentaires pour vous.
 
-> Cette partie est extraite de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/).
+> **Une étape d'un voyage plus long :** ce guide consacré à l'Arménie est adapté de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/). Cette page donne le détail jour par jour en Arménie ; le grand itinéraire explique l'enchaînement entre l'Azerbaïdjan, la Géorgie et l'Arménie.
 
 Je suis arrivé en Arménie depuis la Géorgie en 2019, à la fin d'un voyage plus long dans les trois pays du Caucase. J'ai réellement fait les quatre journées ci-dessous ; le détour par Gyumri correspond à mon itinéraire initial.
 

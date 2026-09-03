@@ -69,10 +69,12 @@ To go to Milano, I paid around 220€, a steal!
 
 Turkmenistan has a reputation for being strict, but in reality it's not as scary as you think.  
 - Walking at night in Ashgabat is totally fine. I did it without issues or hassle, despite me not having a guide (For real), just some weird soldiers trying to touch my hands.
-- Safety is basically guaranteed: There are no crimes.  
+- There are very few reported crimes, and Turkmenistan is generally deemed very safe for visitors. The UK travel advice describes the crime rate as low. France Diplomatie nevertheless reports occasional pickpocketing in busy markets, so “very safe” does not mean “nothing can happen.” Use normal precautions and keep valuables secure.  
 - Beards and long hair are fine, despite rumors of them being illegal. They do exists. Also I found goth girls.  
 - There is quite a lot of freedom, but avoid taking pictures of the military and other sensitive stuff (logical)
 - Internet is 99% blocked, you need a good VPN or to forget about using the internet.
+
+Current official checks: [UK travel advice — safety and security](https://www.gov.uk/foreign-travel-advice/turkmenistan/safety-and-security) and [France Diplomatie — Turkmenistan security](https://www.diplomatie.gouv.fr/fr/information-par-pays/turkmenistan/conseils-aux-voyageurs-securite).
 
 ---
 

@@ -6,12 +6,14 @@ image: "images/blog/patagonia2.jpg"
 itinerary_map: "/images/itineraries/chile.svg"
 categories: ["Itinerary", "South America", "Chile"]
 continents: ["South America"]
-draft: false
+draft: true
 ---
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-> Note, this was done 4 years before writting this article, I'm not remembering 100% of things. Ands this is an excerpt from a longer article!
+> **Part of a larger journey:** this is the Chile and Patagonia section of my longer South America trip. The complete continental itinerary is still being edited, so there is no dead link here: this page is the standalone version for now.
+>
+> Note, this was done 4 years before writing this article, so I'm not remembering 100% of things.
 > So I'm giving general directions and ideas, and sharing my pictures.
 > Also, This include parts of Argentina, because.
 

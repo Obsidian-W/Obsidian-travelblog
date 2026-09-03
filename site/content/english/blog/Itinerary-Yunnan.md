@@ -14,7 +14,8 @@ draft: false
 > Between the culture, the fabulous food and the sights, it's the perfect entry point to China
 > It's easy to navigate and well connected
 > The weather is good all year round long
-> Note: This is an excerpt from a longer article
+>
+> **Part of a larger journey:** this is the Yunnan section of my longer journey from southwest China towards northern India. The complete cross-border account is still being edited, so this page is written to work as a standalone Yunnan itinerary. My published [Tibet itinerary](/blog/itinerary-tibet/) covers the next major section.
 
 Note: This article detailing logistic can be a nice read as well  
 #### [Tips on how to travel China](/blog/tips-china)
@@ -28,6 +29,10 @@ Note: This article detailing logistic can be a nice read as well
 - 14 days? Add 2 days in Kunming, 1 in Shaxi, 1 or 2 for Tiger Leaping Gorge
 and one in Diqing/Shangri-La -- You'll thank me later.
 
+{{< worth-o-meter score="10" >}}
+Yunnan is definitely a must do in China! Between tradition and nature, it’s the China I always dreamed of.
+It's authentic, not overly touristy, off the beaten path and with a lot of variety, you don't get bored.
+{{< /worth-o-meter >}}
 \_\_\_\_
 
 # Itinerary done quick

@@ -9,9 +9,9 @@ continents: ["Afrique"]
 draft: false
 ---
 
-> Explorons la Tanzania et les meilleurs safaris!
-> 
-> Cet article est un extrait d’un récit plus long. #flemme
+> Explorons la Tanzanie et les meilleurs safaris !
+>
+> **Une étape d'un voyage plus long :** ce guide consacré à la Tanzanie est adapté de la partie tanzanienne de mon [itinéraire complet en Afrique de l'Est](/fr/blog/itinerary-eastafrica/). Restez ici pour le détail en Tanzanie, ou ouvrez le grand itinéraire pour voir comment j'ai relié la Tanzanie, le Kenya, l'Ouganda et le Rwanda en un mois.
 
 Avant de plonger dans l’itinéraire, quelques remarques :
 

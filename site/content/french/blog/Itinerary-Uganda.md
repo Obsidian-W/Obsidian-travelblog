@@ -9,9 +9,9 @@ continents: ["Afrique"]
 draft: false
 ---
 
-> Partons explorer l’Ouganda, patrie de Knuckles !  
->  
-> Cet article est un extrait d’un récit plus long.
+> Partons explorer l’Ouganda, patrie de Knuckles !
+>
+> **Une étape d'un voyage plus long :** ce guide consacré à l'Ouganda est adapté de la partie ougandaise de mon [itinéraire complet en Afrique de l'Est](/fr/blog/itinerary-eastafrica/). Restez ici pour le détail en Ouganda, ou ouvrez le grand itinéraire pour voir comment j'ai relié la Tanzanie, le Kenya, l'Ouganda et le Rwanda en un mois.
 
 ---
 

@@ -9,7 +9,9 @@ continents: ["Asia"]
 draft: true
 ---
 
-This is the Uzbekistan part of my longer [Central Asia itinerary](/blog/itinerary-central-asia). I entered from Khujand, crossed the country through its major Silk Road cities, then continued from Khiva towards Turkmenistan.
+> **Part of a larger journey:** this focused Uzbekistan guide is adapted from the Uzbekistan section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the country detail, or open the complete trip for the full route from the Caspian Sea to Turkmenistan.
+
+I entered from Khujand, crossed the country through its major Silk Road cities, then continued from Khiva towards Turkmenistan.
 
 # Itinerary done quick
 

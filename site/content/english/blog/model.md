@@ -19,6 +19,12 @@ Before diving into my itinerary, a few considerations:
 
 Insert note here
 
+Worth-o-meter (score must be between 0 and 10):
+
+```go-html-template
+{{</* worth-o-meter 7 "Akmola, while interesting, isn't exactly a must visit." /*/>}}
+```
+
 ---
 
 ## Day X1: Lorem Ipsum

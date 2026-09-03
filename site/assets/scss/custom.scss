@@ -323,122 +323,283 @@
     }
 }
 .trip-timeline {
-  margin-top: 2.5rem;
-  padding: clamp(1.25rem, 3vw, 2.5rem);
-  border: 1px solid rgba(41, 40, 36, 0.14);
-  border-radius: 1.25rem;
-  background: #f5f1e9;
+    margin-top: 2.5rem;
+    padding: clamp(1.25rem, 3vw, 2.5rem);
+    border: 1px solid rgba(41, 40, 36, 0.14);
+    border-radius: 1.25rem;
+    background: #f5f1e9;
 }
 
 .trip-timeline__heading {
-  max-width: 48rem;
-  margin-bottom: 1.75rem;
+    max-width: 48rem;
+    margin-bottom: 1.75rem;
 
-  h2 {
-    margin-bottom: 0.5rem;
-  }
+    h2 {
+        margin-bottom: 0.5rem;
+    }
 }
 
 .trip-timeline__eyebrow {
-  margin-bottom: 0.35rem;
-  color: #a83d35;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+    margin-bottom: 0.35rem;
+    color: #a83d35;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
 }
 
 .trip-timeline__list {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
-  &::before {
-    position: absolute;
-    top: 0.4rem;
-    bottom: 0.4rem;
-    left: 12.95rem;
-    width: 2px;
-    background: rgba(168, 61, 53, 0.22);
-    content: "";
-  }
+    &::before {
+        position: absolute;
+        top: 0.4rem;
+        bottom: 0.4rem;
+        left: 12.95rem;
+        width: 2px;
+        background: rgba(168, 61, 53, 0.22);
+        content: "";
+    }
 }
 
 .trip-timeline__item {
-  position: relative;
-  display: grid;
-  grid-template-columns: 12rem minmax(0, 1fr);
-  gap: 2rem;
-  padding: 0 0 1.65rem;
-
-  &::before {
-    position: absolute;
-    top: 0.35rem;
-    left: 12.6rem;
-    width: 0.75rem;
-    height: 0.75rem;
-    border: 2px solid #f5f1e9;
-    border-radius: 50%;
-    background: #a83d35;
-    box-shadow: 0 0 0 2px rgba(168, 61, 53, 0.25);
-    content: "";
-  }
-
-  &:last-child {
-    padding-bottom: 0;
-  }
-
-  time {
-    color: #77736b;
-    font-size: 0.9rem;
-    font-weight: 700;
-  }
-
-  h3 {
-    margin: 0 0 0.4rem;
-    font-size: 1.08rem;
-  }
-
-  h3 span {
-    color: #5f5c56;
-    font-size: 0.92em;
-    font-weight: 400;
-  }
-
-  p {
-    margin: 0;
-    color: #77736b;
-  }
-
-  a {
-    display: inline-block;
-    margin: 0 0.65rem 0.35rem 0;
-    font-weight: 700;
-  }
-}
-
-.trip-timeline__item--tentative::before {
-  background: #f5f1e9;
-  border-color: #a83d35;
-}
-
-@media (max-width: 575px) {
-  .trip-timeline__list::before {
-    left: 0.35rem;
-  }
-
-  .trip-timeline__item {
-    display: block;
-    padding: 0 0 1.75rem 1.75rem;
+    position: relative;
+    display: grid;
+    grid-template-columns: 12rem minmax(0, 1fr);
+    gap: 2rem;
+    padding: 0 0 1.65rem;
 
     &::before {
-      left: 0;
+        position: absolute;
+        top: 0.35rem;
+        left: 12.6rem;
+        width: 0.75rem;
+        height: 0.75rem;
+        border: 2px solid #f5f1e9;
+        border-radius: 50%;
+        background: #a83d35;
+        box-shadow: 0 0 0 2px rgba(168, 61, 53, 0.25);
+        content: "";
+    }
+
+    &:last-child {
+        padding-bottom: 0;
     }
 
     time {
-      display: block;
-      margin-bottom: 0.35rem;
+        color: #77736b;
+        font-size: 0.9rem;
+        font-weight: 700;
     }
+
+    h3 {
+        margin: 0 0 0.4rem;
+        font-size: 1.08rem;
+    }
+
+    h3 span {
+        color: #5f5c56;
+        font-size: 0.92em;
+        font-weight: 400;
+    }
+
+    p {
+        margin: 0;
+        color: #77736b;
+    }
+
+    a {
+        display: inline-block;
+        margin: 0 0.65rem 0.35rem 0;
+        font-weight: 700;
+    }
+}
+
+.trip-timeline__item--tentative::before {
+    background: #f5f1e9;
+    border-color: #a83d35;
+}
+
+@media (max-width: 575px) {
+    .trip-timeline__list::before {
+        left: 0.35rem;
+    }
+
+    .trip-timeline__item {
+        display: block;
+        padding: 0 0 1.75rem 1.75rem;
+
+        &::before {
+            left: 0;
+        }
+
+        time {
+            display: block;
+            margin-bottom: 0.35rem;
+        }
+    }
+}
+
+.worthmeter {
+  --worth-score: 50%;
+  --worth-green: #6f9f67;
+  --worth-yellow: #e2bf50;
+  --worth-orange: #df7d3a;
+  --worth-red: #c44135;
+  --worth-border: rgba(196, 65, 53, 0.25);
+
+  box-sizing: border-box;
+  width: 100%;
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.35rem;
+
+  border: 1px solid var(--worth-border);
+  border-radius: 0.8rem;
+  background: rgba(196, 65, 53, 0.035);
+}
+
+.worthmeter *,
+.worthmeter *::before,
+.worthmeter *::after {
+  box-sizing: border-box;
+}
+
+.worthmeter__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0 0 0.85rem;
+}
+
+.worthmeter__title,
+.worthmeter__score {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.worthmeter__title {
+  font-family: $font-secondary;
+  font-size: 1.05rem;
+}
+
+.worthmeter__score {
+  flex: 0 0 auto;
+  color: var(--worth-red);
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.worthmeter__gauge {
+  width: 100%;
+  margin: 0;
+}
+
+.worthmeter__track {
+  position: relative;
+  width: 100%;
+  height: 1rem;
+  overflow: visible;
+
+  border: 1px solid rgba(100, 75, 65, 0.22);
+  border-radius: 999px;
+
+  /* The full grading scale is always visible. */
+  background: linear-gradient(
+    90deg,
+    var(--worth-green) 0%,
+    var(--worth-yellow) 35%,
+    var(--worth-orange) 65%,
+    var(--worth-red) 100%
+  );
+}
+
+/* Tick marks are overlaid directly on the colored bar. */
+.worthmeter__ticks {
+  position: absolute;
+  z-index: 2;
+  inset: 0.18rem 0.45rem;
+
+  background: repeating-linear-gradient(
+    90deg,
+    transparent 0,
+    transparent calc(10% - 1px),
+    rgba(70, 55, 48, 0.55) calc(10% - 1px),
+    rgba(70, 55, 48, 0.55) 10%
+  );
+
+  pointer-events: none;
+}
+
+.worthmeter__marker {
+  position: absolute;
+  z-index: 3;
+  top: 50%;
+  left: clamp(0.55rem, var(--worth-score), calc(100% - 0.55rem));
+
+  width: 1.15rem;
+  height: 1.15rem;
+
+  border: 0.18rem solid #fff;
+  border-radius: 50%;
+  background: var(--worth-red);
+  box-shadow: 0 0 0 2px var(--worth-red);
+
+  transform: translate(-50%, -50%);
+}
+
+.worthmeter__verdict {
+  margin: 0.8rem 0 0;
+  padding: 0;
+
+  color: var(--worth-red);
+  font-size: 0.75rem;
+  font-weight: 800;
+  line-height: 1.3;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.worthmeter__heat {
+  margin-right: 0.2rem;
+}
+
+.worthmeter__text {
+  margin: 0.4rem 0 0;
+  padding: 0;
+}
+
+.worthmeter__text p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.worthmeter__text > :first-child {
+  margin-top: 0 !important;
+}
+
+.worthmeter__text > :last-child {
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: 575px) {
+  .worthmeter {
+    padding: 0.9rem 1rem;
+  }
+
+  .worthmeter__header {
+    margin-bottom: 0.7rem;
+  }
+
+  .worthmeter__title {
+    font-size: 1rem;
+  }
+
+  .worthmeter__score {
+    font-size: 1.05rem;
   }
 }

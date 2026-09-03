@@ -11,7 +11,7 @@ draft: false
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-> This is an excerpt from my longer [Caucasus itinerary](/blog/itinerary-caucasus).
+> **Part of a larger journey:** This focused Azerbaijan guide is adapted from my [complete Caucasus itinerary](/blog/itinerary-caucasus/). Use this page for the Azerbaijan day-by-day detail; use the complete trip for the cross-border route through Azerbaijan, Georgia and Armenia.
 
 I travelled through Azerbaijan in 2019 as the first part of a larger journey across Azerbaijan, Georgia and Armenia. This six-day route fits neatly into one week once you include your arrival or onward journey.
 

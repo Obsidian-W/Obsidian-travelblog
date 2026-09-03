@@ -11,7 +11,9 @@ draft: true
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-This is the Kazakhstan part of my longer [Central Asia itinerary](/blog/itinerary-central-asia): Aktau to Almaty through Mangystau and Astana, before crossing to Bishkek. The original route was written after doing it; this split keeps the same days, opinions and occasional logistical mess.
+> **Part of a larger journey:** this focused Kazakhstan guide is adapted from the Kazakhstan section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the country detail, or open the complete trip for the full route from the Caspian Sea to Turkmenistan.
+
+I travelled from Aktau to Almaty through Mangystau and Astana before crossing to Bishkek. The original route was written after doing it; this split keeps the same days, opinions and occasional logistical mess.
 
 # Itinerary done quick
 

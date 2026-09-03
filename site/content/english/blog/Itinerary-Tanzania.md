@@ -12,8 +12,8 @@ draft: false
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 > Let's explore Tanzania and the best safaris!
-> 
-> This is an excerpt from a longer article
+>
+> **Part of a larger journey:** this focused Tanzania guide is adapted from the Tanzania section of my [complete East Africa itinerary](/blog/itinerary-eastafrica/). Stay here for the Tanzania detail, or open the complete trip to see how I connected Tanzania, Kenya, Uganda and Rwanda over one month.
 
 
 Before diving into my itinerary, a few considerations:

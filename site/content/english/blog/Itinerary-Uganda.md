@@ -13,8 +13,8 @@ draft: false
 
 
 > Let's explore Uganda, home of Knuckles!
-> 
-> This is an excerpt from a longer article
+>
+> **Part of a larger journey:** this focused Uganda guide is adapted from the Uganda section of my [complete East Africa itinerary](/blog/itinerary-eastafrica/). Stay here for the Uganda detail, or open the complete trip to see how I connected Tanzania, Kenya, Uganda and Rwanda over one month.
 
 Before diving into my itinerary, a few considerations:
 

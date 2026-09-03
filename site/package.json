@@ -5,8 +5,8 @@
   "author": "statichunt",
   "scripts": {
     "dev": "hugo.exe server -d ../dist",
-    "test": "hugo.exe server -d ../dist --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
-    "build": "hugo.exe --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "test": "hugo.exe server -d ../dist --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "build": "hugo.exe --gc --minify --templateMetrics --templateMetricsHints --cleanDestinationDir --forceSyncStatic",
     "update": "node ./scripts/clearModules.js && hugo.exe mod clean --all && hugo.exe mod get -u ./... && hugo.exe mod tidy"
   }
 }

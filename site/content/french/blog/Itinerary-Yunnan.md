@@ -13,7 +13,7 @@ draft: false
 > Entre la culture, la nourriture fabuleuse et les paysages, c’est la porte d’entrée idéale pour découvrir le pays.  
 > Facile à explorer, bien reliée et agréable toute l’année.  
 
-> Cet article est un extrait d’un guide plus long.
+> **Une étape d'un voyage plus long :** voici la partie Yunnan de mon grand voyage du sud-ouest de la Chine vers le nord de l'Inde. Le récit complet est encore en cours de rédaction ; cette page reste donc un itinéraire autonome. Mon [itinéraire au Tibet](/fr/blog/itinerary-tibet/) couvre la grande étape suivante.
 
 Note : cet article sur la logistique peut aussi être une bonne lecture complémentaire.  
 #### [Conseils pour voyager en Chine](/blog/tips-china)

@@ -11,7 +11,7 @@ draft: false
 
 > **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux toucher une commission sans frais supplémentaires pour vous.
 
-> Cette partie est extraite de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/).
+> **Une étape d'un voyage plus long :** ce guide consacré à l'Azerbaïdjan est adapté de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/). Cette page donne le détail jour par jour en Azerbaïdjan ; le grand itinéraire explique l'enchaînement entre l'Azerbaïdjan, la Géorgie et l'Arménie.
 
 J'ai traversé l'Azerbaïdjan en 2019, au début d'un voyage plus long en Azerbaïdjan, en Géorgie et en Arménie. Cet itinéraire de six jours tient dans une semaine en ajoutant l'arrivée ou le départ.
 

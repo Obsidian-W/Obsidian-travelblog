@@ -9,9 +9,9 @@ continents: ["Afrique"]
 draft: false
 ---
 
-> Partons explorer le Rwanda, le pays le plus avancé d’Afrique.  
-> 
-> Cet article est un extrait d’un récit plus long.
+> Partons explorer le Rwanda, le pays le plus avancé d’Afrique.
+>
+> **Une étape d'un voyage plus long :** ce guide consacré au Rwanda est adapté de la partie rwandaise de mon [itinéraire complet en Afrique de l'Est](/fr/blog/itinerary-eastafrica/). Restez ici pour le détail au Rwanda, ou ouvrez le grand itinéraire pour voir comment j'ai relié la Tanzanie, le Kenya, l'Ouganda et le Rwanda en un mois.
 
 **À lire aussi**
 

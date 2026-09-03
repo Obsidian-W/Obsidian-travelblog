@@ -9,7 +9,9 @@ continents: ["Asia"]
 draft: true
 ---
 
-This is the Tajikistan part of my longer [Central Asia itinerary](/blog/itinerary-central-asia): the Pamir Highway from the Kyrgyz border to Dushanbe, followed by Panjakent, the Seven Lakes and Khujand.
+> **Part of a larger journey:** this focused Tajikistan guide is adapted from the Tajikistan section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the country detail, or open the complete trip for the full route from the Caspian Sea to Turkmenistan.
+
+This section follows the Pamir Highway from the Kyrgyz border to Dushanbe, then continues to Panjakent, the Seven Lakes and Khujand.
 
 # Itinerary done quick
 

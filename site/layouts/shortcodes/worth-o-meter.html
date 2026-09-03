@@ -1,0 +1,59 @@
+{{- $score := 0 -}}
+{{- $title := "Worth-o-meter" -}}
+{{- $note := .Inner -}}
+
+{{- if .IsNamedParams -}}
+  {{- with .Get "score" }}{{ $score = int . }}{{ end -}}
+  {{- with .Get "title" }}{{ $title = . }}{{ end -}}
+  {{- with .Get "text" }}{{ $note = . }}{{ end -}}
+{{- else -}}
+  {{- with .Get 0 }}{{ $score = int . }}{{ end -}}
+  {{- if ge (len .Params) 2 }}{{ $note = .Get 1 }}{{ end -}}
+{{- end -}}
+
+{{- if or (lt $score 0) (gt $score 10) -}}
+  {{- errorf "worth-o-meter score must be between 0 and 10 at %s" .Position -}}
+{{- end -}}
+
+{{- $scorePct := mul $score 10 -}}
+
+<aside
+  class="worthmeter"
+  style="--worth-score: {{ $scorePct }}%;"
+  role="meter"
+  aria-label="{{ $title }}"
+  aria-valuemin="0"
+  aria-valuemax="10"
+  aria-valuenow="{{ $score }}"
+  aria-valuetext="{{ $score }} out of 10"
+>
+  <header class="worthmeter__header">
+    <strong class="worthmeter__title">{{ $title }}</strong>
+    <strong class="worthmeter__score">{{ $score }}/10</strong>
+  </header>
+
+  <div class="worthmeter__gauge" aria-hidden="true">
+    <div class="worthmeter__track">
+      <div class="worthmeter__ticks"></div>
+      <div class="worthmeter__marker"></div>
+    </div>
+  </div>
+
+  <div class="worthmeter__verdict">
+    {{- if ge $score 9 -}}
+      <span class="worthmeter__heat">🔥</span> Absolutely worth it
+    {{- else if ge $score 7 -}}
+      <span class="worthmeter__heat">🔥</span> Very worth it
+    {{- else if ge $score 5 -}}
+      Worth considering
+    {{- else if ge $score 3 -}}
+      Probably skip it
+    {{- else -}}
+      Not worth it
+    {{- end -}}
+  </div>
+
+  {{- with $note }}
+    <div class="worthmeter__text">{{ . | markdownify }}</div>
+  {{- end }}
+</aside>

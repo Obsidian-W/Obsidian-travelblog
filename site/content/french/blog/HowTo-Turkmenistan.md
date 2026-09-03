@@ -68,10 +68,12 @@ Les prix sont très corrects pour l’Asie centrale : j’ai payé environ **220
 Le Turkménistan a une réputation stricte, mais en réalité, ce n’est pas si terrible.  
 
 - Marcher la nuit à **Achgabat** est sans danger — je l’ai fait sans guide, aucun souci.  
-- La sécurité est totale : **aucune criminalité**.  
+- Il y a très peu de crimes signalés et le Turkménistan est généralement considéré comme très sûr pour les visiteurs. Les conseils britanniques décrivent un taux de criminalité faible. France Diplomatie signale tout de même quelques vols à la tire sur les marchés très fréquentés : « très sûr » ne veut pas dire que rien ne peut arriver. Garde les précautions habituelles et surveille tes affaires.  
 - Barbe et cheveux longs sont autorisés, malgré les rumeurs.  
 - Évite simplement de photographier l’armée, les bâtiments officiels ou les drapeaux.  
 - Internet est bloqué à **99 %** : prévois un bon VPN ou accepte de vivre déconnecté.  
+
+Sources officielles à vérifier avant le départ : [conseils britanniques — sécurité](https://www.gov.uk/foreign-travel-advice/turkmenistan/safety-and-security) et [France Diplomatie — sécurité au Turkménistan](https://www.diplomatie.gouv.fr/fr/information-par-pays/turkmenistan/conseils-aux-voyageurs-securite).
 
 ---
 

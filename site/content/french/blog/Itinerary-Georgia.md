@@ -11,7 +11,7 @@ draft: false
 
 > **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux toucher une commission sans frais supplémentaires pour vous.
 
-> Cette partie est extraite de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/).
+> **Une étape d'un voyage plus long :** ce guide consacré à la Géorgie est adapté de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/). Cette page donne le détail jour par jour en Géorgie ; le grand itinéraire explique l'enchaînement entre l'Azerbaïdjan, la Géorgie et l'Arménie.
 
 J'ai traversé la Géorgie en 2019, entre l'Azerbaïdjan et l'Arménie. Voici les six journées que j'ai réellement faites ; les idées à la fin correspondent aux étapes que j'avais prévues avant de devoir raccourcir le voyage.
 

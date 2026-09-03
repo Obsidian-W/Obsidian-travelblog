@@ -17,6 +17,8 @@ draft: false
 > Perhaps due to the harsh civil war or the terror that goes when mentioning Africa,
 > the name of a goddess long forgotten, for a continent that linger in memories
 
+> **Connected to a larger journey:** this Ethiopia itinerary was the opening part of my longer East African trip. Read my [complete East Africa itinerary](/blog/itinerary-eastafrica/) to see how I continued through Kenya, Tanzania, Uganda and Rwanda.
+
 This trip was actually conjoined with East Africa, towards the end, I'll tell you how I went onward to Kenya.
 It's dating from July 2023 and was written in October 2025
 
