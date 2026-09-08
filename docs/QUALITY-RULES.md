@@ -266,7 +266,40 @@ Follow this order for every article:
 
 If firsthand information is missing, ask the author targeted questions. Do not fill the gaps with plausible prose.
 
-## 15. Blocking publication gate
+## 15. Correction-loop protocol
+
+After the user corrects the same underlying issue twice, stop editing.
+
+Before continuing:
+
+1. Re-read the live file and inspect its diff.
+2. List the confirmed facts and constraints.
+3. State the assumption responsible for the repeated error.
+4. Discard that assumption rather than modifying it to absorb new corrections.
+5. Resume only with one bounded patch that is checked against every confirmed fact.
+
+Do not respond to repeated structural corrections with isolated sentence-level patches.
+
+Also treat the following as warning signs of a faulty model loop:
+
+- fixing one sentence recreates the same mistake elsewhere;
+- confirmed facts are individually present but combined incorrectly;
+- each correction produces a larger or contradictory rewrite;
+- explanations repeat while the underlying interpretation remains unchanged;
+- edits continue without checking whether the live file or diff changed;
+- defensive prose is added to explain an inconsistency instead of correcting it.
+
+When any of these signs appear, freeze edits and create a short internal fact ledger containing:
+
+- confirmed facts;
+- required structure;
+- prohibited changes;
+- unresolved questions;
+- the faulty assumption to delete.
+
+Do not resume editing until the new structure is consistent with every confirmed fact. Preserve existing author text and image placement unless the user explicitly asks to change them.
+
+## 16. Blocking publication gate
 
 All answers must be **yes** unless the item is genuinely inapplicable.
 
@@ -311,7 +344,7 @@ All answers must be **yes** unless the item is genuinely inapplicable.
 
 If any blocking answer is **no**, set `draft: true` and fix the problem before publication.
 
-## 16. Audit rules for existing AI-generated pages
+## 17. Audit rules for existing AI-generated pages
 
 Existing pages marked `ai_generated: true` must not be presumed acceptable because they are already published.
 
@@ -326,7 +359,7 @@ For each page:
 
 If a page lacks enough firsthand material or original value to be rebuilt honestly, set it to draft or remove it from indexing. Do not preserve weak content merely because deleting or unpublishing it feels wasteful.
 
-## 17. Primary Google references
+## 18. Primary Google references
 
 - [Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 - [Google Search guidance on generative AI content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content)
