@@ -6,7 +6,7 @@ image: "images/blog/patagonia2.jpg"
 itinerary_map: "/images/itineraries/chile.svg"
 categories: ["Itinerary", "South America", "Chile"]
 continents: ["South America"]
-draft: true
+draft: false
 ---
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
