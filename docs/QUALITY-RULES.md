@@ -200,6 +200,13 @@ Headings must be descriptive and specific. Avoid repeating the title in multiple
 
 There is no minimum word count. Publish the shortest version that completely fulfils the reader's goal. Do not pad an article to appear comprehensive.
 
+### Numbers, times and prices
+
+- Distinguish clock times from durations. Write whole-hour durations as `7–9 hours`, not `7:00–9:00`. Use colon notation for durations containing minutes, such as `1:30`, and for clock times, such as `21:30`. Do not use fraction symbols or decimal hours.
+- Use a decimal comma and put the currency symbol immediately after the amount: `10,30€` or `10,30$`, following the `X,X$` pattern. Preserve local prices alongside euro equivalents; for Peru, use `40 soles (10,30€)`.
+- Separate thousands with spaces, including altitudes: `3 050 m`, never `3,050 m`.
+- Do not use fraction symbols in article text. Use decimal commas for distances, for example `1,5 km`.
+
 ## 12. Titles, descriptions, and dates
 
 Titles and descriptions must accurately summarize the page. They must not exaggerate completeness, certainty, recency, or expertise.
