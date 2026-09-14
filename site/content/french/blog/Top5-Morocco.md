@@ -59,7 +59,7 @@ Vas-y plutôt le matin ou en fin d'après-midi. Le site a peu d'ombre, et la cha
 
 Chefchaouen combine une ville compacte, plus calme que Fès ou Marrakech, avec les montagnes du Rif. **Akchour** ajoute une journée de randonnée et justifie un séjour plus long.
 
-Prévois deux nuits si tu veux voir la ville et Akchour sans courir. Chefchaouen n'a pas de gare ; prends CTM ou un autre autocar depuis **Fès**, **Tanger** ou **Tétouan**. Les grands taxis partagés vont de Chefchaouen à Akchour en environ 45 minutes. Confirme le retour en taxi avant de commencer la randonnée, surtout hors période très fréquentée.
+Prévois deux nuits pour la ville et Akchour. Chefchaouen n'a pas de gare ; prends CTM ou un autre autocar depuis **Fès**, **Tanger** ou **Tétouan**. Les grands taxis partagés vont de Chefchaouen à Akchour en environ 45 minutes. Confirme le retour en taxi avant de commencer la randonnée, surtout hors période très fréquentée.
 
 Pars tôt quand il fait chaud et prends de l'eau. Les itinéraires de la cascade et du pont de Dieu ne sont pas difficiles pour des marcheurs réguliers, mais la chaleur et le retour sont les vraies contraintes.
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">Armenia route map</title>
-  <desc id="desc">Armenia itinerary: Alaverdi, Yerevan, Etchmiadzin, Garni, Khor Virap.</desc>
+  <desc id="desc">Armenia itinerary: Alaverdi, Gyumri, Yerevan, Etchmiadzin, Garni, Khor Virap.</desc>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
@@ -26,60 +26,64 @@
 <text class="country-label" x="278.1" y="392.0">Turkey</text>
 <text class="country-label" x="613.4" y="392.0">Azerbaijan</text>
 <text class="country-label" x="419.2" y="135.6">Georgia</text>
-    <path class="route-halo" d="M410.3,182.0 L387.3,366.0 L353.6,370.0 L421.0,378.0 L398.0,426.0" />
-    <path class="route" d="M410.3,182.0 L387.3,366.0 L353.6,370.0 L421.0,378.0 L398.0,426.0" />
+    <path class="route-halo" d="M410.3,182.0 L286.2,244.0 L387.3,366.0 L353.6,370.0 L421.0,378.0 L398.0,426.0" />
+    <path class="route" d="M410.3,182.0 L286.2,244.0 L387.3,366.0 L353.6,370.0 L421.0,378.0 L398.0,426.0" />
     <g class="stop stop-link start" data-section="0" data-stop-name="Alaverdi" transform="translate(410.3 182.0)">
       <circle r="10" />
       <text x="0" y="4">1</text>
       <title>1. Alaverdi</title>
     </g>
-<g class="stop stop-link" data-section="1" data-stop-name="Yerevan" transform="translate(387.3 366.0)">
+<g class="stop stop-link" data-section="1" data-stop-name="Gyumri" transform="translate(286.2 244.0)">
       <circle r="10" />
       <text x="0" y="4">2</text>
-      <title>2. Yerevan</title>
+      <title>2. Gyumri</title>
     </g>
-<g class="stop stop-link" data-section="2" data-stop-name="Etchmiadzin" transform="translate(353.6 370.0)">
+<g class="stop stop-link" data-section="3" data-stop-name="Yerevan" transform="translate(387.3 366.0)">
       <circle r="10" />
       <text x="0" y="4">3</text>
-      <title>3. Etchmiadzin</title>
+      <title>3. Yerevan</title>
     </g>
-<g class="stop stop-link" data-section="3" data-stop-name="Garni" transform="translate(421.0 378.0)">
+<g class="stop stop-link" data-section="4" data-stop-name="Etchmiadzin" transform="translate(353.6 370.0)">
       <circle r="10" />
       <text x="0" y="4">4</text>
-      <title>4. Garni</title>
+      <title>4. Etchmiadzin</title>
     </g>
-<g class="stop stop-link end" data-section="3" data-stop-name="Khor Virap" transform="translate(398.0 426.0)">
+<g class="stop stop-link" data-section="5" data-stop-name="Garni" transform="translate(421.0 378.0)">
       <circle r="10" />
       <text x="0" y="4">5</text>
-      <title>5. Khor Virap</title>
+      <title>5. Garni</title>
+    </g>
+<g class="stop stop-link end" data-section="5" data-stop-name="Khor Virap" transform="translate(398.0 426.0)">
+      <circle r="10" />
+      <text x="0" y="4">6</text>
+      <title>6. Khor Virap</title>
     </g>
     <text class="place-label stop-link" data-section="0" data-stop-name="Alaverdi" x="422.3" y="172.0" text-anchor="start">Alaverdi</text>
-<text class="place-label stop-link" data-section="1" data-stop-name="Yerevan" x="399.3" y="384.0" text-anchor="start">Yerevan</text>
+<text class="place-label stop-link" data-section="1" data-stop-name="Gyumri" x="298.2" y="262.0" text-anchor="start">Gyumri</text>
+<text class="place-label stop-link" data-section="3" data-stop-name="Yerevan" x="399.3" y="356.0" text-anchor="start">Yerevan</text>
 
-<text class="place-label stop-link" data-section="3" data-stop-name="Garni" x="433.0" y="396.0" text-anchor="start">Garni</text>
-<text class="place-label stop-link" data-section="3" data-stop-name="Khor Virap" x="410.0" y="416.0" text-anchor="start">Khor Virap</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Garni" x="433.0" y="368.0" text-anchor="start">Garni</text>
+<text class="place-label stop-link" data-section="5" data-stop-name="Khor Virap" x="410.0" y="444.0" text-anchor="start">Khor Virap</text>
   </g>
   <line class="divider" x1="878" y1="82" x2="878" y2="702" />
   <text class="route-title" x="900" y="108">ROUTE</text>
   <g class="summary-stop stop-link" data-section="0" data-stop-name="1. Alaverdi" transform="translate(900 145.0)">
-      
       <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">1. Alaverdi</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Yerevan" transform="translate(900 203.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Yerevan</tspan></text>
+<g class="summary-stop stop-link" data-section="1" data-stop-name="2. Gyumri" transform="translate(900 203.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">2. Gyumri</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="2" data-stop-name="3. Etchmiadzin" transform="translate(900 261.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Etchmiadzin</tspan></text>
+<g class="summary-stop stop-link" data-section="3" data-stop-name="3. Yerevan" transform="translate(900 261.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">3. Yerevan</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="3" data-stop-name="4. Garni" transform="translate(900 319.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Garni</tspan></text>
+<g class="summary-stop stop-link" data-section="4" data-stop-name="4. Etchmiadzin" transform="translate(900 319.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">4. Etchmiadzin</tspan></text>
     </g>
-<g class="summary-stop stop-link" data-section="3" data-stop-name="5. Khor Virap" transform="translate(900 377.0)">
-      
-      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Khor Virap</tspan></text>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="5. Garni" transform="translate(900 377.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">5. Garni</tspan></text>
+    </g>
+<g class="summary-stop stop-link" data-section="5" data-stop-name="6. Khor Virap" transform="translate(900 435.0)">
+      <text class="summary-text" x="0" y="0"><tspan x="0" dy="0">6. Khor Virap</tspan></text>
     </g>
   <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>

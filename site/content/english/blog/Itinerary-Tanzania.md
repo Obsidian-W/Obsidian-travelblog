@@ -34,9 +34,21 @@ Note: This article detailing logistic can be a nice read as well
 I got this one too, for Cheap safaris!  
 #### [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
 
+{{< worth-o-meter score="4" >}}
+Tanganyika: Yup. Low score due to safety. Amazing nature, but stay safe, use guides and nice accomodations whenever possible.
+The Serengeti and its natural beauty, as well as the stunning Kilwa Kisiwani raise the score.
+{{< /worth-o-meter >}}
+
+{{< worth-o-meter score="7.5" >}}
+Zanzibar: I'm not a beach lover. But my god, they are pristine! Prison island, tortoises, turtles, bright blue sea,
+white sand, Stone town, Freddy Mercury, the spices, the cooking... Zanzibar is as dreamy as it sounds.
+Just a malus for being filled with male prostitutes and quite dirty.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ![Dreamy Zanzibar](images/blog/zanzibar.jpg)
+
 
 ## 🇹🇿 TANZANIA
 
@@ -93,7 +105,6 @@ I'd say that it's more than enough for an afternoon.
 Welcome to Africa btw.
 
 {{< youtube vUrVeRGo5IM >}}
-
 
 ---
 

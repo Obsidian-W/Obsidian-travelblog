@@ -37,15 +37,15 @@ draft: true
 
 Alice Springs Airport is about 15 kilometres from town and there is no normal public bus from the terminal.
 
-The sensible option is the airport shuttle, which goes to hotels and hostels in Alice Springs. I looked at the price, decided it was ridiculous and hitchhiked instead.
+The airport shuttle goes to hotels and hostels in Alice Springs. I looked at the price, decided it was ridiculous and hitchhiked instead.
 
 It worked. Eventually.
 
-Finding a lift was difficult, and walking beside the airport road with my luggage wasn't my finest idea. So yes, take the shuttle.
+Finding a lift was difficult. The airport is too far out for walking into town with luggage.
 
 Once in town, visit the **Royal Flying Doctor Service Museum**, then walk through the centre and climb **Anzac Hill** for the view over Alice Springs and the surrounding ranges.
 
-The **Telegraph Station** is farther north. Add it if your flight arrives early; otherwise, the museum, centre and Anzac Hill are enough for the first day.
+The **Telegraph Station**, farther north beside the Todd River, preserves the stone buildings of the old Overland Telegraph settlement. It needs a separate walk or ride from the centre.
 
 > Be careful at night, the natives wake up and they are experts at stone throwing and knifing.
 > There is a private mercenary corps from eastern europe defending the city, especially around the casinos. Farther out becomes dangerous.
@@ -57,7 +57,7 @@ The **Telegraph Station** is farther north. Add it if your flight arrives early;
 
 This was the start of my three-day camping tour from Alice Springs.
 
-The group was collected in town, then we drove south for hours. Uluru is around 450 kilometres from Alice Springs, so there is no clever little public-transport shortcut here. The tour vehicle carried us for all three days and returned us to Alice Springs at the end.
+The group was collected in town, then we drove south for hours. Uluru is around 450 kilometres from Alice Springs. The tour vehicle carried us for all three days and returned us to Alice Springs at the end.
 
 We stopped at an outback camel farm on the way, then reached **Kata Tjuta** for a walk before continuing to **Uluru** for sunset.
 
@@ -97,7 +97,7 @@ The steep climb at the beginning is the worst part. After that, the path crosses
 
 Then came the long drive back to Alice Springs.
 
-My three-day tour included all the transport and returned to Alice Springs after Kings Canyon. To follow this itinerary, select an Alice Springs-to-Alice Springs option; some tours finish in Yulara instead.
+The tour included this return journey.
 
 ---
 
@@ -105,7 +105,7 @@ My three-day tour included all the transport and returned to Alice Springs after
 
 ![Flooded woodland after the heavy rain](images/blog/australia3.jpg)
 
-Fly from **Alice Springs Airport** to **Darwin International Airport**. A direct flight takes around two hours. Doing this by road would destroy a seven-day itinerary.
+Fly from **Alice Springs Airport** to **Darwin International Airport**. A direct flight takes around two hours. 
 
 Spend the rest of the day around central Darwin: **Smith Street**, the **Waterfront Precinct**, the wave lagoon and the **WWII Oil Storage Tunnels**.
 
@@ -117,11 +117,11 @@ If the **Mindil Beach Sunset Market** is running that evening, go there for suns
 
 ![A crocodile in Darwin](images/blog/australia2.jpg)
 
-Leave Darwin early. The park is roughly three hours away before you start adding stops, and a one-day return tour means an absurd amount of driving.
+The following two days are a suggested **Kakadu** extension; my own booking was a day trip, and I did not get into the park.
 
-The first day should concentrate on the northern part of the park: wetlands, rock art and viewpoints, depending on what is accessible. Sleep in or near Kakadu instead of driving back to Darwin.
+From Darwin, the drive to Jabiru takes roughly three hours. A rental car or a tour with transport is needed to reach the different sites. Start with the bird hide at **Mamukala Wetlands**, then continue towards Jabiru and **Ubirr**. The rock shelters at Ubirr contain paintings of fish, animals and ancestral figures; the climb above them overlooks the Nadab floodplain. Stay around Jabiru or Cooinda.
 
-[This two-day Kakadu tour with a Yellow Water cruise (affiliate link)](https://www.getyourguide.com/en-gb/darwin-l357/from-darwin-2-day-kakadu-cooinda-yellow-water-cruise-t531677/?partner_id=H1N6CGH&utm_medium=online_publisher) includes pickup in Darwin, the night near the park and the return. It isn't the tour I booked in 2020.
+Seasonal flooding can cut access to Ubirr. Use the [national park's access information](https://kakadu.gov.au/) when choosing the tour or driving route.
 
 > My own Kakadu tour was cancelled because of heavy rain.
 > I stayed in Darwin and visited the **Museum and Art Gallery of the Northern Territory**, the **George Brown Darwin Botanic Gardens** and **Crocosaurus Cove** instead.
@@ -132,11 +132,9 @@ For the museum, take bus 6 from the Darwin interchange on Harry Chan Avenue, Bay
 
 ## Day 7 Kakadu National Park
 
-Use the second day for the centre and south of Kakadu before returning to Darwin.
+Start with a **Yellow Water cruise** from Cooinda for the wetlands, waterbirds and crocodiles. Nearby, the **Warradjan Aboriginal Cultural Centre** explains local life, kinship and seasonal food gathering. [Both are in the Yellow Water region](https://kakadu.gov.au/discover/regions/yellow-water-ngurrungurrudjba/).
 
-I am deliberately not giving a rigid list of stops here. Rain and road access decide a lot in Kakadu, as my cancelled tour rather efficiently demonstrated. Check the route offered for your dates, especially the rock-art sites and whether a wetland cruise is included.
-
-Allow around three hours for the final drive back to Darwin, before any stops.
+Continue to **Burrungkuy (Nourlangie)** for the rock-art shelters and views towards the escarpment, then drive back to Darwin. The return from this part of the park takes around three hours without stops.
 
 > Since Kakadu was cancelled for me, I went to **Charles Darwin National Park** instead.
 
@@ -152,9 +150,7 @@ They are spread along the range, so you need a rental car or a tour. [This West 
 
 ### One more day in Darwin
 
-Use it for **Charles Darwin National Park**, which is what I did after Kakadu was cancelled.
-
-The park is around 5.5 kilometres from central Darwin. Enter from Tiger Brennan Drive at Winnellie. There are old WWII bunkers and displays, bushwalking and mountain-bike trails, mangroves and a lookout towards Darwin.
+**Charles Darwin National Park** is around 5,5 kilometres from central Darwin. Enter from Tiger Brennan Drive at Winnellie. There are old WWII bunkers and displays, bushwalking and mountain-bike trails, mangroves and a lookout towards Darwin.
 
 It is close enough to reach by bicycle. Otherwise, use a rental car or a pre-booked transfer; the road through the park is one way.
 

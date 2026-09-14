@@ -28,13 +28,15 @@ draft: true
 
 ## Day 1: Brussels
 
-Begin at **Grand-Place**, then walk through the Galeries Royales, past the Bourse and into the Marolles. Brussels-Central is the nearest main railway station.
+From **Brussels-Central**, walk down to **Grand-Place** for the guildhalls, town hall and Maison du Roi. Continue through the covered **Galeries Royales Saint-Hubert**, then return through the streets around the Bourse and **Manneken Pis**.
 
 Continue through the Sablon to the Palace of Justice viewpoint and descend by lift into the Marolles. Return through the comic-book murals and the lanes around Sainte-Catherine.
 
 ## Day 2: Brussels
 
-Take the metro to the **European Quarter**, walk through Parc du Cinquantenaire and return towards the centre through the Art Nouveau streets around Saint-Gilles. Use the tram for the return to the lower city.
+Take the metro to **Schuman** for the **European Quarter**. Walk around the Parliament buildings and **Parc Léopold**, then continue to **Parc du Cinquantenaire**, where the triple arch stands between the museums.
+
+For the Art Nouveau part, travel separately to **Saint-Gilles**: it is southwest of the centre, not on the walk back from Cinquantenaire. The streets around **Rue Américaine** include **Victor Horta's house and studio**, now the Horta Museum.
 
 The House of European History and Parliamentarium are the main visits around the European Quarter. From Cinquantenaire, Metro Line 1 returns directly towards the centre.
 
@@ -44,9 +46,11 @@ The House of European History and Parliamentarium are the main visits around the
 
 ![The old streets of Ghent](images/blog/belgium2.jpg)
 
-Take a direct SNCB train to **Gent-Sint-Pieters**, then tram 1 into the centre. Visit Gravensteen, the Graslei and Korenlei quays, St Bavo's Cathedral and the Belfry.
+Take a direct **SNCB train from Brussels to Gent-Sint-Pieters**, then **tram 1 or 3 to Kouter** and walk north into the centre. These are the [station connections listed by Visit Gent](https://visit.gent.be/en/see-do/gent-sint-pieters-station-hub-ghent).
 
-Walk through the Patershol streets behind Gravensteen and return along the canals towards St Michael's Bridge. Trams back to Gent-Sint-Pieters leave from Korenmarkt.
+Begin at **St Bavo's Cathedral**, where the *Ghent Altarpiece* is displayed, then walk past the **Belfry** and **St Nicholas' Church** to **St Michael's Bridge**. Below it are the **Graslei and Korenlei** quays, lined with former guildhalls. Follow the canal north to **Gravensteen**, the stone castle in the middle of town.
+
+Walk through the Patershol streets behind Gravensteen and return along the canals towards St Michael's Bridge. Return to Kouter for the tram to Gent-Sint-Pieters.
 
 ## Day 4: Bruges
 
@@ -74,7 +78,7 @@ Bus 24 crosses into Belgium towards Kelmis and gives access to the wooded border
 
 ![Trier Cathedral](images/blog/germany2.jpg)
 
-Travel from Aachen to **Trier** by regional train, changing according to the current connection. Walk from the Porta Nigra through the Hauptmarkt to Trier Cathedral, the basilica and the Roman baths.
+Travel from **Aachen Hauptbahnhof** to **Trier Hauptbahnhof** by train; compare the connections through **Cologne and Koblenz** with those through **Euskirchen**. There is no single direct regional train covering the whole journey. Walk from the Porta Nigra through the Hauptmarkt to Trier Cathedral, the basilica and the Roman baths.
 
 Continue to the Imperial Baths and the Roman bridge before returning along the Moselle. Trier's main Roman sites form a long walk from Porta Nigra to the amphitheatre side of the centre.
 
@@ -82,9 +86,11 @@ Continue to the Imperial Baths and the Roman bridge before returning along the M
 
 ![The forest trail near Manternach](images/blog/luxembourg2.jpg)
 
-Take the cross-border bus from Trier to Luxembourg City, then a CFL train to **Manternach**. The marked **Traumschleife Manternacher Fiels** starts near the station and loops through the forest and sandstone valley. Return to Luxembourg City by train.
+From **Trier**, travel towards **Wasserbillig** and continue on the Luxembourg line to **Manternach**, before reaching Luxembourg City. The [CFL timetable](https://www.cfl.lu/de-de/timetable/sheets) lists the Luxembourg–Wasserbillig–Trier connections; engineering works can replace part of this journey with a bus.
 
-The trail passes the narrow rock formations and the stream below the cliffs before climbing back towards the village. Carry food from Trier or Luxembourg City; Manternach is a hiking stop, not a base with many services.
+The **Traumschleife Manternacher Fiels** starts in the village and loops through the ravine forest. Follow the trail past rock faces, moss-covered slopes and the **Syre stream**, then return to Manternach for the train to Luxembourg City. The [official trail page](https://www.visitluxembourg.com/tour/traumschleife-manternacher-fiels) has the downloadable route.
+
+The trail passes the narrow rock formations and the stream below the cliffs before climbing back towards the village. Buy lunch before the hike; there are no food stops along the forest trail.
 
 ## Day 9: Luxembourg
 
@@ -98,4 +104,6 @@ Cross the Alzette below the old fortifications, then take the public lift back t
 
 ![The fortifications of Luxembourg](images/blog/luxembourg1.jpg)
 
-Visit the Bock promontory and casemates, then take the tram across to Kirchberg for the modern institutions and Mudam. Public transport is free within Luxembourg.
+Visit the **Bock promontory and casemates**, the passages cut into the city's old defences. The openings look over the lower town and the Alzette valley.
+
+Walk to **Hamilius** for the tram towards **Kirchberg**, getting off at **Philharmonie–Mudam**. **Mudam** occupies a modern building beside **Fort Thüngen**; the fort houses the **Musée Dräi Eechelen**, and the park has views back towards the old city. Buses, trams and second-class trains are free within Luxembourg; the German part of the Trier journey still needs a ticket.

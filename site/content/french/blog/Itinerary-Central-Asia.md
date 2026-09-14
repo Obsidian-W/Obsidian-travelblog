@@ -15,6 +15,12 @@ draft: false
 >  
 > Mon itinéraire à travers l'Asie centrale, de la mer Caspienne aux Portes de l'Enfer.
 
+**Guide par pays actuellement publié à partir de ce voyage :**
+
+- [Trois jours au Turkménistan](/fr/blog/itinerary-turkmenistan/)
+
+Les autres extraits par pays sont encore en cours de rédaction. Cette page reste le parcours complet à travers les cinq pays.
+
 ---
 
 Avant de rentrer dans le détail, quelques repères :

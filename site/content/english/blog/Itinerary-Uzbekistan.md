@@ -9,28 +9,27 @@ continents: ["Asia"]
 draft: true
 ---
 
-> **Part of a larger journey:** this focused Uzbekistan guide is adapted from the Uzbekistan section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the country detail, or open the complete trip for the full route from the Caspian Sea to Turkmenistan.
+[Full Central Asia itinerary](/blog/itinerary-central-asia/)
 
-I entered from Khujand, crossed the country through its major Silk Road cities, then continued from Khiva towards Turkmenistan.
+{{< worth-o-meter score="9" >}}
+Uzbekistan is a dream for architecture lovers! And for Plov lovers too!
+The only regret is lack of activities, after a while, things can get same-y. So definitely add a trip to Chimgan to break the monotony.
+{{< /worth-o-meter >}}
 
-# Itinerary done quick
+# Itinerary
 
-## 🇺🇿 UZBEKISTAN
-
-|    Day    |            Destination            |           Notes            |
-| :-------: | :-------------------------------: | :------------------------: |
-|   Day 1   |  [Arrival in Tashkent](#day-1-arrival-in-tashkent)  | Border crossing and Chorsu |
-|   Day 2   |  [Tashkent](#day-2-tashkent)  | Metro, museums and city centre |
-|   Day 3   | [Tashkent to Samarkand](#day-3-tashkent-to-samarkand) | Gur-e Amir and Registan |
-|   Day 4   | [Samarkand](#day-4-samarkand) | Shah-i-Zinda and Afrosiyob |
-|   Day 5   |   [Bukhara old city](#day-5-bukhara-old-city)   | Poi-Kalyan and trading domes |
-|   Day 6   |   [Bukhara](#day-6-bukhara)   | Ark, backstreets and Lyabi-Hauz |
-|   Day 7   |     [Road to Khiva](#day-7-road-to-khiva)     | Train west and first Ichan Kala walk |
-|   Day 8   |     [Khiva](#day-8-khiva)     | Palaces, minarets and rooftops |
-|   Day 9   | [Nukus](#day-9-nukus) | Savitsky Museum and regional capital |
-|   Day 10   | [Muynak and the Aral Sea](#day-10-muynak-and-the-aral-sea) | Ship cemetery and former shoreline |
-
----
+| Day | Destination | Notes |
+|:---:|:---|:---|
+| Day 1 | [Tashkent](#day-1-arrival-in-tashkent) | Border crossing, Chorsu and Khast-Imam |
+| Day 2 | [Tashkent](#day-2-tashkent) | Metro stations, Amir Timur Square and Soviet mosaics |
+| Day 3 | [Samarkand](#day-3-tashkent-to-samarkand) | Bus, Gur-e Amir, Registan and Bibi Khanym |
+| Day 4 | [Samarkand](#day-4-samarkand) | Ulug Beg Observatory, Afrosiyob and Shah-i-Zinda |
+| Day 5 | [Bukhara](#day-5-bukhara-old-city) | Poi-Kalyan, trading domes and Lyabi-Hauz |
+| Day 6 | [Bukhara](#day-6-bukhara) | Ark Fortress, Bolo Hauz and old-town lanes |
+| Day 7 | [Khiva](#day-7-road-to-khiva) | Train west, Kalta Minor and Kuhna Ark |
+| Day 8 | [Khiva](#day-8-khiva) | Tosh Hovli, Juma Mosque and Islam Khodja |
+| Day 9 | [Nukus](#day-9-nukus) | Savitsky Museum, Mizdakhan and Gyaur-Kala |
+| Day 10 | [Muynak & Aral Sea](#day-10-muynak-and-the-aral-sea) | Ship cemetery and former fishing port |
 
 ---
 
@@ -38,18 +37,19 @@ I entered from Khujand, crossed the country through its major Silk Road cities, 
 
 ![Trip](images/blog/tashkent.jpg)
 
+The crossing from **Khujand** involved long queues in the sun on the Tajik side and a single building for passport control. The Uzbek side was faster. Then came a crowded marshrutka and several detours through the suburbs before reaching **Tashkent**.
 
-Crossing from Khujand into Uzbekistan takes time beneath the blazing sun. The Tajik side involves long queues and a single building for passport control, while the Uzbek side proves faster but no less chaotic. The final leg to Tashkent feels like a scene from a road movie; crowded marshrutkas, animated drivers, and endless detours through suburban streets before the capital’s skyline finally appears.
+The road crossing is **Buston–Oybek**. The Uzbek side is around **95 km from Tashkent**, about **two hours by car**, in addition to the drive from Khujand and the border formalities.
 
-After the border crossing, keep the plan compact. Visit **Chorsu Bazaar** if there is enough daylight, then walk around the surrounding old-city streets or settle near a metro station for the next day.
+Start with **Chorsu Bazaar**, beneath the huge domed roof. The stalls sell spices, fruit and piles of melons. Walk through the surrounding market streets, then continue to **Khast-Imam**, with its blue-domed mosques, courtyards and Quran collection.
 
 ---
 
 ## Day 2 Tashkent
 
-Tashkent has wide boulevards, fountains and manicured parks. Start with the reconstructed **Khast-Imam complex**, return to Chorsu if the market was closed after arrival, then use the metro to reach **Amir Timur Square** and the Soviet-era buildings and mosaics around the centre.
+For the second day, use the **metro** to reach **Amir Timur Square** and the central avenues. Stop at **Kosmonavtlar** and **Alisher Navoi**, then change at **Pakhtakor** for the line to Amir Timur Xiyoboni. These are among the decorated stations on the [Tashkent metro](https://uzbekistan.travel/en/o/metro-in-tashkent/).
 
-The Tashkent Metro, built in the 1970s, has marble halls, chandeliers and individually designed stations. By night, the central parks glow with fountains and soft music.
+Above ground, there are Soviet mosaics and large concrete buildings along the boulevards. Between them are parks and fountains.
 
 ---
 
@@ -57,35 +57,45 @@ The Tashkent Metro, built in the 1970s, has marble halls, chandeliers and indivi
 
 ![Trip](images/blog/samarkand.jpg)
 
+The morning bus from **Tashkent** reached **Samarkand** by early afternoon. Buses leave from **Tashkent Avtovokzal**, beside **Olmazor metro station** on Bunyodkor Avenue; the journey is roughly **4–5 hours**.
 
-The morning bus from Tashkent reaches Samarkand by early afternoon. Heat shimmers over the city’s turquoise domes, and the Gur‑i Amir Mausoleum rises like a mirage; its golden interior reflecting the ambition of Timur’s empire. A short walk away lies the legendary Registan, three madrassas framing the square with perfect symmetry. At sunset, the tiles flare gold and cobalt, and the evening light‑and‑sound show fills the plaza with theatrical grandeur.
+Begin at **Gur-e Amir**, Timur's mausoleum. Its blue dome is visible from outside, but the gilded interior is the main part of the visit. From there, walk to the **Registan**, with its three madrassas facing the square.
 
-Keep the arrival day around **Gur-e Amir** and the **Registan**. They are close enough to visit without crossing the whole city after the bus journey, and the Registan is worth seeing again around sunset.
+Visit **Ulug Beg**, **Sher-Dor** and **Tilya-Kori**, including the courtyards and the gold-covered mosque inside Tilya-Kori. Return to the square around sunset for the illuminated façades.
+
+From the Registan, the pedestrian street continues towards **Bibi Khanym Mosque** and **Siab Bazaar**. Bibi Khanym was partly restored, with very large gateways and domes. The market is beside it.
 
 ---
 
 ## Day 4 Samarkand
 
-Start with **Shah-i-Zinda**, then continue to **Bibi Khanym Mosque** and **Siab Bazaar**. Use the afternoon for **Ulug Beg Observatory** and the **Afrosiyob Museum**, which are farther from the central monument cluster.
+On the second day, go to **Ulug Beg Observatory** and the **Afrosiyob Museum**. The museum holds the surviving wall paintings from ancient Samarkand; the archaeological site around it is the earlier city.
 
-As daylight fades, travelers often continue toward Bukhara, a long road west through endless fields and distant mountains.
+Finish at **Shah-i-Zinda**, where a stairway leads between the tiled mausoleums. The mausoleums have carved terracotta, glazed tiles and geometric mosaics, with different decoration on each doorway.
+
+For **Samarkand–Bukhara**, daytime trains take roughly **1:30–3 hours**, depending on the service. Buy tickets through [Uzbekistan Railways](https://eticket.railway.uz/en/). Bukhara's station is in **Kagan**, about **15 km outside the old city**, so there is another transfer after the train.
 
 ---
 
 ## Day 5 Bukhara old city
 
-![Trip](images/blog/tashkent.jpg)
+![Trip](images/blog/bukhara.jpg)
 
+Bukhara has narrow lanes, sand-coloured walls and courtyards between the mosques and madrassas.
 
-Bukhara reveals itself as a labyrinth of sand‑colored walls, minarets, and quiet courtyards. The Po‑i Kalyan complex dominates the skyline, its great minaret once serving as both landmark and legend. Around it, mosques, madrassas, and caravanserais evoke centuries of Silk Road history. The air carries the scent of samsas baking in clay ovens, mingling with the sound of prayers and merchants calling from shaded stalls.
+Start at **Poi-Kalyan**: the brick minaret stands beside **Kalyan Mosque**, facing **Mir-i-Arab Madrassa**. From there, walk through the covered trading domes and the streets of ceramics and jewellery workshops towards **Lyabi-Hauz**.
 
-Use the first day for the continuous walking route from **Lyabi-Hauz** through the trading domes to **Poi-Kalyan**. These sights are close together and remain easy to revisit after dark.
+The square is built around a pond, with mulberry trees and places to sit for tea.
 
 ---
 
 ## Day 6 Bukhara
 
-Spend the morning at the **Ark Fortress**, **Bolo Hauz** and the sights west of the main old-city route. The afternoon can be used for smaller madrassas, residential lanes and workshops before returning to Lyabi-Hauz in the evening.
+For the second day, visit the **Ark Fortress**, the former residence of Bukhara's rulers, and **Bolo Hauz Mosque** across the square. The wooden columns of its porch stand beside another pool.
+
+Continue west to **Chashma Ayub** and the [**Samanid Mausoleum**](https://uzbekistan.travel/en/o/10-amazing-facts-about-samanid-mausoleum/). The Samanid tomb is built from patterned brickwork rather than the blue tiles seen elsewhere on this route.
+
+The onward train to **Khiva** leaves from Kagan. Depending on the service, the journey takes roughly **3:20–5:40**. Tickets are sold by [Uzbekistan Railways](https://eticket.railway.uz/en/).
 
 ---
 
@@ -93,15 +103,19 @@ Spend the morning at the **Ark Fortress**, **Bolo Hauz** and the sights west of 
 
 ![Trip](images/blog/khiva.jpg)
 
-The journey west continues by train through the steppe, leading to the walled oasis of Khiva. The Ichan Kala old town feels almost untouched, a compact maze of alleys, mud‑brick houses, and minarets glowing blue and sand‑gold under the heat. During the Melon Festival, the streets fill with music and parades, locals offering slices of sweet fruit to passing travelers.
+The train crossed the steppe to **Khiva**. Inside the walls of **Ichan Kala**, the streets run between mud-brick houses, madrassas and tiled minarets.
 
-After the train and transfer, keep the first visit to an orientation walk inside **Ichan Kala**. The walls, main gates and Kalta Minor are enough for the arrival day, especially if the train reaches Khiva in the afternoon.
+Begin around **Kalta Minor**, the broad, unfinished minaret covered in turquoise tiles, then visit **Kuhna Ark**, the fortified residence of the khans.
 
 ---
 
 ## Day 8 Khiva
 
-Within the walls, the Kalta Minor Minaret stands unfinished but striking, wrapped in turquoise tiles. The Kuhna Ark, Tosh Hovli Palace, and countless madrassas preserve the flavor of a desert kingdom. By sunset, Khiva’s rooftops turn copper and rose, and the call to prayer echoes through the silent streets, a moment suspended in time.
+The following day, walk to **Tosh Hovli Palace** for its tiled courtyards and carved wooden columns. **Juma Mosque** has rows of wooden pillars supporting the roof, and the **Islam Khodja minaret** rises over this side of the old town.
+
+The **Melon Festival** brought music and parades into the streets, with people offering slices of fruit to passing visitors.
+
+From the rooftops and city walls, you can see over the houses to the minarets.
 
 ---
 
@@ -109,19 +123,28 @@ Within the walls, the Kalta Minor Minaret stands unfinished but striking, wrappe
 
 ![Trip](images/blog/karakalpakstan.jpg)
 
+From **Khiva**, the drive north to **Nukus** takes roughly **3–4 hours**, about **200 km**.
 
-A long drive north leads to Nukus, gateway to the Karakalpakstan region and the once‑mighty Aral Sea. Give the **Savitsky Museum** several hours for its avant-garde Soviet art and Karakalpak collection. If the arrival time allows, add the city centre or arrange the next day's driver rather than starting the Aral Sea road immediately.
+Visit the **Savitsky Museum**, with its collection of Soviet avant-garde art, including works saved from censorship, and Karakalpak art and objects. Outside Nukus, there is **Mizdakhan Necropolis**, with its tombs and mausoleums, and the nearby remains of **Gyaur-Kala Fortress**.
 
 ---
 
 ## Day 10 Muynak and the Aral Sea
 
-The drive to **Muynak** and the former Aral Sea shoreline is a separate excursion from Nukus. The Ship Cemetery tells the story of the ecological disaster through rusted hulls stranded in the sand, while the museum in town adds context before the return drive.
+The second day is the trip to **Muynak**, the former fishing port on the **Aral Sea**. It is around **three hours each way from Nukus** by road; a driver booked in Nukus can combine the ship cemetery with the necropolis on the return.
+
+At the **Ship Cemetery**, rusting fishing boats lie in the sand below the old shoreline. You can walk down from the cliff to the boats. The town's museum covers the fishing industry and the loss of the sea.
+
+There is no water beside Muynak anymore. The remaining shore is farther away and needs a longer excursion.
+
+For the continuation into **Turkmenistan**, my border departure was from **Khiva**, as described in my [Turkmenistan itinerary](/blog/itinerary-turkmenistan/). The return from Nukus to Khiva is another **3–4 hours** by road.
+
+---
 
 ## More days? Planned vs Done
 
 ### Chimgan, Charvak and Ugam-Chatkal
 
-The obvious addition near Tashkent is the mountain area around **Chimgan**, **Charvak Reservoir** and [**Ugam-Chatkal National Park**](https://gov.uz/en/eco/news/view/22767). I did not go, so this is a recommendation rather than a missing chapter from my trip.
+Near Tashkent, you can add the mountain area around **Chimgan**, **Charvak Reservoir** and [**Ugam-Chatkal National Park**](https://gov.uz/en/eco/news/view/22767). I did not go.
 
-Use one day for the standard Chimgan and Charvak excursion. With two days, stay in the area and go farther into Ugam-Chatkal for an actual hike and the lakes instead of compressing the mountains into stops between drives. It also gives some relief after a route dominated by cities, monuments and hot desert roads.
+Use one day for a Chimgan and Charvak excursion. With two days, stay overnight and add a hike in Ugam-Chatkal.

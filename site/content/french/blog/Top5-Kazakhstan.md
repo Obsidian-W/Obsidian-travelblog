@@ -49,7 +49,7 @@ Almaty est aussi la base la plus pratique avant de continuer vers le Kirghizista
 
 **Charyn Canyon** et les **Kolsai Lakes** forment la grande sortie classique à l'est d'Almaty. Charyn est l'étape la plus simple ; Kolsai et Kaindy demandent plus de route et fonctionnent mieux avec une nuit sur place.
 
-Prévois une longue journée pour Charyn seul, ou deux jours pour Charyn avec Kolsai et Kaindy. Les tours de groupe depuis Almaty sont courants et évitent le problème du dernier tronçon. En transport public, la difficulté vient surtout des accès finaux.
+Prévois une longue journée pour Charyn seul, ou deux jours pour Charyn avec Kolsai et Kaindy. Les tours de groupe depuis Almaty sont courants. Sans tour, prends un bus ou taxi partagé depuis Almaty, puis arrange le dernier trajet sur place.
 
 Du printemps à l'automne, l'accès est plus simple. En hiver, vérifie routes et conditions avant de réserver.
 

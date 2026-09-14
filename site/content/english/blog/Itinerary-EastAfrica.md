@@ -18,6 +18,15 @@ draft: false
 > originally, it was supposed to last one more week, it changed due to a awful event that happened
 > And shook me up, I'll specify the section that has been changed.
 
+**Focused country guides from this journey:**
+
+- [Three weeks in Ethiopia — the journey before the southern route](/blog/itinerary-ethiopia/)
+- [Two weeks in Tanzania](/blog/itinerary-tanzania/)
+- [One week in Uganda](/blog/itinerary-uganda/)
+- [One week in Rwanda](/blog/itinerary-rwanda/)
+
+The country pages deliberately reuse their relevant days from this complete trip, but make each section easier to plan on its own.
+
 
 {{< youtube vUrVeRGo5IM >}}
 
@@ -36,10 +45,15 @@ Before diving into my itinerary, a few considerations:
 - [Tips on how to travel Africa](/blog/tips-africa)
 - [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
 
+{{< worth-o-meter score="6" >}}
+East Africa could have been better, but due to the scams, the lack of security and the poor infrastructure,
+just like Ethiopa, I can't give it more than 6. This part of the world is beautiful, vibrant, culturally impressive, with a lot of history,
+natural sights everywhere... But, it is not ready yet for tourismn held back by its own governements.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ![Dreamy Zanzibar](images/blog/zanzibar.jpg)
-
 
 ## 🇹🇿 TANZANIA
 
@@ -466,16 +480,17 @@ Spend the late afternoon preparing for the long road to Uganda. I took a night b
 
 ## Day 23 Road to Kampala
 
-Bus north through the **Busia** border (12h +).  
-Do take a night bus, it's better.
+I entered Uganda straight from Nairobi on a long night bus, mostly filled with locals. It was comfortable but slow, especially around the **Busia** border. The border itself was messy and felt unfit for the twenty-first century.
 
-Arrive in **Kampala** in the afternoon, visit the **Gaddafi Mosque** near the bus station
-or go to your hotel and visit whatever you want.
-It depends on your energy. 
+In **Kampala**, visit the **Gaddafi Mosque** near the main bus station if you still have energy. On my first day, I only managed the mosque and the walk across the hills to my hostel. Do not overload your arrival: Kampala can be exhausting.
 
 > Kampala is crazy busy. Taking motorbike rides is especially crazy, no wonder
 > there are a lot of road accidents and death.
 > They call them boda-bodas here. But sometimes, I still say Tuk-Tuk.
+
+If Jinja is not your plan for the next day, use the remaining time to arrange upcoming trips with local agencies or visit the national museum.
+
+I stayed two nights at **Acacia Villa Kampala**. At the time, a private room was 10 USD per night, with an amazing view over the city.
 
 ---
 
@@ -488,16 +503,23 @@ Or, like me, visit the city a bit more in depth.
 I went to the Kasubi tombs, I checked viewpoints, ate some rolled eggs,
 saw the Hindu temple, rode Boda bodas at my life's peril...
 
-The city is chaotic but friendly, but walking is suicidal.
+The city is chaotic but friendly, but walking is suicidal in some parts.
+
+If you have three extra days, [this Murchison Falls safari from Kampala is a practical add-on (affiliate link)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not take that specific tour, and it does not fit this route unless you extend it. Murchison was part of my initial plan before the trip was shortened because of what happened in Tanzania.
+
+For a walking route, start at the **Independence Monument**, head south to the **Shiva Temple** and **Shree Swaminarayan Mandir**, then continue to **Kabaka's Palace**. That is where I gave up on walking and took a boda-boda to the **Kasubi Tombs**, eating a Rolex nearby while I waited for them to open. By then it was already 5 PM. Starting earlier leaves time for the museum too.
+
+I did not visit it, but the **Baha'i House of Worship** in northern Kampala is another option, especially if its faith and architecture are new to you.
 
 ---
 
 ## Day 25 Road to Fort Portal
 
-Early departure west (7–8 h).  
-**Fort Portal** is green, with views of the Rwenzori Mountains.  
-There isn't much to see, so I ate and went further in the mountains, through a road in construction
-to get to my hostel.
+I found long-distance buses at the same station where I had arrived. I waited in the bus before 9 AM, left around 10 AM and reached **Fort Portal** at 6 PM.
+
+Fort Portal is green, with views of the Rwenzori Mountains, but there was little to keep me there. I immediately continued by minibus to **Kasese**; asking around was enough to find it.
+
+At about 7:30 PM, after eating, I continued by motorbike into the mountains. The road was under construction and may also have been hit by a landslide. The driver and I had to carry the bike through a few sections, in the dark. At around 9 PM, I finally reached **Rwenzori Trekking**, which has tents, other accommodation and organizes mountain tours.
 
 ---
 
@@ -509,6 +531,9 @@ Trek or hike shorter routes near the base.
 If you're not climbing fully, there are beautiful day trails around **Ruboni Village**.
 Otherwise, try to get to a good altitude to see the unique plants.
 
+For the full mountain rather than my short visit, [this seven-day Rwenzori trek to Margherita Peak is a long option (affiliate link)](https://www.getyourguide.com/uganda-l169189/9-days-rwenzori-trek-to-margherita-peak-in-uganda-t414530/?partner_id=H1N6CGH&utm_medium=online_publisher). I did not use that operator.
+
+Because of the price, I only did a shorter portion. Two days already become costly, but that is when you start seeing the unique vegetation. My memory of this part is blurred, possibly because of what happened or the medication.
 
 ---
 
@@ -516,9 +541,10 @@ Otherwise, try to get to a good altitude to see the unique plants.
 
 Second day of hiking. 
 You can sleep in one of the lodge then go higher to see the plants and stuff!
-Honestly, it's one of the prettiest part of East Africa.
 
 > Rwenzoris means moon mountains. What a lovely name!
+
+This is where my memories become too blurred. Looking through my phone later, I realized the photos from this whole part were somehow missing. I am sorry this section cannot be more precise.
 
 
 ---
@@ -527,13 +553,20 @@ Honestly, it's one of the prettiest part of East Africa.
 
 Rough day on bad roads.  
 It was like 12 hours, I got stuck at the back of a 12 seaters with 20 people.
-A big black guy, sitting on my lap, a girl vomiting just in front of me, the only openable window open
-right next to me, with stops lasting hours and autists trying to touch me or grab me.
+A passenger was partly sitting on my lap, a girl was vomiting in front of me, the only opening window was beside me, stops lasted for hours, and other passengers kept trying to touch or grab me.
 
 It was genuinely awful.
 But at the time I went there, there were no other ways direct from the Rwenzoris.
 
 > A better/nicer option might be to go back to Kampala...
+
+To avoid stacking trips like this, I would do Murchison, the Rwenzori, a day in Kampala, and then Lake Bunyonyi.
+
+I reached **Kabale** late and asked a boda-boda to take me to the docks. There, you need to negotiate directly for a boat. Since it was late, it was harder, but I got the driver's number and his promise to collect me from the island.
+
+> Fuel is expensive in Uganda, which helps explain the boat price. The crossing took more than twenty minutes.
+
+I spent three nights at **Byoona Amagara**. The food was excellent, shared books were available, and I could take boat tours, swim by the docks and properly rest.
 
 ---
 
@@ -541,12 +574,19 @@ But at the time I went there, there were no other ways direct from the Rwenzoris
 
 ![Bunyonyi](images/blog/bunyoni.jpg)
 
-Arrive by noon and take a small boat across **Lake Bunyonyi**.  
 Quiet, scenic, dotted with small islands.  
 A perfect spot to rest and read!
 
 On the second day, kayak, read, and recharge before entering Rwanda.
 I really needed this rest, and so did many travelers.
+
+A boat tour takes a few hours and is best in the morning or evening. It circles the main islands, sometimes stopping along the way, with wildlife, plants, local life and plenty of natural beauty. **Byoona Amagara** was absolutely idyllic.
+
+## More days in Uganda?
+
+These nine days included almost four spent in transport. For a better two-week trip, add three days for **Murchison**, another day to climb higher in the **Rwenzori**, and one or two days around **Jinja**.
+
+With even more time, add two or three days for **Bwindi Impenetrable Forest**. From Kasese, the route is **Kasese → Kisoro → Rubuguri**, using two minibuses. Rather than backtracking afterward, continue via **Cyanika** to **Ruhengeri, Rwanda**.
 
 ---
 # Rwanda
@@ -554,10 +594,9 @@ I really needed this rest, and so did many travelers.
 
 ## Day 31 Road to Kigali
 
-Cross the border at **Katuna**.  
-Smooth and organized.  
-Arrive in **Kigali** by afternoon; it's clean, hilly and calm.
-I decided to relax.
+From Kabale, I easily found a bus or minibus to **Gatuna**, on the Rwandan border. The modern crossing and kind staff genuinely impressed me.
+
+On the other side, many touts immediately offered transport. I took a large, already crowded bus that was leaving right away: no lies, no overpricing, and an essentially smooth journey to **Kigali**.
 
 ---
 

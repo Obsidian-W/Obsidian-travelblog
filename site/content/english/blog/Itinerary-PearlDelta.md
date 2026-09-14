@@ -31,6 +31,13 @@ Before diving into my itinerary, a few considerations:
 I did a loop itinerary from/to Shenzhen as the flights were less than 100$ both ways from Phnom Penh,
 so I'll keep that order, adapt to your situation ;)
 
+
+{{< worth-o-meter score="7.5" >}}
+Shenzhen and Guangzhou left me hungry for more, they were just... Not enough things to do?
+I expected more of Guangzhou, really.
+But Hong Kong and Macau do absolutely rise the score! So give it the focus. They are both worth one more day.
+{{< /worth-o-meter >}}
+
 \_\_\_\_
 
 # Itinerary done quick

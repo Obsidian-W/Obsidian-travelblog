@@ -79,7 +79,7 @@ Take the night bus to Huaraz. Lima has separate private bus terminals rather tha
 
 ## Day 2: Huaraz
 
-Keep the first day in **Huaraz** for acclimatisation. Walk around Plaza de Armas, the Regional Museum of Ancash and its stone garden, then climb to a viewpoint above town.
+Keep the first day in **Huaraz** for acclimatisation after the night bus from Lima. The private bus companies arrive at their own offices in town, not at one universal terminal. Walk around Plaza de Armas, the Regional Museum of Ancash and its stone garden, then climb to a viewpoint above town.
 
 I booked the next three Cordillera Blanca day trips through the hostel for about **€10 each**. Every evening I returned to the same bed in Huaraz.
 
@@ -93,7 +93,7 @@ Take the hostel minibus south for **Pastoruri Glacier**. The drive crosses the h
 
 ![Laguna 69 in the Cordillera Blanca](images/blog/peru2.jpg)
 
-Leave before dawn for the **Laguna 69** trailhead in Huascarán National Park. The path climbs past waterfalls and a broad glacial valley before the final steep section to the turquoise lake. This was another hostel-booked day trip, with transport back to Huaraz after the hike.
+Leave before dawn in the hostel minibus for the **Laguna 69** trailhead in Huascarán National Park. The path climbs past waterfalls and a broad glacial valley before the final steep section to the turquoise lake. This was another hostel-booked day trip, with transport back to Huaraz after the hike.
 
 ## Day 5: Laguna Paron
 
@@ -103,15 +103,15 @@ Take the third hostel excursion to **Laguna Parón**. Walk beside the lake and c
 
 ![Historic central Trujillo](images/blog/peru3.jpg)
 
-Walk around Trujillo's Plaza de Armas, cathedral and coloured colonial façades. In the afternoon, take a combi towards Moche or a local tour to the **Huacas del Sol y de la Luna**. The painted walls inside Huaca de la Luna are the main reason to come.
+Arrive in Trujillo after the night bus from Huaraz and leave the bag at the accommodation. Walk around Trujillo's Plaza de Armas, cathedral and coloured colonial façades. In the afternoon, take a combi towards Moche or a local tour to the **Huacas del Sol y de la Luna**. The painted walls inside Huaca de la Luna are the main reason to come.
 
 ## Day 7: Chan Chan and Huanchaco
 
-Take a westbound combi or shared tour to **Chan Chan**, then continue to **Huanchaco** on the same side of Trujillo. Visit the beach and the *caballitos de totora*; I also went surfing here. Return to Trujillo for the night bus south.
+Take a westbound combi or shared tour to **Chan Chan**, then continue to **Huanchaco** on the same side of Trujillo. Visit the beach and the *caballitos de totora*; I also went surfing here. Return to Trujillo, collect the bag and take the night bus south to Lima.
 
 ## Day 8: Lima to Paracas
 
-After the night bus, leave the bag and use the morning for one Lima museum, such as the Larco Museum or the Museum of Art of Lima. Take an afternoon bus to **Paracas** and walk around the harbour after checking in.
+After the night bus, leave the bag in Lima and use the morning for one museum, such as the Larco Museum or the Museum of Art of Lima. Take an afternoon southbound bus to **Paracas** from the operator terminal printed on the ticket, then walk around the harbour after checking in.
 
 ## Day 9: Paracas
 
@@ -121,7 +121,7 @@ Take the morning boat to the **Ballestas Islands**, then join a van through **Pa
 
 ## Day 10: Ica and Huacachina
 
-Take the bus to **Ica**, then a taxi or local connection to **Huacachina**. Walk around the oasis and join a late-afternoon dune-buggy and sandboarding trip. Return to Ica for the evening bus to Nazca.
+Take the bus to **Ica**, then use the short local connection or a booked transfer to **Huacachina**. Walk around the oasis and join a late-afternoon dune-buggy and sandboarding trip. Return to Ica for the evening bus to Nazca.
 
 ## Day 11: Nazca
 
@@ -136,13 +136,13 @@ I got lost walking through the poorer outskirts of Nazca; that is where the seco
 
 ![Santa Catalina Monastery in Arequipa](images/blog/peru6.jpg)
 
-Walk around the white-stone Plaza de Armas, cathedral and Church of the Company, then spend the afternoon inside **Santa Catalina Monastery**. Book the Colca Canyon departure and leave the main bag at the accommodation.
+Arrive in Arequipa after the night bus from Nazca. Walk around the white-stone Plaza de Armas, cathedral and Church of the Company, then spend the afternoon inside **Santa Catalina Monastery**. Book the Colca Canyon departure and leave the main bag at the accommodation.
 
 ## Day 13: Colca Canyon
 
 ![The landscape outside Arequipa](images/blog/peru7.jpg)
 
-Leave Arequipa early on the booked two-day trip. Stop at **Cruz del Cóndor**, then begin the long descent into **Colca Canyon**. The trail drops towards the villages and the oasis at the bottom, where the group sleeps.
+Leave Arequipa early on the booked two-day trip. The agency vehicle handles the road through Chivay and the stop at **Cruz del Cóndor**, then the hiking part begins with the long descent into **Colca Canyon**. The trail drops towards the villages and the oasis at the bottom, where the group sleeps.
 
 ## Day 14: Colca Canyon
 
@@ -156,23 +156,23 @@ Collect the equipment and confirm the pickup for the five-day Machu Picchu trek.
 
 ## Day 16: Rainbow Mountain
 
-Leave before dawn on a shared excursion to **Rainbow Mountain**. The trail starts at extreme altitude and climbs towards the striped ridge, with Ausangate visible beyond it. Return to Cusco for the evening cultural performance.
+Leave before dawn on a shared minibus excursion to **Rainbow Mountain**. The road transfer takes most of the early morning before the walk even starts. The trail begins at extreme altitude and climbs towards the striped ridge, with Ausangate visible beyond it. Return to Cusco for the evening cultural performance.
 
 ## Day 17: Machu Picchu hike
 
-Begin the **five-day booked trek**. My package included the Machu Picchu reservation, transport, food and the guide. The first day passed Humantay Lake before the first camp.
+Begin the **five-day booked trek**. My package included the Machu Picchu reservation, transport, food and the guide, including the road transfer from Cusco to the trail start. The first day passed Humantay Lake before the first camp.
 
 ## Day 18: Machu Picchu hike
 
-Cross **Salkantay Pass**, the highest and coldest part of the trek, then descend towards the next camp.
+Cross **Salkantay Pass**, the highest and coldest part of the trek, then descend towards the next camp. This is a walking stage; the bag and camp logistics depend on the booked trek package.
 
 ## Day 19: Machu Picchu hike
 
-Continue down into the warmer cloud forest through the valleys below Salkantay. The vegetation and temperature change completely during this stage.
+Continue walking down into the warmer cloud forest through the valleys below Salkantay. The vegetation and temperature change completely during this stage.
 
 ## Day 20: Machu Picchu hike
 
-Follow the final approach towards Aguas Calientes, partly along the railway and Urubamba valley. Sleep close to Machu Picchu for the reserved entrance the next morning.
+Walk the final approach towards Aguas Calientes, partly along the railway and Urubamba valley. Sleep close to Machu Picchu for the reserved entrance the next morning.
 
 ## Day 21: Machu Picchu
 
@@ -200,7 +200,7 @@ This was the complete day based at the lodge. We navigated the river and smaller
 
 ## Day 26: Puerto Maldonado
 
-Finish the final lodge activity, return by boat and road to Puerto Maldonado, then take the night bus towards Juliaca and Puno.
+Finish the final lodge activity, return by boat and road to Puerto Maldonado, then take the night bus towards Juliaca and Puno. This is the long jungle-to-Andes transfer before Lake Titicaca.
 
 ## Day 27: Amantani
 
@@ -244,7 +244,7 @@ After reaching **Torotoro**, leave the bag, register at the national-park office
 
 ![The landscape around Torotoro](images/blog/bolivia2.jpg)
 
-Start with the dinosaur footprints near town, then continue with a guide towards the viewpoints over **Vergel Canyon**. The full circuit descends into the canyon towards the waterfalls before climbing back to the rim.
+Start with the dinosaur footprints near town, then continue with a guide towards the viewpoints over **Vergel Canyon**. Torotoro National Park routes are handled through the village guide system, not by jumping on public buses between trailheads. The full circuit descends into the canyon towards the waterfalls before climbing back to the rim.
 
 ## Day 33: Torotoro
 
@@ -282,13 +282,13 @@ My **four-day Uyuni trip** was booked online. The first day began at the train c
 
 ![Incahuasi during the Uyuni tour](images/blog/bolivia5.jpg)
 
-Continue across the salar towards **Incahuasi Island**, when water and seasonal conditions allow access. The cactus-covered island, salt polygons and distant volcanoes occupy most of the day before another remote overnight stop.
+Continue across the salar in the tour vehicle towards **Incahuasi Island**, when water and seasonal conditions allow access. The cactus-covered island, salt polygons and distant volcanoes occupy most of the day before another remote overnight stop.
 
 ## Day 40: Uyuni tour
 
 ![A coloured lagoon on the Uyuni tour](images/blog/bolivia6.jpg)
 
-Cross the high-altitude desert through the stone formations and coloured lagoons of the Eduardo Avaroa reserve. This is the longest driving section, with stops for flamingos and the volcanic landscape between the lagoons.
+Cross the high-altitude desert in the same 4x4 through the stone formations and coloured lagoons of the Eduardo Avaroa reserve. This is the longest driving section, with stops for flamingos and the volcanic landscape between the lagoons.
 
 ## Day 41: Uyuni tour
 
@@ -310,7 +310,7 @@ Leave the luggage at the accommodation and walk around the adobe centre, **San P
 
 ![A stop during the Atacama cycling trip](images/blog/chileExtra.jpg)
 
-Leave before dawn for **El Tatio**. The geyser field is more than 4,000 metres above sea level and the tours arrive during the coldest part of the morning, when the steam is most visible. Stops on the return vary between operators and may include the wetlands and small villages north of San Pedro.
+Leave before dawn by tour bus or minibus for **El Tatio**. The geyser field is more than 4,000 metres above sea level and the tours arrive during the coldest part of the morning, when the steam is most visible. Stops on the return vary between operators and may include the wetlands and small villages north of San Pedro.
 
 Return to town for the afternoon. The Altiplanic Lagoons and Salar de Atacama require a separate excursion day.
 
@@ -368,7 +368,7 @@ I booked locally. [GetYourGuide also lists Torres del Paine photography tours, i
 ![Base Torres covered in snow](images/blog/patagonia2.jpg)
 *Base Torres in winter.*
 
-The second tour was a full-day hike to **Base Torres**, booked with the same agency.
+The second tour was a full-day hike to **Base Torres**, booked with the same agency. The agency transfer left Puerto Natales early and brought the group back after the hike.
 
 We left Puerto Natales early and started near **Hotel Las Torres**. The return hike is roughly **20 kilometres** and took most of the day. There weren't many people insane enough to do it in that weather, so our group was small.
 

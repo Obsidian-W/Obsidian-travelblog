@@ -26,7 +26,7 @@ draft: true
 | Day 5 | [Golden Circle](#day-5-golden-circle) | Thingvellir, Geysir, Gullfoss and Kerið |
 | Day 6 | [Fagradalsfjall](#day-6-fagradalsfjall) | Hike to the 2021 eruption |
 
-All four excursions left Reykjavik and returned there in the evening. I kept the same accommodation for the whole trip. Travelling alone, the tours also cost less than renting a car for six days and gave me four very different parts of Iceland without moving my luggage every morning.
+All four excursions left Reykjavik and returned there in the evening. I kept the same accommodation for the whole trip.
 
 ## Day 1: Reykjavik
 
@@ -51,7 +51,7 @@ Continue to the old harbour and Grandi for the **Reykjavik Maritime Museum**, th
 ![Ice floating across Jökulsárlón](images/blog/iceland1.jpg)
 
 
-I booked this trip online from Reykjavik. It was the longest road day of the week: roughly fourteen hours along Route 1 through the waterfalls and black-sand coast before reaching **Jökulsárlón**. A normal South Coast tour turns around near Vík; the booking must explicitly include the glacier lagoon.
+My booked day trip followed **Route 1** from Reykjavik past the South Coast waterfalls and black-sand beaches, all the way to **Jökulsárlón**.
 
 The first major stop was **Seljalandsfoss**. In summer, the path can continue behind the waterfall, which also means getting wet even when it is not raining.
 
@@ -60,10 +60,10 @@ At **Skógafoss**, see the waterfall from below and climb the staircase for the 
 
 Reynisfjara has killed visitors. Stay well back from the water: sneaker waves travel much farther across the sand than the previous ones. Coastal erosion can also narrow the usable beach; check the [Icelandic Tourist Board's latest Reynisfjara notice](https://www.ferdamalastofa.is/en/news/category/1/reynisfjara-recent-changes-due-to-coastal-erosion) before leaving Reykjavik.
 
-The trip also went all the way to **Jökulsárlón**, where pieces of ice drift across the lagoon below Breiðamerkurjökull. Reaching it from Reykjavik makes this roughly a fourteen-hour excursion.
+At **Jökulsárlón**, pieces of ice drift across the lagoon below **Breiðamerkurjökull**. Walk along the shore for the glacier and the icebergs floating towards the sea.
 
 
-For the same long version, look for a tour that explicitly lists both Reynisfjara and Jökulsárlón; the journey takes around fourteen hours. [This current Jökulsárlón tour](https://city-sightseeing.com/en/49/reykjavik/2527/jokulsarlon-glacier-lagoon-tour) follows that route. The shorter [EastWest South Coast tour](https://eastwest.is/south-coast) turns back after Reynisfjara and Sólheimajökull and takes around ten hours.
+The full excursion takes around **fourteen hours**, including the drive back to Reykjavik. [This Jökulsárlón tour](https://city-sightseeing.com/en/49/reykjavik/2527/jokulsarlon-glacier-lagoon-tour) follows that route. The shorter [EastWest South Coast tour](https://eastwest.is/south-coast) turns back after Reynisfjara and Sólheimajökull and takes around **ten hours**. It does not reach the glacier lagoon.
 
 ## Day 4: Landmannalaugar
 
@@ -85,11 +85,11 @@ The access road is seasonal and bad weather can cancel the departure. [This curr
 
 The Golden Circle day trip covered **Thingvellir**, **Geysir**, **Gullfoss** and **Kerið**.
 
-At **Thingvellir**, walk through Almannagjá to the old parliament site and continue towards Öxarárfoss if it is included in the stop.
+At **Thingvellir**, the path through **Almannagjá** runs between the rock walls of the rift. Continue past **Lögberg**, the old parliament site, towards the church and the river. **Öxarárfoss** is farther along the gorge and needs a longer stop.
 
 At the **Geysir geothermal area**, Geysir itself is mostly dormant. Strokkur is the one erupting every few minutes. The walking paths also pass steaming ground, smaller hot springs and bubbling pools.
 
-**Gullfoss** comes next. The upper viewpoint shows both stages of the Hvítá river; the lower path descends close to the spray when it is open.
+**Gullfoss** comes next. The river drops over two tiers before disappearing into a narrow gorge. The upper viewpoint shows both falls; the lower path descends close to the spray when it is open.
 
 
 My route also stopped at **Kerið**, the red volcanic crater used as the cover photograph for this article. Walk along the rim first, then take the stairs down to the lake.

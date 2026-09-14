@@ -15,6 +15,19 @@ draft: false
 > I spent around two weeks in this amazing region following a coworker's advice.
 > One of the best advice I received, I met my ex girlfriend and my best friend in this very trip!
 
+**Focused country guides from this journey:**
+
+- [One week in Azerbaijan](/blog/itinerary-azerbaijan/)
+- [One week in Georgia](/blog/itinerary-georgia/)
+- [One week in Armenia](/blog/itinerary-armenia/)
+
+These pages reuse the relevant days from this complete route, then present them as practical country-sized itineraries.
+
+{{< worth-o-meter score="9" >}}
+A beautiful trip, through some of the prettiest mountains in the world. It's also a culinary journey and a cultural one.
+An absolute must, but better suited for three weeks or more, as it's a hiker's paradise and a region with plenty to do.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## 🇦🇿🇬🇪🇦🇲 Azerbaijan - Georgia - Armenia

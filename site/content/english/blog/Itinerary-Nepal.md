@@ -25,7 +25,7 @@ draft: true
 
 ## Day 1: Kathmandu
 
-The Tibet tour vehicle crossed the border at **Gyirong/Rasuwagadhi** and continued to Kathmandu. It was a long road day and I reached the city late in the afternoon, so this first walk stayed in the centre.
+The Tibet tour vehicle crossed the border at **Gyirong/Rasuwagadhi** and continued to Kathmandu. I reached the city late in the afternoon.
 
 Start at **Kathmandu Durbar Square** with the palace courtyards, Taleju area, Kumari Ghar and the temples around Basantapur. Continue through the lanes around **Indra Chowk**, **Asan Bazaar** and the courtyards between the old city and Thamel.
 
@@ -33,7 +33,7 @@ Start at **Kathmandu Durbar Square** with the palace courtyards, Taleju area, Ku
 
 Take a Bhaktapur-bound local bus from the **Ratna Park/Bagbazar** side of central Kathmandu. Ask the conductor for Bhaktapur and get off near the old-city entrance.
 
-Walk from **Bhaktapur Durbar Square** to **Taumadhi Square**, the five-storey Nyatapola Temple, the pottery area and **Dattatreya Square**. The old city between the squares is part of the visit: brick lanes, carved windows and small courtyards connect the headline monuments.
+Walk from **Bhaktapur Durbar Square** to **Taumadhi Square**, the five-storey Nyatapola Temple, the pottery area and **Dattatreya Square**. Around Durbar Square, the **Golden Gate** opens towards the royal palace courtyards. Taumadhi's Nyatapola stands above a steep stairway guarded by pairs of stone figures; the lanes towards Dattatreya pass carved wooden windows and small shrines.
 
 From Bhaktapur, local buses for **Nagarkot** leave from the Kamalbinayak side of town. Arrive for the viewpoints and sunset, then stay overnight.
 
@@ -41,20 +41,20 @@ From Bhaktapur, local buses for **Nagarkot** leave from the Kamalbinayak side of
 
 Walk to a Nagarkot viewpoint before sunrise, then take the local bus back through Bhaktapur to Kathmandu. On a clear morning, the Himalayan panorama appears beyond the Kathmandu Valley.
 
-In Kathmandu, visit **Boudhanath** first and walk a complete circuit around the stupa at street level. Continue to **Pashupatinath**, where the temple complex extends along both sides of the Bagmati River. Non-Hindus cannot enter the main temple, but the riverbank paths and viewpoints opposite the cremation ghats remain accessible. Boudhanath and Pashupatinath are close enough to combine by a short ring-road bus connection or on foot if traffic is worse than the walk.
+In Kathmandu, visit **Boudhanath** first and walk a complete circuit around the stupa at street level. Continue to **Pashupatinath**, where the temple complex extends along both sides of the Bagmati River. Non-Hindus cannot enter the main temple, but the riverbank paths and viewpoints opposite the cremation ghats remain accessible. Boudhanath and Pashupatinath are about two kilometres apart; walk between them or book a taxi.
 
 ## Day 4: Patan
 
-From **Ratna Park bus stop**, take a microbus marked **Patan Dhoka**. It terminates close to Patan Dhoka, roughly five minutes on foot from **Patan Durbar Square**. If that service is not loading, use a Ratna Park–Lagankhel microbus and walk from Lagankhel through Patan instead.
+From **Ratna Park bus stop**, take a microbus marked **Patan Dhoka**. From **Patan Dhoka**, walk through the old town to **Patan Durbar Square**, around a kilometre away.
 
-Visit the royal square and **Patan Museum**, then continue through the lanes to the **Golden Temple** and Kumbheshwar Temple. Return to central Kathmandu by the same microbus route and cross to the west side for **Swayambhunath**. The staircase, stupa and viewpoints need around two hours without rushing.
+Visit the royal square, including the stone **Krishna Mandir**, and **Patan Museum** in the former palace for its Buddhist and Hindu sculpture. Continue through the lanes to the **Golden Temple**, with its metal-clad courtyard, and **Kumbheshwar Temple**. Return to central Kathmandu by the same microbus route and cross to the west side for **Swayambhunath**. The staircase, stupa and viewpoints take around two hours.
 
-Take the night bus from **Gongabu New Bus Park** to Lumbini and keep the ticket until the final stop.
+Take the night bus from **Gongabu New Bus Park** to Lumbini.
 
 ## Day 5: Lumbini
 
 Visit the **Maya Devi Temple** and the archaeological remains surrounding the marker stone, then walk past the **Ashoka Pillar** and sacred pond. The wider Lumbini site extends far beyond the temple enclosure. Rent a bicycle for the eastern and western monastic zones on either side of the central canal.
 
-I stayed at the Korean monastery. It was accommodation as well as part of the monastic zone, which made an early start around the site easy.
+I stayed at the Korean monastery.
 
-For India, take a bus or shared vehicle to Bhairahawa and Sonauli, walk across the border, then continue by bus from the Indian side.
+For India, take the local bus from Lumbini Bazaar towards **Bhairahawa/Siddharthanagar**, then continue to **Belahiya/Sonauli** at the border. Walk across after Nepali exit formalities and continue by bus from the Indian side.

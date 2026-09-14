@@ -35,10 +35,14 @@ Before diving in, a few considerations:
 
 ______
 
-
 Note: This article detailing logistic can be a nice read as well  
 #### [Tips on how to travel Africa](/blog/tips-africa)
 
+{{< worth-o-meter score="6" >}}
+Ethiopia could have been better, while its score is carried by Harar and its surrounding + the pretty Simien mountains...
+It has to go down due to the scams, the lack of security, the poor infrastructure and how expensive it is (100€ for Lalibela??)
+I can't , honestly, rate it more than 6. It has the potential to be a 9 tho.
+{{< /worth-o-meter >}}
 
 # Itinerary done quick
 

@@ -1,173 +1,153 @@
 ---
 date: "2026-07-27"
-title: "Trouver des vols pas chers sans se faire pieger a la reservation"
-description: "Notes pratiques pour trouver des vols moins chers : itineraire, aeroports, marches de vente, bagages, timing et risques."
+title: "Comment je cherche des vols pas chers"
+description: "Comment je compare les itinéraires, les aéroports, les bagages, les billets séparés et les sites de réservation avant de payer un vol."
 image: "images/blog/cheapflight.jpg"
 categories: ["Conseils", "Guide pratique"]
 ---
 
-Un vol pas cher ne se resume pas au premier prix affiche. La bonne comparaison inclut l'itineraire complet : aeroports, dates, bagages, transferts, marche de vente, risque de correspondance et conditions de modification.
+Le vol le moins cher affiché à l'écran n'est pas toujours le voyage le moins cher.
 
-## 1. Construire l'itineraire d'abord
+Un billet Ryanair à 30 € depuis un aéroport à deux heures de route peut ajouter 20 € de bus, un hôtel, un bagage payant et un départ très tôt. Une fois tout compté, le billet plus cher peut devenir le meilleur choix.
 
-Les billets multi-destinations sont souvent sous-utilises sur les voyages lineaires. Un Paris-Casablanca / Tanger-Paris, par exemple, peut battre un Paris-Marrakech aller-retour moins cher une fois le retour interne compte.
+Voilà comment je compare le coût complet, pas seulement le premier tarif affiché.
 
-Pour chaque option serieuse, comparer :
+> Note : ces conseils peuvent sembler évidents. Ils le sont souvent. Je n'ai pas de technique secrète pour trouver des vols gratuits, surtout du bon sens et quelques habitudes.
 
-| Element | Pourquoi ca compte |
-| --- | --- |
-| Multi-destinations vs aller-retour | Evite un retour final inutile |
-| Aeroports proches | Economie possible ou mauvais transfert |
-| Premiere et derniere nuits | Depart tres tot et arrivee tardive ajoutent un hotel |
-| Transport interne | Un vol international bas peut deplacer le cout dans le voyage |
-| Temps perdu | Un prix plus bas peut bruler une journee utile |
+## Construire le voyage dans le bon sens
 
-Le billet le plus solide est souvent celui qui supprime une mauvaise section de l'itineraire, meme si le prix affiche n'est pas le plus bas.
+Avant de chercher les vols, je vérifie si l'itinéraire est une boucle ou une ligne.
 
-## 2. Utiliser les comparateurs pour comparer
+Pour le Maroc, un aller-retour à Marrakech oblige à retraverser le pays. Arriver à Marrakech et repartir de Tanger peut coûter plus cher sur la page de la compagnie, mais moins cher une fois le train retour, l'hôtel et la journée de transport en trop retirés.
 
-Google Flights et Skyscanner sont utiles pour comparer dates, aeroports alternatifs, correspondances atypiques et combinaisons de compagnies. Le prix final doit encore etre verifie sur le site de la compagnie.
+C'est un **billet open-jaw** : arriver dans une ville et repartir d'une autre.
 
-L'achat direct reste souvent plus propre pour les changements d'horaire, remboursements, corrections de nom et correspondances protegees. Les agences ont du sens quand elles resolvent un vrai probleme : inventaire local, paiement avec carte etrangere, ou site compagnie inutilisable.
+Je compare trois versions :
 
-Eviter eDreams et les sites tiers similaires pour les billets d'avion classiques. L'economie est souvent trop faible pour justifier la couche ajoutee entre le passager et la compagnie. En cas de changement de vol, remboursement lent, correction de nom ou verification directe demandee par une low-cost, l'agence devient le goulot d'etranglement. Les pages d'aide d'eDreams decrivent elles-memes un traitement des remboursements via leur systeme et l'approbation de la compagnie ; leurs conditions indiquent aussi que chaque segment suit les regles tarifaires du fournisseur concerne, ce qui complique vite les billets melanges.
+- un aller-retour classique ;
+- deux allers simples ;
+- un billet multi-destinations ou open-jaw.
 
-Exception reguliere : **Trip.com pour les vols interieurs en Chine**. C'est souvent plus simple que les sites des compagnies chinoises avec une carte etrangere.
+Ensuite, j'ajoute le transport interne et le temps que chaque option impose. Un billet moins cher n'est pas toujours moins cher s'il déforme l'itinéraire.
 
-## 3. Aeroports proches
+## Google Flights d'abord, le site de la compagnie ensuite
 
-Un aeroport proche vaut le detour quand la liaison au sol est directe, fiable et bon marche. Il perd vite son interet avec :
+J'utilise Google Flights ou Skyscanner pour trouver les dates, les aéroports et les combinaisons. J'utilise ensuite le site de la compagnie pour vérifier que le tarif existe vraiment.
 
-- une nuit d'hotel ;
-- un taxi apres le dernier train ;
-- une correspondance ferroviaire fragile le jour meme ;
-- un changement d'aeroport dans une grande agglomeration ;
-- une frontiere a passer avant le vol.
+Les comparateurs affichent parfois des disponibilités périmées. Un vol à 240 € peut passer à 410 € après le clic, ou disparaître quand le bagage est ajouté. C'est généralement un vieux stock affiché, pas un prix personnalisé parce que la recherche a été répétée.
 
-C'est la que beaucoup de petits prix cessent d'etre petits. Une economie de 60 EUR depuis Beauvais, Charleroi ou Gerone disparait vite si l'horaire est mauvais.
+On peut refaire la recherche en navigation privée pour comparer, mais supprimer les cookies en boucle donne rarement un tarif très différent.
 
-## 4. Comparer le vrai tarif
+Réserver directement avec la compagnie enlève un intermédiaire si l'horaire change. Une agence tierce peut quand même avoir du sens quand :
 
-Les billets doivent etre remis dans les memes conditions avant comparaison.
+- la compagnie refuse les cartes étrangères ;
+- le site local est inutilisable ;
+- l'agence a un inventaire domestique inaccessible autrement ;
+- l'économie compense vraiment le risque.
 
-| Element | Detail |
-| --- | --- |
-| Petit bagage | Dimensions et niveau de controle |
-| Bagage cabine | Priorite payante, poids, taille |
-| Bagage en soute | Par passager et par trajet |
-| Siege | Pertinent seulement s'il change vraiment le voyage |
-| Frais de paiement | Carte, devise, change |
-| Transferts | Depart et arrivee |
-| Correspondance | Protegee ou billets separes |
-| Nuit imposee | Hotel, repas, transport tardif |
+J'évite eDreams et les intermédiaires similaires pour les billets d'avion ordinaires quand l'économie est faible. Changements d'horaire, remboursements et corrections de nom doivent ensuite passer par l'agence, et les itinéraires mélangés peuvent appliquer des règles différentes selon les segments.
 
-Le low-cost reste souvent moins cher. Il doit simplement etre compare comme un trajet termine, pas comme un billet nu.
+Pour les vols intérieurs en Chine, Trip.com est souvent plus simple que les sites des compagnies avec une carte étrangère. Pour un billet européen ordinaire, une petite économie via un intermédiaire ne justifie pas toujours la couche de service client en plus.
 
-## 5. Billets separes
+## Comparer le prix complet
 
-Les billets separes sont utiles sur les routes tordues, les combinaisons regionales et les voyages avec partie terrestre. C'est aussi le cas ou le risque de correspondance ratee revient au voyageur.
+Je remets chaque option dans les mêmes conditions :
 
-Cas raisonnables :
+- le sac que je vais vraiment porter ;
+- le siège, seulement si j'y tiens ;
+- le transport vers les deux aéroports ;
+- l'hôtel imposé par un départ très tôt ou une arrivée très tard ;
+- les frais de carte et de devise ;
+- la nourriture pendant une longue correspondance ;
+- le coût d'une journée perdue ;
+- la protection, ou son absence, entre deux vols.
 
-- grosse economie apres bagages et transferts ;
-- nuit tampon entre deux vols ;
-- deuxieme segment facile a remplacer ;
-- premiere journee flexible a destination ;
-- pas de visa, tour, croisiere ou long-courrier mis en danger.
+Les low-cost peuvent rester le meilleur choix. La comparaison utile se fait entre produits équivalents : 19 € sans bagage cabine et 49 € avec bagage cabine ne sont pas le même billet.
 
-Mauvais cas :
+## Aéroports secondaires : dessiner le trajet jusqu'à l'aéroport
 
-- self-transfer le meme apres-midi avec bagage en soute ;
-- changement d'aeroport avec immigration ;
-- dernier segment avant un tour non remboursable ;
-- dernier vol de la journee ;
-- destination avec peu de vols de remplacement.
+À 05:00, rejoindre Beauvais depuis Paris peut être pénible. Même logique pour Charleroi depuis Bruxelles. Gérone peut bien fonctionner pour Barcelone quand l'horaire du bus colle au vol, mais une arrivée tardive peut supprimer l'option transport public bon marché.
 
-Pour les itineraires proteges en Europe, le [guide europeen des droits des passagers](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_fr.htm) donne le cadre. Il ne transforme pas deux reservations separees en correspondance protegee.
+Un aéroport secondaire fonctionne quand la liaison au sol est directe, pas chère et disponible à l'heure d'arrivée. Il devient mauvais quand il ajoute :
 
-## 6. Pays de vente, devise et marche local
+- une nuit d'hôtel ;
+- un dernier bus qui part avant l'arrivée du vol ;
+- un taxi à travers toute une agglomération ;
+- une correspondance ferroviaire fragile ;
+- une frontière supplémentaire ;
+- un changement d'aéroport pendant un self-transfer.
 
-Certains tarifs changent selon le point de vente. Sur un billet cher, comparer le meme itineraire via :
+Je vérifie le premier et le dernier transport public de la journée. Le temps moyen en plein jour ne sert à rien quand l'avion atterrit après le dernier train.
 
-- le marche domestique de la compagnie ;
-- la version du site du pays de destination ;
-- le marche habituel ;
-- une autre devise si la carte a peu de frais de change.
+## Billets séparés
 
-C'est surtout pertinent pour les compagnies regionales, les vols interieurs a l'etranger et les routes dominees par une seule compagnie. Beaucoup moins sur les low-cost simples ou chaque option est facturee separement.
+Deux billets séparés peuvent ouvrir de très bonnes routes. Ils veulent aussi dire que le deuxième billet est généralement ton problème si le premier vol arrive en retard.
 
-La fiabilite du paiement compte. Un tarif etranger qui echoue au paiement, bloque une carte ou complique le support n'est pas toujours une bonne affaire.
+Je les utilise quand l'économie est importante et qu'il y a une nuit tampon. Je ne les utilise pas pour une correspondance le même après-midi avec bagage en soute, un changement d'aéroport, ou le dernier vol avant un safari, une croisière ou un tour non remboursable.
 
-## 7. Cookies et tarifs bloques
+Si le premier vol est en retard, la deuxième compagnie ne doit normalement rien. Les droits des passagers européens peuvent couvrir le vol retardé lui-même, mais ils ne protègent généralement pas une réservation séparée. Voir le [guide européen des droits des passagers](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_fr.htm).
 
-Les cookies ne sont pas le levier magique souvent vendu en ligne. Les prix bougent surtout avec les stocks, classes tarifaires, devises, demande et changements d'horaire.
+Avant de réserver un self-transfer, je vérifie le prix d'un billet de remplacement le lendemain. Si ce remplacement casse le budget du voyage, il faut plus de marge.
 
-Une session ancienne ou un resultat en cache peut quand meme afficher un prix fantome. Navigation privee, autre navigateur ou nouvelle recherche permettent de confirmer. Le seul prix valable est celui qui tient jusqu'a la page de paiement.
+## Changer la date avant de changer de continent
 
-Si le tarif disparait au checkout, c'etait probablement un stock obsolete, pas une promotion cachee.
+Décaler le départ d'une journée économise souvent plus que comparer douze sites de réservation. Les vendredis et dimanches soir sont chers sur beaucoup de routes urbaines. Vacances scolaires, festivals et gros événements peuvent faire monter rapidement des tarifs normalement raisonnables.
 
-## 8. Jours de vol
+J'utilise la grille de dates et je vérifie les jours avant et après mon choix initial. Sur un long voyage, je compare une semaine complète si les dates sont flexibles.
 
-Le jour vole compte souvent plus que le jour de reservation. Milieu de semaine, horaires peu pratiques et basse saison tarifent souvent mieux. Vendredi soir et dimanche soir sont souvent chers sur les city breaks. Vacances scolaires, grands evenements et debuts de saison cassent les tendances.
+Le jour du vol compte souvent plus que le jour de la recherche.
 
-Sur long-courrier, decaler depart ou retour d'un jour peut changer plus que le site utilise. Sur court-courrier low-cost, le transfert aeroport peut compter plus que le vol.
+## Tôt ou dernière minute ?
 
-## 9. Tot ou derniere minute
+Il n'y a pas de fenêtre de réservation universelle.
 
-La derniere minute fonctionne surtout quand destination et dates restent flexibles. Pour un voyage fixe, la logique change.
+Pour Noël, les vacances scolaires, un mariage fixe ou un vol connecté à un tour cher, j'achète quand le tarif devient acceptable. Attendre une grosse baisse devient risqué quand la route et la date sont fixes.
 
-| Type de route | Approche pratique |
-| --- | --- |
-| Vacances et pics saisonniers | Acheter quand un prix acceptable apparait |
-| Long-courrier avec dates fixes | Suivre tot, eviter de compter sur une baisse tardive |
-| Court-courrier low-cost | Flexibilite de date plus utile que patience |
-| Routes loisirs avec charters | Derniere minute possible si destination flexible |
-| Vol interieur peu concurrentiel | Attendre fait souvent mal |
-| Voyage avec visa ou tour fixe | Le risque du vol touche tout le plan |
+La dernière minute fonctionne quand la destination et les dates sont flexibles. Les charters et destinations loisirs peuvent sortir des sièges moins chers tard. Une route intérieure contrôlée par une seule compagnie reste souvent chère.
 
-Reserver tot n'est pas toujours moins cher. La derniere minute n'est pas toujours absurde. Le type de route decide.
+Je mets une alerte, j'apprends la fourchette normale et j'achète quand le tarif colle au voyage. Après réservation, j'arrête de regarder sauf si j'ai encore une annulation gratuite.
 
-## 10. Carburant et surcharges
+## Devises et versions pays
 
-Le carburant ne predit pas les tarifs au jour le jour, mais il pese sur le contexte. Carburant haut et demande forte reduisent les grosses promotions, surtout sur les longues routes. Capacite abondante et demande faible creent de meilleures conditions.
+Certaines compagnies changent leurs prix selon le marché de vente ou la devise. C'est surtout utile pour les compagnies domestiques et régionales à l'étranger.
 
-L'usage pratique est simple : quand carburant, demande et capacite vont contre le voyageur, attendre une grosse baisse devient moins interessant. Quand le carburant est stable, la demande plus faible et l'offre plus large, les promotions deviennent plus plausibles.
+Je compare le site du pays d'origine de la compagnie avec la version qui m'est proposée, mais j'ajoute les frais de change de la carte. Un tarif moins cher qui refuse les cartes étrangères ou demande un support dans une langue que je ne lis pas n'est pas forcément la meilleure réservation.
 
-Pour les miles et points, verifier la part a payer en cash avant de transferer des points. Certaines compagnies ajoutent de fortes surcharges transporteur. Si les frais approchent le prix d'un billet payant normal, utiliser des points peut etre un mauvais calcul.
+J'évite les tarifs dont les règles imposent une résidence locale si je ne remplis pas cette condition. Le problème apparaît souvent au paiement, au contrôle des documents ou à l'enregistrement.
 
-## 11. Tarifs etudiants, jeunes et residents
+## Tarifs étudiants et jeunes
 
-Les tarifs etudiants ou jeunes apparaissent rarement dans les comparateurs classiques. Ils peuvent compter sur long-courrier, voyage d'etudes et itineraires avec gros bagages.
+Les tarifs étudiants apparaissent rarement dans Google Flights. Je vérifie la page jeune ou étudiante de la compagnie, surtout pour les longs courriers.
 
-Pistes utiles :
+La réduction affichée peut être faible. La vraie valeur peut venir d'un bagage en soute inclus ou de changements de date moins chers. Pour quelqu'un qui part vivre à l'étranger, une valise incluse peut battre immédiatement un tarif public plus bas.
 
-- pages etudiants/jeunes des compagnies ;
-- services voyage universitaires ;
-- agences specialisees ;
-- tarifs residents sur certains vols interieurs ;
-- billets avec bagage supplementaire ou modification flexible.
+Je lis les conditions d'éligibilité avant de comparer avec le prix public.
 
-La reduction n'est pas toujours le vrai gain. Un bagage en plus ou un changement de date moins cher peut battre le prix public le plus bas.
+## Carburant, capacité et conditions tarifaires
 
-Les conditions comptent : age, statut etudiant, residence, dates d'inscription et justificatif accepte a l'enregistrement.
+Le carburant ne prédit pas le prix de demain, mais il pèse sur le contexte. Carburant élevé, forte demande et capacité limitée rendent les grosses promotions moins probables, surtout sur les longues routes. Carburant stable, demande plus faible et plus de sièges disponibles créent de meilleures conditions.
 
-## 12. Alertes de prix
+## Alertes de prix
 
-Les alertes servent a suivre l'evolution de quelques routes realistes : la route preferee, une variante avec aeroport proche et, pour un voyage lineaire, une version multi-destinations.
+Je suis quelques options réalistes : la route préférée, une alternative avec aéroport proche et une version open-jaw pour un voyage linéaire. Quand le prix rentre dans le budget et que l'itinéraire fonctionne, je compare l'économie possible avec les changements de logement, visa ou transport suivant.
 
-Quand le prix rentre dans le budget et que la structure est propre, courir apres une petite baisse devient rarement utile. Les logements, visas et transports suivants peuvent monter pendant l'attente.
+## Points et coûts en cash
 
-## 13. Avant paiement
+Avant de transférer des points, je vérifie les taxes et surcharges transporteur. Certaines primes demandent assez de cash pour qu'acheter le billet soit plus intéressant.
 
-Le dernier controle se limite aux details qui coutent cher a corriger :
+Je vérifie aussi ce qui se passe si la disponibilité prime disparaît entre le moment où je trouve le siège et le transfert des points. Les transferts sont souvent irréversibles, et les points peuvent rester dans un programme que j'utilise peu.
 
-- noms comme sur les passeports ;
-- aeroport et terminal ;
-- dates apres minuit ;
-- regles bagages ;
-- risque des billets separes ;
-- transit et entree ;
-- modification et annulation ;
-- compagnie ou agence qui encaisse vraiment.
+## Le dernier contrôle avant paiement
 
-Apres reservation, la compagnie doit retrouver le dossier. Sinon, le billet n'est pas encore fiable.
+Avant de payer, je vérifie :
+
+- le nom comme sur le passeport ;
+- les aéroports de départ et d'arrivée ;
+- la date du vol, surtout après minuit ;
+- les bagages dans les deux sens ;
+- la marge entre billets séparés ;
+- les règles de transit ;
+- la devise facturée ;
+- les conditions de modification et d'annulation.
+
+Après paiement, j'ouvre la réservation sur le site de la compagnie. Si la compagnie ne trouve pas le dossier, je contacte le vendeur avant de considérer le billet confirmé.

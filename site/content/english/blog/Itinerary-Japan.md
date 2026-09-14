@@ -35,19 +35,21 @@ draft: true
 
 ![Akihabara at night](images/blog/japan2.jpg)
 
-Start at **Senso-ji** and the streets around Asakusa, then take the Ginza Line to Ueno. Walk through **Ueno Park** before continuing by JR train to **Akihabara** for the evening.
+Start at **Senso-ji** in Asakusa. Enter through Kaminarimon, follow the shops along Nakamise to the temple and walk behind the main hall to Asakusa Shrine.
 
-In Asakusa, enter through Kaminarimon and follow Nakamise to the temple, then walk behind the main hall to Asakusa Shrine. In Ueno, continue around Shinobazu Pond and Ueno Toshogu. The Tokyo National Museum takes another two or three hours and closes before Akihabara gets interesting.
+Take the Ginza Line to **Ueno** for Shinobazu Pond and Ueno Toshogu, with its gilded shrine buildings. The **Tokyo National Museum** has samurai armour, Buddhist sculpture and woodblock prints; allow two or three hours for its Japanese collection. Continue one stop on the JR Yamanote Line to **Akihabara** for the electronics shops and arcades.
 
 ## Day 2: Tokyo
 
-Begin at **Meiji Shrine** and walk back through Harajuku towards Omotesando. Continue by Yamanote Line to **Shibuya**, then go north to Shinjuku for the Metropolitan Government Building and the narrow streets around Omoide Yokocho after dark.
+Begin at **Meiji Shrine**, reached through the wooded grounds beside Harajuku Station. The large wooden torii and rows of donated sake barrels are on the approach to the shrine courtyards.
+
+Walk back through Harajuku towards Omotesando, then take the Yamanote Line one stop to **Shibuya** for the crossing and Hachiko statue. Continue on the same line to **Shinjuku**. The Metropolitan Government Building is west of the station; Omoide Yokocho's narrow restaurant alleys are beside its north-west side.
 
 ## Day 3: Tokyo
 
 Begin around the outer market at **Tsukiji**, walk through Ginza and continue to the **Imperial Palace East Gardens**. Take the Chiyoda Line north for **Nezu Shrine**, then walk through Yanaka before the shops close.
 
-Buy the reserved tickets for the long journeys at a JR ticket office before leaving Tokyo. Nikko and Hakone are return trips; the first real move is Tokyo to Kanazawa.
+Nezu Shrine has a hillside path beneath rows of red torii. From there, walk east to Yanaka Cemetery and the shopping street at Yanaka Ginza; Nippori Station is nearby for the JR journey back.
 
 ## Day 4: Nikko
 
@@ -61,7 +63,7 @@ Inside Toshogu, continue beyond Yomeimon to the main shrine, the sleeping-cat ca
 
 ## Day 5: Hakone
 
-Take the train from Shinjuku to **Hakone-Yumoto**, then use the local transport loop through Gora, Owakudani and Lake Ashi. The train, cable car, ropeway, boat and bus form the circuit back to Hakone-Yumoto. Return to Tokyo for the night.
+The [Odakyu Romancecar](https://www.odakyu.jp/english/feature/28037/) takes about 1:20 from Shinjuku to **Hakone-Yumoto**. From there, take the mountain railway to Gora, the cable car to Sounzan and the ropeway over **Owakudani** to Lake Ashi. The lake boat and bus complete the circuit back to Hakone-Yumoto. Return to Tokyo for the night.
 
 At Owakudani, walk the open volcanic paths and try the black eggs sold around the ropeway station. Cross Lake Ashi by boat, get off near Hakone Shrine and walk to the lakeside torii before taking the bus back.
 
@@ -71,19 +73,19 @@ At Owakudani, walk the open volcanic paths and try the black eggs sold around th
 
 Take the Hokuriku Shinkansen from Tokyo to **Kanazawa**. Walk through Omicho Market, Kanazawa Castle and **Kenrokuen**, then continue to the Higashi Chaya district.
 
-Finish across the river in the old streets around Kazuemachi. Omicho Market, the castle and Kenrokuen form the direct central route; Higashi Chaya and Kazuemachi add about three kilometres on foot.
+Kenrokuen has ponds, stone lanterns and old pines supported by wooden props. Across the Asano River, **Higashi Chaya** preserves wooden teahouse façades; cross back for the smaller riverside lanes of **Kazuemachi**.
 
 ## Day 7: Shirakawa-go
 
 ![Shirakawa-go](images/blog/japan3.jpg)
 
-Take a reserved highway bus from Kanazawa Station to **Shirakawa-go**. Walk among the gassho-style houses and climb to the Shiroyama viewpoint, then return to Kanazawa by bus.
+Take the [Hokutetsu highway bus](https://www.hokutetsu.co.jp/highway-bus/takayama) from Kanazawa Station's west exit, bay 4, to **Shirakawa-go**. The journey takes about 1:15 and requires a reservation. Walk among the gassho-style houses and climb to the Shiroyama viewpoint, then return to Kanazawa by bus.
 
 Wada House is open to visitors and shows the upper floors beneath the steep thatched roof. The buses also continue towards Takayama and have reserved seats, so book the return journey before leaving Kanazawa.
 
 ## Day 8: Kyoto
 
-Take the train from Kanazawa to **Kyoto**. In 2019 this was a direct limited express; the current railway requires a change at Tsuruga. Walk from Kiyomizu-dera through Sannenzaka and Ninenzaka to Yasaka Shrine, Gion and the Shirakawa canal.
+Take the train from Kanazawa to **Kyoto**. In 2019 this was a direct limited express; the current railway requires a change at Tsuruga. From Kyoto Station, [bus 86 or 206](https://kyoto.travel/en/travel-inspiration/getting-from-kyoto-station-to-kiyomizu-temple-while-avoiding-heavy-traffic/) stops at Gojozaka, below **Kiyomizu-dera**. Climb to the temple's wooden terrace, then walk down through Sannenzaka and Ninenzaka to Yasaka Shrine, Gion and the Shirakawa canal.
 
 ## Day 9: Kyoto
 
@@ -91,13 +93,11 @@ Take the train from Kanazawa to **Kyoto**. In 2019 this was a direct limited exp
 
 Take the JR Nara Line to Inari for **Fushimi Inari**, then return through Kyoto Station and continue by bus to **Kinkaku-ji**.
 
-Start Fushimi Inari early and continue beyond the first dense rows of gates towards the upper paths. After Kinkaku-ji, continue west to **Ryōan-ji** and **Ninna-ji**. Those three temples lie on the same bus corridor; the Philosopher's Path is on the opposite side of Kyoto.
+Start Fushimi Inari early and continue beyond the first dense rows of gates towards the upper paths. After Kinkaku-ji, continue west to **Ryōan-ji** and **Ninna-ji**. Ryōan-ji has the famous fifteen-stone rock garden; Ninna-ji has palace rooms, gardens and a five-storey pagoda.
 
 ## Day 10: Nara
 
-Take the JR or Kintetsu train from Kyoto to **Nara**. Walk through Nara Park to Todai-ji, Kasuga Taisha and the old streets around Naramachi, then return to Kyoto by train.
-
-Enter Nara Park from the Kintetsu side, visit Kōfuku-ji, continue to the Great Buddha Hall at Tōdai-ji, then follow the path past Nigatsudō to the lantern-lined approach of Kasuga Taisha. Return through Ukimido and Naramachi.
+Take a Kintetsu train from Kyoto to **Kintetsu-Nara**, closer to the park than the JR station. From the station, visit Kōfuku-ji, continue to the Great Buddha Hall at Tōdai-ji, then follow the path past Nigatsudō to the lantern-lined approach of Kasuga Taisha. Return through the pond pavilion at Ukimido and the old merchant streets of Naramachi, then take the train back to Kyoto.
 
 ## Day 11: Osaka
 
@@ -113,13 +113,11 @@ Osaka Castle's interior is a modern museum; the exterior and park were the stron
 
 Take the Shinkansen from Kyoto to **Himeji**. Walk straight from the station to Himeji Castle and Koko-en Garden, then continue by Shinkansen to Hiroshima.
 
-The castle route climbs through a series of defensive gates before entering the wooden keep. Koko-en sits beside the moat and fits before collecting the bag at Himeji Station.
+The castle route climbs through a series of defensive gates before entering the wooden keep. **Koko-en**, beside the moat, is divided into enclosed gardens with ponds, waterfalls and a tea garden.
 
 ## Day 13: Hiroshima
 
-Take the tram from Hiroshima Station to the **Atomic Bomb Dome**, then walk through Peace Memorial Park and the museum. Continue towards Hiroshima Castle and Shukkeien.
-
-Walk from the Atomic Bomb Dome through the Children's Peace Monument, Memorial Cenotaph and Peace Memorial Museum. Hiroshima Castle is about 20 minutes north of the park; **Shukkeien** is another 15 minutes east of the castle.
+Take the tram from Hiroshima Station to the **Atomic Bomb Dome**. Walk through Peace Memorial Park past the Children's Peace Monument and Memorial Cenotaph to the **Peace Memorial Museum**, whose exhibits document the bombing and its effects on the city's inhabitants. Hiroshima Castle is about 20 minutes north of the park; **Shukkeien** is another 15 minutes east of the castle.
 
 ## Day 14: Miyajima
 
@@ -127,7 +125,7 @@ Walk from the Atomic Bomb Dome through the Children's Peace Monument, Memorial C
 
 Take the JR Sanyo Line to Miyajimaguchi and the ferry to **Miyajima**. Visit Itsukushima Shrine, then climb or take the ropeway towards Mount Misen. Return to Hiroshima and take the Shinkansen to Fukuoka's Hakata Station.
 
-Check the tide time for the shrine's torii, then walk through Daisho-in before starting up Mount Misen. Using the ropeway one way leaves enough time for the summit paths without missing the train west.
+Check the tide time for the shrine's torii, then walk through Daisho-in before starting up Mount Misen. The ropeway ends below the summit: there is still an uphill walk past the mountain's temple buildings to the observation platform.
 
 ## Day 15: Fukuoka
 
@@ -135,4 +133,4 @@ Walk around **Hakata**, Canal City and the Kushida Shrine area. The onward cross
 
 Add Tocho-ji and the temple streets between Gion and Hakata Station, then eat around the yatai stalls when they open in the evening.
 
-I finished Japan by taking the ferry from **Fukuoka to Busan** in 2019. The high-speed JR Beetle service later closed. In September 2026, the remaining direct crossing is the overnight **New Camellia** from Hakata Port; [Camellia Line sells the current sailing](https://www.camellia-line.co.jp/rs/). The route continues in my [eight-day South Korea itinerary](/blog/itinerary-south-korea/).
+I finished Japan by taking the ferry from **Fukuoka to Busan** in 2019. The high-speed JR Beetle service later closed. [New Camellia](https://www.camellia-line.co.jp/newcamellia/) normally sails from Hakata at 12:30 and reaches Busan at 18:30; selected departures run overnight instead. [Choose the sailing before booking the final night in Fukuoka](https://www.camellia-line.co.jp/rs/): the normal daytime crossing requires another day after this Fukuoka visit. The route continues in my [eight-day South Korea itinerary](/blog/itinerary-south-korea/).

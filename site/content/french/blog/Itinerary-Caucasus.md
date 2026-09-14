@@ -15,6 +15,14 @@ draft: false
 > J'ai passé environ deux semaines dans cette région incroyable sur les conseils d'un collègue.
 > L'un des meilleurs conseils que j'aie reçus : j'ai rencontré mon ex et mon meilleur ami pendant ce voyage !
 
+**Guides par pays tirés de ce voyage :**
+
+- [Une semaine en Azerbaïdjan](/fr/blog/itinerary-azerbaijan/)
+- [Une semaine en Géorgie](/fr/blog/itinerary-georgia/)
+- [Une semaine en Arménie](/fr/blog/itinerary-armenia/)
+
+Ces pages reprennent les journées correspondantes du parcours complet et les présentent sous forme d'itinéraires pratiques par pays.
+
 # L'itinéraire en bref
 
 ## 🇦🇿🇬🇪🇦🇲 Azerbaïdjan - Géorgie - Arménie

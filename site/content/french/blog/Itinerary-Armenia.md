@@ -1,11 +1,11 @@
 ---
 date: "2019-07-01"
 title: "Une semaine en Arménie"
-description: "Une semaine entre Alaverdi, Erevan, Garni et Khor Virap, avec une extension vers Gyumri."
+description: "Une semaine entre Alaverdi, Gyumri, Erevan, Etchmiadzin, Garni et Khor Virap."
 image: "images/blog/armenia1.jpg"
 itinerary_map: "/images/itineraries/armenia.svg"
 categories: ["Itinéraire", "Arménie", "Caucase"]
-continents: ["Europe"]
+continents: ["Eurasie"]
 draft: false
 ---
 
@@ -13,7 +13,12 @@ draft: false
 
 > **Une étape d'un voyage plus long :** ce guide consacré à l'Arménie est adapté de mon [itinéraire complet dans le Caucase](/fr/blog/itinerary-caucasus/). Cette page donne le détail jour par jour en Arménie ; le grand itinéraire explique l'enchaînement entre l'Azerbaïdjan, la Géorgie et l'Arménie.
 
-Je suis arrivé en Arménie depuis la Géorgie en 2019, à la fin d'un voyage plus long dans les trois pays du Caucase. J'ai réellement fait les quatre journées ci-dessous ; le détour par Gyumri correspond à mon itinéraire initial.
+Je suis arrivé en Arménie depuis la Géorgie en 2019, à la fin d'un voyage plus long en Azerbaïdjan, Géorgie et Arménie. J'ai dû couper Gyumri du vrai voyage parce que j'avais moins de congés que prévu, mais cette version standalone de l'Arménie doit être la vraie semaine : Alaverdi, Gyumri, Erevan, Etchmiadzin, Garni et Khor Virap.
+
+{{< worth-o-meter score="7" >}}
+L'Arménie a été la partie la plus décevante du Caucase, peut-être parce que je ne lui ai laissé que quelques jours.
+Elle méritait peut-être plus.
+{{< /worth-o-meter >}}
 
 # L'itinéraire en bref
 
@@ -21,12 +26,13 @@ Je suis arrivé en Arménie depuis la Géorgie en 2019, à la fin d'un voyage pl
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Alaverdi](#jour-1--alaverdi) | Haghpat et Sanahin |
-| Jour 2 | [Erevan](#jour-2--erevan) | Trajet et centre-ville |
-| Jour 3 | [Erevan](#jour-3--encore-erevan) | Etchmiadzin et musées |
-| Jour 4 | [Garni et Khor Virap](#jour-4--garni-et-khor-virap) | Temples, pierres et Ararat |
+| Jour 1 | [Alaverdi](#jour-1-alaverdi) | Haghpat et Sanahin |
+| Jours 2-3 | [Gyumri](#jours-2-3-gyumri) | Kumayri, musées, forteresse et option Marmashen |
+| Jour 4 | [Erevan](#jour-4-erevan) | Trajet et centre-ville |
+| Jour 5 | [Erevan](#jour-5-encore-erevan) | Etchmiadzin et musées |
+| Jour 6 | [Garni et Khor Virap](#jour-6-garni-et-khor-virap) | Temples, pierres et Ararat |
 
-## Jour 1 : Alaverdi
+## Jour 1 Alaverdi
 
 ![Un monastère au-dessus d'Alaverdi](images/blog/armenia1.jpg)
 
@@ -38,50 +44,56 @@ Depuis la gare routière centrale d'Alaverdi, les informations disponibles indiq
 
 Je recommande de dormir à Alaverdi : le passage depuis la Géorgie est lent.
 
+---
+
+## Jours 2-3 Gyumri
+
+Depuis Alaverdi, prenez un bus ou une marchroutka vers **Gyumri**. Après l'arrivée, gardez le premier après-midi pour le vieux centre : **place Vardanants**, **église Yot Verk**, **église du Saint-Sauveur**, puis les rues en tuf noir du **quartier historique de Kumayri** autour d'Abovyan, Rustaveli et des petites rues latérales.
+
+Si c'est ouvert, ajoutez la **galerie des soeurs Aslamazyan** sur la rue Abovyan. La [page officielle du musée](https://aslamazyan-sisters.mus.am/en/) place la galerie au 242 rue Abovyan et indique une ouverture normale du mardi au dimanche.
+
+Le deuxième jour à Gyumri, commencez par le **musée Dzitoghtsyan de l'architecture nationale et de la vie urbaine**, puis revenez à pied dans Kumayri pour les vieilles maisons, les cours et les balcons. Continuez vers le **bazar de Gyumri** avant le déjeuner.
+
+L'après-midi, quittez l'itinéraire à pied et montez vers **Sev Berd**, la Forteresse noire, et **Mother Armenia** pour la vue sur la ville. Prenez un bus local depuis le centre s'il y en a un, sinon arrangez le trajet avec l'hébergement. Pour une option monastère à la place, utilisez le même après-midi pour **Marmashen**, au nord-ouest de Gyumri sur la rivière Akhuryan ; le [site touristique arménien](https://www.visitarmenia.travel/en/sights/32) le place à environ deux kilomètres du village de Marmashen.
+
+Le lendemain matin, partez de **Gyumri vers Erevan** en train, bus ou marchroutka. [South Caucasus Railway](https://www.railway.am/eng/table) liste **Erevan-Gyumri** comme ligne locale de passagers, et la gare de Gyumri se trouve rue Kayaranamerdz.
 
 ---
 
-## Jour 2 : Erevan
+## Jour 4 Erevan
 
 ![Erevan depuis la Cascade](images/blog/armenia3.jpg)
 
 ![La cathédrale Saint-Grégoire-l'Illuminateur](images/blog/armenia2.jpg)
 
-Prenez une marchroutka d'Alaverdi à Erevan. Vérifiez le point et l'heure de départ la veille, car cette liaison n'a pas d'horaire en ligne fiable. Comptez toute la matinée, voire le début d'après-midi. Sérieusement.
+Prenez la liaison du matin depuis Gyumri vers Erevan et gardez l'après-midi pour le centre.
 
-Commencez par la **place de la République**, remontez vers l'Opéra, puis grimpez la **Cascade** pour la vue, les œuvres, les sculptures et le centre Cafesjian. Près de la Cascade se trouve un joli parc rempli de peintres. On dirait une version plus ancienne et meilleure de Paris !
-
-Le centre se parcourt facilement à pied. L'**Opéra** et la place de la Liberté valent vraiment le détour, surtout la nuit pour les illuminations. Je recommande également de descendre vers la cathédrale Saint-Grégoire-l'Illuminateur.
-
-
+Commencez par la **place de la République**, remontez vers l'Opéra, puis grimpez la **Cascade** pour la vue, les oeuvres, les sculptures et le centre Cafesjian. Près de la Cascade se trouve un parc rempli de peintres ; ça m'a fait penser à une version plus ancienne et meilleure de Paris. L'Opéra et la place de la Liberté valent surtout le coup la nuit. Je recommande aussi de descendre vers la cathédrale Saint-Grégoire-l'Illuminateur.
 
 ---
 
-## Jour 3 : Encore Erevan
+## Jour 5 Encore Erevan
 
 ![Le Matenadaran à Erevan](images/blog/armenia4.jpg)
 
 Visitez la cathédrale d'**Etchmiadzin**. Pour une fois, j'ai partagé un taxi avec une amie chinoise ; au retour, des habitants nous ont aidés à trouver le bus. Nous avons aussi incrusté un mariage. Bons souvenirs.
 
-Ensuite, j'ai visité le musée des manuscrits du **Matenadaran** et me suis occupé de mon amie malade. Avec plus de temps, ajoutez la distillerie Ararat.
-
+Ensuite, j'ai visité le musée des manuscrits du **Matenadaran** et je me suis occupé de mon amie malade. Avec plus de temps, ajoutez la distillerie Ararat ou un autre musée d'Erevan.
 
 ---
 
-## Jour 4 : Garni et Khor Virap
+## Jour 6 Garni et Khor Virap
 
 Ma journée était compliquée, mais possible avec un mélange de transports publics et de taxis. J'ai pris une marchroutka pour **Garni**, marché jusqu'aux sites, puis suis revenu déjeuner à Garni avant de rentrer à Erevan. Là, j'ai retrouvé une amie et ses amis ; nous avons partagé un taxi jusqu'à **Khor Virap**, ce qui a occupé le reste de l'après-midi.
 
-Pour rejoindre Khor Virap indépendamment, prenez une marchroutka vers Ararat ou Yeraskh depuis la gare routière sud d'Erevan et demandez à descendre au croisement. Le monastère se trouve encore à environ quatre kilomètres.
+Pour rejoindre Khor Virap indépendamment, prenez une marchroutka vers Ararat ou Yeraskh depuis la gare routière sud d'Erevan et demandez à descendre au croisement. Le monastère se trouve encore à environ quatre kilomètres. Vérifiez le trajet sur place.
 
 [Cette excursion à Khor Virap, Garni et Geghard (lien affilié)](https://www.getyourguide.com/yerevan-l1406/khor-virap-garni-geghard-azat-reservoir-day-trip-t255867/?partner_id=H1N6CGH&utm_medium=online_publisher) est une alternative guidée plus simple et ajoute plusieurs sites. Je n'ai pas utilisé cet opérateur.
 
-## Plus de jours ? Gyumri, prévu contre réalisé
+Après l'Arménie, je suis rentré en avion via Istanbul. Vous pouvez aussi continuer par voie terrestre vers la Turquie ou construire un voyage régional plus long.
 
-Quand j'ai préparé le voyage, j'espérais disposer d'une semaine supplémentaire. Mon itinéraire arménien incluait donc **Gyumri**, mais j'ai obtenu moins de congés que prévu et dû la supprimer.
+## Pour le reste :
 
-Depuis Alaverdi, prenez un bus ou une marchroutka vers Gyumri. Utilisez le premier après-midi pour découvrir le centre, passez-y ensuite une journée complète — soit environ un jour et demi en ville — puis partez vers Erevan le lendemain matin en train, bus ou marchroutka.
+Si vous avez plus de jours, il y a beaucoup de possibilités de randonnée dans le pays, mais vous pouviez aussi pousser plus loin et passer deux ou trois jours dans la République d'Artsakh.
 
-Promenez-vous autour de la place Vardanants et dans le quartier historique de Kumayri, cherchez les bâtiments en tuf noir et choisissez les musées qui vous intéressent. Ce détour s'insère naturellement entre les monastères du nord et Erevan.
-
-Après l'Arménie, je suis rentré en avion avec une escale à Istanbul. Il est également possible de continuer par voie terrestre vers la Turquie.
+> Note : cette république n'existe plus, mais quand j'ai voyagé en 2019, elle existait encore.

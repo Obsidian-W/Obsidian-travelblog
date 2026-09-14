@@ -9,8 +9,6 @@ continents: ["Asia"]
 draft: true
 ---
 
-# Itinerary done quick
-
 ## Laos
 
 | Day | Destination | Notes |
@@ -43,21 +41,21 @@ Book the Vientiane-Luang Prabang train before the travel day. The railway statio
 
 ## Day 2: Luang Prabang
 
-Take the morning train to Luang Prabang, then the station shuttle into town. Walk along the peninsula to **Wat Xieng Thong** before taking the shared minivan to **Kuang Si Falls** and the Hmong village stop included in the excursion. My trip sheet recorded the falls and village excursion at **$15 per person in 2025**.
+Take the morning train to Luang Prabang, then the station shuttle into town. Walk along the peninsula to **Wat Xieng Thong** before taking the shared minivan to **Kuang Si Falls** and the Hmong village stop included in the excursion. Kuang Si drops over a tall limestone cascade into a series of pale-blue pools. The falls and village excursion cost **15$ per person in 2025**.
 
 ---
 
 ## Day 3: Luang Prabang
 
-Take the morning boat up the Mekong to the **Pak Ou Caves**, where the two cave chambers overlook the river. Back in Luang Prabang, visit the **Royal Palace Museum**, the temples along the peninsula and the old streets between the Mekong and Nam Khan, then climb **Mount Phousi** late in the afternoon.
+Take the morning boat up the Mekong to the **Pak Ou Caves**, where hundreds of small Buddha statues stand in two chambers above the river. The lower cave opens onto the Mekong; stairs climb to the darker upper cave. Back in Luang Prabang, visit the **Royal Palace Museum**, the temples along the peninsula and the old streets between the Mekong and Nam Khan, then climb **Mount Phousi** late in the afternoon.
 
-Buy the Nong Khiaw bus ticket before the next morning. In 2025, my planning sheet listed departures at 09:00 and 11:00.
+Buy the Nong Khiaw bus ticket in Luang Prabang. In 2025, departures were available at 09:00 and 11:00.
 
 ---
 
 ## Day 4: Nong Khiaw
 
-Take the morning bus from Luang Prabang to Nong Khiaw. My journey was planned at around four hours. After checking in, cross the bridge and walk beside the **Nam Ou River** before climbing one of the marked viewpoints above town. Buy the viewpoint ticket at the trail entrance and start early enough to descend before dark.
+Take the morning bus from Luang Prabang to Nong Khiaw. The journey takes around four hours. Cross the bridge over the **Nam Ou River** for the view of the village beneath the limestone cliffs, then climb one of the marked viewpoints above town. Buy the viewpoint ticket at the trail entrance and start early enough to descend before dark.
 
 ---
 
@@ -65,7 +63,7 @@ Take the morning bus from Luang Prabang to Nong Khiaw. My journey was planned at
 
 Take the morning boat from Nong Khiaw to **Muang Ngoi**. Walk through the village, climb the nearby viewpoint and follow the inland path through the caves and rice fields towards **Ban Na village** before returning to the pier.
 
-I treated Muang Ngoi as a day trip and slept again in Nong Khiaw. My 2025 notes put the return boat journey at around three hours in total and $6, but both the fare and departure must be confirmed at the pier.
+I treated Muang Ngoi as a day trip and slept again in Nong Khiaw. The return boat journey was around three hours in total and cost 6$ in 2025, but both the fare and departure must be confirmed at the pier.
 
 ---
 
@@ -77,7 +75,7 @@ Take the morning bus from Nong Khiaw to Luang Namtha. This is a long mountain-ro
 
 ## Day 7: Luang Namtha
 
-Visit the villages and countryside outside Luang Namtha by bicycle, scooter or locally booked tuk-tuk. The roads around town pass rice fields, temples and villages without requiring a full trekking package.
+Rent a bicycle or arrange a local tuk-tuk for the villages outside **Luang Namtha**. **Ban Nam Dee**, about 5,5 km from town, is a Lanten village known for indigo-dyed textiles and bamboo-paper making. The [provincial tourism guide](https://www.tourismlaos.org/northern-provinces/luang-namtha-province/) also describes the hilltop Luang Namtha stupa, reached from the north end of town, with a view across the valley.
 
 For the journey south, take the road connection to **Boten station**, roughly an hour from Luang Namtha, then the train to Vientiane. Reserve the train before reaching Boten.
 
@@ -85,9 +83,9 @@ For the journey south, take the road connection to **Boten station**, roughly an
 
 ## Day 8: Thakhek
 
-The train from Boten to Vientiane took the main north-south section of the day. My 2025 sheet allowed around four hours on the train and recorded a $20 fare. From Vientiane, I took the night bus to Thakhek.
+The journey south is a long one: Boten–Vientiane took around four hours by train and cost about 20$ in 2025. I continued from Vientiane by night bus to **Thakhek**, arriving the following morning.
 
-After the night bus arrives, rest before walking through Thakhek's old centre, the streets around the Catholic church and the Mekong riverfront. I booked the next three days locally instead of riding the loop independently.
+Walk through Thakhek's old centre, past the colonial-era shopfronts and Catholic church, then along the **Mekong riverfront**, facing Nakhon Phanom across the water. I booked the next three days locally instead of riding the loop independently.
 
 ---
 
@@ -95,25 +93,27 @@ After the night bus arrives, rest before walking through Thakhek's old centre, t
 
 I booked these three days locally. The tour left Thakhek through the limestone landscape and caves around Mahaxai, including the **Tham Xang** and **Tham Nang Aen** area, then crossed the **Nakai Plateau** towards Thalang.
 
-The final major stop was **Kong Lor Cave**, crossed by small boat along its underground river. The operator handled the vehicle and accommodation throughout the loop. After returning to Thakhek, take the night bus south to Pakse.
+Around **Thalang**, flooded trees rise out of the reservoir beside the road. Farther west, the road descends towards the limestone valley around **Kong Lor**.
+
+The final major stop was **Kong Lor Cave**, crossed by small boat along its underground river. Inside, the boat stops for a walk through illuminated rock formations before continuing through the mountain. The operator handled the vehicle and accommodation throughout the loop. After returning to Thakhek, take the night bus south to Pakse.
 
 ---
 
 ## Day 12: Pakse
 
-Visit Pakse's centre and **Wat Luang** in the morning. In the afternoon, travel south to Champasak for **Vat Phou**. Public songthaews and buses cover part of the route, but the final temple connection is easier with a locally arranged return transfer.
+Visit Pakse's centre and **Wat Luang** in the morning. In the afternoon, travel south to Champasak for **Vat Phou**. For an afternoon return from Pakse, arrange transport through the accommodation to **Vat Phou**, beyond Champasak. The visit climbs from the large reservoirs past the lower stone buildings to the upper sanctuary beneath the cliff; the steep stairs are part of the visit, with views back across the plain.
 
 ---
 
 ## Day 13: Bolaven Plateau
 
-Begin the small Bolaven loop from Pakse. Visit **Tad Fane** and **Tad Yuang**, then continue through the coffee-growing area towards Paksong. Spend the night around Paksong or Tad Lo, depending on the direction used for the loop.
+Begin the small Bolaven loop from Pakse. Guesthouses in Pakse arrange loop transport; otherwise the route needs a scooter or hired vehicle because the waterfalls sit away from the main public-bus stops. Visit **Tad Fane**, whose twin waterfalls drop into a deep gorge, then **Tad Yuang**, with steps down to a closer viewpoint. Continue through the coffee-growing area towards Paksong. Spend the night around Paksong or Tad Lo, depending on the direction used for the loop.
 
 ---
 
 ## Day 14: Bolaven Plateau
 
-Continue through **Tad Lo**, the surrounding villages and the remaining waterfalls on the small loop, then return to Pakse. Guesthouses in Pakse arrange loop transport; otherwise the route requires a scooter or a hired vehicle.
+Continue towards **Tad Lo**. Walk along the river between the village and the nearby **Tad Hang** waterfall, then return to Pakse on the western side of the small loop. Coffee farms along the plateau offer visits to the growing and processing areas; arrange one through the overnight guesthouse.
 
 ---
 
@@ -125,10 +125,10 @@ Take a morning minibus from Pakse to **Nakasong**, then the short passenger boat
 
 ## Day 16: Don Khon
 
-Follow the old railway alignment across the island, visit **Li Phi Falls** and continue towards the southern Mekong channels. Bicycle rental makes it possible to cover the railway remains, villages and waterfalls in one day.
+Rent a bicycle and follow the old railway alignment from the bridge between Don Det and **Don Khon**. Stop at the preserved locomotive, then continue to **Li Phi Falls**, where the Mekong splits into rapids between the rocks.
 
 ---
 
 ## Day 17: Don Khon
 
-Keep the final morning for the river and the quieter paths around the island. Return by boat to Nakasong, then use the northbound bus for Pakse and Vientiane or the southbound connection for the Cambodian border.
+Follow the former railway south to **Ban Hang Khon**. The old landing stage was part of the French-era route for moving cargo around the Mekong rapids; the river here breaks into channels around the islands. Return by boat to Nakasong, then use the northbound bus for Pakse and Vientiane or the southbound connection for the Cambodian border.

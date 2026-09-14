@@ -33,8 +33,8 @@ with only one backtracking (Santiago is in the middle so you will have to!)
 |:----:|:-----------:|:-----:|
 | Day 1 | [San Pedro de Atacama](#day-1-san-pedro-de-atacama) | Town, Valle de la Luna and sunset |
 | Day 2 | [Atacama Desert](#day-2-atacama-desert) | El Tatio, high-altitude lakes or salt flats |
-| Day 3 | [Santiago](#day-3-santiago) | Calama connection and first evening in Santiago |
-| Day 4 | [Santiago](#day-4-santiago) | Historic centre, Bellavista and city viewpoints |
+| Day 3 | [Valle de la Luna](#day-3-valle-de-la-luna) | Booked excursion from San Pedro |
+| Day 4 | [Santiago](#day-4-santiago) | Calama connection and first evening in Santiago |
 | Day 5 | [Punta Arenas](#day-5-punta-arenas) | Strait of Magellan, centre and Cerro de la Cruz |
 | Day 6 | [Puerto Natales](#day-6-puerto-natales) | Museum, waterfront and old pier |
 | Day 7 | [Torres del Paine](#day-7-torres-del-paine) | Full-day photography tour |
@@ -72,7 +72,7 @@ My accomodation was Casa Voyage Hostel, it still exists and my review on google 
 ![The Atacama Desert](images/blog/chile1.jpg)
 
 So, why not a biking day?
-You can hire bikes everywhere and it's a fun way to discover the relatively flat area!
+You can hire bikes in San Pedro and ride straight from town; the tracks towards Valle de la Muerte and Garganta del Diablo are close enough that this works as a self-powered day rather than another agency transfer.
 
 With some bretons and the gal (I forgot her name T_T), we biked to **Iglesia de San Isidro**, through the **Valle de la muerte**, el **Pukará de Quitor** and **El Garganta Del Diablo**.
 
@@ -84,15 +84,14 @@ Also, the church is just the viewpoint, or a stopping point.
 > As you see, we had some issues on the way!
 > And nights are very cold, so it's best to get back in town not too late!
 
-> ## Day 3: Atacama Desert: Valle de la Luna!
+## Day 3: Valle de la Luna
 
-
-I booked a day tour to Valle de la Luna!
+I booked a day tour to Valle de la Luna from an agency near the accommodation in San Pedro, with minibus transport included.
 It went to stop on the Magic Bus, toured the valley, stopped in the dunes, included a bit of hiking...
 
 > Overall it was quite nice, and not expensive and easy, perfect for a day of rest.
 
-## Day 3: Santiago layover
+## Day 4: Santiago layover
 
 From San Pedro, go to **Calama Airport**, Shuttles are common and easy to find, not that expensive too.
 
@@ -170,7 +169,7 @@ The visit lasts around an hour, where you do a walk up to the cave, then through
 ![Base Torres covered in snow](images/blog/patagonia2.jpg)
 *Base Torres in winter.*
 
-The second tour was a full-day hike to **Base Torres**, booked with the same agency.
+The second tour was a full-day hike to **Base Torres**, booked with the same agency. The agency transfer left Puerto Natales early and brought the group back after the hike.
 
 We left Puerto Natales early and started near **Hotel Las Torres**. The return hike is roughly **20 kilometres** and took most of the day. The group was very small, given the weather and season, I'd wager that there were, at most, 30 people at the national Park, even at the top. 2 or 3 small(ish) tour groups. It felt really ideal.
 
@@ -202,7 +201,7 @@ Then I got invited by some youth for tea with honey. They smoked pot, prepared t
 
 ^ See my picture of El Chalten, I had a shitty weather indeed.
 
-I booked a full-day trip from El Calafate to **El Chaltén**.
+I booked a full-day trip from El Calafate to **El Chaltén**, with road transport included.
 
 El Chaltén is around **220 kilometres from El Calafate**, close to three hours each way. A good chunk of the day was spent driving, although the road was beautiful and we still had time to walk around town and hike nearby. (Departure is very early to offset that, and the return was quite late)
 
@@ -254,7 +253,6 @@ If you don't like going back, I would rather recommend going further in Argentin
 
 > I actually didn't get time to visit much, I walked the center, walked up a hill with a garden and that's it
 
-Here's what one could do (it's AI, sorry):
 Start at **La Moneda** and walk through the civic centre to the **Museum of Pre-Columbian Art**. Continue through Plaza de Armas and the **Central Market**, then cross the Mapocho towards **Bellavista**.
 
 Take the funicular or walk up **Cerro San Cristóbal** for the view across Santiago. Return through Bellavista and **Lastarria**, with **Cerro Santa Lucía** as the final central stop if it is still open. The metro handles the long jump between the accommodation, centre and airport connection; the historical core itself is better covered on foot.
@@ -264,10 +262,10 @@ Take the funicular or walk up **Cerro San Cristóbal** for the view across Santi
 > I didn't visit, so there is nothign from me here but I heard it was a must!
 
 Since I had other plans, I skipped this and pretty much Santiago.
-But it was in my original plan.
+But it was in my original plan. From Santiago, take a bus from Terminal Alameda/Pajaritos or the train-bus combination towards Valparaiso and Viña del Mar, then return the same evening if you do not want to sleep on the coast.
 
 ## Day 15: Santiago/Departure
 
-Santiago will porobably be your last stop.
+Santiago will porobably be your last stop. Use the airport bus from Pajaritos or Los Héroes for the flight out, or the metro first if you sleep away from those stops.
 If you have more time, some museums can fill the day.
 If not, hopefully you can go onwards to **Easter Island** or go back home safely!

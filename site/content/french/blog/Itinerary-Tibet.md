@@ -18,7 +18,7 @@ draft: false
 > Il faut toujours garder à l'esprit l'omerta chinoise et la gloire de ses glorieux dirigeants,
 > dont les soleils personnels illuminent les jours jusque dans la nuit et guident le peuple
 > vers un avenir radieux qui éclipse les vestiges du passé.
-> Cet article fait partie d'un itinéraire plus long à travers l'Himalaya.
+> **Une étape d'un voyage plus long :** voici la partie Tibet de mon grand voyage du Yunnan vers le nord de l'Inde. Le récit complet est encore en cours de rédaction ; cette page reste donc un itinéraire autonome. Mon [itinéraire dans le Yunnan](/fr/blog/itinerary-yunnan/) couvre la grande étape précédente.
 > J'ai effectué ce voyage avec un guide, mais je laisse les informations accessibles à ceux qui peuvent voyager librement.
 
 \_\_\_\_  

@@ -1,7 +1,7 @@
 ---
 date: "2019-07-01"
 title: "One week in Armenia"
-description: "A one-week Armenia itinerary covering Alaverdi, Yerevan, Garni and Khor Virap, with a Gyumri extension."
+description: "A one-week Armenia itinerary covering Alaverdi, Gyumri, Yerevan, Etchmiadzin, Garni and Khor Virap."
 image: "images/blog/armenia1.jpg"
 itinerary_map: "/images/itineraries/armenia.svg"
 categories: ["Itinerary", "Armenia", "Caucasus"]
@@ -13,7 +13,13 @@ draft: false
 
 > **Part of a larger journey:** This focused Armenia guide is adapted from my [complete Caucasus itinerary](/blog/itinerary-caucasus/). Use this page for the Armenia day-by-day detail; use the complete trip for the cross-border route through Azerbaijan, Georgia and Armenia.
 
-I reached Armenia from Georgia in 2019, at the end of a larger journey across Azerbaijan, Georgia and Armenia. I did the four-day route below; add the Gyumri detour at the end to turn it into a comfortable week.
+I reached Armenia from Georgia in 2019, at the end of a larger journey across Azerbaijan, Georgia and Armenia. I had to cut Gyumri from the real trip because I had fewer paid-leave days than planned, but this standalone Armenia version should be the proper week: Alaverdi, Gyumri, Yerevan, Etchmiadzin, Garni and Khor Virap.
+
+{{< worth-o-meter score="7" >}}
+Armenia was the most disappointing part of the Caucasus, perhaps because I only allowed it a few days.
+It might have deserved more.
+{{< /worth-o-meter >}}
+
 
 # Itinerary done quick
 
@@ -22,9 +28,10 @@ I reached Armenia from Georgia in 2019, at the end of a larger journey across Az
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
 | Day 1 | [Alaverdi](#day-1-alaverdi) | Haghpat and Sanahin |
-| Day 2 | [Yerevan](#day-2-yerevan) | Transfer and city centre |
-| Day 3 | [Yerevan](#day-3-more-yerevan) | Etchmiadzin and museums |
-| Day 4 | [Garni and Khor Virap](#day-4-garni-and-khor-virap) | Temples, stones and Ararat |
+| Days 2-3 | [Gyumri](#days-2-3-gyumri) | Kumayri, museums, fortress and Marmashen option |
+| Day 4 | [Yerevan](#day-4-yerevan) | Transfer and city centre |
+| Day 5 | [Yerevan](#day-5-more-yerevan) | Etchmiadzin and museums |
+| Day 6 | [Garni and Khor Virap](#day-6-garni-and-khor-virap) | Temples, stones and Ararat |
 
 > That's it! Click the destination names to jump to each day.
 
@@ -41,21 +48,34 @@ From Alaverdi's central bus station, local information currently points to bus 3
 
 ---
 
-## Day 2 Yerevan
+## Days 2-3 Gyumri
+
+From Alaverdi, take a bus or marshrutka to **Gyumri**. After arrival, keep the first afternoon inside the old centre: **Vardanants Square**, **Yot Verk Church**, **Holy Saviour's Church**, then the black-tuff streets of the **Kumayri historic district** around Abovyan, Rustaveli and the smaller side streets.
+
+If it is open, add the **Aslamazyan Sisters' Gallery** on Abovyan Street. The [official museum page](https://aslamazyan-sisters.mus.am/en/) lists the gallery at Abovyan Street 242 and gives its normal opening days as Tuesday to Sunday.
+
+On the second Gyumri day, start with the **Dzitoghtsyan Museum of National Architecture and Urban Life**, then walk back through Kumayri for the old houses, courtyards and balconies. Continue to the **Gyumri bazaar** before lunch.
+
+In the afternoon, leave the walking route and go up to **Sev Berd**, the Black Fortress, and **Mother Armenia** for the view over the city. Use a local bus from the centre if one is running, otherwise arrange the ride through the accommodation. For a monastery stop instead, use the same afternoon for **Marmashen Monastery**, north-west of Gyumri on the Akhuryan River; [Armenia's tourism site](https://www.visitarmenia.travel/en/sights/32) places it about two kilometres from Marmashen village.
+
+The next morning, travel from **Gyumri to Yerevan** by train, bus or marshrutka. [South Caucasus Railway](https://www.railway.am/eng/table) lists **Yerevan-Gyumri** as a local passenger route, and the Gyumri station is on Kayaranamerdz Street.
+
+
+---
+
+## Day 4 Yerevan
 
 ![Yerevan from the Cascade](images/blog/armenia3.jpg)
 
 ![Saint Gregory the Illuminator Cathedral](images/blog/armenia2.jpg)
 
-Take a marshrutka from Alaverdi to Yerevan. Confirm the departure point and time the day before, because the connection does not have a dependable online timetable. Allow most of the morning and possibly early afternoon.
+Take the morning connection from Gyumri to Yerevan and keep the afternoon for the centre.
 
 Start at **Republic Square**, walk north towards the Opera, then climb the **Cascade** for its views, sculptures and Cafesjian Center. Near the Cascade is a park full of painters; it felt like an older, better version of Paris. The Opera and Freedom Square are especially worth seeing at night. I also warmly recommend walking south to Saint Gregory the Illuminator Cathedral.
 
-
-
 ---
 
-## Day 3 More Yerevan
+## Day 5 More Yerevan
 
 ![The Matenadaran in Yerevan](images/blog/armenia4.jpg)
 
@@ -66,7 +86,7 @@ Afterwards I visited the **Matenadaran** manuscript museum and took care of my f
 
 ---
 
-## Day 4 Garni and Khor Virap
+## Day 6 Garni and Khor Virap
 
 My day was complicated but possible with a mix of public transport and taxis. I took a marshrutka to **Garni**, walked to the sites, returned to Garni for lunch, then went back to Yerevan. From there I joined friends and shared a taxi to **Khor Virap**, which took the rest of the afternoon.
 
@@ -74,14 +94,10 @@ For Khor Virap independently, take a marshrutka towards Ararat or Yeraskh from Y
 
 [This Khor Virap, Garni and Geghard day tour (affiliate link)](https://www.getyourguide.com/yerevan-l1406/khor-virap-garni-geghard-azat-reservoir-day-trip-t255867/?partner_id=H1N6CGH&utm_medium=online_publisher) is a simpler guided alternative and adds several sites. I did not use that operator.
 
-## More days? Planned vs Done
-
-### Gyumri: my original plan
-
-When I planned the Caucasus journey, I expected to have one more week for the whole trip. My original Armenia route therefore included **Gyumri**, but fewer paid-leave days forced me to cut it.
-
-From Alaverdi, take a bus or marshrutka to Gyumri and use the first afternoon to settle in and begin exploring the centre. Stay overnight, then give Gyumri a full day: that makes roughly **a day and a half in the city**. Walk around Vardanants Square and the historic Kumayri district, look for the black-tuff architecture, visit the museums that interest you and enjoy the city's slower pace.
-
-After the full day, stay a second night and travel from **Gyumri to Yerevan** the following morning by train, bus or marshrutka. Check schedules locally because they change. This detour adds about two and a half days to the route and fits naturally between Alaverdi and Yerevan.
-
 After Armenia, I flew home through Istanbul. You could instead continue overland towards Türkiye or build a longer regional trip.
+
+## For the rest:
+
+If you have more days, there are many hiking opportunities through the country, but you could also go a bit more crazy and spend two or three days in the Artsakh Republic.
+
+> Note: This republic doesn't exist anymore, but, when I visited in 2019, it used to.

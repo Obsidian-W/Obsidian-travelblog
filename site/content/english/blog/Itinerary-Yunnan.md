@@ -33,6 +33,7 @@ and one in Diqing/Shangri-La -- You'll thank me later.
 Yunnan is definitely a must do in China! Between tradition and nature, it’s the China I always dreamed of.
 It's authentic, not overly touristy, off the beaten path and with a lot of variety, you don't get bored.
 {{< /worth-o-meter >}}
+
 \_\_\_\_
 
 # Itinerary done quick

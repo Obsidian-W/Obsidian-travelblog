@@ -37,7 +37,7 @@ Walk from the harbour through the centre to **Albert Park**, then continue throu
 
 ## Day 2: Ohakune
 
-Take the southbound InterCity coach from Auckland to **Ohakune**. I stopped here rather than going straight to National Park. The town grew around the railway, and the short walks beside the tracks and towards the old station filled the remaining daylight. Arrange the following morning's trail shuttle before dinner.
+Take the [InterCity coach from Auckland to Ohakune](https://www.intercity.co.nz/north-island-buses/bus-auckland-to-ohakune): it leaves from SkyCity, 102 Hobson Street, and stops at 27 Clyde Street after about 6:30. I stopped here rather than going straight to National Park. The town grew around the railway, and the short walks beside the tracks and towards the old station filled the remaining daylight.
 
 ## Day 3: Tongariro
 
@@ -45,33 +45,33 @@ Take the southbound InterCity coach from Auckland to **Ohakune**. I stopped here
 
 Use the booked shuttle from Ohakune to the Mangatepopo trailhead for the **Tongariro Alpine Crossing**. The route climbs through South Crater to Red Crater, passes the Emerald Lakes and descends to Ketetahi. The crossing is exposed and the shuttle can cancel when the weather turns; confirm the pickup point and return time the evening before.
 
-Continue to Wellington on the evening coach if the timetable works, or sleep in Ohakune and leave early on Day 4.
+Stay in Ohakune after the crossing and take the southbound coach to Wellington on Day 4.
 
 ## Day 4: Wellington
 
-Leave the bag after arriving in Wellington, then walk the waterfront to **Te Papa**. Continue around Oriental Bay and climb **Mount Victoria** for the harbour view.
+After the coach journey from Ohakune, walk Wellington's waterfront to **Te Papa**, whose collections cover Māori culture, natural history and New Zealand's geology. Continue around Oriental Bay and climb **Mount Victoria** for the harbour view.
 
 The cheap Wellington hostels were notoriously poor and filled quickly. Mine was filthy and shared with sex workers and men who made the stay deeply unpleasant. Book this stop earlier than the others.
 
 ## Day 5: Wellington
 
-Visit the **Beehive** and Parliament grounds, ride the cable car uphill and walk back through the **Botanic Garden**. In the afternoon, take Bus 2 from the centre towards Miramar and get off near the **Weta Workshop**. The workshop tour was worth the trip across the city.
+Visit the **Beehive** and Parliament grounds, ride the cable car uphill and walk back through the **Botanic Garden**. In the afternoon, take **Bus 2 towards Miramar**, not the Seatoun service, and get off at Darlington Road, stop 6240. [Weta Workshop](https://www.wetaworkshop.com/tours/wellington/plan-your-visit) is at 1 Weka Street, a short walk away. The workshop tour was worth the trip across the city.
 
 ## Day 6: Cook Strait and Nelson
 
-Take the morning ferry from Wellington to **Picton**. The last part threads through the Marlborough Sounds and was the best part of this travel day. Connect to the coach for Nelson after disembarking. I barely visited Nelson: I ate, rested and prepared for the next day's hitchhiking.
+Take the morning ferry from Wellington to **Picton**. The last part threads through the Marlborough Sounds and was the best part of this travel day. Connect to the coach for Nelson after disembarking. I barely visited Nelson beyond the evening stop.
 
 ## Day 7: Abel Tasman
 
 ![The coast in Abel Tasman National Park](images/blog/nz2.jpg)
 
-Reach **Marahau** or **Kaiteriteri** for a section of the **Abel Tasman Coast Track**. I hitchhiked from Nelson and it was difficult. A shuttle gives a much safer start if a water taxi has already been booked. One good day combines the boat to Anchorage with the coastal walk back through the bays towards Marahau.
+Reach **Marahau** or **Kaiteriteri** for a section of the **Abel Tasman Coast Track**. I hitchhiked from Nelson and it was difficult. For a booked alternative, take a Nelson–Marahau shuttle and a water taxi to **Anchorage**, then walk back through the bays to Marahau. This follows a section of the coastal track through beech forest above the beaches.
 
 ## Day 8: West Coast
 
-My southbound bus made sightseeing stops on the way from Nelson towards Franz Josef, including the **Punakaiki Pancake Rocks**. It was the InterCity west-coast service rather than a simple direct coach. The road follows the Buller Gorge and then the Tasman coast before continuing through Greymouth and Hokitika.
+My southbound bus made sightseeing stops on the way from Nelson towards Franz Josef, including the **Punakaiki Pancake Rocks**. The road follows the Buller Gorge and then the Tasman coast before continuing through Greymouth and Hokitika.
 
-Arrive in **Franz Josef** in the evening and walk around the small centre. Keep the glacier valley for the following morning.
+At **Punakaiki**, the short loop crosses the layered limestone formations above the sea. The blowholes depend on the tide and swell. Continue south to **Franz Josef** for the night.
 
 ## Day 9: Franz Josef
 
@@ -83,7 +83,7 @@ Spend the second half of the day on the Tatare Tunnels walk or around Lake Mapou
 
 ![Queenstown and Lake Wakatipu](images/blog/nz3.jpg)
 
-Take the coach south through Haast and **Wānaka** to Queenstown. This is another full travel day, but the road through Mount Aspiring National Park is part of the reason to take the bus rather than fly. After arrival, walk along **Lake Wakatipu** and through Queenstown Gardens.
+The [coach from Franz Josef to Queenstown](https://www.intercity.co.nz/south-island-buses/bus-to-queenstown) takes about 8:30, travelling through Haast Pass and **Wānaka**. After arrival, walk along **Lake Wakatipu** and through Queenstown Gardens.
 
 ## Day 11: Queenstown
 
@@ -97,7 +97,9 @@ Take the morning coach from Queenstown to **Te Anau**. Walk the lakefront to the
 
 ## Day 13: Kepler Track
 
-Use the full day for the **Kepler Track**. From town, walk or take the short transfer to the control gates, follow the lakeshore through beech forest to Brod Bay and climb towards Luxmore Hut as far as weather and daylight allow. Return by the same path. The hut is a demanding day return; Brod Bay is the shorter version.
+From Te Anau, walk or take a booked transfer to the **Kepler Track car park** at the control gates. The path follows the lakeshore through beech forest to **Brod Bay**, 5,6 km and about 1:30 each way from the car park.
+
+Beyond Brod Bay, the track climbs steeply through the forest before reaching open tussock slopes below **Luxmore Hut**. The hut is another 8,2 km and 3:30–4:30 uphill from Brod Bay. Returning all the way from the hut makes this a long mountain day, not the short lakeside walk. [DOC gives the distances for each section](https://www.doc.govt.nz/keplertrack).
 
 ## Day 14: Christchurch
 

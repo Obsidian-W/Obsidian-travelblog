@@ -9,7 +9,7 @@ continents: ["Asia"]
 draft: true
 ---
 
-I reached Busan by ferry from Fukuoka at the end of my [15-day Japan itinerary](/blog/itinerary-japan/). The ferry arrives at **Busan Port International Passenger Terminal**, about ten minutes on foot from Busan Station. The fast JR Beetle I used no longer operates; the current direct crossing is the overnight New Camellia.
+I reached Busan by ferry from Fukuoka at the end of my [15-day Japan itinerary](/blog/itinerary-japan/). The ferry arrives at **Busan Port International Passenger Terminal**, about ten minutes on foot from Busan Station. The JR Beetle service no longer operates. [New Camellia](https://www.camellia-line.co.jp/newcamellia/) normally leaves Hakata at 12:30 and reaches Busan at 18:30, with occasional overnight departures listed in its [booking calendar](https://www.camellia-line.co.jp/rs/). Arrive the evening before Day 1 for a full first day in Busan.
 
 # Itinerary done quick
 
@@ -28,9 +28,7 @@ I reached Busan by ferry from Fukuoka at the end of my [15-day Japan itinerary](
 
 ## Day 1: Busan
 
-Walk or take Metro Line 1 from the passenger terminal area to **Jagalchi Market**. Continue through BIFF Square and Gukje Market, then climb through Yongdusan Park to Busan Tower.
-
-From Jagalchi, cross BIFF Square into Gukje Market, then walk along Gwangbok-ro to the escalators for Yongdusan Park. This route is about three kilometres from the market to Busan Tower.
+Take Metro Line 1 from Busan Station to **Jagalchi Market**. The fish stalls extend along the waterfront as well as inside the market building. Cross BIFF Square into **Gukje Market** for its clothing, household-goods and food alleys, then follow Gwangbok-ro to the escalators for **Yongdusan Park** and Busan Tower.
 
 ## Day 2: Busan
 
@@ -38,7 +36,7 @@ From Jagalchi, cross BIFF Square into Gukje Market, then walk along Gwangbok-ro 
 
 Take Metro Line 1 to **Toseong**, Exit 6, then village bus Saha 1-1, Seo-gu 2 or Seo-gu 2-2 to Gamjeong Elementary School. The entrance to **Gamcheon Culture Village** is five minutes from the stop. [Visit Busan lists the same buses and stop](https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000303011001000&uc_seq=365).
 
-Follow the marked hillside route west through the alleys, then descend towards Ami-dong before returning to Toseong.
+Gamcheon's painted houses rise in terraces above the port. Pick up the walking map at the entrance to follow the murals, stairways and viewpoints through the neighbourhood, including the Little Prince sculpture. The houses are still inhabited; the visitor route runs along the public alleys.
 
 Continue to Songdo by bus for the beach and coastal walk, then return across the harbour for the evening.
 
@@ -48,13 +46,15 @@ Continue to Songdo by bus for the beach and coastal walk, then return across the
 
 Take Metro Line 2 to **Haeundae**, Exit 7, then bus 100, 181 or Haeundae 9 to **Haedong Yonggungsa**. The temple entrance is about ten minutes from the bus stop. [Visit Busan publishes the current access routes](https://visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000303011001000&uc_seq=261).
 
+The approach to **Haedong Yonggungsa** passes zodiac statues before descending to the temple buildings on the rocks above the sea. Cross the little bridge for the view back towards the main hall.
+
 Return by bus to Haeundae. Walk the beach from the old station side to Dongbaek Island, circle the coastal path past Nurimaru and exit near Dongbaek metro station.
 
 ## Day 4: Gyeongju
 
-Take an intercity bus from Busan to **Gyeongju**. Walk between Daereungwon's royal tombs, Cheomseongdae and the Woljeonggyo Bridge, then visit **Donggung Palace and Wolji Pond** after dark.
+Take an intercity bus from Busan to **Gyeongju**. From the terminal, walk east to **Daereungwon**, where grass-covered royal burial mounds stand among the trees. Cheonmachong is open inside, with a reconstructed burial chamber and displays of the objects found there.
 
-From the intercity terminal, walk east through Daereungwon to Cheomseongdae, continue south to Woljeonggyo Bridge and turn north for Donggung Palace and Wolji Pond. The complete loop is about seven kilometres.
+Continue to the stone astronomical tower at **Cheomseongdae**, then through Gyochon Village to **Woljeonggyo Bridge**. Finish at **Donggung Palace and Wolji Pond** after dark, when the reconstructed palace pavilions are reflected in the water.
 
 ## Day 5: Gyeongju
 
@@ -62,7 +62,7 @@ From the intercity terminal, walk east through Daereungwon to Cheomseongdae, con
 
 Bus 10 and bus 11 link Gyeongju's terminals and centre with **Bulguksa**. From the Bulguksa car park, bus 12 climbs to Seokguram. [Gyeongju's official transport guide](https://www.gyeongju.go.kr/tour/eng/page.do?mnu_uid=2770) gives the stops and current operating times.
 
-At Bulguksa, the route climbs past Cheongungyo and Baegungyo bridges to Daeungjeon, Museoljeon and the upper halls. Bus 12 leaves from the parking area for Seokguram; check its return before entering the grotto.
+At Bulguksa, the route climbs past Cheongungyo and Baegungyo bridges to Daeungjeon, Museoljeon and the upper halls. The courtyard contains the contrasting stone pagodas Dabotap and Seokgatap. At **Seokguram**, a seated stone Buddha faces the entrance from the circular chamber; visitors view it through glass rather than walking around the statue.
 
 ## Day 6: Gyeongju
 
@@ -76,10 +76,12 @@ Yangdong is about 20 kilometres north of central Gyeongju. Its houses are spread
 
 Take a local bus to Gyeongju railway station and the KTX to **Seoul**. Visit Gyeongbokgung Palace, walk through Bukchon Hanok Village and continue to Insadong and Jogyesa.
 
-Gyeongbokgung fills the first part of the afternoon with its throne halls, courtyards and museum grounds. Bukchon, Insadong and Jogyesa then form a walk south towards the centre.
+The [KTX journey takes about two hours](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221840). Gyeongju's KTX station is outside the historic centre, not at the former downtown railway station.
+
+At **Gyeongbokgung**, walk through the main throne-hall courtyards to the Gyeonghoeru pavilion. Bukchon's hanok streets lie east of the palace; continue south for Insadong's craft shops and the main Buddhist hall at **Jogyesa**.
 
 ## Day 8: Seoul
 
 Walk through Gwangjang Market and along Cheonggyecheon, then take the metro to Myeongdong. Finish at **Namsan Seoul Tower**, reached by the hillside bus, cable car or walking path. Take the AREX train from Seoul Station or Hongik University to Incheon Airport.
 
-For a late flight, add **Changdeokgung**, which is north of Jongmyo and about 20 minutes on foot from Gwangjang Market. The AREX runs from Seoul Station and Hongik University to Incheon Airport.
+Gwangjang's covered food alleys are known for mung-bean pancakes and small seaweed rice rolls. The path beside **Cheonggyecheon** runs below street level towards the centre. From Myeongdong, the walk up **Namsan** climbs through wooded paths to the tower and its city views.

@@ -25,7 +25,7 @@ draft: true
 
 Start at the **Powder Tower** and Municipal House, then follow Celetná to **Old Town Square**. Visit the Old Town Hall and its tower before walking north into Josefov.
 
-The Jewish Museum sites are spread around the same few streets: the Maisel, Pinkas, Klausen and Spanish synagogues, the Ceremonial Hall and the Old Jewish Cemetery. They use a combined ticket. The Old-New Synagogue has a separate ticket, so check which one is included before paying.
+The Jewish Museum sites are spread around the same few streets: the Maisel, Pinkas, Klausen and Spanish synagogues, the Ceremonial Hall and the Old Jewish Cemetery. They use a combined ticket. The **Old-New Synagogue** has a separate admission option. The cemetery, Pinkas memorial and synagogue interiors are the main visits here, rather than just the walk between them.
 
 Continue through Klementinum to **Charles Bridge**, cross to Kampa and return along the east bank past the National Theatre. The complete route is about six kilometres before time inside the monuments.
 
@@ -33,7 +33,7 @@ Continue through Klementinum to **Charles Bridge**, cross to Kampa and return al
 
 ![Prague from above](images/blog/prague2.jpg)
 
-Take tram 22 to **Pražský hrad** and enter the castle through the Second Courtyard. The main visitor circuit covers **St Vitus Cathedral**, the Old Royal Palace, St George's Basilica and Golden Lane. In September, the historical buildings are open from 09:00 to 17:00; Sunday entry to the cathedral begins at noon. [Prague Castle publishes the seasonal hours](https://www.hrad.cz/en/prague-castle-for-visitors/opening-hours).
+Take tram 22 to **Pražský hrad** and enter the castle through the Second Courtyard. The main visitor circuit covers **St Vitus Cathedral**, the **Old Royal Palace**, **St George's Basilica** and **Golden Lane**. In the cathedral, look for the stained-glass windows and the decorated **St Wenceslas Chapel**. The Old Royal Palace contains **Vladislav Hall**, with its ribbed vaulting; Golden Lane is a row of small houses inside the fortifications. In September, the historical buildings are open from 09:00 to 17:00; Sunday entry to the cathedral begins at noon. [Prague Castle publishes the seasonal hours](https://www.hrad.cz/en/prague-castle-for-visitors/opening-hours).
 
 Leave through the eastern gate, pass the old castle steps and walk down through Malá Strana to the Lennon Wall and Kampa. Cross the Legion Bridge into the New Town for the rotating Kafka head and Wenceslas Square.
 
@@ -41,7 +41,7 @@ Leave through the eastern gate, pass the old castle steps and walk down through 
 
 ![Troja Chateau](images/blog/prague3.jpg)
 
-Take Metro C to **Nádraží Holešovice**, then bus 112 or 234 to **Zoo Praha–Troja**. Troja Chateau is beside the bus stop. Its painted staircase, main rooms and formal garden take about 90 minutes.
+Take Metro C to **Nádraží Holešovice**, then bus 112 or 234 to **Zoo Praha–Troja**. Troja Chateau is beside the bus stop. The exterior staircase is covered in sculptures; inside, the large painted hall and ceiling depict the Habsburg dynasty. The rooms and formal garden take about **90 minutes**.
 
 The botanical garden begins uphill behind the chateau. Enter through the southern gate for the vineyard and St Claire's Chapel, then continue into the outdoor collections or the Fata Morgana greenhouse. Bus 234 stops at **Botanická zahrada Troja**, which avoids walking back down to the zoo entrance.
 

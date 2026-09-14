@@ -61,27 +61,27 @@ Take the hostel-booked night bus to Ha Giang.
 
 My Ha Giang Loop was a motorcycle tour **with a driver**, booked through the hostel in Hanoi. I did not ride the mountain roads myself.
 
-Meet the group in Ha Giang and begin north through the first valleys and passes. The operator supplied the motorcycle, driver and accommodation; keep only the small bag permitted for the loop and leave the main luggage with the tour office.
+Meet the group in Ha Giang and begin north through the first valleys and passes. The operator supplied the motorcycle, driver and accommodation.
 
 ## Day 4: Ha Giang Loop
 
-Continue through **Quản Bạ**, the Heaven's Gate area and the road towards Yên Minh. This is the day for the limestone plateau and mountain villages between the larger towns, with stops chosen by the driver and group.
+Continue through **Quản Bạ**, the Heaven's Gate area and the road towards Yên Minh. The road climbs between limestone ridges and cultivated valleys. **Quản Bạ** has the view over the twin rounded hills, before the route continues through the pine-covered slopes towards Yên Minh.
 
 ## Day 5: Dong Van
 
-Walk around **Đồng Văn old town** before crossing **Mã Pí Lèng Pass** above the Nho Quế River. The pass is one of the loop's main road sections, with the driver handling the exposed bends and viewpoint stops.
+Walk around **Đồng Văn old town** before crossing **Mã Pí Lèng Pass** above the Nho Quế River. Đồng Văn has old stone-and-timber houses around its market square. Farther along the road, Mã Pí Lèng overlooks the narrow river gorge far below the pass.
 
 ## Day 6: Ha Giang
 
-Complete the final mountain section and return to Ha Giang. Collect the main luggage, shower at the tour office or accommodation when included, then take the hostel-booked night bus back to Hanoi.
+Complete the southern part of the loop and return to **Ha Giang**. The route back varies between tours; a four-day circuit can include the villages around **Du Già** before returning to town. Take the hostel-booked night bus back to Hanoi.
 
 ## Day 7: Ha Long Bay
 
-The hostel-booked trip included the road transfer from Hanoi and the cruise. Board the boat at the operator's harbour, leave the luggage in the cabin and sail into the limestone islands for the first cave, beach or viewpoint in the programme.
+The hostel-booked trip included the road transfer from Hanoi and the cruise. The cruise passes between steep limestone islands, with caves and small beaches at the foot of the cliffs. The overnight boats continue beyond the harbour area for their afternoon stops.
 
 ## Day 8: Ha Long Bay
 
-Continue the cruise programme with its cave and water activities. The exact bay, kayaking stop and sleeping place belong to the package booked through Old Quarter View Hanoi Hostel.
+Spend the second day out on the bay. Ha Long cruises commonly include **Sửng Sốt Cave**, with its large chambers, and **Ti Tốp Island**, where a staircase climbs from the beach to a viewpoint above the islands. Kayaking routes vary by cruise.
 
 ## Day 9: Hanoi
 
@@ -91,13 +91,13 @@ Finish the final cruise activity and return to the harbour, then use the road tr
 
 The Ninh Binh trip was also booked through **Old Quarter View Hanoi Hostel**. The road transfer left Hanoi for the former capital at **Hoa Lư**, followed by the boat route through the limestone landscape at **Tràng An**.
 
-Stay around Tam Cốc or Ninh Binh after the organised portion. Use the second day for the sites outside the hostel package.
+At **Hoa Lư**, the remaining royal temples stand beneath limestone hills. At **Tràng An**, small rowing boats pass between flooded valleys through low caves. Stay around Tam Cốc or Ninh Binh for the following day.
 
 ## Day 11: Ninh Binh
 
-Climb the long staircase at **Múa Cave** for the viewpoints over the karst fields, then visit **Bích Động Pagoda** and cycle through the roads around Tam Cốc. Leave the main luggage at the accommodation until the evening.
+Climb the long staircase at **Múa Cave** for the viewpoints over the karst fields, then visit **Bích Động Pagoda** and cycle through the roads around Tam Cốc.
 
-Take the sleeper bus or night train south to Huế. Use the departure point printed on the booking; Ninh Binh station and the tourist-bus pickup points are not the same place.
+Take a sleeper bus south to **Huế**, or the overnight train from **Ninh Binh Station**. [Vietnam Railways lists the southbound services](https://giotaugiave.dsvn.vn/); the train journey takes much of the night and reaches Huế the following day.
 
 ## Day 12: Hue
 
@@ -109,27 +109,27 @@ Use a shared minibus tour for the imperial tombs of **Minh Mạng** and **Khải
 
 ## Day 14: An Bang
 
-Take a local bus or booked ride from Huế to **An Bàng village** and its beach, east of the city. Walk through the village and coastal cemetery area, then continue towards the nearby lagoon before returning to Huế.
+Arrange a return car from Huế to **An Bàng village**, east of the city. Its [cemetery](https://visithue.vn/Visiting-An-Bang-%E2%80%93-The-City-Of-Ghosts-Attractive-Destinations-of-Phu-Vang-%E2%80%93-Phu-Loc.html/?pid=MTk1NDN8Y3NkbGRs0) contains enormous family tombs decorated with painted dragons, tiled roofs and elaborate gateways. Continue to the beach and the nearby lagoon before returning to Huế.
 
-Confirm the final return before leaving the city; this is outside the dense central bus network.
+This is An Bàng near Huế, not the beach of the same name beside Hội An.
 
 ## Day 15: Da Nang
 
-Take the daylight train from Huế to Đà Nẵng across the **Hải Vân Pass** and sit on the left side leaving Huế for the coastal view. From Đà Nẵng station, leave the bag and visit the **Museum of Cham Sculpture**, Hàn Market and the riverfront around Dragon Bridge. Continue to **Mỹ Khê Beach** late in the day.
+Take the daylight train from Huế to Đà Nẵng across the **Hải Vân Pass** and sit on the left side leaving Huế for the coastal view. From Đà Nẵng station, visit the **Museum of Cham Sculpture**, Hàn Market and the riverfront around Dragon Bridge. Continue to **Mỹ Khê Beach** late in the day.
 
 ## Day 16: Da Nang
 
-Take the local bus south to the **Marble Mountains** and climb through the caves, pagodas and viewpoints on Thủy Sơn. Return through Đà Nẵng, then use a local bus or booked ride to **Linh Ứng Pagoda** on Sơn Trà Peninsula.
+Take the local bus south to the **Marble Mountains** and climb through the caves, pagodas and viewpoints on Thủy Sơn. Return through Đà Nẵng, then arrange a ride to **Linh Ứng Pagoda** on Sơn Trà Peninsula. Its large white Lady Buddha statue faces the bay; the temple courtyards overlook the coast.
 
 ## Day 17: Hoi An
 
-Take the local bus or shuttle from Đà Nẵng to Hội An. Walk through the **Ancient Town**, linking the old houses, Chinese assembly halls, market and **Japanese Covered Bridge** with the same old-town ticket. Return to the river after dark when the shopfronts and lanterns are lit.
+For public transport from Đà Nẵng, take **bus 02 to Vietnam–Korea University**, then change to **LK02** towards Hội An and get off around Lý Thường Kiệt for the old town. [DanaBus lists both routes](https://www.danangbus.vn/roadmap.html). A direct accommodation-to-accommodation shuttle avoids the change. Walk through the **Ancient Town**, linking the old houses, Chinese assembly halls, market and **Japanese Covered Bridge** with the same old-town ticket. Return to the river after dark when the shopfronts and lanterns are lit.
 
 ## Day 18: Hoi An
 
-Rent a bicycle for the rice fields and villages between Hội An and **An Bàng Beach**. Return through the quieter lanes north of the old town and collect the luggage.
+Rent a bicycle for the rice fields and villages between Hội An and **An Bàng Beach**. Return through the lanes north of the old town.
 
-Travel to Ho Chi Minh City overnight by sleeper bus or train from Đà Nẵng, or use a flight when the road journey consumes too much of the following day.
+Return to **Đà Nẵng Airport** for a flight to Ho Chi Minh City if keeping the full visit on Day 19. The [train from Đà Nẵng to Sài Gòn](https://giotaugiave.dsvn.vn/) takes roughly 17–20 hours, so the overland option needs more than a night between the two sightseeing days.
 
 ## Day 19: Ho Chi Minh City
 
@@ -145,7 +145,7 @@ Take a full-day organised trip from Ho Chi Minh City into the **Mekong Delta**. 
 
 Take a half- or full-day organised bus from central Ho Chi Minh City to the **Củ Chi tunnels**. The visit covers the preserved tunnel area, entrances, traps and wartime interpretation before the return journey.
 
-The public-bus route requires several changes. Organised day trips leave from Ho Chi Minh City and coordinate the temple visit with its admission hours.
+Independently, take **bus 13 to Củ Chi bus station**, then **bus 79 to Bến Dược**. This reaches the Bến Dược tunnel site, not Bến Đình, which is used by many organised tours. The [city bus planner](https://buyttphcm.com.vn/RouteFinding) gives the boarding stops and connections.
 
 ## Day 22: Cao Dai Temple
 

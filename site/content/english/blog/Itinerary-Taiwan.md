@@ -31,7 +31,7 @@ draft: true
 
 ## Day 1: Taipei
 
-Start at **Longshan Temple**, walk through Wanhua and **Bopiliao Historic Block**, then follow the old streets north towards the Presidential Office area. Continue to **Ximending** for the evening.
+Start at **Longshan Temple**, with its carved stone pillars, roof dragons and incense-filled courtyards. Walk through Wanhua to **Bopiliao Historic Block**, a row of restored brick shop houses, then follow the old streets north towards the Presidential Office area. Continue to **Ximending** for the evening.
 
 The airport MRT links Taoyuan Airport with Taipei Main Station. In the city, the metro covers almost everything on this first day.
 
@@ -39,7 +39,7 @@ The airport MRT links Taoyuan Airport with Taipei Main Station. In the city, the
 
 ## Day 2: Taipei
 
-Walk through **Dihua Street**, its old shop houses and the Dadaocheng riverfront, then take the metro to **Chiang Kai-shek Memorial Hall**. Continue by metro to Sun Yat-sen Memorial Hall and finish at **Raohe** or another night market on the same side of the city.
+Walk through **Dihua Street**, where the old shop houses sell dried foods, tea and traditional medicines, and continue to the Dadaocheng riverfront, then take the metro to **Chiang Kai-shek Memorial Hall**. Continue by metro to Sun Yat-sen Memorial Hall and finish at **Raohe** or another night market on the same side of the city.
 
 ---
 
@@ -51,7 +51,7 @@ Take a Taiwan Railways train from Taipei Main Station to **Ruifang**. Buses leav
 
 Use the Pingxi railway line for **Shifen Old Street** and walk from the station to **Shifen Waterfall**. Return to Ruifang on the same branch line.
 
-Back in Taipei, take an evening train from Taipei Main Station to **Hualien**. Book the east-coast train ahead.
+Take an east-coast train from **Ruifang to Hualien** rather than returning to Taipei. Select a service that stops at Ruifang in the [Taiwan Railways timetable](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip112/querybytime?lang=EN_US) and reserve a seat.
 
 
 ---
@@ -74,10 +74,10 @@ Take bus 308 from Hualien Bus Station to **Qixingtan**. Walk the long pebble bea
 
 I visited **Taroko Gorge** by bus from Hualien. At the time, the bus stopped through the gorge and made it possible to get off for the trails, then continue on a later service.
 
-This day cannot currently be repeated in the same form. The 2024 earthquake badly damaged the gorge. As checked in August 2026, buses 310 and 302 only reach the Taroko Visitor Centre; the Visitor Centre–Tianxiang section and its bus service remain closed. The park publishes the [current Taroko bus and access information](https://www.taroko.gov.tw/ch/titlelist/traffic-information/97).
+This day cannot currently be repeated in the same form. The 2024 earthquake badly damaged the gorge. Buses 310 and 302 currently only reach the Taroko Visitor Centre; the Visitor Centre–Tianxiang bus service remains suspended. Bus 310 leaves Hualien via Qixingtan and Xincheng; bus 302 starts at Xincheng Station. The park lists the [open sections and bus routes](https://www.taroko.gov.tw/en/listicle/faq/534).
 
 
-Take the Taiwan Railways service south from Hualien through Taitung to **Kaohsiung** after returning from the gorge.
+Take the Taiwan Railways service south from Hualien through Taitung to **Kaohsiung** after the visit.
 
 ---
 
@@ -104,7 +104,7 @@ Taiwan Railways trains connect central Kaohsiung directly with **Taichung**. Hig
 
 Start at **Rainbow Village**, then return towards the centre for the old railway-station area, **Taichung Park** and the National Taiwan Museum of Fine Arts. Finish at **Fengjia Night Market**.
 
-Rainbow Village is in Nantun, outside central Taichung. Take a city bus to the **Rainbow Village** stop, then return by bus for the central sights.
+**Rainbow Village** is a small former military settlement in Nantun, painted with bright figures and patterns by Huang Yung-fu. It is outside the centre; [Taichung's visitor transport map](https://www.taichung.travel/file/1549/) lists buses 56 and 617 for the village. For the rest of the day, the old station and Taichung Park are within walking distance of each other; the Fine Arts Museum and Fengjia require separate bus journeys.
 
 
 ---
@@ -113,7 +113,7 @@ Rainbow Village is in Nantun, outside central Taichung. Take a city bus to the *
 
 ![Cycling beside Sun Moon Lake](images/blog/taiwan5.jpg)
 
-Take the Nantou Bus from Taichung to **Sun Moon Lake** and get off at Shuishe. Leave the bag there, rent a bicycle and follow the lake path south past Shuishe Dam to the **Xiangshan Visitor Centre**. The protected Shuishe–Xiangshan section is about four kilometres each way.
+Take [Nantou Bus 6670](https://ntbus.com.tw/hsr6.html) from Gancheng in central Taichung or Taichung HSR Station to **Shuishe**, at Sun Moon Lake. Rent a bicycle in Shuishe and follow the lakeside path south past Shuishe Dam to the **Xiangshan Visitor Centre**. The protected Shuishe–Xiangshan section is about four kilometres each way.
 
 Return the bicycle in Shuishe and stay at the lake. The [Sun Moon Lake administration describes each section of the cycle route](https://www.sunmoonlake.gov.tw/EN).
 

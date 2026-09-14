@@ -26,7 +26,10 @@ But if you're flexible and book locally, you can get a proper multi-day safari f
 - **Budget**: You can realistically get **three days for under 400 €**. That usually includes park fees, guide, car, fuel, accommodation (camping or budget lodges), and food. 
 - **Group tours**: Cheaper if you join others instead of booking private. Groups are usually 4–6 people per car.  
 
-> Note: I went in 2023, prices must have hiked up. Expect 450 or even 500€, inflation is a bitch.
+> Note: I went in Tanzania in 2023, prices must have hiked up. Expect 450 or even 500€, inflation is a bitch. What I paid won't be what you'll pay.
+
+Also, important, check what is included, a cheaper safari might mean that you have to bring your own lunch or to pay your dinners.
+And check which currency they want to be paid in, in some countries, they would rather take euro/dollar and will give you a better rate for doing so, believe. (eg: Ethiopia)
 
 ---
 
@@ -43,6 +46,7 @@ If you want the price and itinerary fixed before you arrive, these are reasonabl
 - [Nairobi National Park full- or half-day safari (affiliate link)](https://www.getyourguide.com/en-gb/nairobi-l267/nairobi-national-park-full-day-of-half-day-tour-with-guide-t11393/?partner_id=H1N6CGH&utm_medium=online_publisher).
 
 I did not book these specific operators. Treat their prices as the convenient pre-booking option, then compare them with local quotes before deciding.
+Unless you worry a lot, then do what you want, but know that I'll earn a nice commission from those links!
 
 ---
 
@@ -54,12 +58,13 @@ I did not book these specific operators. Treat their prices as the convenient pr
 
 ---
 
-## Is it Worth It?
+## Is a Safara worth It?
 
 ![Ngorongoro](images/blog/tanzania2.jpg)
 
 Absolutely. Even on a budget trip, you still see the same lions, elephants, giraffes, and endless savannahs as the people who paid ten times more.  
-The only difference: they're sipping wine in a lodge at night, and you're in a tent.  
-For me, that trade-off is more than fine.  
+The only difference: they're sipping wine in a lodge at night, and you're in a tent. For me, that trade-off is more than fine.
 
 However, truth be told, sometimes it feels a bit "on rail". It was like going to the Thoiry Zoo near Paris, seeing one animal after the other in a way that was crafter by the guide. I was tired on the third day, it felt a bit too similar. I'm not that crazy about wildlife, so it checks out.
+
+Some people like going on week long safaris... I don't know how they do it? I recommend doing smaller ones first, to see if you like it.

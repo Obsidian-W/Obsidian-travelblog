@@ -199,11 +199,12 @@ const routes = [
     countries: ["Armenia", "Georgia", "Azerbaijan", "Turkey", "Iran"],
     bounds: [42.8, 38.5, 47.0, 41.6],
     points: [
-      P("Alaverdi", 41.1, 44.66), P("Yerevan", 40.18, 44.51),
+      P("Alaverdi", 41.1, 44.66), P("Gyumri", 40.79, 43.85),
+      P("Yerevan", 40.18, 44.51),
       P("Etchmiadzin", 40.16, 44.29, false), P("Garni", 40.12, 44.73),
       P("Khor Virap", 39.88, 44.58),
     ],
-    sectionIndexes: [0, 1, 2, 3, 3],
+    sectionIndexes: [0, 1, 3, 4, 5, 5],
   },
   {
     slug: "central-asia",
@@ -422,11 +423,11 @@ const routes = [
     bounds: [119.5, 21.5, 122.5, 25.6],
     points: [
       P("Taipei", 25.04, 121.56), P("Jiufen", 25.11, 121.84),
-      P("Hualien", 23.98, 121.61),
+      P("Hualien", 23.98, 121.61), P("Qixingtan", 24.03, 121.63),
       P("Kaohsiung", 22.62, 120.31), P("Taichung", 24.16, 120.65),
       P("Sun Moon Lake", 23.86, 120.92), P("Taipei (return)", 25.03, 121.49),
     ],
-    sectionIndexes: [0, 2, 3, 5, 7, 8, 9],
+    sectionIndexes: [0, 2, 3, 4, 6, 8, 9, 11],
   },
   {
     slug: "new-zealand",

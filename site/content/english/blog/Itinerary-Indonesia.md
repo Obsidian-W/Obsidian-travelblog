@@ -9,9 +9,9 @@ continents: ["Asia"]
 draft: true
 ---
 
-This is the direct Bali-to-Jakarta route I would use for a short trip. Covid kept me in Temanggung far longer than planned, but that was not a useful itinerary to reproduce.
+Eleven days from **Bali to Jakarta**, crossing Java through Ijen, Bromo, Yogyakarta and the Dieng Plateau.
 
-Before crossing Java, add the **Gili Islands** for beaches and diving or fly to Labuan Bajo for a short **Komodo National Park** boat trip. Neither fits into the eleven days below without removing Ijen or Bromo.
+Before crossing Java, add the **Gili Islands** for beaches and diving or fly to Labuan Bajo for a short **Komodo National Park** boat trip. These need additional days before crossing to Java.
 
 # Itinerary done quick
 
@@ -33,7 +33,7 @@ Before crossing Java, add the **Gili Islands** for beaches and diving or fly to 
 
 ## Day 1: Ubud
 
-Start at **Ubud Palace** and the market, then walk south to the **Sacred Monkey Forest**. Return through the centre for Saraswati Temple and the Campuhan Ridge Walk towards sunset.
+Start at **Ubud Palace** and the market, then walk south to the **Sacred Monkey Forest**. Return through the centre for Saraswati Temple and the Campuhan Ridge Walk towards sunset. [Perama's shared shuttles](https://peramatour.com/b/en/shuttle-bus) connect Bali airport and several coastal towns with Ubud; accommodation pickup is another option.
 
 I hated Bali. The parts I saw were dirty and overwhelmed by overtourism, foreign-owned shops, tattoo businesses, prostitution and drug dealing. Ubud felt detached from the rest of Indonesia I saw afterwards.
 
@@ -41,13 +41,17 @@ I hated Bali. The parts I saw were dirty and overwhelmed by overtourism, foreign
 
 ![Goa Gajah near Ubud](images/blog/indo1.jpg)
 
-Book a shared excursion or scooter for **Goa Gajah**, **Tegenungan Waterfall** and the temples east of Ubud. The roads are slow enough that three substantial stops fill the day.
+Take a small-group excursion or arrange a driver from Ubud for **Goa Gajah** and **Tegenungan Waterfall**. At Goa Gajah, the cave entrance is carved as an enormous open mouth; the grounds also contain bathing pools and stone statues. Tegenungan lies farther south, with a stairway down to the waterfall and river.
+
+Return via **Pura Samuan Tiga**, close to Goa Gajah, for its gateways and courtyards. The stops are spread outside Ubud and do not form a walking route.
 
 ## Day 3: Ubud
 
 ![A temple in Bali](images/blog/indo2.jpg)
 
-Go north for **Tegallalang's rice terraces**, **Tirta Empul** and the area around Kintamani. Return to Ubud, collect the bag and take the evening shuttle towards Gilimanuk. Cross to Ketapang on the public ferry and sleep around Banyuwangi for the Ijen pickup.
+Go north for **Tegallalang's rice terraces** and **Tirta Empul**, whose spring feeds the temple's purification pools. Kintamani is farther north for views over Lake Batur and the volcano.
+
+The transfer from Ubud to **Gilimanuk**, followed by the ferry to **Ketapang** and the journey into Banyuwangi, takes much of a day. For the Ijen start on Day 4, leave Ubud early enough to sleep in Banyuwangi: visit Tegallalang and Tirta Empul in the morning and omit Kintamani, or add a night before Ijen. Arrange the road transfer through the accommodation; the Ketapang crossing is on the public ferry.
 
 ## Day 4: Ijen
 
@@ -65,30 +69,32 @@ Leave before dawn for the sunrise viewpoint above **Mount Bromo**. Walk back thr
 
 ## Day 6: Yogyakarta
 
-Visit the **Kraton** in the morning, then walk to **Taman Sari** and through the surrounding lanes. Continue to Beringharjo Market and Malioboro. Trans Jogja buses cover the railway station and the main roads through the centre.
+Visit the **Kraton**, the sultan's palace, in the morning for its open pavilions and royal collections. Walk south-west to **Taman Sari**, the former royal bathing complex, and through the surrounding residential lanes. Continue to Beringharjo Market and Malioboro. Trans Jogja buses cover the railway station and the main roads through the centre.
 
 ## Day 7: Borobudur
 
 ![Borobudur](images/blog/indo6.jpg)
 
-Take the bus from Jombor terminal towards **Borobudur**, or use a shared hostel transfer for the early entry slot. The ticket for the temple grounds is not always the same as the timed ticket that allows visitors onto the monument. Spend the afternoon around Mendut and Pawon before returning to Yogyakarta.
+Take the bus from Jombor terminal towards **Borobudur**, or use a shared hostel transfer for the early entry slot. Book the [temple-structure ticket](https://ticket.borobudurpark.com/) to climb **Borobudur**; the grounds-only ticket does not include the monument. Its lower galleries carry carved Buddhist narratives, while the upper terraces are lined with bell-shaped stupas.
+
+Visit **Pawon** and **Mendut** on the return towards Yogyakarta. Mendut's main chamber contains three large Buddhist statues; the two smaller temples lie east of Borobudur and need local transport between them.
 
 ## Day 8: Prambanan
 
 ![Prambanan](images/blog/indo5.jpg)
 
-Take Trans Jogja east to **Prambanan**. Walk beyond the main temples to **Candi Sewu** at the far end of the archaeological park. Back in Yogyakarta, use the remaining evening for the southern square and the food stalls around Malioboro.
+Take [Trans Jogja bus 1A](https://dishub.jogjaprov.go.id/trans-jogja) from Malioboro to **Prambanan Terminal**, then walk to the temple entrance. The tallest temples are dedicated to Shiva, Vishnu and Brahma; reliefs around the galleries tell episodes of the Ramayana. Continue north inside the archaeological park to **Candi Sewu**, a Buddhist complex surrounded by rows of smaller ruined shrines. Back in Yogyakarta, use the remaining evening for the southern square and the food stalls around Malioboro.
 
 ## Day 9: Temanggung and Dieng Plateau
 
-Use Temanggung as the approach to the **Dieng Plateau**, then continue by bus through Wonosobo and change to the local minibus for Dieng. The main stops are the **Arjuna temple complex**, the small Hindu temples scattered across the plateau, Sikidang crater and the coloured volcanic lake at Telaga Warna. Start early: the last local connections back down the plateau finish well before the long-distance buses.
+Travel from Yogyakarta towards **Temanggung and Wonosobo**, then change in Wonosobo for a local minibus up to **Dieng**. The main stops are the **Arjuna temple complex**, the small Hindu temples scattered across the plateau, Sikidang crater and the coloured volcanic lake at Telaga Warna. Stay in Dieng or Wonosobo after the visit; returning to Temanggung adds another road journey.
 
 Covid left me in the Temanggung area for weeks. I sorted tobacco, helped harvest rice and taught English and French, but that was not part of the intended itinerary. With more time, spend two or three days between Temanggung and Dieng rather than forcing the plateau into a single day.
 
 ## Day 10: Semarang
 
-Take the bus north to **Semarang**. Walk around Kota Lama and Gereja Blenduk, then continue to **Lawang Sewu**. Add Sam Poo Kong by Trans Semarang bus or ride-hailing car if the bus arrives early.
+Take a bus from Wonosobo towards **Semarang**, via Temanggung. From the terminal, use Trans Semarang or a booked ride into Kota Lama, then walk around **Gereja Blenduk**, the domed church in the old Dutch quarter, and the streets around Taman Srigunting. Continue to **Lawang Sewu**, the former railway company's headquarters, for its long arcaded corridors and stained-glass windows. Add Sam Poo Kong by Trans Semarang bus or booked ride if the bus from Temanggung arrives early.
 
 ## Day 11: Jakarta
 
-Take the early train from Semarang to Jakarta. Use the commuter line to reach **Kota Tua**, then continue to Sunda Kelapa harbour. Finish around Merdeka Square with **Monas**, Istiqlal Mosque and Jakarta Cathedral before taking the airport train. One day was enough for the parts of Jakarta I wanted to see.
+Take an early train from **Semarang Tawang to Jakarta Gambir**; book the intercity journey through [KAI](https://www.kai.id/). Use the commuter line to reach **Kota Tua**, then continue to Sunda Kelapa harbour. Finish around Merdeka Square with **Monas**, Istiqlal Mosque and Jakarta Cathedral before taking the airport train. One day was enough for the parts of Jakarta I wanted to see.

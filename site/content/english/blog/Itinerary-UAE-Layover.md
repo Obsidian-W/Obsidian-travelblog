@@ -53,11 +53,18 @@ I did it so I could go outside of the city and see some dunes; It would have bee
 
 ![Desert trip outside Dubai](images/blog/uae1.jpg)
 
+I took the airport transfer from Abu Dhabi straight to Dubai. In the morning, take the Green Line to **Sharaf DG** and walk into Al Fahidi Historical Neighbourhood. Continue through the wind-tower houses to the textile souk and **Bur Dubai Abra Station**. Route CR1 crosses Dubai Creek to Deira Old Souq; the fare is **AED 1 in cash**. From the landing, the spice souk and gold souk are beside each other. [Dubai RTA publishes the abra route and operating hours](https://rta.ae/wps/portal/rta/ae/home/promotion/new-marine-routes-abra).
+
+After lunch, take the Green Line from **Al Ras** or **Gold Souq**, change at **BurJuman** to the Red Line and get off at **Burj Khalifa/Dubai Mall**. Follow the covered walkway to the mall. Dubai Mall, the aquarium window, the Burj Khalifa plaza and the fountain basin fill the early afternoon.
+
+Keep the late afternoon and evening for a pre-booked desert excursion. [This desert safari (affiliate link)](https://www.getyourguide.com/en-gb/dubai-l173/dubai-extreme-desert-safari-with-dinner-t89937/?partner_id=H1N6CGH&utm_medium=online_publisher) includes hotel pickup, dune driving, sandboarding, a short camel ride and dinner before the return to Dubai.
+
 ## Day 2: Abu Dhabi
 
 ![Sheikh Zayed Grand Mosque](images/blog/uae3.jpg)
 
 Take the E100 from Al Ghubaiba or the E101 from Ibn Battuta to **Abu Dhabi Central Bus Station**. Both are inter-emirate buses; [Abu Dhabi Mobility lists E100, E101 and E102 on the Dubai route](https://admobility.gov.ae/en/inter-emirates-services). 
+
 
 I arrived around noon (Later than I hoped, actually, my time in Abu Dhabi ended up short)
 
@@ -111,3 +118,4 @@ I'd recommend heading to Al Ain, the oasis in the desert. You can get there from
 Sorry, Abu Dhabi, you're even less interesting than Dubaï.
 
 Of course, it's only my opinion. But I think the city can be reduced to the mosque, that's the only "must do".
+

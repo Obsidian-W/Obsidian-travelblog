@@ -315,8 +315,8 @@ She didn't like Ruta Del Sillar either, the group she had spent so much time in 
 I did Colca as one two-day trip from Arequipa, spending the night at the oasis on the canyon floor.
 
 Absolutely worth it, if you wondered. And yes, I say that before we even started. If you go to Arequipa, it's probably for the Colca Canyon. It's hard to photograph due to the harsh light, but is a sight for your eyes.
-You like nature? Condors? Plants? Hikes? Altitude?
-Well, it's even more for you.
+*You like nature? Condors? Plants? Hikes? Altitude?*
+**Well, it's even more for you.**
 Tours are between 1 and 3 days (1 day means not going inside the canyon and spending like 9 hours driving, 3 days means an extra day in the hot spring. Now you know why I did two.)
 
 Anyway, for the practical info: Trekking tours usually pick up from central hostels and hotels in Arequipa around **03:00–03:30** (yikes).
@@ -343,27 +343,49 @@ The journey takes 10 hours, with fares starting from 50 soles (12€).
 > Cusco (The town, not the disney character) is beautiful, filled with indigineous culture.
 > Seriously it should have been Peru's capital since it's such a cultural powerhouse and so much more memorable than Lima.
 
-Begin in **Plaza de Armas**, then walk down to **Qorikancha**, where Inca stonework forms the base of the Santo Domingo complex. Continue via **Hatun Rumiyoc**, the twelve-angled stone and the uphill lanes of **San Blas**. Allow 2–3 hours for the streets and squares, with additional time for an interior visit to Qorikancha.
+For the record, I arrived from a night bus, very early. Hence the long day! For a more "chillax" rythm, add more time in the Centro historico and go to Sacsayhuaman and stuff on another day (And add more walking, perhaps to Apu chakam, right next to it).
 
-The **integral Cusco tourist ticket** costs 130 soles (33,30€) for a foreign adult, valid **ten days**. Starting it on Day 16 covers Sacsayhuamán today, the cultural performance, the Sacred Valley on Day 23 and the included museums on Day 24. Tickets are sold in person at **Avenida El Sol 103**, normally **07:30–18:00**, and at most included archaeological sites. The Qorikancha *site museum* is included; admission to the temple/Santo Domingo complex is separate.
+Alright, I'll say to begin by buying the **integral Cusco tourist ticket**.
+It costs 130 soles (33€) for a foreign adult, valid **ten days**.
 
-For the afternoon, take a **Cristo Blanco** or **Señor de Huerto** bus from **Mercado Rosaspata** to **Q’enqo**, then walk towards **Sacsayhuamán**. At Q’enqo, follow the permitted route around the carved limestone and underground chamber. Sacsayhuamán has massive zigzag walls and broad views across Cusco; allow **1:30–2:00** there.
+Starting it on this day will cover Sacsayhuamán for the afternoon, the cultural performance an evening, the Sacred Valley on Day 23 and the included museums for this day and those I added in Day. AKA: A lot.
 
-From Sacsayhuamán, descend on foot through **San Cristóbal** to the centre, around **0:30–0:45**. Visiting Q’enqo first avoids walking uphill again after Sacsayhuamán. The archaeological entries are already covered by the integral ticket.
+> Be careful, the paper is fragile, keep it well, mine got drenched due to heavy rain going thorugh my bags. It was barely usable after my Macchu Picchu hike.
+
+Tickets are sold in person at **Avenida El Sol 103**, normally **07:30–18:00**, and at most included archaeological sites.
+(Note: The Qorikancha *site museum* is included; admission to the temple/Santo Domingo complex is separate.)
+
+That is done? Let's go.
+Honestly, do the classic stuff, start in lively **Plaza Túpac Amaru**, right next to the bus station, then to **Plaza de Armas**, then walk down to **Qorikancha** (Most beautiful building in the city, imho), where Inca stonework forms the base of the Santo Domingo complex. Then continue via **Hatun Rumiyoc**, the twelve-angled stone and the uphill lanes of **San Blas**, where you will find one of the best Mirador.
+Allow 2–3 hours for the streets and squares, with additional time for an interior visit to Qorikancha.
+
+For the afternoon, take a **Cristo Blanco** or **Señor de Huerto** bus from **Mercado Rosaspata** to **Q’enqo**, then walk towards **Sacsayhuamán**.
+This is a nice walk to mutiple sites included in the ticket: Q'enqo, Pukamuqu (The Redemptor Christ), Qhalispuqyo and Sacsayhuamán.
+Allow at least 2 hours there. 
+From Sacsayhuamán, descend on foot through **San Cristóbal** to the centre (Another Mirador).
+
+In total, with the bus, the way back on foot and the stops, it took my friend and I around 4 hours.
+
 
 I stayed in **Secret Garden Hostel**. Fun times, great place.
 
 ## Day 17: Rainbow Mountain
 
-Leave Cusco before dawn for **Vinicunca, Rainbow Mountain**. Shared tours generally collect from central hotels around **04:00–05:00**, drive 3–4 hours with a breakfast stop, and reach a high trailhead for the walk to the striped ridge. The viewpoint is approximately 5 000 m, with Ausangate beyond it on a clear day.
+Leave Cusco before dawn for **Vinicunca, Rainbow Mountain**. Shared tours generally collect from central hotels around **04:00–05:00**, drive 3–4 hours with a breakfast stop, and reach a high trailhead for the walk to the striped ridge. The viewpoint is approximately 5 000 m, with Ausangate (the real name) beyond it on a clear day.
 
-Allow **1:30–2:00 uphill**, time at the viewpoint and **1:00–1:30 back**, depending on the road access used. The walk crosses open grazing country before the final steeper climb. A **Red Valley** extension adds walking time and may carry a separate community charge.
+Allow **1:00–2:00 uphill**, time at the viewpoint and **0:45–1:30 back**, depending on the road access used and your fitness level.
 
-[This Rainbow Mountain and Red Valley day trip with meals (affiliate link)](https://www.getyourguide.com/cusco-l359/cusco-rainbow-mountain-and-red-valley-day-trip-with-meals-t351741/?partner_id=H1N6CGH&utm_medium=online_publisher) is currently advertised on GetYourGuide’s Cusco page from 20€. Allow an additional 30 soles (7,70€) as an entrance budget unless the selected option includes it; the community charges depend on the access route. Typical return is **17:00–18:00**.
+> Personally, I carried someone up for a long while, before realizing she would be better off with a donkey (Making it easier for me to run to the top)
+> Running to the top while others were struggling was a real wow factor for me, I thought I was terribly out of shape. Running half the way up was 20 minutes max.
+The walk crosses open grazing country before the final steeper climb. Most tours also included the Red valley, for an hour or two of walking, it's just as nice, especially after spending most of the day in transport.
+
+[This Rainbow Mountain and Red Valley day trip with meals (affiliate link)](https://www.getyourguide.com/cusco-l359/cusco-rainbow-mountain-and-red-valley-day-trip-with-meals-t351741/?partner_id=H1N6CGH&utm_medium=online_publisher) is currently advertised on GetYourGuide’s Cusco page from 20€. Allow an additional 30 soles (7,70€) as an entrance budget unless the selected option includes it.
+Typical return is **17:00–18:00**.
 
 > After Rainbow Mountain, I returned to Cusco for the cultural performance at **Centro Qosqo de Arte Nativo**.
 
-**Centro Qosqo de Arte Nativo**, at **Avenida El Sol 872**, presents regional music and dances, with traditional costumes and live accompaniment. Its published performance is **19:00–20:15**; arrive around **18:30**. Entry is included in the integral tourist ticket described on Day 16.
+**Centro Qosqo de Arte Nativo**, at **Avenida El Sol 872**, presents regional music and dances, with traditional costumes and live accompaniment. Really nicer than I thought it would be. It went from **19:00** to **20:15** (So, arrive around **18:45** to have good seats). Luckily I returned not too late from *Ausangate* and had the time for a shower and the walk there without issues.
+Entry is included in the integral tourist ticket, most folks seems to skip it, I'd say it's a mistake, support artists!
 
 ## Days 18 to 22: Salkantay trek and Machu Picchu
 

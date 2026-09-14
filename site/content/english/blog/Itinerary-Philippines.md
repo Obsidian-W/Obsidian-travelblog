@@ -9,7 +9,7 @@ continents: ["Asia"]
 draft: true
 ---
 
-**Taal Volcano** was in my original plan. It erupted on **12 January 2020**, four days before I arrived in the Philippines, so I had to replace that day. The eruption date is recorded by [PHIVOLCS](https://wovodat.phivolcs.dost.gov.ph/volcano/erupt-history?page=2&volcan%3D565%26sdate%3D%26edate%3D%26btn-search%3D=).
+**Taal Volcano** was in my original plan. It [erupted on **12 January 2020**](https://wovodat.phivolcs.dost.gov.ph/volcano/erupt-history?page=2&volcan%3D565%26sdate%3D%26edate%3D%26btn-search%3D=), four days before I arrived in the Philippines, so I had to replace that day.
 
 I do not recommend Manila as a destination. I used it as the hub for the night bus to Banaue and the flight south.
 
@@ -40,17 +40,17 @@ Fort Santiago needs about an hour. Casa Manila adds around 30 minutes and is clo
 
 I disliked most of Manila. The traffic, rubbish and visible sex-tourism scene were difficult to ignore. I repeatedly saw older foreign men seeking very young company, and it coloured my entire impression of the city.
 
-For the journey to Banaue, **Coda Lines** leaves from its terminal in Cubao, Quezon City. The overnight journey normally takes nine to ten hours. Check the departure and terminal printed on the ticket: Manila does not have one central station for provincial buses. [Coda Lines sells the route on its own website](https://www.codalines.ph/).
+For the journey to Banaue, **Coda Lines** leaves from its terminal in Cubao, Quezon City. The overnight journey normally takes nine to ten hours. [Coda Lines sells the route on its own website](https://www.codalines.ph/).
 
 ## Day 2: Banaue
 
 ![The rice terraces around Banaue](images/blog/philipines1.jpg)
 
-Arrive early and leave the bag at the accommodation. The four road viewpoints above **Banaue** are in sequence along the road towards Bontoc: **NFA Viewpoint**, **Dayanara Viewpoint**, **Banaue Main Viewpoint** and **Nungulunan Viewpoint**. Arrange a return ride covering all four at the Banaue Tourism Office, then walk through the public market and the centre.
+Arrive early in Banaue. The four road viewpoints above **Banaue** are in sequence along the road towards Bontoc: **NFA Viewpoint**, **Dayanara Viewpoint**, **Banaue Main Viewpoint** and **Nungulunan Viewpoint**. Arrange a return ride covering all four at the Banaue Tourism Office, then walk through the public market and the centre.
 
 ## Day 3: Banaue
 
-Use the second day for a guided walk from Banaue into the surrounding terraces. Ask the tourism office which village paths are open and agree on both the finishing village and return ride before leaving town.
+Arrange a guided walk through the **rice terraces around Banaue** at the tourism office. The paths run along the terrace walls and irrigation channels, descending between the fields and houses below the roadside viewpoints. This is a separate walk from Batad, visited the following day; the guide can arrange a pickup at the end rather than returning along the same path.
 
 One evening I ordered chicken adobo. The owner's children killed the chicken beside me after I placed the order. I felt bad afterwards.
 
@@ -62,7 +62,7 @@ Take the night bus back to Manila.
 
 ## Day 5: Manila
 
-Start at **Quiapo Church**, cross through the market and walk to Escolta. Cross the Pasig River on **Jones Bridge** into Binondo, then follow Ongpin Street between **Binondo Church**, the Chinatown Arch and **Seng Guan Temple**. The route is around four kilometres and keeps the day on one side of central Manila.
+Start at **Quiapo Church**, walk through the market and continue west along **Escolta**. Stay on the north bank of the Pasig River for the Chinatown Arch, **Binondo Church**, Ongpin Street and **Seng Guan Temple**. Escolta has surviving early twentieth-century commercial buildings; Ongpin is lined with Chinese bakeries, restaurants and food shops.
 
 In the evening, I went to see midget boxing. It was unethical and should not be treated as a normal tourist activity. I found parts of the show entertaining at the time, but I would not recommend supporting it.
 
@@ -83,7 +83,7 @@ At Tagbilaran port, the public Southern Star bus runs to Panglao. Get off at **A
 ![The Chocolate Hills](images/blog/philipines2.jpg)
 ![The coast around Bohol](images/blog/philipines3.jpg)
 
-The useful order for a Bohol countryside circuit is **Baclayon Church**, the **Philippine Tarsier Sanctuary at Corella**, the Loboc area and the **Chocolate Hills viewing complex at Carmen**. Putting Carmen last avoids driving back and forth across the island. The viewpoint is reached by more than 200 steps from the parking area.
+Arrange a countryside tour from Panglao for **Baclayon Church**, the **Philippine Tarsier Sanctuary at Corella**, **Loboc** and the **Chocolate Hills viewing complex at Carmen**. Baclayon is a coral-stone church with a small museum; Corella's sanctuary has guided paths through the tarsiers' habitat. Continue past the Loboc River to Carmen, where more than 200 steps lead up to the view across the rounded hills.
 
 Without a tour, buses for Carmen leave from **Dao Integrated Bus Terminal** in Tagbilaran and stop near the Chocolate Hills access road. That works for the hills alone; it does not connect the four stops into a practical one-day circuit. The [Bohol provincial tourism site](https://tourism.bohol.gov.ph/moving-around-bohol/) lists Dao as the terminal for interior routes.
 
@@ -97,4 +97,4 @@ The whale-shark boats at **Oslob** feed the sharks to keep them beside the boats
 
 I recommend **Moalboal** instead. From Cebu South Bus Terminal, take a Ceres bus marked **Bato via Barili** and get off in Moalboal town. The journey takes approximately three to four hours. Panagsama Beach is another four kilometres from the bus stop; arrange that final transfer with the accommodation.
 
-The sardine run is directly offshore at Panagsama, with no feeding required. The other main options are a dive around **Pescador Island** or a registered canyoneering trip through **Kawasan Falls**. The [official Philippines tourism page for Moalboal](https://philippines.travel/destinations/moalboal/index) has the current registration rules for canyoneering.
+The sardine run is directly offshore at Panagsama, with no feeding required. The other main options are a dive around **Pescador Island** or a registered canyoneering trip near **Kawasan Falls in Badian**, south of Moalboal. The [official Philippines tourism page for Moalboal](https://philippines.travel/destinations/moalboal/index) has the current registration rules for canyoneering.

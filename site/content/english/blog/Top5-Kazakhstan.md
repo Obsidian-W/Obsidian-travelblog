@@ -49,7 +49,7 @@ Almaty is also the most practical base before continuing to Kyrgyzstan by road.
 
 I visited Charyn, Kolsai and Kaindy in one day, and every stop felt rushed once group delays and driving time were included. Two days gives the three places enough time.
 
-Give it one long day for Charyn only, or two days for Charyn plus Kolsai and Kaindy. Group tours from Almaty are common and reduce the transport problem. Independent public transport is awkward because the last sections are the issue, not just the intercity road.
+Give it one long day for Charyn only, or two days for Charyn plus Kolsai and Kaindy. Group tours from Almaty are common. Without a tour, take a bus or shared taxi out of Almaty, then arrange the final ride locally.
 
 Spring to autumn is the easier season. In winter, check access and road conditions before booking.
 

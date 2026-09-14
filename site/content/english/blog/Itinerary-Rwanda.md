@@ -19,6 +19,13 @@ draft: false
 
 - [Tips on how to travel Africa](/blog/tips-africa)
 - [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
+- Petit Pays, by Gael Faye. A must read before coming in Rwanda.
+
+{{< worth-o-meter score="9" >}}
+Small country, great ambitions.
+I was touched by Kagame's words. I see the dream, I see the vision, I foresee the future.
+Rwanda's got everything, in such a tiny country.
+{{< /worth-o-meter >}}
 
 # Itinerary done quick
 

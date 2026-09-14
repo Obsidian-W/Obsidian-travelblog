@@ -17,6 +17,17 @@ draft: false
 > **Part of a larger journey:** this focused Turkmenistan guide is adapted from the final section of my [complete 50-day Central Asia itinerary](/blog/itinerary-central-asia/). Stay here for the three-day country detail, or open the complete trip for the full route from the Caspian Sea to the Gates of Hell.
 > This was a guided tour, but I leave it open for those that can travel freely
 
+
+{{< worth-o-meter score="4" >}}
+Ok, while fun and unique, Turkmenistan is super expensive. And a hassle to organize. And a dictature.
+The ruins are too ruined and with barely any explanations, Ashgabat, while fun isn't the best city in the world
+and I don't think its uniqueness makes it a dream destination.
+{{< /worth-o-meter >}}
+
+Fun video to watch, btw:
+
+{{< youtube -9QYu8LtH2E >}}
+
 \_\_\_\_  
 
 # Itinerary done quick

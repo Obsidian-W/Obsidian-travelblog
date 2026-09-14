@@ -20,7 +20,7 @@ draft: false
 > You have to always remember the Chinese Omerta and the glory of its glorious leaders,
 > whose personal suns brighten their days even at night and so lead the people
 > towards halcyon days of the future outshining the remnants of the past.
-> This article is part of a longer one through the Himalaya
+> **Part of a larger journey:** this is the Tibet section of my longer journey from Yunnan towards northern India. The complete cross-border account is still being edited, so this page works as a standalone Tibet itinerary. My published [Yunnan itinerary](/blog/itinerary-yunnan/) covers the major section immediately before it.
 > This was a guided tour, but I leave it open for those that can travel freely
 
 I booked [this exact TibetVista Lhasa-to-Kathmandu overland tour](https://www.tibettravel.org/lhasa-to-kathmandu-overland/). I can guarantee that I loved it: TibetVista was absolutely amazing. That direct TibetVista link is not an affiliate link.
@@ -28,6 +28,12 @@ I booked [this exact TibetVista Lhasa-to-Kathmandu overland tour](https://www.ti
 If you prefer GetYourGuide, [this eight-day Lhasa-to-Everest Base Camp tour is the closest alternative I found (affiliate link)](https://www.getyourguide.com/lhasa-l1057/8-days-lhasa-to-everest-base-camp-with-tibet-travel-permit-t1121389/?partner_id=H1N6CGH&utm_medium=online_publisher). It returns to Lhasa instead of continuing to Kathmandu, I did not take it, and I may earn money if you book through that specific link. For my route, I still prefer TibetVista.
 
 \_\_\_\_  
+
+{{< worth-o-meter score="8" >}}
+Xizang/Tibet is incredible. But still a hassle to visit due to harsh rules / permit issues.
+You won't have a lot of tourists, but the steep cost lower the score (So it could have been a 9!).
+Potala palace is absolutely amazing, the monasteries are incredible, and the Everest... A dream that came true.
+{{< /worth-o-meter >}}
 
 # Itinerary done quick
 

@@ -27,6 +27,12 @@ draft: false
 
 \_\_\_\_
 
+{{< worth-o-meter score="7" >}}
+Morocco is an easy country to visit, with nice nature, cool towns and plenty to do.
+But being a touristic mastodon, overfilled with tourists... it's crowded in most places, while
+places deserving more are under capacity (Rabat, Meknes, Ifrane...)
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## Morocco

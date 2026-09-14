@@ -9,11 +9,22 @@ continents: ["Afrique"]
 draft: false
 ---
 
+> **Liens affiliés :** cet article contient des liens GetYourGuide. Si tu réserves par leur intermédiaire, je peux toucher une commission sans frais supplémentaires pour toi.
+
 > Tanzanie, Kenya, Ouganda & Rwanda : 4 pays en un mois !  
 > \> Comme je débute avec ce blog, je vais partager tout ça sous un format un peu différent.  
 > Je commencerai par quelques considérations générales, avant de donner un aperçu de l’itinéraire, puis la version détaillée.  
 > À l’origine, le voyage devait durer une semaine de plus, mais un événement assez terrible a tout changé.  
 > Je préciserai la partie qui a été modifiée.
+
+**Guides par pays tirés de ce voyage :**
+
+- [Trois semaines en Éthiopie — le voyage avant la route vers le sud](/fr/blog/itinerary-ethiopia/)
+- [Deux semaines en Tanzanie](/fr/blog/itinerary-tanzania/)
+- [Une semaine en Ouganda](/fr/blog/itinerary-uganda/)
+- [Une semaine au Rwanda](/fr/blog/itinerary-rwanda/)
+
+Les pages par pays reprennent volontairement les journées correspondantes de ce grand voyage, mais rendent chaque partie plus simple à organiser seule.
 
 Avant de plonger dans l’itinéraire, quelques remarques :
 
@@ -388,100 +399,107 @@ Bus de nuit réservé à l’avance (et oui, c’est long).
 # 🇺🇬 OUGANDA
 ---
 
-## Jour 23 – Route vers Kampala
+## Jour 23 – Route vers Kampala {#jour-23-route-vers-kampala}
 
-Traversée de la frontière via **Busia**.  
-Le trajet dure plus de 12 h : départ la veille au soir, arrivée l’après-midi.  
-Prends un bus de nuit, c’est plus supportable.
+Je suis entré en Ouganda directement depuis Nairobi, dans un long bus de nuit surtout rempli de locaux. Le bus était confortable, mais lent, particulièrement autour de la frontière de **Busia**. Et cette frontière… quel bazar, totalement inadapté au XXIe siècle.
 
-À **Kampala**, la première chose qui frappe, c’est la circulation.  
-Des centaines de motos (“**boda-bodas**”) qui roulent dans tous les sens.  
-J’ai failli mourir trois fois avant d’arriver à l’hôtel.  
-J’ai visité la **Grande Mosquée Gaddafi**, une belle bâtisse au centre.
+À **Kampala**, visite la **mosquée Gaddafi**, près de la gare routière principale, s’il te reste de l’énergie. Le premier jour, je n’ai fait que la mosquée et la marche à travers les collines jusqu’à mon auberge. Ne surcharge pas ton arrivée : Kampala peut être épuisante.
 
-> Petit conseil : si tu veux de la sécurité, prends une moto avec casque.  
-> Les accidents sont fréquents.
+> Kampala est incroyablement agitée. Les motos-taxis, appelées **boda-bodas**, sont particulièrement risquées : les accidents sont fréquents. Et oui, il m’arrive encore de les appeler tuk-tuks.
+
+Si Jinja n’est pas au programme du lendemain, utilise le temps restant pour organiser les prochaines étapes avec des agences locales ou visiter le musée national.
+
+J’ai passé deux nuits à **Acacia Villa Kampala**. À l’époque, la chambre privée coûtait 10 USD par nuit et offrait une vue superbe sur la ville.
 
 ---
 
-## Jour 24 – Kampala
+## Jour 24 – Kampala {#jour-24-kampala}
 
 ![Kampala](images/blog/kampala.jpg)
 
-J’ai hésité à aller faire du rafting à **Jinja**, mais finalement j’ai préféré flâner.  
-Visite des **tombes royales de Kasubi**, balade dans les marchés, et beaucoup de Boda-Boda.  
-Le chaos, mais aussi beaucoup de sourires.
+Deux options : partir à **Jinja** pour faire du rafting, ou, comme moi, explorer Kampala plus en profondeur.
 
-Les trottoirs sont quasi inexistants, marcher est un sport extrême.  
-Mais l’énergie de la ville est incroyable.
+Je suis allé aux **tombes de Kasubi**, j’ai cherché quelques points de vue, mangé un **Rolex** — des œufs roulés dans un chapati —, visité des temples hindous et pris des boda-bodas au péril de ma vie. La ville est chaotique mais plutôt accueillante. Dans certains quartiers, marcher relève toutefois du suicide.
 
-> Les Ougandais ont le sens de l’humour, mais pas du code de la route.
+Avec trois jours supplémentaires, [ce safari de trois jours aux chutes Murchison depuis Kampala est une extension pratique (lien affilié)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher). Je n’ai pas testé précisément cette excursion et elle ne rentre pas dans cet itinéraire sans le prolonger. Murchison faisait partie de mon projet initial avant que le voyage soit raccourci à cause de ce qui s’est passé en Tanzanie.
 
----
+Pour marcher, pars du **monument de l’Indépendance**, descends vers le **temple de Shiva** et le **Shree Swaminarayan Mandir**, puis continue jusqu’au **palais du Kabaka**. C’est là que j’ai renoncé à marcher et pris un boda-boda jusqu’aux tombes de Kasubi, avec un Rolex à proximité en attendant l’ouverture. Il était déjà 17 h. En partant plus tôt, tu peux ajouter le musée.
 
-## Jour 25 – Route vers Fort Portal
-
-Départ à l’aube pour **Fort Portal** (7–8 h de route).  
-La ville est verte, posée au pied des **montagnes du Rwenzori**.  
-Pas grand-chose à voir, mais c’est une bonne base pour continuer vers la montagne.  
-J’ai poussé un peu plus loin jusqu’à **Ruboni Village**, par une route en construction.
-
-> Fort Portal a des airs de village alpin tropical, c’est déroutant.
+Je n’y suis pas allé, mais la **Maison d’adoration baha’ie**, au nord de Kampala, est une autre option si cette foi et son architecture te sont peu familières.
 
 ---
 
-## Jour 26 – Rwenzori (Jour 1)
+## Jour 25 – Route vers Fort Portal {#jour-25-route-vers-fort-portal}
+
+J’ai retrouvé les bus longue distance à la même gare que celle de mon arrivée. J’ai attendu dans le bus un peu avant 9 h, suis parti vers 10 h et ai rejoint **Fort Portal** à 18 h.
+
+La ville est verte, avec vue sur les **montagnes du Rwenzori**, mais peu de choses m’y retenaient. J’ai presque immédiatement continué en minibus vers **Kasese** ; demander autour de moi a suffi pour trouver le véhicule.
+
+Vers 19 h 30, après avoir mangé, j’ai poursuivi à moto vers les montagnes. La route était en travaux et avait peut-être subi un glissement de terrain. Le conducteur et moi avons dû porter la moto à certains endroits, dans le noir. Vers 21 h, j’ai enfin rejoint **Rwenzori Trekking**, qui propose des tentes, d’autres hébergements et organise des excursions.
+
+---
+
+## Jour 26 – Rwenzori (Jour 1) {#jour-26-rwenzori-jour-1}
 
 ![Rwenzori](images/blog/rwenzori.jpg)
 
-Randonnée dans les **montagnes de la Lune**.  
-Si tu ne fais pas l’ascension complète, il y a plein de sentiers magnifiques autour du village.  
-Les paysages sont brumeux, luxuriants, et parsemés de plantes étranges.  
-La pluie tombe sans prévenir, mais c’est magique.
+Tu peux faire un trek ou choisir des itinéraires plus courts près du pied des montagnes. Sans tenter l’ascension complète, de beaux sentiers à la journée partent du **village de Ruboni**. Essaie tout de même de gagner assez d’altitude pour découvrir la végétation si particulière.
+
+Pour la montagne complète plutôt que ma courte visite, [ce trek de sept jours vers le pic Margherita donne une idée d’une option longue (lien affilié)](https://www.getyourguide.com/uganda-l169189/9-days-rwenzori-trek-to-margherita-peak-in-uganda-t414530/?partner_id=H1N6CGH&utm_medium=online_publisher). Je n’ai pas utilisé cet opérateur.
+
+À cause du prix, je n’ai parcouru qu’une petite partie. Deux jours commencent déjà à coûter cher, mais c’est là que l’on découvre la végétation unique. Mes souvenirs restent flous, peut-être à cause de ce qui s’était passé ou des médicaments.
 
 ---
 
-## Jour 27 – Rwenzori (Jour 2)
+## Jour 27 – Rwenzori (Jour 2) {#jour-27-rwenzori-jour-2}
 
-Deuxième jour dans les hauteurs.  
-J’ai dormi dans un petit lodge, puis marché plus haut.  
-L’altitude, la jungle, les chants d’oiseaux : un rêve.  
-C’est probablement la plus belle région d’Afrique de l’Est.
+Deuxième journée de marche. Tu peux dormir dans l’un des lodges, puis monter davantage le lendemain pour voir les plantes d’altitude.
 
 > “Rwenzori” signifie *Montagnes de la Lune*. J’adore ce nom.
 
+C’est là que mes souvenirs deviennent trop flous. En regardant mon téléphone plus tard, je me suis même aperçu que les photos de tout ce passage avaient disparu. Désolé de ne pas pouvoir être plus précis ici.
+
 ---
 
-## Jour 28 – Route vers Kabale
+## Jour 28 – Route vers Kabale {#jour-28-route-vers-kabale}
 
-Journée d’enfer.  
-12 heures dans un minibus prévu pour 12 personnes — on était 20.  
-Un homme énorme assis sur mes genoux, une fille qui vomissait devant moi,  
-la fenêtre bloquée ouverte, la poussière partout.  
-Et les arrêts interminables à chaque village.
+Journée d’enfer : environ 12 heures dans un minibus prévu pour 12 personnes, alors que nous étions une vingtaine. Un passager était assis en partie sur mes genoux, une jeune femme vomissait devant moi, l’unique fenêtre ouvrable était à côté de moi, les arrêts duraient une éternité et certains passagers essayaient de me toucher ou de m’agripper.
 
 > Clairement le pire trajet de ma vie.  
 > À refaire, je serais reparti vers Kampala.
 
+Pour éviter d’enchaîner ce genre de trajets, je conseille plutôt Murchison, le Rwenzori, une journée à Kampala, puis le lac Bunyonyi.
+
+Je suis arrivé tard à **Kabale**, puis j’ai demandé à un boda-boda de m’emmener aux quais. Il faut y négocier directement le bateau. Comme il se faisait tard, c’était plus difficile, mais j’ai obtenu le numéro du conducteur et sa promesse de revenir me chercher sur l’île.
+
+> Le carburant coûte très cher en Ouganda, ce qui explique en partie le tarif du bateau. La traversée a duré plus de vingt minutes.
+
+J’ai passé trois nuits à **Byoona Amagara** : nourriture excellente, livres partagés, excursions en bateau, baignade près des quais et beaucoup de repos.
+
 ---
 
-## Jour 29 – Lac Bunyonyi
+## Jour 29 – Lac Bunyonyi {#jour-29-lac-bunyonyi-1}
 
 ![Bunyoni](images/blog/bunyoni.jpg)
 
-Arrivée à midi au **lac Bunyonyi**, enfin du calme.  
-Je prends un petit bateau pour rejoindre une île : silence, oiseaux, eau tranquille.  
-Après les jours précédents, c’est le paradis.  
-Lecture, sieste, baignade… c’est la meilleure pause possible.
+Le **lac Bunyonyi** est calme, magnifique et parsemé de petites îles : l’endroit parfait pour se reposer, lire et nager après les jours précédents.
 
 ---
 
-## Jour 30 – Lac Bunyonyi (Jour 2)
+## Jour 30 – Lac Bunyonyi (Jour 2) {#jour-30-lac-bunyonyi-2}
 
 Deuxième jour de repos.  
 Kayak, balade, coucher de soleil splendide.  
 C’est l’endroit parfait pour récupérer avant d’entrer au Rwanda.  
 Beaucoup de voyageurs s’arrêtent ici pour recharger les batteries.
+
+Une excursion en bateau dure quelques heures et vaut mieux le matin ou le soir. Elle contourne les îles principales, parfois avec des arrêts, et permet d’observer la faune, les plantes, la vie locale et la beauté du lac. **Byoona Amagara** était absolument idyllique.
+
+## Plus de jours en Ouganda ?
+
+Ces neuf jours en comptaient presque quatre dans les transports. Pour un meilleur voyage de deux semaines, ajoute trois jours pour **Murchison**, une journée supplémentaire pour monter plus haut dans le **Rwenzori**, puis un ou deux jours autour de **Jinja**.
+
+Avec encore plus de temps, prévois deux ou trois jours pour la **forêt impénétrable de Bwindi**. Depuis Kasese, l’itinéraire est **Kasese → Kisoro → Rubuguri**, avec deux minibus. Plutôt que revenir sur tes pas ensuite, continue par **Cyanika** vers **Ruhengeri, au Rwanda**.
 
 ---
 
@@ -490,9 +508,9 @@ Beaucoup de voyageurs s’arrêtent ici pour recharger les batteries.
 
 ## Jour 31 – Route vers Kigali
 
-Passage de la frontière par **Katuna** : rapide et bien organisée.  
-Arrivée à **Kigali** l’après-midi, la capitale est propre, calme, verdoyante.  
-Je me pose enfin, premier vrai moment de paix du voyage.
+Depuis Kabale, j’ai trouvé sans difficulté un bus ou un minibus pour **Gatuna**, à la frontière rwandaise. Le poste m’a impressionné par sa modernité et la gentillesse du personnel.
+
+De l’autre côté, plusieurs rabatteurs proposent immédiatement un transport. J’ai pris un grand bus déjà bien rempli qui partait tout de suite : pas de mensonge, pas de prix gonflé, tout s’est déroulé sans problème jusqu’à **Kigali**.
 
 ---
 

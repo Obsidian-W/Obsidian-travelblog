@@ -59,7 +59,7 @@ Go in the morning or late afternoon. The site has little shade, and summer heat 
 
 Chefchaouen was far more enjoyable than Fes. It is compact, the bakeries are good and the Rif Mountains provide a change from the larger medinas. Akchour adds a full day of hiking to the visit.
 
-Give it two nights if you want the town and Akchour without rushing. Chefchaouen has no train station; use CTM or another coach from **Fes**, **Tangier** or **Tetouan**. Shared grand taxis run from Chefchaouen to Akchour and take about 45 minutes. Confirm the return taxi before starting the hike, especially outside the busiest periods.
+Give it two nights for the town and Akchour. Chefchaouen has no train station; use CTM or another coach from **Fes**, **Tangier** or **Tetouan**. Shared grand taxis run from Chefchaouen to Akchour and take about 45 minutes. Confirm the return taxi before starting the hike, especially outside the busiest periods.
 
 Start early in hot weather and bring water. The waterfall and God's Bridge routes are not difficult for regular walkers, but the heat and return logistics are the real constraints.
 

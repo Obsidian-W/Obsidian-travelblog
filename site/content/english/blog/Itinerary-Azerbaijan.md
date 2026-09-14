@@ -15,6 +15,11 @@ draft: false
 
 I travelled through Azerbaijan in 2019 as the first part of a larger journey across Azerbaijan, Georgia and Armenia. This six-day route fits neatly into one week once you include your arrival or onward journey.
 
+{{< worth-o-meter score="9" >}}
+No one ever thinks of Azerbaijan, but it has it all: architecture, food, scenery, unique landscapes, history...
+Azerbaijan is a must do, yet remains a hidden gem. One of the rare country where everything is exceptional and is not overrun with tourists.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## 🇦🇿 Azerbaijan

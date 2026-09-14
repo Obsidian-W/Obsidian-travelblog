@@ -20,6 +20,12 @@ The main annoyance was transportation. Winter buses were rare, daylight was shor
 
 I already wrote a separate article about [travelling in Patagonia in winter](/blog/tips-patagonia-winter/), with more about the cold, clothes and accommodation. I'll repeat the transport bits here when they're useful.
 
+> {{< worth-o-meter score="8" >}}
+Patagonia is a winter wonderland. The transportation is limited, but given the season and geography... It's expected!
+I'd say it'd be miles better with your own transportation. Hence the lower rating. 
+Once again, tho, Winter Wonderland. Absolutely Magical!
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## 🇨🇱🇦🇷 Chilean and Argentinian Patagonia
