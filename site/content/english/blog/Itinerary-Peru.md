@@ -185,17 +185,22 @@ At **Ola Surf House**, a group lesson lasts **2:00** and costs 90 soles (23,10�
 
 Return to Trujillo for a bus to **Lima**. The local bus from Huanchaco takes **0:30–0:45**; budget 3–5 soles (0,80–1,30€). Evening departures run roughly **19:00–23:15**, taking **9:30–11:00**; advertised fares start at 40 soles (10,30€), with more spacious seats costing more. Services use **Terrapuerto Trujillo** or private terminals such as those around **Avenida América Sur**.
 
+> There, I took a sleeping pill from a stranger, best sleep in my life. Don't do that, obviously. 
+
 ## Day 9: Lima to Paracas
 
 After the overnight bus, use the morning for **Museo Larco** in **Pueblo Libre**. Its galleries cover pre-Columbian ceramics, textiles and metalwork; the visible storage collection makes clear how much material sits beyond the main exhibition. Allow **2:00**, including the garden.
 
 The museum is at **Avenida Simón Bolívar 1515**, open daily **09:00–19:00**. Adult admission is **45 soles (11,50€) online** or **50 soles (12,80€) at the door**. The museum lists buses **1013, 1253, 1234 and 1236** from **La Doce**, following Avenida Bolívar. Get off at **Aragón / Juan Valer Sandoval**, then walk to the entrance on **Calle Navarra**.
 
-Continue by bus to **Paracas**, about **4:00** south. Advertised fares start at 45 soles (11,50€). PerúBus lists departures up to **12:45**; Jaksa also has afternoon and evening services. Boarding locations include **La Victoria/Nicolás Arriola** and **Atocongo**. The destination is **Paracas/El Chaco**; some other services stop on the highway near Pisco.
+It's really worth it and a must in Lima! Hence why I had to add it somewhere.
+
+Alright, then continue by bus to **Paracas**, about **4:00** south. Advertised fares start at 45 soles (11,50€). Boarding locations include **La Victoria/Nicolás Arriola** and **Atocongo**. The destination is **Paracas/El Chaco**; some other services stop on the highway near Pisco.
+They departs pretty much all the time, there are like 3 different companies doing it, for the afternoon, you can catch them from 12:30 to 16:00 or something.
 
 On arrival, walk the **El Chaco waterfront** between the harbour, fishing boats and restaurants.
 
-I slept in Paracas Backpackers Hourse, one of the two big hostel. It didn't leave me any memories, but I gave it a really good rating online, so there's that.
+I slept in Paracas Backpackers House, one of the two big hostel. It didn't leave me any memories, but I gave it a really good rating online, so there's that.
 
 ## Day 10: Paracas
 
@@ -205,9 +210,17 @@ Take the morning boat from **Muelle El Chaco** to the **Ballestas Islands**. Typ
 
 A local operator advertises the boat at 40 soles (10,30€). The **SERNANP combined Ballestas–Paracas ticket is 17 soles (4,40€)**; a port charge is additional. The boat operator quotes 16 soles (4,10€) for its island-only admission and port charges together.
 
-Afterwards, join a van circuit through **Paracas National Reserve**, normally 3–4 hours from El Chaco. Stops commonly include the **La Catedral viewpoint**, **Playa Roja** and the fishing settlement of **Lagunillas**. Walk the designated cliff viewpoints and look down towards the red sand and the meeting of bare desert with the Pacific. The reserve’s published visiting hours are **09:00–16:00**.
+Afterwards, join a van circuit or borrow a bike through **Paracas National Reserve**, normally 3–4 hours long from El Chaco.
+Stops commonly include the **La Catedral viewpoint**, **Playa Roja** and the fishing settlement of **Lagunillas**.
+Walk the designated cliff viewpoints and look down towards the red sand and the meeting of bare desert with the Pacific.
+The reserve’s published visiting hours are **09:00–16:00**, but this is more like the entrance time, since I finished around 5PM.
+
+I went by bike, I got a cheap one through one of the many shops and did it all this way, it was a bit more intense than I thought, but the bike was beyond shitty and I bike once every couple years or something like that (I run, but never bike...)
 
 [This Ballestas Islands and Paracas National Reserve tour (affiliate link)](https://www.getyourguide.com/paracas-l32470/paracas-ballestas-islands-and-paracas-national-reserve-tour-t855974/?partner_id=H1N6CGH&utm_medium=online_publisher) combines the boat and road circuit. Reserve admission and the port charge may be additional, depending on the package. Lunch at Lagunillas is generally an additional expense.
+
+> Worth it? Yes for both. Wildlife from the boat tour is good to look at, it feels fresh and refreshing and even the landscape are good. But the hewel is the **Paracas National Reserve**.
+> Not much wildlife in this one, but awe-inspiring landscapes and a nice escape from the ever rugged terrain found everywhere in Peru.
 
 ## Day 11: Ica and Huacachina
 
@@ -350,7 +363,7 @@ It costs 130 soles (33€) for a foreign adult, valid **ten days**.
 
 Starting it on this day will cover Sacsayhuamán for the afternoon, the cultural performance an evening, the Sacred Valley on Day 23 and the included museums for this day and those I added in Day. AKA: A lot.
 
-> Be careful, the paper is fragile, keep it well, mine got drenched due to heavy rain going thorugh my bags. It was barely usable after my Macchu Picchu hike.
+> Be careful, the paper is fragile, keep it well, mine got drenched due to heavy rain going thorugh my bags. It was barely usable after my Machu Picchu hike.
 
 Tickets are sold in person at **Avenida El Sol 103**, normally **07:30–18:00**, and at most included archaeological sites.
 (Note: The Qorikancha *site museum* is included; admission to the temple/Santo Domingo complex is separate.)
@@ -389,7 +402,9 @@ Entry is included in the integral tourist ticket, most folks seems to skip it, I
 
 ## Days 18 to 22: Salkantay trek and Machu Picchu
 
-> My five-day Salkantay booking included transport from Cusco, food, a guide and the Machu Picchu reservation.
+> My five-day Salkantay booking included transport from Cusco, food, a guide (El famoso Steven Tyler!!!) and the Machu Picchu reservation.
+
+I went with Machu Picchu reservation, but can't recommend them due to what they did to Steven. Awful stuff.
 
 The first day of my trek passed **Humantay Lake** before the first camp. Typical five-day departures collect in Cusco around **04:00–05:00**, with a drive of 3–4 hours through Mollepata towards Soraypampa. From the valley, the lake walk climbs for roughly **1:30–2:00**, reaching turquoise water below a steep glacier face at about 4 200 m. Descend to the valley camp afterwards; the precise campsite varies by operator.
 
@@ -397,17 +412,35 @@ The next day crosses **Salkantay Pass**, the highest and coldest part of the tre
 
 Below the pass, the landscape changes to cloud forest and cultivated slopes. Follow the lower valley paths towards **La Playa**, passing streams, small farms and increasingly dense vegetation. Typical programmes spend **5–6 hours walking** and overnight around **Santa Teresa or Lucmabamba**, sometimes using a short vehicle transfer between sections.
 
-The final approach to **Aguas Calientes** varies between five-day routes. An itinerary through **Llactapata** climbs an old stone path through forest to ruins with a distant view towards Machu Picchu, then descends to **Hidroeléctrica**. That adds several hours before the final **10 km walk**, taking roughly **3:00** beside the railway towards **Aguas Calientes**. Some packages instead transfer towards Hidroeléctrica and omit Llactapata.
+The final approach to **Aguas Calientes** varies between five-day routes. An itinerary through **Llactapata** climbs an old stone path through forest to ruins with a distant view towards Machu Picchu, then descends to **Hidroeléctrica**. That adds several hours before the final **10 km walk**, taking roughly **3:00** beside the railway towards **Aguas Calientes** (Some packages instead transfer towards Hidroeléctrica and omit Llactapata).
 
 [This five-day Salkantay trek to Machu Picchu (affiliate link)](https://www.getyourguide.com/cusco-l359/cusco-salkantay-trek-to-machu-picchu-5d4n-trekking-t839000/?partner_id=H1N6CGH&utm_medium=online_publisher) advertises the Humantay, pass and Llactapata route, starting from 343€. The return train costs extra on the cheapest option. The listing also identifies a 20 soles (5,10€) Mollepata/Humantay charge.
 
 ![Machu Picchu](images/blog/peru8.jpg)
 
-The following morning, I entered **Machu Picchu** with the reservation included in my trek package, then returned by bus and train towards the Sacred Valley.
+The following morning, I entered **Machu Picchu** with the reservation included in my trek package.
+But this wasn't easy.
+You wake up very early, then walk to the entrance (Around **1 hour**) to get to the thousand something steps.
+Walking up the steps takes approximately **1:00–1:30**. But after so many days of walking... It might be painful. Also, be careful of all the dogs!
+Dogs are running to the top to, since it's some kind of social fight club for dogs (?what the heck, really?)
 
-Buses leave **Aguas Calientes** for the entrance and take about **0:25–0:30**; walking up the steps takes approximately **1:30–2:00**. The visit follows the circuit and entry time printed on the ticket. Depending on that circuit, it combines views across the terraces with permitted paths through the Inca buildings and ceremonial areas. Allow 2–3 hours for a standard guided visit. The panoramic terrace and the lower urban routes require different tickets.
+Then, you reach the top. Enter Machu Picchu being one of the first group. There are multiple routes, the guide is there for 2 hours top (Got a limit), also, if nothing prevents you from doing another route afterwards (ie: Being allowed in another route), do enjoy more time in!
+Important: if going back by bus, you'll have to leave by 3PM or something, check with your guide, the bus is far away.
 
-The **return train to Ollantaytambo** takes about **1:30–2:00**, followed by a road transfer to **Cusco** of another **1:30–2:00**. Packages differ in whether they include Machu Picchu entry, the uphill bus and the return train. A road return via Hidroeléctrica involves more walking and a longer journey. The current **SERNANP sanctuary charge is 11 soles (2,80€)** for foreign visitors, separate from the archaeological ticket.
+And... Wow, fucking wow. Almost 5 days of walking, entering the site in the dark, walking to a terrace, then waiting 10 minutes to see the view uncover was magical.
+The sun rose, the mist appeared and shone in a faint pink hue, then another 10 minutes and everything (including the mist), mouths were agape.
+Absolutely incredible, a core memory. Thank you Steven Tyler (the guide) for this trip!! 
+
+> I also took the time to climb Mount Machu Picchu (IIRC), but not all the way to the top due to time constraint, I did 80% before having to go back to catch the bus in time. In the end, I was only 30 minutes early.
+
+On the way back, I walked the tracks back for a bus to Cusco. Then, once on the bus and two hours in, there was a landslide and we waited 3 hours until the workers dynamited away the debris.
+Fucking hardcore. And efficient. 3 hours to clear a whole landslide!!
+
+> Ok, sorry for the descriptive stuff, I hope it's helpful, but I'm gonna state here more useful (?) things 
+> Is it worth doing 5 days? Yes.
+> It the walk nice? Absolutely! Despite a day of heavy rain, it's many memories and one of the world's best hike
+> Worth the price? 250€ for 5 days and the Machu Picchu ticket? Fucking yes it is! Even for 350€ it would be worth it.
+> How's the weather? Ever changing. One day we went from a dry(ish) 0°C with small avalanches and hail to 30°C wet and filled with mosquitoes. Harsh on the body.
 
 ## Day 23: Sacred Valley and Ollantaytambo
 
@@ -433,7 +466,11 @@ Both museums are included in the integral tourist ticket, which is still within 
 
 In the afternoon, walk south along **Avenida El Sol** to the **Pachacútec Monument**, around **0:30 from Qorikancha**. The monument has a small historical display and a viewpoint above the busy roads of modern Cusco; its admission is also on the tourist ticket.
 
-Take the overnight bus from **Cusco’s Terminal Terrestre** to **Puerto Maldonado**. Maldonado Tours lists a **19:00** departure, Palomino **20:00** and Transzela **21:00**. The journey takes 9–11 hours, with tickets from 50 soles (12,80€). Arrival is at the Puerto Maldonado terminal, where the lodge operator can arrange the start of the Amazon booking.
+This was voloontarily a chill day, any thing you didn't do the first day in Cusco can be done here.
+Personally, I used some of the time to run in the city, because I could; I felt so light after the hike.
+
+Take the overnight bus from **Cusco’s Terminal Terrestre** to **Puerto Maldonado**. Maldonado Tours lists a **19:00** departure, Palomino **20:00** and Transzela **21:00**. The journey takes 9–11 hours, with tickets from 50 soles (12,80€).
+Arrival is at the Puerto Maldonado terminal, where the lodge operator can arrange the start of the Amazon booking.
 
 ## Days 25 to 27: Amazon from Puerto Maldonado
 
@@ -441,7 +478,7 @@ Take the overnight bus from **Cusco’s Terminal Terrestre** to **Puerto Maldona
 
 > My Amazon visit was one three-day trip booked online. The operator collected the group in Puerto Maldonado and transferred us by road and boat to the lodge.
 
-The river journey passes the forested banks beyond Puerto Maldonado. For lodges on the nearer river stretches, allow roughly **1–2 hours by road and boat**; more remote lodges take longer, and the exact departure is tied to the group’s arrival.
+The river journey passes the forested banks beyond Puerto Maldonado. For lodges on the nearer river stretches, allow roughly **2–3 hours by road and boat**; more remote lodges take longer, and the exact departure is tied to the group’s arrival.
 
 My first afternoon included **Monkey Island**. After dark, the guide took us out looking for **insects, frogs and tarantulas**.
 
@@ -455,23 +492,33 @@ A current **three-day lodge package** from Tambopata Wild starts at 301€ per p
 
 [This three-day Amazon jungle tour from Puerto Maldonado (affiliate link)](https://www.getyourguide.com/puerto-maldonado-l2146/puerto-maldonado-3-day-amazon-jungle-tour-with-lodging-t981109/?partner_id=H1N6CGH&utm_medium=online_publisher) is another option with lodge accommodation, guiding and boat transport. Meals, reserve admission and terminal transfers depend on the package.
 
+> I was a bit disappointed with the lack of activites, it wasn't as filled as other tours, but perhaps it wasn't that bad after all. Got some R&R and saw the amazon. Puerto Maldonado is still one of the best place to experience it, and is very easy to access yet not that filled with tourists.
+> Give it a try for the full Peru Experience.
+
 For **Puno**, Transportes Reyna lists a **19:00** departure from its Puerto Maldonado boarding point, arriving around **08:00 the next morning**. The journey takes **13:00**, with tickets from 80 soles (20,50€).
 
 ## Day 28: Amantani
 
 ![Lake Titicaca](images/blog/peru10.jpg)
 
-From **Juliaca**, my route continued to **Puno**, then across **Lake Titicaca** to **Amantani**. I had met a Peruvian family during the Amazon trip and they invited me to their home on the island. It became one of the best side trips of the journey.
+From **Juliaca**, my route continued across **Lake Titicaca** to **Amantani**. I had met a Peruvian family during the Amazon trip and they invited me to their home on the island. It became one of the best side trips of the journey.
 
-The public boat from **Puno’s main harbour**, at the lake end of Avenida Titicaca, traditionally departs around **08:00–08:30** and takes roughly 3–4 hours. The official published visitor guide gives 30 soles (7,70€), but that is an older reference rather than a verified 2026 fare.
+> It was a long route, full of different transports. Puerto Maldonado -> Juliaca then Bus station -> Port, Port -> Amantani
 
-Another route to Amantani goes via **Capachica and Chifrón**. From Puno, a colectivo to Capachica takes about **1:00–1:30**, followed by a walk of approximately **0:30** to Chifrón harbour and a shared launch of roughly **0:45–1:00** to Amantani. The shared boats leave when full, with no fixed timetable. Allow approximately **10–15€ per person** as a working budget for the shared road-and-boat stages.
+Then, an additional two hours of boat, relatively early in the morning. The boat left once full, like a collectivo. And hop, you're on one of the prettiest island out there.
 
-On the island, walk through the villages and agricultural terraces, then climb towards the **Pachamama and Pachatata viewpoints**. The paths connect the settlements with the two hilltops, with wide views across the lake towards the mountains. Allow 2–3 hours for a hill walk and return, depending on the village where you are staying. The island is around 3 800 m, with the summits above 4 000 m.
+On the island, walk through the villages and agricultural terraces, then climb towards the **Pachamama and Pachatata viewpoints**. The paths connect the settlements with the two hilltops and ruins, with wide views across the lake towards the mountains. Allow 2–3 hours for a hill walk and return, depending on the village where you are staying. The island is around 3 800 m, with the summits above 4 000 m. Walking around the island offer route filled with flowers and views across the lake, like a sea in the middle of the mountains.
 
-I stayed with the family. An independent stay can be arranged directly with a host, agreeing meals and transport together.
+I stayed with the family I met in the jungle. I guess an independent stay can be arranged directly with a host, agreeing meals and transport together.
+A lot of families do host people! Tourism is a nice side income for a less travelled island like Amantani.
 
-The next day I continued towards **Copacabana** for the [Bolivia itinerary](../itinerary-bolivia/).
+> I ate with the family some traditional food, learned how to make adobe bricks, helped build a building and had an amazing time.
+
+The next day I continued towards **Copacabana** for the [Bolivia itinerary](../itinerary-bolivia/), meaning that was the end of my Peruvian trip.
+I did use some of the time for a short walk in Puno (Because I caught the 2:30h long boat to Puno, very early in the morning)
+28 days felt too short, hence why I added the section after (just kidding, it's in every articles).
+
+But for a standalone trip, pushing it to 30 is worth it! Titicaca is worth at least one more day (I did it in Bolivia), and a additional day in Arequipa would be worth it.
 
 ## More days?
 
