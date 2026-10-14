@@ -55,11 +55,17 @@ Punta Arenas feels like the end of the world. It's windy, colourful, isolated an
 
 I walked all over the city: **Plaza Muñoz Gamero**, the port, the waterfront sculptures and **Cerro de la Cruz** for the view over the rooftops and the strait. The city isn't packed with must-sees, but the atmosphere does most of the work. Ships in the distance, empty streets, harsh light... Otherworldly is the word.
 
+The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherwordly in such an eerie way...
+My favourite part was the signpost place, where you had signs to all major destinations and distance, that's when you understand that you're in bumfuckistan.
+
 The airport is outside the city. I used the transfer into the centre, dropped my stuff and spent the rest of the day walking.
 
 ---
 
 ## Day 2 Puerto Natales
+
+![New SF Char leaked](images/blog/chile3.jpg)
+^Found this guy near the center, felt like a new Street Fighter Character.
 
 In winter 2022, there was **one bus a day** from Punta Arenas to Puerto Natales. It left from the bus terminal in Punta Arenas and arrived at the **Rodoviario Puerto Natales** around 3 to 4 hours later.
 
@@ -76,24 +82,26 @@ From the museum, this was my **south-to-north** order along the waterfront:
 
 Afterwards, I booked the next two days with a local agency: one photography tour by car and one full-day hike to Base Torres. I got a good price because I booked both at once.
 
-In winter, the transfers to Torres del Paine were part of those tours. Puerto Natales was my base; I didn't have to piece together buses to the park.
-
 ---
 
-## Day 3 Torres del Paine photography tour
+## Day 3 Torres del Paine NP tour
 
 ![Torres del Paine in winter](images/blog/patagonia3.jpg)
-*Not a bad place for a photography tour.*
+*Not a bad place for photography.*
 
 This was called a photography tour, but it was essentially a full-day road trip through **Torres del Paine National Park** in a small group.
 
-We first went to **Cueva del Milodón**, then drove through the park and stopped at the nicest viewpoints: mountains, lakes, waterfalls and snow everywhere. It filled the whole day easily. The distances are huge, so most of the tour was short walks and photo stops between long bits in the car.
+I booked locally with an agency near the city center, don't remember the name, but it was minutes away from the museum.
+[GetYourGuide also lists Torres del Paine photography tours, including a comparable full-day photo safari (affiliate link)](https://www.getyourguide.com/torres-del-paine-l177394/photography-tours-tc19/?partner_id=H1N6CGH&utm_medium=online_publisher). 
 
-I didn't mind. The roads and the views from the car were part of the trip.
+Alright, so it was so freaking cold that it was nice to quickly go back to the car given the freezing conditions, winter is no joke.
+Most of the tour is spent inside a car, stopping for viewpoints along the way with eventual small walks, never lasting more than fifteen minutes.
 
-I booked locally. [GetYourGuide also lists Torres del Paine photography tours, including a comparable full-day photo safari (affiliate link)](https://www.getyourguide.com/torres-del-paine-l177394/photography-tours-tc19/?partner_id=H1N6CGH&utm_medium=online_publisher). It isn't the agency I used. The listings don't all include Puerto Natales pickup or Cueva del Milodón.
+Once out of the park, we went to the Cueva Del Milodon, a large cave where they found the Milodon.
 
-> Cueva del Milodón is around 25 km north of Puerto Natales. The cave is interesting. The giant sculpture in Puerto Natales is still ugly.
+> Cueva del Milodón is around 25 kilometres north of Puerto Natales. The cave is slightly interesting and often included with tours.
+
+The visit lasts around an hour, where you do a walk up to the cave, then through the cave, to observe the staglamatites and stalagtites and read the signs.
 
 ---
 
@@ -104,15 +112,14 @@ I booked locally. [GetYourGuide also lists Torres del Paine photography tours, i
 
 The second tour was a full-day hike to **Base Torres**, booked with the same agency.
 
-We left Puerto Natales early and started near **Hotel Las Torres**. The return hike is roughly **20 km** and took most of the day. There weren't many people insane enough to do it in that weather, so our group was small.
+We left Puerto Natales early and started near **Hotel Las Torres**. The return hike is roughly **20 kilometres** and took most of the day. The group was very small, given the weather and season, I'd wager that there were, at most, 30 people at the national Park, even at the top. 2 or 3 small(ish) tour groups. It felt really ideal.
 
 The trail was covered in snow and it was really cold, especially whenever we stopped. The final climb was the slowest part, but the frozen lake and the towers above it were fucking beautiful.
 
-For winter 2026, the park requires an accredited guide, microspikes, trekking poles, a headlamp and proper winter clothing for Base Torres. The rules change with trail conditions, so the [official Torres del Paine website](https://parquetorresdelpaine.cl/) is the place to check.
+Apparently, for winter 2026, the park requires an accredited guide, microspikes, trekking poles, a headlamp and proper winter clothing for Base Torres. 
+he rules change with trail conditions, so the [official Torres del Paine website](https://parquetorresdelpaine.cl/) is the place to check.
 
 [This guided Base Torres day hike from Puerto Natales is the GetYourGuide alternative (affiliate link)](https://www.getyourguide.com/puerto-natales-l32145/puerto-natales-base-of-the-towers-day-hike-t419260/?partner_id=H1N6CGH&utm_medium=online_publisher). I didn't use that operator. Winter dates and included equipment vary.
-
-Cold, tiring, 100% worth it.
 
 ---
 
@@ -120,40 +127,59 @@ Cold, tiring, 100% worth it.
 
 I took the morning international bus from **Rodoviario Puerto Natales** to the **Terminal de Ómnibus de El Calafate**, crossing into Argentina at **Cerro Castillo/Cancha Carrera**.
 
-The bus is scheduled for around 5 hours. With immigration and winter conditions, 5 to 7 hours is more realistic. Mine ran once a day.
+The bus is scheduled for around five hours. With immigration and winter conditions, five to seven hours is more realistic. Mine ran once a day, lasted 7 hours. There you go.
 
-After arriving, I walked around central **El Calafate**, mainly along **Avenida del Libertador** and towards **Laguna Nimez**. It's a tourist base more than an exciting city, but it is pleasant enough and everything needed for El Chaltén and Perito Moreno is there.
+After arriving, I walked around central **El Calafate**, mainly along **Avenida del Libertador** and towards **Laguna Nimez**. 
+
+It's a tourist base more than an exciting city, (So... barely anything to do but chill)
+The best thing I did was walk in the historic center then along the Laguna Nimez.
+
+> Actually, Lago Argentino was quite nice. Despite the freaking cold weather.
+
+Then I got invited by some youth for tea with honey. They smoked pot, prepared tea, had honey and some bread to share. Maybe you will observe this phenomenon too?
 
 ---
 
 ## Day 6 El Chalten day trip
 
+![El Chalten](images/blog/patagonia4.jpg)
+
+^ See my picture of El Chalten, I had a shitty weather indeed.
+
 I booked a full-day trip from El Calafate to **El Chaltén**.
 
-El Chaltén is around **220 km from El Calafate**, close to 3 hours each way. So yes, most of the day was spent driving.
+El Chaltén is around **220 kilometres from El Calafate**, close to three hours each way. A good chunk of the day was spent driving, although the road was beautiful and we still had time to walk around town and hike nearby. (Departure is very early to offset that, and the return was quite late)
 
-The road was beautiful and we still had time to walk around town and hike in the surrounding area. It was cold, rainy and the mountains spent a lot of time hiding behind clouds. The weather kinda ruined the trip, but I have no regrets. El Chaltén was still beautiful.
+It was cold, rainy and the mountains spent a lot of time hiding behind clouds. The weather kinda ruined the trip, but I have no regrets. El Chaltén was still beautiful.
 
-[This El Chaltén and Mount Fitz Roy day trip from El Calafate is a similar GetYourGuide option (affiliate link)](https://www.getyourguide.com/el-calafate-l544/from-el-calafate-full-day-tour-to-el-chalten-t239467/?partner_id=H1N6CGH&utm_medium=online_publisher). It isn't the operator I used. Winter availability and actual walking time depend on the departure.
+[This El Chaltén and Mount Fitz Roy day trip from El Calafate is a similar GetYourGuide option (affiliate link)](https://www.getyourguide.com/el-calafate-l544/from-el-calafate-full-day-tour-to-el-chalten-t239467/?partner_id=H1N6CGH&utm_medium=online_publisher).
+It isn't the operator I used.
+Winter availability and walking time depend on the departure. It's always harder in the cold season (June to August, btw)
 
-With more time, I would stay in El Chaltén for several days. Six hours in a car for a few hours of hiking isn't the best ratio.
+With more time, I would stay in El Chaltén for more days (At least one more).
+Six hours in a car for a few hours of hiking wasn't the best ratio...
 
 ---
 
 ## Day 7 Perito Moreno Glacier
 
 ![Perito Moreno Glacier](images/blog/patagonia.jpg)
-*Perito Moreno, plus a bird that understood framing better than I did.*
+*Perito Moreno, plus a bird that understood framing*
 
-Perito Moreno was much easier. Transport leaves from El Calafate, follows **Ruta Provincial 11** and reaches the glacier in around 1 hour 30 minutes. It's roughly 80 km from town.
+Perito Moreno was much easier. Transport leaves from El Calafate, follows **Ruta Provincial 11** and reaches the glacier in around 1 hour 30 minutes. It's roughly 80 kilometres from town.
 
-Once there, I spent the day walking between the viewpoints facing the ice. The paths are easy and there are enough angles to keep stopping every five minutes for another picture.
+Once there, I spent the day walking between the viewpoints facing the ice. The paths are easy and there are enough angles to keep stopping every so often for pictures.
 
 The [official Los Glaciares National Park page](https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/horarios-como-llegar-0) lists different winter and summer access hours.
 
-[This Perito Moreno trip from El Calafate includes the walkways and an optional boat ride (affiliate link)](https://www.getyourguide.com/el-calafate-l544/el-calafate-perito-moreno-glacier-optional-boat-trip-t231537/?partner_id=H1N6CGH&utm_medium=online_publisher). I used local transportation rather than that operator. The national-park entrance may be separate.
+[This Perito Moreno trip from El Calafate includes the walkways and an optional boat ride (affiliate link)](https://www.getyourguide.com/el-calafate-l544/el-calafate-perito-moreno-glacier-optional-boat-trip-t231537/?partner_id=H1N6CGH&utm_medium=online_publisher)
 
-Perito Moreno was one of the highlights. In winter it was quiet, bright blue and surrounded by snow. Even the bird in my picture knew where to pose.
+I used local transportation, not that operator. The national-park entrance may be separate.
+
+Perito Moreno was one of the highlights of Patagonia. In winter it was quiet, bright blue and surrounded by snow.
+(Also pay attention to how noisy is the Glacier!!)
+
+> Bonus: Lot of wildlife to be seen! I saw many birds and foxes.
 
 ---
 

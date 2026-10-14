@@ -123,19 +123,28 @@ I walked all over the city: **Plaza Muñoz Gamero**, the port, the waterfront sc
 The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherwordly in such an eerie way...
 My favourite part was the signpost place, where you had signs to all major destinations and distance, that's when you understand that you're in bumfuckistan.
 
+The airport is outside the city. I used the transfer into the centre, dropped my stuff and spent the rest of the day walking.
+
 ## Day 6: Puerto Natales
 
 ![New SF Char leaked](images/blog/chile3.jpg)
 
 ^Found this guy near the center, felt like a new Street Fighter Character.
 
-In winter 2022, there was **one bus a day** from Punta Arenas to Puerto Natales. It left from the bus terminal in Punta Arenas and arrived at **Rodoviario Puerto Natales** around three to four hours later.
+In winter 2022, there was **one bus a day** from Punta Arenas to Puerto Natales. It left from the bus terminal in Punta Arenas and arrived at the **Rodoviario Puerto Natales** around 3 to 4 hours later.
 
 The road was really beautiful: empty land, distant mountains and that very Patagonian feeling that everything is much farther away than it looks.
 
-My first stop was the **Museo Histórico Municipal**. From the museum, I walked north along the waterfront through **Monumento al Viento**, the newer waterfront and **Muelle Fiscal**, then **Muelle Histórico** and the ugly bronze Milodón sculpture near the northern entrance to town.
+My first stop was the **Museo Histórico Municipal**. It's small, but it gave me something to do before walking along the waterfront and planning the next days.
 
-Afterwards, I booked the next two days with a local agency: one National Park tour by car and one full-day hike to Base Torres. I got a good price because I booked both at once. Both trips picked me up at my accomodation and got me back there.
+From the museum, this was my **south-to-north** order along the waterfront:
+
+1. **Monumento al Viento**, with the two figures suspended above the coast.
+2. The newer waterfront and **Muelle Fiscal** area.
+3. **Muelle Histórico**, the remains of the old wooden pier pointing towards the mountains.
+4. The ugly bronze **Milodón sculpture** near the northern entrance to town.
+
+Afterwards, I booked the next two days with a local agency: one photography tour by car and one full-day hike to Base Torres. I got a good price because I booked both at once.
 
 ## Day 7: Torres del Paine
 
