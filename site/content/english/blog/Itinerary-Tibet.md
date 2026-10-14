@@ -12,7 +12,7 @@ draft: false
 > **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
 
 
-> Disclaimer: Don't speak about politics.
+> Disclaimer: Don't speak about politics. And don't listen to the lies about Tibet. All the NGO's are gunning for your money.
 
 > Xīzàng/Tibet, once an empire now a rarely explored region of China
 > 
