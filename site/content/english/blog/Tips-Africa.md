@@ -49,7 +49,7 @@ It sums up the tools and tricks that are often crucial, especially when moving b
 - Using a local travel agent or the airline/bus company website directly is often best (And sometime they have better prices, especially for Ethiopia. They can get flights almost twice as cheap)
 - In Ethiopia, tourism is a mafia, drop the right names, door opens. I don't know who's the current boss, but the one I knew in 2022 opened up a lot, one name dropped and people treats you far better.
 
-### Ride-Hailing Apps (Uber, Bolt, Indrisver)
+### Ride-Hailing Apps (Uber, Bolt, InDriver)
 - **Uber** and **Bolt** are common, while, apparently, **Indriver** is popular in parts of West and North Africa.
 - Generally considered a **safer, more transparent option** than hailing a street taxi.
 - Payment is easiest by linking a card to the app.
@@ -70,9 +70,9 @@ It sums up the tools and tricks that are often crucial, especially when moving b
 ### Cash (USD/Local Currency)
 - **Cash is still widely used.** Most places only use mobile money or cash.
 - **US Dollars (USD)**: Often accepted (and often *required*) for visas, major tourist expenses, and tips. **Only bring new, clean, post-2006 bills**—old or damaged notes are often rejected.
-A black market for conversion exists in most countries. It also works in Euro in old french colonies.
+A black market for conversion exists in most countries. It also works in Euro in old French colonies.
 - **Credit/Debit Cards**: Sometimes accepted in high-end hotels, major supermarkets, and tourist centers in major cities. Expect surcharges of 3-10% in some places.
-- **Mobile money**: Once again, very important, M'Pesa, Mobile Pay and many others are parts of the daily life in most subsaharan african countries. Even more accepted than cash.
+- **Mobile money**: Once again, very important, M'Pesa, Mobile Pay and many others are parts of the daily life in most sub-Saharan African countries. Even more accepted than cash.
 
 
 > **ATMs:** Available in cities and towns. Use bank ATMs during the day and be discreet.  

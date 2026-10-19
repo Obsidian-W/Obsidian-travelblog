@@ -31,7 +31,7 @@ Check the current [country-by-country fee table](https://indianvisaonline.gov.in
 
 For land borders: use your e-visa for the first time at an airport. After that, a multi-entry e-visa can be used for land-border crossings. Check your exact situation before you go: the rules depend on the border and on the number of entries on your e-visa. Usually, standard visas are easier for land borders due to the complicated rules.
 
-For a **regular paper visa**, you neet to get a **5 × 5 cm** photo. It's a specific format (Indian format) you can get it with any photographer or (sometimes) at embassies (for a fee). But it's better to get in advance?
+For a **regular paper visa**, you need to get a **5 × 5 cm** photo. It's a specific format (Indian format) you can get it with any photographer or (sometimes) at embassies (for a fee). But it's better to get in advance?
 
 ---
 

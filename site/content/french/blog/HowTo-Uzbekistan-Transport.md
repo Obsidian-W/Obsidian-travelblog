@@ -132,7 +132,7 @@ Uzbekistan Railways a un site en anglais, mais paiement et disponibilité peuven
 
 Utilise les taxis pour les trajets gare-hôtel à Samarkand, Bukhara/Kagan et Khiva si tu as des bagages. Les vieilles villes se parcourent ensuite à pied.
 
-A Tashkent, le paiement des transports devient plus numérique. Des avis municipaux de 2026 mentionnent l'extension du paiement par carte de transport, carte bancaire, smartphone et autres moyens sans contact dans les bus urbains, et UZCARD décrit des cartes transport-bancaires liées à ATTO pour bus et métro. Pour un court séjour, garde quand même du liquide en secours et n'utilise les applis ou cartes locales que si elles fonctionnent avec ton téléphone et ta banque.
+À Tashkent, le paiement des transports devient plus numérique. Des avis municipaux de 2026 mentionnent l'extension du paiement par carte de transport, carte bancaire, smartphone et autres moyens sans contact dans les bus urbains, et UZCARD décrit des cartes transport-bancaires liées à ATTO pour bus et métro. Pour un court séjour, garde quand même du liquide en secours et n'utilise les applis ou cartes locales que si elles fonctionnent avec ton téléphone et ta banque.
 
 ## Derniers kilomètres par ville
 

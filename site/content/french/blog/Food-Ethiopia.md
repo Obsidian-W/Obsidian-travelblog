@@ -37,13 +37,13 @@ Ces plats sont courants dans les restaurants locaux. Les établissements fréque
 
 ## Plats de viande
 
-La viande éthiopienne peut être excellente, mais commande-la dans des endroits fréquentés. **Doro wat** est le ragoût classique de poulet au berbere, souvent servi avec un oeuf et de l'injera. On le trouve dans les restaurants traditionnels, mais c'est plutôt un plat préparé qu'un déjeuner rapide.
+La viande éthiopienne peut être excellente, mais commande-la dans des endroits fréquentés. **Doro wat** est le ragoût classique de poulet au berbere, souvent servi avec un œuf et de l'injera. On le trouve dans les restaurants traditionnels, mais c'est plutôt un plat préparé qu'un déjeuner rapide.
 
 | Plat | Ce que c'est | Note pratique |
 | --- | --- | --- |
-| Doro wat | Ragoût de poulet au berbere et oeuf | Mieux dans les restaurants traditionnels ou familiaux |
-| Tibs | Viande sautée ou grillée, souvent boeuf ou agneau | Courant au déjeuner ou dîner ; bon avec injera |
-| Kitfo | Boeuf haché avec épices et beurre clarifié | Souvent cru ou peu cuit ; demande cuit si besoin |
+| Doro wat | Ragoût de poulet au berbere et œuf | Mieux dans les restaurants traditionnels ou familiaux |
+| Tibs | Viande sautée ou grillée, souvent bœuf ou agneau | Courant au déjeuner ou dîner ; bon avec injera |
+| Kitfo | Bœuf haché avec épices et beurre clarifié | Souvent cru ou peu cuit ; demande cuit si besoin |
 | Key wat | Ragoût de viande rouge épicé | Goût de berbere plus marqué |
 | Alicha wat | Ragoût de viande plus doux | Plus simple si tu veux moins de piment |
 
@@ -65,7 +65,7 @@ Les menus en ligne actuels sont utiles comme repère, pas comme liste de prix na
 
 ## Hauts plateaux du nord
 
-A Lalibela, Gondar et Bahir Dar, attends-toi à injera, shiro, tibs, firfir, restaurants d'hôtel simples et plateaux de jeûne autour des zones religieuses. Le choix peut se réduire quand il y a peu de visiteurs, pendant une période d'instabilité ou lors de problèmes de carburant et d'approvisionnement.
+À Lalibela, Gondar et Bahir Dar, attends-toi à injera, shiro, tibs, firfir, restaurants d'hôtel simples et plateaux de jeûne autour des zones religieuses. Le choix peut se réduire quand il y a peu de visiteurs, pendant une période d'instabilité ou lors de problèmes de carburant et d'approvisionnement.
 
 Les hauts plateaux du nord sont aussi un bon endroit pour croiser le **tej**, l'hydromel éthiopien, dans des restaurants ou tej houses. Essaie prudemment ; le degré, le sucre et la qualité varient beaucoup.
 
@@ -88,6 +88,12 @@ Le thé est courant. Les jus frais sont faciles à trouver à Addis et dans les 
 Les végétariens mangent généralement bien grâce aux traditions orthodoxes de jeûne, qui produisent beaucoup de plats sans viande. Demande la nourriture **yetsom** ou de jeûne. Les vegans doivent quand même demander pour le niter kibbeh, le beurre clarifié épicé utilisé dans certains plats.
 
 Pour manger plus doux, vise les plats **alicha**, le shiro, le riz, le pain, les lentilles ou les légumes. Les ragoûts au berbere peuvent être forts, mais toute la cuisine éthiopienne n'est pas pimentée.
+
+## Autres plats
+
+Pizzas et pâtes, surtout les spaghettis, sont populaires dans toute l'Éthiopie. Attention : les pâtes peuvent être servies sur une injera. Les pizzas sont moins convaincantes que dans les pays où j'en mange habituellement, et chères comparées aux plats locaux : c'est davantage un petit luxe.
+
+> L'Italie n'a pas réussi à coloniser durablement le pays, mais elle a laissé des traces culinaires et un sentiment de fierté chez les habitants.
 
 ## Sources consultées
 

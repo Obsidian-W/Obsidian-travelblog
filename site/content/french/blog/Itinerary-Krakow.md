@@ -13,11 +13,11 @@ draft: true
 
 | Jour | Destination | Notes |
 |:---:|:---|:---|
-| Jour 1 | [Cracovie](#jour-1-cracovie) | Rynek, Wawel et Kazimierz |
-| Jour 2 | [Auschwitz](#jour-2-auschwitz) | Mémorial Auschwitz-Birkenau |
-| Jour 3 | [Wieliczka](#jour-3-wieliczka) | Mine de sel |
+| Jour 1 | [Cracovie](#jour-1) | Rynek, Wawel et Kazimierz |
+| Jour 2 | [Auschwitz](#jour-2) | Mémorial Auschwitz-Birkenau |
+| Jour 3 | [Wieliczka](#jour-3) | Mine de sel |
 
-## Jour 1 Cracovie
+## Jour 1 Cracovie {#jour-1}
 
 ![Centre de Cracovie](images/blog/krakow3.jpg)
 
@@ -25,7 +25,7 @@ Marchez depuis la Barbacane par Floriańska Street jusqu’à **Rynek Główny**
 
 Visitez la cathédrale du Wawel et les cours du château, puis quittez la colline près de la statue du dragon. Suivez la Vistule jusqu’à la passerelle Father Bernatek et traversez vers **Podgórze** pour Ghetto Heroes Square. Revenez par la même passerelle vers Kazimierz, en passant par la vieille synagogue, Szeroka Street et Plac Nowy. Cela fait environ huit kilomètres de la Barbacane à Plac Nowy.
 
-## Jour 2 Auschwitz
+## Jour 2 Auschwitz {#jour-2}
 
 ![Mémorial Auschwitz-Birkenau](images/blog/krakow2.jpg)
 
@@ -35,7 +35,7 @@ Réservez le pass nominatif via [le site officiel d’Auschwitz-Birkenau](https:
 
 Retour à Cracovie en train ou en bus direct après la visite.
 
-## Jour 3 Wieliczka
+## Jour 3 Wieliczka {#jour-3}
 
 ![Mine de sel de Wieliczka](images/blog/krakow1.jpg)
 

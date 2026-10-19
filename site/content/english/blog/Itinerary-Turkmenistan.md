@@ -19,7 +19,7 @@ draft: false
 
 
 {{< worth-o-meter score="4" >}}
-Ok, while fun and unique, Turkmenistan is super expensive. And a hassle to organize. And a dictature.
+Ok, while fun and unique, Turkmenistan is super expensive. And a hassle to organize. And a dictatorship.
 The ruins are too ruined and with barely any explanations, Ashgabat, while fun isn't the best city in the world
 and I don't think its uniqueness makes it a dream destination.
 {{< /worth-o-meter >}}

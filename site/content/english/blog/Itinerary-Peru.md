@@ -52,7 +52,7 @@ Prices are approximate euro equivalents, checked in September 2026.
 
 Ok, so to start directly. You reached Lima, want to get a feel of the city right away?
 Walk the cliffs! It's the prettiest part. 
-Additionnaly, you'll be close to **Barranco**, worth it for the street art.
+Additionally, you'll be close to **Barranco**, worth it for the street art.
 See Barranco’s plaza, walk over the **Bridge of Sighs**, down **Bajada de Baños** and back along the cliff viewpoints. The lanes around the bridge have murals, old houses and small galleries.
 
 After a morning walk along the cliffs, I recommend to continue to the **Plaza Mayor**, with the cathedral and the wooden balconies of the Archbishop’s Palace facing the square. Walk to **San Francisco**, then follow Jirón de la Unión past La Merced to **Plaza San Martín**. This is a roughly **3 km** circuit, allow two hours minimum, perhaps three with stops along the way.
@@ -61,7 +61,7 @@ The guided visit inside **San Francisco Monastery** takes about an hour, through
 
 > It's worth it, especially for the catacombs!
 
-For the later parts of the evening, I personally went to the archelogical sight:  Pucllana.
+For the later parts of the evening, I personally went to the archaeological sight:  Pucllana.
 It's not open often, but if it does, it will be your first ruin in Peru!
 
 Then, if you don't want to waste time, head for a loop north to the Cordillera Blanca, one of the prettiest area in Peru.
@@ -72,7 +72,7 @@ For my previous night, I stayed in Waikiki Hostel in Miraflores, the best distri
 
 ## Day 2: Huaraz
 
-Keep the first day around **Huaraz**, at roughly 3050 m of altitute, you may need to acclimatize.
+Keep the first day around **Huaraz**, at roughly 3050 m of altitude, you may need to acclimatize.
 
 > Note: I don't, I discovered I had the genetics for altitude resistance for up to 5000m. But if you follow my itinerary, I'm going to push you to more than 5.2km of altitude.
 
@@ -86,7 +86,7 @@ It is a good acclimatization hike with views across to the **Cordillera Blanca**
 The hike took me a little less than 3:30 both ways, including a lunch breaks. The path is easy to follow (And you may encounter people preparing the Santa Cruz Trekk here)
 
 **There are lots of dogs along the trail, especially at the top.** 
-he ones I encountered weren't as aggresive as the reviews said, just hungry.
+TTTThe ones I encountered weren't as aggressive as the reviews said, just hungry.
 I came prepared and had cheese and ham. So I got surrounded by friendly dogs quickly (It's a bit reckless, I guess, but we (dogs and I) had a great time).
 
 > I booked the next three Cordillera Blanca day trips through the hostel for about **10€ each**, returning to the same bed in Huaraz each evening. Convenient.
@@ -166,7 +166,7 @@ Allow 3–4 hours for the museum, transfer and palace walk.
 
 Take a bus towards **Huanchaco** on **Avenida Mansiche** and get off at **Chan Chan**. The ride takes 20–30 minutes and costs around 3–5 soles (0,80–1,30€).
 
-After Chan Chan, continue to **Huanchaco** for the night. Take a Huanchaco-bound bus or combi from the main road towards the coast (I just asked around and got one quickly, the combi I took in Huaraz was actually headed to Huanchanco).
+After Chan Chan, continue to **Huanchaco** for the night. Take a Huanchaco-bound bus or combi from the main road towards the coast (I just asked around and got one quickly, the combi I took in Huaraz was actually headed to Huanchaco).
 
 I then spent the evening walking around Huanchaco, past the pointed **caballitos de totora** (The reed fishing craft pulled up on the beach) and along the sea.
 
@@ -219,7 +219,7 @@ I went by bike, I got a cheap one through one of the many shops and did it all t
 
 [This Ballestas Islands and Paracas National Reserve tour (affiliate link)](https://www.getyourguide.com/paracas-l32470/paracas-ballestas-islands-and-paracas-national-reserve-tour-t855974/?partner_id=H1N6CGH&utm_medium=online_publisher) combines the boat and road circuit. Reserve admission and the port charge may be additional, depending on the package. Lunch at Lagunillas is generally an additional expense.
 
-> Worth it? Yes for both. Wildlife from the boat tour is good to look at, it feels fresh and refreshing and even the landscape are good. But the hewel is the **Paracas National Reserve**.
+> Worth it? Yes for both. Wildlife from the boat tour is good to look at, it feels fresh and refreshing and even the landscape are good. But the jewel is the **Paracas National Reserve**.
 > Not much wildlife in this one, but awe-inspiring landscapes and a nice escape from the ever rugged terrain found everywhere in Peru.
 
 ## Day 11: Ica and Huacachina
@@ -231,7 +231,7 @@ So, before going to the oasis, whether you take the bus or tour, you should make
 From what I remember, the tour went this way: Departs around 9, arrive in Ica at 10:30 after pickup, then a tour of the city before going to a pisco tasting tour (You also see the making of wine, pisco, the different kind that exist and have lunch).
 
 > (I wasn't very religious at that time... I've stopped drinking after this trip)
-> Btw, fun fact, I spent the next 4 or 5 days continously drunk. I'm not proud.
+> Btw, fun fact, I spent the next 4 or 5 days continuously drunk. I'm not proud.
 
 After lunch and wine, it was close to 3PM (Time flies), an additional 30 minutes was spent to go the famous **Huacachina** oasis.
 
@@ -304,7 +304,7 @@ Inside are narrow red and blue streets, kitchens, cells, washing areas and quiet
 
 > This was my highlight of Arequipa! Absolutely stunning, and gosh, the colors!!
 
-Because I didn't have that much time, I booked at 13:00 a tour starting at 14:00 (yes) not far from the main thoroughfar of Arequipa (Where I ate the famous Arequipan dish: Ricoto Relleno).
+Because I didn't have that much time, I booked at 13:00 a tour starting at 14:00 (yes) not far from the main thoroughfare of Arequipa (Where I ate the famous Arequipan dish: Rocoto Relleno).
 Hence, I ate, went straight to see the **Ruta del Sillar**.
 
 The excursion visits the **Añashuayco quarries**, where stonecutters work the volcanic rock used in the city’s buildings.
@@ -352,18 +352,18 @@ The journey takes 10 hours, with fares starting from 50 soles (12€).
 
 ## Day 16: Cusco
 
-> Cusco is my favourite place in Peru. It's absolutely worth the hype and is best kept last because it's an highlught. Some visitors in Peru only do the Cusco region, you'll get to understand why.
-> Cusco (The town, not the disney character) is beautiful, filled with indigineous culture.
+> Cusco is my favourite place in Peru. It's absolutely worth the hype and is best kept last because it's a highlight. Some visitors in Peru only do the Cusco region, you'll get to understand why.
+> Cusco (The town, not the Disney character) is beautiful, filled with indigenous culture.
 > Seriously it should have been Peru's capital since it's such a cultural powerhouse and so much more memorable than Lima.
 
-For the record, I arrived from a night bus, very early. Hence the long day! For a more "chillax" rythm, add more time in the Centro historico and go to Sacsayhuaman and stuff on another day (And add more walking, perhaps to Apu chakam, right next to it).
+For the record, I arrived from a night bus, very early. Hence the long day! For a more "chillax" rhythm, add more time in the Centro historico and go to Sacsayhuaman and stuff on another day (And add more walking, perhaps to Apu chakam, right next to it).
 
 Alright, I'll say to begin by buying the **integral Cusco tourist ticket**.
 It costs 130 soles (33€) for a foreign adult, valid **ten days**.
 
 Starting it on this day will cover Sacsayhuamán for the afternoon, the cultural performance an evening, the Sacred Valley on Day 23 and the included museums for this day and those I added in Day. AKA: A lot.
 
-> Be careful, the paper is fragile, keep it well, mine got drenched due to heavy rain going thorugh my bags. It was barely usable after my Machu Picchu hike.
+> Be careful, the paper is fragile, keep it well, mine got drenched due to heavy rain going through my bags. It was barely usable after my Machu Picchu hike.
 
 Tickets are sold in person at **Avenida El Sol 103**, normally **07:30–18:00**, and at most included archaeological sites.
 (Note: The Qorikancha *site museum* is included; admission to the temple/Santo Domingo complex is separate.)
@@ -373,7 +373,7 @@ Honestly, do the classic stuff, start in lively **Plaza Túpac Amaru**, right ne
 Allow 2–3 hours for the streets and squares, with additional time for an interior visit to Qorikancha.
 
 For the afternoon, take a **Cristo Blanco** or **Señor de Huerto** bus from **Mercado Rosaspata** to **Q’enqo**, then walk towards **Sacsayhuamán**.
-This is a nice walk to mutiple sites included in the ticket: Q'enqo, Pukamuqu (The Redemptor Christ), Qhalispuqyo and Sacsayhuamán.
+This is a nice walk to multiple sites included in the ticket: Q'enqo, Pukamuqu (The Redemptor Christ), Qhalispuqyo and Sacsayhuamán.
 Allow at least 2 hours there. 
 From Sacsayhuamán, descend on foot through **San Cristóbal** to the centre (Another Mirador).
 
@@ -466,7 +466,7 @@ Both museums are included in the integral tourist ticket, which is still within 
 
 In the afternoon, walk south along **Avenida El Sol** to the **Pachacútec Monument**, around **0:30 from Qorikancha**. The monument has a small historical display and a viewpoint above the busy roads of modern Cusco; its admission is also on the tourist ticket.
 
-This was voloontarily a chill day, any thing you didn't do the first day in Cusco can be done here.
+This was voluntarily a chill day, anything you didn't do the first day in Cusco can be done here.
 Personally, I used some of the time to run in the city, because I could; I felt so light after the hike.
 
 Take the overnight bus from **Cusco’s Terminal Terrestre** to **Puerto Maldonado**. Maldonado Tours lists a **19:00** departure, Palomino **20:00** and Transzela **21:00**. The journey takes 9–11 hours, with tickets from 50 soles (12,80€).
@@ -492,7 +492,7 @@ A current **three-day lodge package** from Tambopata Wild starts at 301€ per p
 
 [This three-day Amazon jungle tour from Puerto Maldonado (affiliate link)](https://www.getyourguide.com/puerto-maldonado-l2146/puerto-maldonado-3-day-amazon-jungle-tour-with-lodging-t981109/?partner_id=H1N6CGH&utm_medium=online_publisher) is another option with lodge accommodation, guiding and boat transport. Meals, reserve admission and terminal transfers depend on the package.
 
-> I was a bit disappointed with the lack of activites, it wasn't as filled as other tours, but perhaps it wasn't that bad after all. Got some R&R and saw the amazon. Puerto Maldonado is still one of the best place to experience it, and is very easy to access yet not that filled with tourists.
+> I was a bit disappointed with the lack of activities, it wasn't as filled as other tours, but perhaps it wasn't that bad after all. Got some R&R and saw the Amazon. Puerto Maldonado is still one of the best place to experience it, and is very easy to access yet not that filled with tourists.
 > Give it a try for the full Peru Experience.
 
 For **Puno**, Transportes Reyna lists a **19:00** departure from its Puerto Maldonado boarding point, arriving around **08:00 the next morning**. The journey takes **13:00**, with tickets from 80 soles (20,50€).
@@ -505,7 +505,7 @@ From **Juliaca**, my route continued across **Lake Titicaca** to **Amantani**. I
 
 > It was a long route, full of different transports. Puerto Maldonado -> Juliaca then Bus station -> Port, Port -> Amantani
 
-Then, an additional two hours of boat, relatively early in the morning. The boat left once full, like a collectivo. And hop, you're on one of the prettiest island out there.
+Then, an additional two hours of boat, relatively early in the morning. The boat left once full, like a colectivo. And hop, you're on one of the prettiest island out there.
 
 On the island, walk through the villages and agricultural terraces, then climb towards the **Pachamama and Pachatata viewpoints**. The paths connect the settlements with the two hilltops and ruins, with wide views across the lake towards the mountains. Allow 2–3 hours for a hill walk and return, depending on the village where you are staying. The island is around 3 800 m, with the summits above 4 000 m. Walking around the island offer route filled with flowers and views across the lake, like a sea in the middle of the mountains.
 

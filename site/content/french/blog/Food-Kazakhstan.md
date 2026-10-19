@@ -15,7 +15,7 @@ draft: true
 
 ![Beshbarmak](https://commons.wikimedia.org/wiki/Special:Redirect/file/Beshbarmak.jpg)
 
-La cuisine kazakhe repose sur la viande, les produits laitiers, le blé et les traditions nomades. Attends-toi à du cheval, de l'agneau, du boeuf, des nouilles, de la pâte frite, du lait fermenté et du thé. Dans les villes, tu trouveras aussi des cuisines ouzbèke, ouïghoure, russe, coréenne et plus largement centrasiatique.
+La cuisine kazakhe repose sur la viande, les produits laitiers, le blé et les traditions nomades. Attends-toi à du cheval, de l'agneau, du bœuf, des nouilles, de la pâte frite, du lait fermenté et du thé. Dans les villes, tu trouveras aussi des cuisines ouzbèke, ouïghoure, russe, coréenne et plus largement centrasiatique.
 
 | Plat | Ce que c'est | Où chercher |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Les prix varient beaucoup dans la capitale. N'utilise pas les restaurants centra
 
 ## Mangystau et nourriture de route
 
-A Aktau et dans le Mangystau, le plan alimentaire doit être pratique. Mange correctement avant de quitter Aktau. En tour désert, les repas dépendent de l'opérateur : pain, thé, soupe, viande, pâtes, riz, snacks et cuisine de camp. Apporte ton eau, fruits, noix et tout aliment précis dont tu as besoin.
+À Aktau et dans le Mangystau, le plan alimentaire doit être pratique. Mange correctement avant de quitter Aktau. En tour désert, les repas dépendent de l'opérateur : pain, thé, soupe, viande, pâtes, riz, snacks et cuisine de camp. Apporte ton eau, fruits, noix et tout aliment précis dont tu as besoin.
 
 Dans le Mangystau, les restrictions alimentaires doivent être organisées avec l'opérateur avant le départ. Garde également de la nourriture de secours.
 
@@ -62,6 +62,20 @@ Le Kazakhstan partage beaucoup avec le reste de l'Asie centrale. Tu trouveras **
 Le thé est central. Le **kumys** est du lait de jument fermenté ; le **shubat** est du lait de chamelle fermenté, plus associé à l'ouest et aux régions désertiques. Commence par une petite quantité, car le goût et la digestion peuvent surprendre.
 
 Les végétariens doivent viser les cafés d'Almaty et Astana, restaurants géorgiens ou indiens, salades, pain, pommes de terre, soupes et quelques adresses ouïghoures de nouilles. Demande pour les bouillons de viande. Sans gluten, c'est difficile : nouilles, pain, raviolis et pâte frite sont partout.
+
+## La viande de cheval en détail
+
+La cuisine traditionnelle vient de la vie pastorale dans la steppe : viande bouillie, gras, pâte et lait conservé, avec peu d'épices. Je trouve la cuisine kazakhe moderne meilleure.
+
+Le **beshbarmak** combine cheval, agneau ou bœuf sur de grandes feuilles de pâte, avec bouillon et oignons. C'est un plat collectif : demande combien de personnes sert une portion. Seul, lagman, manty ou soupe sont plus faciles à commander. Traditionnellement, on le mange avec les mains.
+
+Le **kazy** est une saucisse de côtes de cheval avec une bonne bande de gras : dense, salée et souvent tranchée sur le beshbarmak. Le **kuyrdak**, viande ou abats sautés avec oignons et pommes de terre, a une saveur différente grâce au brunissement à la poêle.
+
+## Pâte frite et produits laitiers
+
+Les **baursak** sont des morceaux de pâte frite servis avec le thé ou le repas. Leur nom me fait malheureusement penser à *ballsack* en anglais. Frais, ils sont moelleux et un peu gras ; petits et secs, plus pratiques dans le bus ou le train. Ce ne sont pas des desserts sans accompagnement sucré.
+
+Le **kurut** est un produit laitier fermenté séché en boules blanches, parfois extrêmement salé, dur et crayeux : achète une boule avant un grand sac. Contrairement à la plaisanterie populaire, on ne le roulerait pas sous les aisselles, même si le goût très salé entretient la blague.
 
 ## Sources consultées
 

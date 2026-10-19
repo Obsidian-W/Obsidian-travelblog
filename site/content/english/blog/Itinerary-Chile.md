@@ -57,9 +57,9 @@ Leave the luggage at the accommodation and walk around the adobe centre, **San P
 
 The transfer is quite long, so it won't leave time for more.
 
-I booked an excursion for Valle de la Luna for D+2, right near my accomodation.
+I booked an excursion for Valle de la Luna for D+2, right near my accommodation.
 
-My accomodation was Casa Voyage Hostel, it still exists and my review on google maps can stil be found!
+My accommodation was Casa Voyage Hostel, it still exists and my review on Google Maps can still be found!
 
 > Fun fact, I met a girl for the third time there, I met her the first time in Peru, possibly Arequipa, then met her a second time in Cusco, Peru. So the rule applied.
 > We decided to go biking the next day.
@@ -119,7 +119,7 @@ Punta Arenas feels like the end of the world. It's windy, colourful, isolated an
 
 I walked all over the city: **Plaza Muñoz Gamero**, the port, the waterfront sculptures and **Cerro de la Cruz** for the view over the rooftops and the strait.
 
-The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherwordly in such an eerie way...
+The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherworldly in such an eerie way...
 My favourite part was the signpost place, where you had signs to all major destinations and distance, that's when you understand that you're in bumfuckistan.
 
 The airport is outside the city. I used the transfer into the centre, dropped my stuff and spent the rest of the day walking.
@@ -162,7 +162,7 @@ Once out of the park, we went to the Cueva Del Milodon, a large cave where they 
 
 > Cueva del Milodón is around 25 kilometres north of Puerto Natales. The cave is slightly interesting and often included with tours.
 
-The visit lasts around an hour, where you do a walk up to the cave, then through the cave, to observe the staglamatites and stalagtites and read the signs.
+The visit lasts around an hour, where you do a walk up to the cave, then through the cave, to observe the stalagmites and stalactites and read the signs.
 
 ## Day 8: Base Torres
 
@@ -259,13 +259,13 @@ Take the funicular or walk up **Cerro San Cristóbal** for the view across Santi
 
 ## Day 14: Viña del mar
 
-> I didn't visit, so there is nothign from me here but I heard it was a must!
+> I didn't visit, so there is nothing from me here but I heard it was a must!
 
 Since I had other plans, I skipped this and pretty much Santiago.
 But it was in my original plan. From Santiago, take a bus from Terminal Alameda/Pajaritos or the train-bus combination towards Valparaiso and Viña del Mar, then return the same evening if you do not want to sleep on the coast.
 
 ## Day 15: Santiago/Departure
 
-Santiago will porobably be your last stop. Use the airport bus from Pajaritos or Los Héroes for the flight out, or the metro first if you sleep away from those stops.
+Santiago will probably be your last stop. Use the airport bus from Pajaritos or Los Héroes for the flight out, or the metro first if you sleep away from those stops.
 If you have more time, some museums can fill the day.
 If not, hopefully you can go onwards to **Easter Island** or go back home safely!

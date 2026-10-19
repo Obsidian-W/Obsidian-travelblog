@@ -9,355 +9,524 @@ continents: ["Asie"]
 draft: false
 ---
 
-> Kazakhstan -> Kirghizistan -> Tadjikistan -> Ouzbékistan -> Turkménistan  
->  
-> Deux mois entre désert, montagnes, routes soviétiques, Pamir et villes de la Route de la soie.  
->  
-> Mon itinéraire à travers l'Asie centrale, de la mer Caspienne aux Portes de l'Enfer.
+> Mon itinéraire en Asie centrale, de la mer Caspienne aux Portes de l'Enfer : **Kazakhstan → Kirghizistan → Tadjikistan → Ouzbékistan → Turkménistan**.
 
-**Guide par pays actuellement publié à partir de ce voyage :**
+> **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux toucher une commission sans frais supplémentaires pour vous.
 
-- [Trois jours au Turkménistan](/fr/blog/itinerary-turkmenistan/)
+Mon budget était d'environ **1 800 €**, hors vols.
 
-Les autres extraits par pays sont encore en cours de rédaction. Cette page reste le parcours complet à travers les cinq pays.
+{{< worth-o-meter score="9" >}}
+Rarement une destination m'a autant ému. Après presque deux mois, j'étais triste de partir : je voulais en voir encore plus. J'aurais ajouté cinq jours au Kazakhstan pour l'est, un au Tadjikistan, deux en Ouzbékistan et un au Turkménistan. Et des jours et des jours au Kirghizistan. Des lieux extraordinaires, presque irréels et intemporels. Un point de moins pour la cuisine, moins convaincante qu'ailleurs et un peu trop centrée sur le cheval.
+{{< /worth-o-meter >}}
 
----
+Les trois derniers jours sont aussi disponibles dans un [itinéraire consacré au Turkménistan](/fr/blog/itinerary-turkmenistan/).
 
-Avant de rentrer dans le détail, quelques repères :
-
-- Route : **Kazakhstan -> Kirghizistan -> Tadjikistan -> Ouzbékistan -> Turkménistan**
-- Budget : environ **25-30 EUR par jour**, hors vols internationaux.
-- Entrée : les visas électroniques sont simples pour plusieurs pays, mais le Turkménistan demande une agence ou une lettre d'invitation selon le cas.
-- Argent : garde des dollars en bon état. Les distributeurs et paiements par carte ne sont pas toujours fiables.
-- Transport : marshrutkas, trains, taxis partagés, bus de nuit improvisés et quelques vols internes.
-- Saison : fin du printemps à début automne. Le Pamir et les zones de montagne deviennent plus compliqués hors saison.
-
----
-
-# Itinéraire rapide
+# Itinéraire
 
 ## Kazakhstan
 
-| Jour | Destination | Notes |
-| :--: | :---------- | :---- |
-| Jour 1 | [Aktau](#jour-1-aktau) | Arrivée sur la Caspienne |
-| Jour 2 | [Torysh et Sherkala](#jour-2-torysh-et-sherkala) | Début du tour dans le Mangystau |
-| Jour 3 | [Plateau de Bozjyra](#jour-3-plateau-de-bozjyra) | Longue route dans le désert |
-| Jour 4 | [Canyon Tiramisu et Boktu](#jour-4-canyon-tiramisu-et-boktu) | Dernière journée de pistes |
-| Jours 5-6 | [Astana](#jours-5-6-astana) | Capitale moderne |
-| Jour 7 | [Aqmola et Alzhir](#jour-7-aqmola-et-alzhir) | Musée du goulag, puis train de nuit |
-| Jour 8 | [Almaty](#jour-8-almaty) | Ville, marché, préparation des sorties |
-| Jour 9 | [Grand lac d'Almaty](#jour-9-grand-lac-dalmaty) | Randonnée décevante mais belle en fin de journée |
-| Jour 10 | [Charyn, Kolsai et Kaindy](#jour-10-charyn-kolsai-et-kaindy) | Excursion longue depuis Almaty |
-| Jour 11 | [Shymbulak](#jour-11-shymbulak) | Randonnée en altitude |
-| Jour 12 | [Route vers Bichkek](#jour-12-route-vers-bichkek) | Bus et frontière |
+| Jour | Destination |
+|:---:|:---|
+| Jour 1 | [Aktau](#jour-1) |
+| Jour 2 | [Torysh et Sherkala](#jour-2) |
+| Jour 3 | [Plateau de Bozjyra](#jour-3) |
+| Jour 4 | [Canyon Tiramisu et Boktu](#jour-4) |
+| Jour 5 | [Arrivée à Astana](#jour-5) |
+| Jour 6 | [Astana](#jour-6) |
+| Jour 7 | [Aqmola et Alzhir](#jour-7) |
+| Jour 8 | [Almaty](#jour-8) |
+| Jour 9 | [Grand lac d'Almaty](#jour-9) |
+| Jour 10 | [Canyons et lacs](#jour-10) |
+| Jour 11 | [Station de Shymbulak](#jour-11) |
+| Jour 12 | [Vers Bichkek](#jour-12) |
 
 ## Kirghizistan
 
-| Jour | Destination | Notes |
-| :--: | :---------- | :---- |
-| Jour 13 | [Bichkek](#jour-13-bichkek) | Ville, musées, organisation |
-| Jour 14 | [Parc national d'Ala-Archa](#jour-14-parc-national-dala-archa) | Randonnée facile d'accès |
-| Jours 15-17 | [Song-Kul](#jours-15-17-song-kul) | Cheval et nuit en yourte |
-| Jour 18 | [Karakol](#jour-18-karakol) | Ville, lac Issyk-Kul, nourriture dungan |
-| Jour 19 | [Jeti-Oguz](#jour-19-jeti-oguz) | Falaises rouges et petite randonnée |
-| Jour 20 | [Altyn Arashan](#jour-20-altyn-arashan) | Longue marche en vallée alpine |
-| Jour 21 | [Route vers Och](#jour-21-route-vers-och) | Transport long et inconfortable |
-| Jour 22 | [Och et départ Pamir](#jour-22-och-et-départ-pamir) | Préparation du jeep tour |
-| Jours 23-24 | [Pic Lénine et Tulpar-Kul](#jours-23-24-pic-lénine-et-tulpar-kul) | Montagnes, lacs et yourtes |
+| Jour | Destination |
+|:---:|:---|
+| Jour 13 | [Bichkek](#jour-13) |
+| Jour 14 | [Parc national d'Ala-Archa](#jour-14) |
+| Jour 15 | [Kyzart à Song-Kul](#jour-15) |
+| Jour 16 | [Song-Kul](#jour-16) |
+| Jour 17 | [Song-Kul à Karakol](#jour-17) |
+| Jour 18 | [Karakol](#jour-18) |
+| Jour 19 | [Jeti-Ögüz](#jour-19) |
+| Jour 20 | [Altyn Arashan](#jour-20) |
+| Jour 21 | [Route vers Och](#jour-21) |
+| Jour 22 | [Och et départ pour le Pamir](#jour-22) |
+| Jour 23 | [Tulpar-Kul](#jour-23) |
+| Jour 24 | [Pic Lénine](#jour-24) |
 
 ## Tadjikistan
 
-| Jour | Destination | Notes |
-| :--: | :---------- | :---- |
-| Jour 25 | [Lac Karakul](#jour-25-lac-karakul) | Désert d'altitude |
-| Jour 26 | [Plateau de Murghab](#jour-26-plateau-de-murghab) | Villages isolés et route difficile |
-| Jour 27 | [Langar et vallée du Wakhan](#jour-27-langar-et-vallée-du-wakhan) | Vues sur l'Afghanistan |
-| Jour 28 | [Forteresse de Yamchun](#jour-28-forteresse-de-yamchun) | Ruines, sources chaudes, Khorog |
-| Jour 29 | [Kalaikhum](#jour-29-kalaikhum) | Route le long du Panj |
-| Jour 30 | [Douchanbé](#jour-30-douchanbé) | Fin de la Pamir Highway |
-| Jours 31-32 | [Panjakent et les Sept Lacs](#jours-31-32-panjakent-et-les-sept-lacs) | Ruines, bazar, excursion |
-| Jours 33-34 | [Khujand](#jours-33-34-khujand) | Ville historique du nord |
+| Jour | Destination |
+|:---:|:---|
+| Jour 25 | [Lac Karakul](#jour-25) |
+| Jour 26 | [Plateau de Murghab](#jour-26) |
+| Jour 27 | [Langar et Wakhan](#jour-27) |
+| Jour 28 | [Yamchun](#jour-28) |
+| Jour 29 | [Kalaikhum](#jour-29) |
+| Jour 30 | [Douchanbé](#jour-30) |
+| Jour 31 | [Panjakent](#jour-31) |
+| Jour 32 | [Sept Lacs](#jour-32) |
+| Jour 33 | [Vers Khujand](#jour-33) |
+| Jour 34 | [Khujand](#jour-34) |
 
 ## Ouzbékistan
 
-| Jour | Destination | Notes |
-| :--: | :---------- | :---- |
-| Jours 35-36 | [Tachkent](#jours-35-36-tachkent) | Capitale et métro |
-| Jours 37-38 | [Samarcande](#jours-37-38-samarcande) | Registan, mausolées, observatoire |
-| Jours 39-40 | [Boukhara](#jours-39-40-boukhara) | Vieille ville et monuments |
-| Jours 41-42 | [Khiva](#jours-41-42-khiva) | Ichan Kala |
-| Jours 43-44 | [Nukus et Karakalpakstan](#jours-43-44-nukus-et-karakalpakstan) | Musée Savitsky et mer d'Aral |
+| Jour | Destination |
+|:---:|:---|
+| Jour 35 | [Arrivée à Tachkent](#jour-35) |
+| Jour 36 | [Tachkent](#jour-36) |
+| Jour 37 | [Tachkent à Samarcande](#jour-37) |
+| Jour 38 | [Samarcande](#jour-38) |
+| Jour 39 | [Vieille ville de Boukhara](#jour-39) |
+| Jour 40 | [Boukhara](#jour-40) |
+| Jour 41 | [Vers Khiva](#jour-41) |
+| Jour 42 | [Khiva](#jour-42) |
+| Jour 43 | [Nukus](#jour-43) |
+| Jour 44 | [Muynak et mer d'Aral](#jour-44) |
 
 ## Turkménistan
 
-| Jour | Destination | Notes |
-| :--: | :---------- | :---- |
-| Jour 45 | [Kunya-Urgench et Darvaza](#jour-45-kunya-urgench-et-darvaza) | Frontière, ruines, cratère |
-| Jour 46 | [Darvaza et route vers Achgabat](#jour-46-darvaza-et-route-vers-achgabat) | Cratères et désert |
-| Jour 47 | [Achgabat](#jour-47-achgabat) | Ville de marbre et départ |
+| Jour | Destination |
+|:---:|:---|
+| Jour 45 | [Konye-Urgench](#jour-45) |
+| Jour 46 | [Darvaza](#jour-46) |
+| Jour 47 | [Achgabat](#jour-47) |
+
 
 ---
 
 # Kazakhstan
 
-## Jour 1 Aktau
+## Jour 1 Aktau {#jour-1}
 
-Aktau est une ville kazakhe au bord de la Caspienne, avec des falaises blanches, de grandes avenues soviétiques, des immeubles fatigués et une économie liée au pétrole. La promenade côtière est agréable le matin, surtout autour de la **Skalnaya Tropa Promenade**.
+Bienvenue à **Aktau**, au bord de la mer Caspienne. Des falaises blanches, des usines de dessalement, des puits de pétrole, de larges avenues soviétiques et de la poussière partout. Sur le front de mer, les habitants couraient, pédalaient et pêchaient.
 
-La ville sert surtout de porte d'entrée au **Mangystau**. Si tu arrives en avion, garde l'après-midi pour acheter une carte SIM, trouver de l'argent et confirmer un tour en 4x4. Les sites du Mangystau ne sont pas faits pour les transports publics classiques.
+Suivez la **promenade Skalnaya Tropa**, sous les falaises, puis cherchez le **phare Melovoy** : il est installé sur le toit d'un immeuble d'habitation. La **statue du Navire** et le **monument à Taras Chevtchenko** se trouvent aussi sur cette promenade côtière.
 
-## Jour 2 Torysh et Sherkala
+Avec davantage de temps, visitez la mosquée et le mémorial, et repérez les nombreuses fresques soviétiques sur les murs.
 
-![Mangystau](images/blog/mangystau3.jpg)
+Aktau était le point de départ de mon circuit de trois jours dans le **Mangystau**. J'ai voyagé avec [RedMaya Travel](https://redmaya-travel.kz/english), que je recommande en premier.
 
-Départ tôt d'Aktau avec un petit groupe. La sortie de ville passe par les zones industrielles, puis la steppe s'ouvre rapidement. En été, après la pluie, le désert peut être étonnamment vert.
+S'ils ne sont pas disponibles, [ce circuit de trois jours en jeep avec camping dans le Mangystau est une alternative sur GetYourGuide (lien affilié)](https://www.getyourguide.com/mangystau-l191788/aktau-3-day-mangystau-jeep-tour-with-camping-t1131777/?partner_id=H1N6CGH&utm_medium=online_publisher). Je n'ai pas fait cette excursion précise.
 
-La première étape est **Torysh**, la vallée des boules, connue pour ses rochers sphériques et ses fossiles marins. Ensuite, la route continue vers **Kolkala**, puis **Sherkala**, un rocher isolé qui servait autrefois de point de défense et d'observation. La journée se termine souvent près d'**Airakty Shomanai**, avec campement entre les formations rocheuses.
+## Jour 2 Torysh et Sherkala {#jour-2}
 
-## Jour 3 Plateau de Bozjyra
+![Paysages du Mangystau](images/blog/mangystau3.jpg)
 
-![Bozjyra](images/blog/mangystau.jpg)
+Nous sommes partis tôt d'Aktau en 4×4, entre les immeubles et les puits de pétrole de la périphérie. Après la pluie, la steppe était étonnamment verte. Chameaux, dromadaires, chevaux et chèvres s'y promenaient librement.
 
-Bozjyra demande une longue route sur piste. C'est le jour le plus fort du Mangystau : plateau blanc, tours, cônes, falaises et grands espaces presque vides. Le paysage est spectaculaire, mais l'isolement fait partie de l'expérience.
+Premier arrêt à **Torysh**, la **vallée des Boules** : des rochers sphériques parsèment le sol, avec des fossiles marins à chercher. Après le déjeuner dans un restaurant de bord de route, nous avons continué vers **Kolkala**, la montagne Bleue, pour grimper parmi les couches de roche colorées et le quartz.
 
-Prévois une vraie marge. La météo peut changer vite, le vent complique les bivouacs, et les distances sont longues même avec un bon véhicule.
+Puis **Sherkala**, une grande montagne isolée, avec les vestiges d'un village médiéval à proximité. Nous avons terminé à **Airakty Shomanai**, en campant parmi les formations rocheuses qui ressemblent à des châteaux.
 
-## Jour 4 Canyon Tiramisu et Boktu
+## Jour 3 Plateau de Bozjyra {#jour-3}
 
-![Mangystau](images/blog/mangystau2.jpg)
+![Plateau de Bozjyra](images/blog/mangystau.jpg)
 
-Le **canyon Tiramisu** est une formation claire, striée de couches brunes, avec beaucoup de fossiles visibles. La chaleur peut rendre la marche courte mais pénible.
+Nous avons plié les tentes et traversé le **plateau d'Oust-Ourt**, en passant par des villages du désert et une ville pétrolière avant **Bozjyra**.
 
-Un détour par **Boktu** permet de voir un autre type de paysage désertique, avec mirages et reliefs isolés. Retour à Aktau en fin de journée.
+Le sol est blanc, avec d'immenses falaises, des tours étroites et des rochers pointus au-dessus de la plaine. Peu d'animaux, à part des marmottes et des traces de chèvres.
 
-## Jours 5-6 Astana
+C'était ma journée préférée du circuit : Bozjyra est vraiment grandiose.
+
+La pluie et le vent nous ont ensuite obligés à déplacer le camp vers un endroit plus abrité, au bord de la route.
+
+## Jour 4 Canyon Tiramisu et Boktu {#jour-4}
+
+![Canyon Tiramisu](images/blog/mangystau2.jpg)
+
+Au **canyon Tiramisu**, les strates blanches et brunes traversent les falaises. Là aussi, beaucoup de fossiles. Nous avons fait un détour par le **mont Boktu**, avec des mirages au-dessus du désert brûlant.
+
+Retour à **Aktau** en fin de journée.
+
+## Jour 5 Arrivée à Astana {#jour-5}
 
 ![Astana](images/blog/astana.jpg)
 
-Depuis Aktau, l'avion est le choix logique pour rejoindre **Astana**. Le train est possible sur certains axes, mais les distances au Kazakhstan rendent les trajets très longs.
+J'ai pris un vol tôt le matin pour **Astana**. Le train aurait été beaucoup trop long !
 
-Astana se visite pour son urbanisme moderne : **Baiterek**, la mosquée **Hazrat Sultan**, le **Palais de la paix et de la réconciliation**, **Khan Shatyr** et les grands axes monumentaux. Ce n'est pas une ville de vieille ville compacte. Les distances, le vent et la chaleur ou le froid changent beaucoup la visite.
+La ville est moderne, verte et bien conçue : un contraste saisissant avec Aktau.
 
-## Jour 7 Aqmola et Alzhir
+J'ai passé deux jours dans ses parcs, places et monuments. Depuis **Baiterek**, suivez le **boulevard Nurzhol** vers **Khan Shatyr**, l'immense centre commercial en forme de tente. Jardins, fontaines et bâtiments gouvernementaux bordent le boulevard.
 
-![Aqmola](images/blog/aqmola.jpg)
+## Jour 6 Astana {#jour-6}
 
-Depuis Astana, il est possible de rejoindre **Aqmola** pour visiter **Alzhir**, mémorial consacré au camp pour les épouses et enfants de prisonniers politiques sous Staline. Le site est sobre et laisse une impression plus forte par son isolement que par la quantité d'objets exposés.
+De l'autre côté de l'**Ichim**, visitez le **palais de la Paix et de la Réconciliation**, la pyramide de verre, et la **mosquée Hazrat Sultan**.
 
-Retour à Astana dans l'après-midi, puis train de nuit vers Almaty. Les trains kazakhs sont plutôt confortables, mais les trajets restent longs.
+J'ai également visité la **Grande Mosquée**, plus loin à la limite sud de la ville. C'est la plus grande d'Asie centrale, mais elle était étrangement vide de fidèles lors de ma visite.
 
-## Jour 8 Almaty
+Il y avait beaucoup de chantiers, notamment celui du métro aérien.
+
+Le **bus 12** figure parmi les lignes desservant la Grande Mosquée sur [Visit Astana](https://visitastana.kz/en/map/) ; il passe aussi dans le secteur de Baiterek.
+
+## Jour 7 Aqmola et Alzhir {#jour-7}
+
+![Mémorial d'Alzhir](images/blog/aqmola.jpg)
+
+J'ai trouvé le bus avec Yandex et rejoint Aqmola en une heure environ.
+
+**ALZHIR** était un camp pour les épouses d'hommes accusés de trahison envers l'État soviétique. Le musée et le mémorial racontent leur emprisonnement et la séparation des familles.
+
+Les expositions étaient moins fournies que je ne l'imaginais. À l'extérieur, le terrain du mémorial est vaste et presque vide.
+
+Retour à **Astana** pour le train de nuit vers **Almaty**. Ces trains sont confortables et le trajet passe vite, même s'il dure 17 heures.
+
+Billets sur le site des [chemins de fer du Kazakhstan](https://bilet.railways.kz/).
+
+## Jour 8 Almaty {#jour-8}
 
 ![Almaty](images/blog/almaty.jpg)
 
-**Almaty** est la ville la plus agréable du pays pour rester quelques jours. Passe par le **Green Bazaar**, le **parc Panfilov**, la cathédrale **Zenkov** et, si tu as le temps, **Kok Tobe** pour la vue.
+Arrivée à **Almaty**, une ville historique qui n'a pas vraiment conservé son histoire.
 
-La ville fonctionne aussi comme base pour les montagnes, Charyn, Kolsai et Kaindy. Elle est plus pratique qu'Astana pour les voyageurs indépendants.
+Passez au **Bazar vert** pour les produits locaux et les en-cas, puis marchez jusqu'au **parc Panfilov** et à la **cathédrale Zenkov**, l'église en bois colorée. Tout près, un autre ancien bâtiment en bois abrite le **musée des Instruments de musique populaires**.
 
-## Jour 9 Grand lac d'Almaty
+Avec du temps, prenez le **téléphérique de Kok Tobe** pour la vue sur la ville.
+
+Le Musée central d'État donne du contexte historique, mais je n'y suis pas allé : quelqu'un m'a dit qu'il ressemblait à celui d'Astana.
+
+La ville me rappelle Grenoble, le Chicago français, sans la délinquance. C'est un endroit très agréable pour séjourner et partir en randonnée.
+
+## Jour 9 Grand lac d'Almaty {#jour-9}
 
 ![Grand lac d'Almaty](images/blog/almaty2.jpg)
 
-Le **Grand lac d'Almaty** peut être frustrant. L'accès varie selon les restrictions militaires et environnementales, et l'expérience ne correspond pas toujours aux photos vues en ligne. La marche peut suivre des routes, conduites d'eau et sections raides.
+Je suis parti avec un ami vers le **Grand lac d'Almaty**, un peu tard à cause de retards.
 
-Je l'inclus parce qu'il faisait partie du voyage, mais ce n'est pas forcément le meilleur usage d'une journée. Ajouter du temps à Charyn, Kolsai ou Kaindy peut être plus logique.
+Nous avons suivi une route goudronnée puis les conduites d'eau, avec des cordes nécessaires sur une partie de la montée. L'accès était limité par les militaires et le lac presque vide à notre arrivée. Une vraie déception.
 
-## Jour 10 Charyn, Kolsai et Kaindy
+> Je le garde ici parce que c'est mon itinéraire, mais mieux vaut sauter cette étape et ajouter une journée à Charyn et Kolsai.
 
-Depuis Almaty, beaucoup d'agences proposent des excursions vers **Charyn Canyon**, **Kolsai** et **Kaindy**. Deux jours sont préférables à une journée. En une seule journée, tout est rapide et dépend beaucoup du rythme du groupe.
+Au coucher du soleil, le paysage était spectaculaire. Enfin un bon point !
 
-**Kolsai** est un lac de montagne entouré de forêt. **Kaindy** est connu pour ses troncs d'arbres noyés qui sortent de l'eau. **Charyn Canyon**, surtout la vallée des Châteaux, offre un paysage rouge et sec très différent des lacs.
+## Jour 10 Canyons et lacs {#jour-10}
 
-![Charyn](images/blog/almaty3.jpg)
+![Lacs et canyons près d'Almaty](images/blog/almaty3.jpg)
 
-## Jour 11 Shymbulak
+Réservez l'un des nombreux circuits d'Almaty vers **Kolsai**, **Kaindy** et le **canyon de Charyn**.
 
-**Shymbulak** est une station de ski, mais aussi un bon accès aux randonnées du Tian Shan. La montée au-dessus de 3000 mètres est rude : altitude, pierres instables, neige possible selon la saison.
+> Deux jours valent mieux qu'un. Je l'ai fait en une journée : tout était précipité et mon groupe était très lent.
 
-Le téléphérique aide pour gagner du temps ou redescendre, mais il peut être cher et fréquenté. Pars tôt si tu veux marcher sérieusement.
+Premier arrêt au **lac Kolsai**, entouré de pins. Au **lac Kaindy**, les troncs morts sortent verticalement de l'eau : un glissement de terrain a créé le lac et inondé la forêt.
 
-## Jour 12 Route vers Bichkek
+Au **canyon de Charyn**, les falaises rouges de la **vallée des Châteaux** forment des tours autour du fond du canyon. Ces trois sites demandent beaucoup de route depuis Almaty, d'où ma recommandation de leur donner deux jours.
 
-Depuis la gare routière centrale d'Almaty, des bus et minibus partent vers **Bichkek**. Le trajet est court sur la carte, mais la frontière peut ralentir l'ensemble. Compte une demi-journée plutôt qu'un simple transfert local.
+[Ce circuit de deux jours à Charyn, Kolsai et Kaindy (lien affilié)](https://www.getyourguide.com/en-gb/almaty-city-l1414/kolsai-kaindy-lakes-and-charyn-canyon-2-day-small-group-tour-t489855/?partner_id=H1N6CGH&utm_medium=online_publisher) laisse le temps qui manquait à mon excursion. Je n'ai pas utilisé cet opérateur.
 
-Si tu continues vers Karakol, il faudra repartir de Bichkek ou contourner le lac Issyk-Kul.
+## Jour 11 Station de Shymbulak {#jour-11}
+
+Une station de ski ? Oui, et un point de départ pour randonner !
+
+Prenez le [**bus 12 de Dostyk–Kurmangazy à Medeu**](https://shymbulak.com/en/info/map/), puis la télécabine jusqu'à **Shymbulak**.
+
+La randonnée comptait environ **1 000 m de dénivelé**, au-dessus de **3 000 m** dans le Tian Shan : prairies, rochers, neige et glaciers. Le sentier était rocailleux et glissant, et la descente encore pire. Des gens nous ont proposé de l'eau et de l'aide en chemin.
+
+Je recommande le téléphérique à la descente, mais attention à la foule et au prix, ridiculement élevé.
+
+## Jour 12 Vers Bichkek {#jour-12}
+
+Le bus d'Almaty à **Bichkek** part de la **gare routière Sayran**, au **294 rue Tole Bi**.
+
+Environ **cinq heures**, frontière comprise. Il y avait des départs tout au long de la journée ; la [billetterie de la gare](https://ma-sairan.kz/расписание-автобусов/маршрут/almaty-state-457) vend les places de cette ligne.
 
 ---
 
 # Kirghizistan
 
-## Jour 13 Bichkek
-
-**Bichkek** se visite rapidement : places centrales, musée historique, grande mosquée et quelques cafés. La ville est surtout utile pour organiser les étapes suivantes, acheter du matériel et rencontrer d'autres voyageurs.
-
-Les auberges y sont souvent plus intéressantes que la ville elle-même, surtout si tu cherches des partenaires pour Song-Kul, Ala-Archa ou le Pamir.
+## Jour 13 Bichkek {#jour-13}
 
 ![Bichkek](images/blog/bishkek.jpg)
 
-## Jour 14 Parc national d'Ala-Archa
+Bichkek est plate, étendue et assez peu inspirante. Une partie de son petit centre était encore en travaux.
 
-**Ala-Archa** est l'excursion montagne la plus simple depuis Bichkek. Les sentiers remontent une vallée alpine avec pins, torrents et sommets abrupts.
+Promenez-vous sur la **place Ala-Too** et visitez le **Musée national d'histoire**, consacré notamment à l'histoire soviétique et nomade. L'autre grande visite est la **Mosquée centrale**, de style ottoman.
 
-L'accès peut se faire en bus ou taxi selon la saison et le point de départ. Les auberges connaissent généralement les options du moment. Même pour une demi-journée, prends de bonnes chaussures : les pierres et passages humides glissent.
+J'ai dormi à **Apple Hostel Bishkek**. Beaucoup de voyageurs, randonneurs et routards à rencontrer ; j'ai passé la soirée à discuter et à échanger des conseils.
 
-## Jours 15-17 Song-Kul
+## Jour 14 Parc national d'Ala-Archa {#jour-14}
+
+Départ tôt pour le **parc national d'Ala-Archa**, au sud de Bichkek.
+
+La randonnée d'une demi-journée traverse des forêts de pins et des vallées encaissées, en suivant ruisseaux et petites cascades. Quelques passages rocheux et torrents à franchir.
+
+J'ai trouvé le bus sur Yandex. Le **bus 1** dessert le parc ; son itinéraire urbain passe désormais par les rues **Akhunbaev, Pudovkin, Tokombaev et Baytik Baatyr**. L'[avis de la municipalité](https://www.bishkek.gov.kg/ru/post/32036) donne les rues modifiées, mais ne confirme pas une desserte jusqu'aux départs de randonnée depuis l'entrée du parc.
+
+## Jour 15 Kyzart à Song-Kul {#jour-15}
 
 ![Song-Kul](images/blog/songkul1.jpg)
 
-**Song-Kul** combine cheval, yourtes et hauts plateaux. Le départ se fait souvent depuis **Kyzart**, après un long transfert depuis Bichkek. Les chevaux transportent les sacs et avancent à leur rythme à travers vallées, rivières et cols.
+Trois jours à **Song-Kul**, à cheval, en dormant dans des yourtes.
 
-Les nuits en yourte sont froides, même en été. La météo change vite, et l'écart entre vallée chaude et plateau frais peut être violent. Le dernier jour redescend vers les villages, puis beaucoup de voyageurs enchaînent vers Karakol avec un transfert partagé.
+Départ tôt de Bichkek, par les vallées et les cols jusqu'à **Kyzart**. Après le déjeuner, on nous a attribué les chevaux et nous avons attaché les sacs avant de partir.
 
-## Jour 18 Karakol
+Rivières, crêtes et fortes montées avant d'atteindre le plateau. La température est passée d'environ **30 °C à 10 °C** en montant.
+
+Nous avons dormi dans une yourte partagée.
+
+## Jour 16 Song-Kul {#jour-16}
+
+La chevauchée continuait sur le plateau, avec des montées plus raides près des crêtes et de grandes plaines pour galoper. Des troupeaux de chevaux et de bovins autour de nous, puis les rives du lac. Deuxième nuit en yourte.
+
+## Jour 17 Song-Kul à Karakol {#jour-17}
+
+Le dernier jour, nous sommes redescendus au village.
+
+C'était ma première randonnée de plusieurs jours à cheval : toute une expérience. Je déteste les chevaux, mais quelqu'un m'a convaincu d'y aller. J'ai donc passé trois jours sur une machine à pets qui faisait ce qu'elle voulait. **Génial** !
+
+Depuis **Kyzart**, j'ai partagé un taxi avec six autres voyageurs vers **Karakol**. Les travaux ont prolongé le trajet à environ **sept heures**, avec une arrivée tard le soir.
+
+J'avais réservé mon trek séparément. [Ce voyage de trois jours à Song-Kul avec nuit en yourte et balade à cheval (lien affilié)](https://www.getyourguide.com/bishkek-l1420/the-issyk-kul-lake-barskoon-waterfalls-canyons2-days-t519105/?partner_id=H1N6CGH&utm_medium=online_publisher) comprend une balade plus courte, pas les trois journées à cheval que j'ai faites.
+
+## Jour 18 Karakol {#jour-18}
 
 ![Karakol](images/blog/karakol.jpg)
 
-**Karakol** est la meilleure base de l'est kirghiz : lac Issyk-Kul, montagnes du Tian Shan, maisons russes, mosquée dungan, restaurants dungan et bazar vivant. Après Song-Kul, c'est une ville agréable pour se poser.
+**Karakol** se trouve entre le **lac Issyk-Kul** et le Tian Shan.
 
-Le trajet depuis Kyzart ou Song-Kul est long et dépend des taxis partagés. Prévois de la marge.
+Dans le centre : maisons en bois de style russe, **mosquée doungane** et **mosquée tatare**. Le bazar est fait de conteneurs et la ville compte des restaurants dounganes, d'influence chinoise.
 
-## Jour 19 Jeti-Oguz
+Pour moi, c'est la plus belle ville du Kirghizistan, probablement grâce à son héritage russe et doungane. J'ai particulièrement apprécié l'abondance de cuisine doungane.
 
-Le marché animalier du dimanche près de Karakol vaut le détour si tu es là le bon jour. Ensuite, **Jeti-Oguz** permet une sortie facile vers les falaises rouges et les vallées alpines.
+Les cafés accueillaient beaucoup de visiteurs russes et européens. Avec plus de temps, il y a aussi les plages d'Issyk-Kul à l'extérieur de la ville.
 
-Les minibus ne vont pas toujours jusqu'au resort, surtout hors saison. Il peut falloir terminer en taxi partagé ou rentrer en stop si le dernier bus est passé.
+## Jour 19 Jeti-Ögüz {#jour-19}
 
-![Jeti-Oguz](images/blog/karakol2.jpg)
+![Jeti-Ögüz](images/blog/karakol2.jpg)
 
-## Jour 20 Altyn Arashan
+Le dimanche, commencez au **marché aux animaux** de Karakol : on y vend vaches, chevaux et moutons. Si ce n'est pas dimanche, consacrez davantage de temps aux belles randonnées de Jeti-Ögüz.
 
-**Altyn Arashan** est une longue randonnée depuis la zone de Karakol. La piste suit une vallée alpine avec forêt, rivière, chevaux et camps de yourtes. Des véhicules tout-terrain montent aussi, mais les prix varient.
+J'ai pris un minibus vers **Jeti-Ögüz**, puis un taxi partagé pour la dernière partie, environ **1,50 €**.
 
-La vallée est plus développée que certaines photos le laissent croire. Pour trouver des zones plus calmes, il faut marcher plus loin.
+> Demandez Jeti Oguz Kurort, la station. Seuls quelques bus y vont, apparemment ni toute l'année ni tous les jours.
 
-## Jour 21 Route vers Och
+Les falaises rouges sont près de la station. De là, marchez dans la vallée alpine jusqu'au point de vue. Le sentier du belvédère m'a moins enthousiasmé, mais le paysage reste très beau.
 
-Le trajet vers **Och** est une vraie journée de transport, parfois plus. Les options peuvent impliquer minibus, taxis et bus de fret selon la période. Ce n'est pas une liaison confortable.
+Faute de minibus au bon moment, je suis rentré à **Karakol** en stop, vers **17 h**.
 
-Demande localement au marché ou à la gare routière plutôt que de supposer l'existence d'un bus de nuit régulier.
+## Jour 20 Altyn Arashan {#jour-20}
 
-## Jour 22 Och et départ Pamir
+Minibus matinal du **bazar de Karakol** vers **Ak-Suu**, puis marche vers **Altyn Arashan**.
 
-**Och** est surtout un point de départ vers la Pamir Highway ou le pic Lénine. La ville est plus ouzbèke dans l'ambiance, avec cafés, petits restaurants et un centre partiellement reconstruit.
+La première heure était boueuse et en travaux, avec de vieilles conduites d'eau le long du chemin. Plus haut, nous avons suivi la rivière entre les pins et les vallées de roche grise, parmi les chevaux au pâturage.
 
-La journée sert à confirmer le jeep tour, vérifier les permis et acheter des provisions.
+Environ **huit heures de randonnée**. Arrivée au camp de yourtes sous la pluie, avec bien plus d'aménagements que les photos en ligne ne le laissaient penser.
 
-![Pamir](images/blog/pamir1.jpg)
+Mais ça valait largement le coup ! Les photos du Kirghizistan montrent souvent cette vallée. Elle se remplit désormais de camps, de yourtes, de touristes et d'infrastructures, mais il reste de beaux coins, surtout en allant plus loin.
 
-## Jours 23-24 Pic Lénine et Tulpar-Kul
+Des jeeps russes montaient aussi les visiteurs, autour de **20 € par personne**.
 
-La route monte vers **Tulpar-Kul** et les vues sur le **pic Lénine**. L'altitude dépasse rapidement 3000 mètres. Les lacs, les montagnes rouges et vertes, les yourtes et les glaciers rendent la zone très forte visuellement.
+> Si vous n'avez pas envie de marcher, une voiture peut vous monter ou vous descendre. On nous demandait dans les 40 €.
 
-Prends le temps de t'acclimater. Le Pamir commence déjà ici.
+Au retour, nous avons raté le dernier minibus et fait une partie du chemin en stop.
+
+## Jour 21 Route vers Och {#jour-21}
+
+Depuis Karakol, **six heures de minibus jusqu'à Bichkek**, puis **douze heures de nuit dans un bus de marchandises vers Och**. Chaleur et coups de klaxon constants sur les routes de montagne.
+
+> Il n'y avait pas de vrai bus de nuit pour Och, en tout cas en 2025. Allez au marché et cherchez un bus de marchandises.
+
+Les gens en ligne parlent de la « section Kerben » du marché Dordoi. Je ne l'ai pas trouvée, mais je suis allé là où les bus étaient chargés et j'en ai trouvé un pour Och. On m'a laissé m'asseoir derrière les chauffeurs.
+
+Toute la nuit, assis avec une famille de quatre personnes sur une seule rangée. Aïe. Le trajet coûtait environ 20 €.
+
+## Jour 22 Och et départ pour le Pamir {#jour-22}
+
+![Départ vers le Pamir](images/blog/pamir1.jpg)
+
+**Och** m'a semblé plus ouzbèke que Bichkek ou Karakol, mais étonnamment moderne : bubble tea, glaces, pizzas et bars. Certains quartiers étaient en reconstruction.
+
+La montagne sacrée ne m'a pas impressionné. Je n'y consacrerais pas beaucoup de temps : c'est surtout un point de départ vers la route du Pamir ou le pic Lénine.
+
+J'ai rejoint un **circuit de sept jours en jeep d'Och à Douchanbé**, à travers le **Haut-Badakhchan**. Après les explications du départ, nous avons traversé les montagnes sèches entre les vallées de Ferghana et de l'Alaï.
+
+[Ce circuit de dix jours et neuf nuits sur la route du Pamir depuis Douchanbé (lien affilié)](https://www.getyourguide.com/dushanbe-l1451/pamir-highway-round-trip-tour-southern-northern-corridor-t626352/?partner_id=H1N6CGH&utm_medium=online_publisher) est une boucle par les corridors sud et nord. Il diffère de mon trajet à sens unique et je n'ai pas utilisé cette agence.
+
+## Jour 23 Tulpar-Kul {#jour-23}
+
+La route monte vers **3 500 m**, en passant villages et rivières sous les montagnes rouges. Nuit en yourte près de **Tulpar-Kul**, face au **pic Lénine** et à ses glaciers.
+
+## Jour 24 Pic Lénine {#jour-24}
+
+Avec mon groupe, nous avons passé une soirée et une matinée sur place, fait une petite randonnée et profité des montagnes rouges et vertes, ainsi que des lacs multicolores.
+
+Honnêtement, l'un des plus beaux endroits du Kirghizistan.
 
 ---
 
 # Tadjikistan
 
-![Pamir](images/blog/pamir2.jpg)
+## Jour 25 Lac Karakul {#jour-25}
 
-## Jour 25 Lac Karakul
+![Lac Karakul](images/blog/pamir2.jpg)
 
-Après la frontière, la route rejoint le **lac Karakul**, à environ 3600 mètres. Le lac est posé dans un désert d'altitude, avec très peu de végétation et des montagnes sèches autour.
+Après une matinée de route depuis le pic Lénine, nous avons franchi la frontière puis rejoint le **lac Karakul**, vers [**3 900 m**](https://mfa.tj/en/berlin/view/9082/karakul-lake).
 
-Le vent est fort, les nuits sont froides et les hébergements simples. C'est une belle entrée dans le Tadjikistan, mais le confort descend nettement.
+Presque aucune végétation : des montagnes nues autour du lac et quelques villages sur les rives. Soirée dans ce qui ressemblait au motel de *Shining*. Froid et confort rudimentaire, comme le paysage. Bienvenue au Tadjikistan.
 
-## Jour 26 Plateau de Murghab
+## Jour 26 Plateau de Murghab {#jour-26}
 
-Longue journée de route vers **Murghab**, avec villages abandonnés, pistes abîmées, camions et paysages vides. Murghab est une ville de conteneurs, pauvre mais stratégique pour le commerce avec la Chine.
+Une longue journée de route, environ **six heures et demie**, sur des pistes abîmées.
 
-Autour d'Alichur, les communautés kirghizes et pamiriennes se croisent. Yak, thé, lait fermenté et nuits très froides font partie du voyage.
+Des villages abandonnés, puis **Murghab**, une ville de conteneurs commerçant avec la Chine, avec un petit marché. Ensuite, la route s'est dégradée et les camions se sont multipliés.
 
-## Jour 27 Langar et vallée du Wakhan
+Arrêt près d'un étang transparent plein de poissons, puis **Alichur**, où vivent des communautés kirghizes et pamiriennes. Les habitants nous ont invités à jouer au football. Nous avons goûté une **glace au lait de yak**, puis un **steak de yak** au dîner. La nuit, le ciel était dégagé et rempli d'étoiles.
 
-![Wakhan](images/blog/pamir3.jpg)
+## Jour 27 Langar et Wakhan {#jour-27}
 
-La route vers **Langar** longe progressivement la frontière afghane. Une randonnée en altitude peut monter près de 4800 mètres selon l'itinéraire du groupe. Les vues sur le Panj et l'Afghanistan sont impressionnantes.
+![Vallée du Wakhan](images/blog/pamir3.jpg)
 
-Langar est plus vert et plus reposant que le plateau. C'est un bon endroit pour dormir dans une guesthouse simple avec un peu plus de confort.
+Départ d'**Alichur** pour **Langar**, près de la frontière afghane. En route, arrêt à un lac d'altitude et **trois heures de randonnée**, jusqu'à environ **4 800 m**, parmi marmottes et fleurs sauvages.
 
-## Jour 28 Forteresse de Yamchun
+La route descend ensuite dans la **vallée du Wakhan**. Vers **3 000 m**, les arbres et la verdure reviennent. De l'autre côté du **Panj**, on aperçoit les villages afghans.
 
-![Yamchun](images/blog/pamir4.jpg)
+La maison d'hôtes de Langar avait de l'eau chaude et de l'électricité, rares les nuits précédentes.
 
-La **forteresse de Yamchun** domine la vallée. Les ruines datent des anciennes routes commerciales et offrent une belle vue sur le Wakhan.
+## Jour 28 Yamchun {#jour-28}
 
-Les sources chaudes de **Bibi Fatima** sont une halte fréquente. Ensuite, la route continue vers **Khorog**, capitale du Gorno-Badakhshan. La ville est plus agréable pour se reposer que pour visiter.
+![Forteresse de Yamchun](images/blog/pamir4.jpg)
 
-## Jour 29 Kalaikhum
+Vers **Khorog**, arrêt à la **forteresse de Yamchun**, dont les ruines dominent le Wakhan et l'Afghanistan.
 
-La route vers **Kalaikhum** suit le Panj sur des sections belles mais lentes. Travaux, poussière et conduite fatigante font partie de la journée.
+Aux sources de **Bibi Fatima**, nous avons partagé les bassins chauds avec les habitants, tout nus, évidemment. Puis promenade au bord du Panj, face aux villages afghans, avant Khorog.
 
-Kalaikhum est surtout une étape. On y dort, on lave ses affaires, on regarde la rive afghane en face, puis on repart.
+L'ambiance y était mauvaise. Un membre d'un autre groupe a été agressé à coups de pierre et a fini à l'hôpital. Un type nommé Hugo suivait notre groupe partout et essayait constamment d'emmener les filles avec lui. Un comportement prédateur qui nous mettait mal à l'aise.
 
-## Jour 30 Douchanbé
+## Jour 29 Kalaikhum {#jour-29}
 
-![Douchanbé](images/blog/pamir5.jpg)
+Encore **six heures de route** le long du **Panj**, sur des tronçons en travaux. Arrêts dans de petits villages avant **Kalaikhum**, avec les villages et sentiers afghans visibles sur l'autre rive.
 
-La dernière partie de la Pamir Highway mène à **Douchanbé**. Après les pistes, les villes et l'internet stable semblent presque luxueux.
+Sur place, lessive et repos. À part se reposer et regarder l'Afghanistan de loin, pas grand-chose à faire. Un peu ennuyeux.
 
-La route peut inclure des arrêts au réservoir de Nurek ou à la forteresse de Hulbuk selon le chauffeur. Le vrai intérêt de cette étape est surtout d'arriver, se reposer et trier la suite.
+## Jour 30 Douchanbé {#jour-30}
 
-## Jours 31-32 Panjakent et les Sept Lacs
+![Vers Douchanbé](images/blog/pamir5.jpg)
+
+La dernière journée comprend un belvédère sur l'Afghanistan, la **forteresse de Hulbuk** et son petit musée, puis le **réservoir de Nurek**. Les chauffeurs ont continué à bon rythme : arrivée vers **16 h** à **Douchanbé**, avec enfin une connexion Internet.
+
+Au final, le meilleur du circuit était les gens avec qui j'ai voyagé. Les paysages m'ont souvent semblé répétitifs et l'ambiance étrange. L'agence m'a pris quelques dollars de trop, retiré deux jours et ne répondait pas aux questions. Comme la **boucle de Ha Giang au Vietnam**, je trouve l'expérience surmédiatisée et surestimée, pas incontournable.
+
+C'est peut-être mieux à moto, comme beaucoup le font ; cela participe sans doute à son attrait.
+
+## Jour 31 Panjakent {#jour-31}
 
 ![Panjakent](images/blog/penjakent.jpg)
 
-**Panjakent** est pratique avant de rejoindre l'Ouzbékistan. La ville permet de visiter un bazar, manger localement, voir les ruines de l'ancienne Panjakent et organiser une excursion vers les **Sept Lacs**.
+Depuis **Douchanbé**, comptez **quatre à cinq heures en voiture** jusqu'à **Panjakent**, près de l'Ouzbékistan.
 
-Si ton temps est court, cette étape peut sauter. Sinon elle coupe bien la route entre Douchanbé, Khujand et la frontière ouzbèke.
+Visitez le **bazar**, puis les ruines de l'**ancienne Panjakent** en fin d'après-midi. Au-dessus de la ville moderne, le site conserve les rues et murs en briques de terre de l'ancienne cité sogdienne.
 
-## Jours 33-34 Khujand
+## Jour 32 Sept Lacs {#jour-32}
+
+Journée pour les **Sept Lacs**, ou **Haft Kul**, dans la **vallée de Shing**. Un chauffeur réservé à Panjakent peut vous conduire le long des lacs inférieurs puis vous ramener. Les lacs s'étagent dans la vallée, entre villages et chemins vers les lacs supérieurs.
+
+C'est pratique avant de rejoindre l'Ouzbékistan. J'ai surtout suivi d'autres voyageurs ici, puis continué vers Khujand.
+
+> Si vous sautez cette étape, ajoutez une journée à Douchanbé et peut-être une autre dans la vallée de Ferghana.
+
+## Jour 33 Vers Khujand {#jour-33}
 
 ![Khujand](images/blog/khujand.jpg)
 
-**Khujand** est la deuxième ville du Tadjikistan et une bonne sortie du Pamir. Fort reconstruit, musée, parcs, marchés et restes historiques donnent plus de matière que dans beaucoup d'étapes tadjikes.
+Taxi partagé de **Panjakent à Khujand**, environ **quatre heures**.
 
-La ville marque aussi la transition vers l'Ouzbékistan : plus urbaine, plus chaude, plus facile à parcourir.
+Le centre comprend un fort reconstruit, des musées, un mausolée et des parcs le long du **Syr-Daria**. Fort et berges sont proches, les rues du marché un peu plus loin.
+
+## Jour 34 Khujand {#jour-34}
+
+La ville vaut le détour pour son grand musée, près du musée historique de Sugd que j'ai trouvé ennuyeux. Depuis l'entrée, allez à gauche jusqu'au petit portail qui mène à l'intérieur.
+
+Vous trouverez un village reconstitué, un bâtiment rappelant ceux d'Ouzbékistan avec des tableaux hilarants du grand dirigeant, et une colline dominant la ville.
 
 ---
 
 # Ouzbékistan
 
-## Jours 35-36 Tachkent
+## Jour 35 Arrivée à Tachkent {#jour-35}
 
 ![Tachkent](images/blog/tashkent.jpg)
 
-Le passage depuis Khujand vers l'Ouzbékistan peut être long côté tadjik puis plus fluide côté ouzbek. La dernière section vers **Tachkent** se fait souvent en taxi partagé ou marshrutka.
+Depuis **Khujand**, longues files au soleil côté tadjik et un seul bâtiment pour les passeports. Le côté ouzbek a été plus rapide, puis marchroutka bondée et détours en banlieue avant **Tachkent**.
 
-Tachkent est large, verte et plus calme qu'attendu. Passe par **Chorsu Bazaar**, le métro, les mosaïques soviétiques, **Amir Timur Square** et le complexe **Khast-Imam**. La ville est aussi utile pour retirer de l'argent, acheter des billets et reprendre le fil après le Pamir.
+Le passage est **Buston–Oybek**. Du côté ouzbek, il reste environ **95 km et deux heures en voiture** jusqu'à Tachkent, en plus du trajet depuis Khujand et des formalités.
 
-## Jours 37-38 Samarcande
+Commencez au **bazar Chorsu**, sous son immense coupole, entre épices, fruits et montagnes de melons. Traversez les rues du marché jusqu'à **Khast-Imam**, ses mosquées à coupoles bleues, ses cours et sa collection de corans.
+
+## Jour 36 Tachkent {#jour-36}
+
+Prenez le **métro** vers la **place Amir Timur** et les avenues centrales. Arrêtez-vous à **Kosmonavtlar** et **Alisher Navoi**, puis changez à **Pakhtakor** pour Amir Timur Xiyoboni. Ces stations décorées figurent parmi les curiosités du [métro de Tachkent](https://uzbekistan.travel/en/o/metro-in-tashkent/).
+
+En surface, mosaïques soviétiques et grands bâtiments de béton bordent les boulevards, entre parcs et fontaines.
+
+## Jour 37 Tachkent à Samarcande {#jour-37}
 
 ![Samarcande](images/blog/samarkand.jpg)
 
-**Samarcande** est l'étape la plus évidente d'Ouzbékistan : **Registan**, **Gur-e-Amir**, **Bibi Khanym**, **Shah-i-Zinda**, observatoire d'Ulugh Beg et ruines d'Afrosiyob.
+Le bus matinal m'a déposé à **Samarcande** en début d'après-midi. Départ de **Tashkent Avtovokzal**, près du **métro Olmazor**, avenue Bunyodkor : environ **quatre à cinq heures**.
 
-Le Registan fonctionne très bien en fin de journée. Garde aussi du temps pour marcher autour des marchés et des quartiers moins monumentaux.
+Commencez au **Gur-e Amir**, mausolée de Timour. Sa coupole bleue se voit de loin, mais l'intérieur doré fait tout l'intérêt de la visite. Rejoignez ensuite le **Registan** et ses trois médersas.
 
-## Jours 39-40 Boukhara
+Visitez **Ulug Beg**, **Sher-Dor** et **Tilya-Kori**, leurs cours et la mosquée dorée de Tilya-Kori. Revenez au coucher du soleil pour les façades éclairées.
 
-![Boukhara](images/blog/tashkent.jpg)
+Une rue piétonne continue vers la **mosquée Bibi Khanym**, en partie restaurée, avec ses immenses portails et coupoles, puis le **bazar Siab**, juste à côté.
 
-**Boukhara** est plus compacte que Samarcande. Le centre ancien se fait à pied : **Po-i Kalyan**, l'Ark, les madrassas, les caravanserails et **Lyabi Hauz**.
+## Jour 38 Samarcande {#jour-38}
 
-Le matin est mieux pour les visites, l'après-midi pour ralentir à l'ombre. La ville est touristique, mais elle reste simple à parcourir sans guide.
+Visitez l'**observatoire d'Ulug Beg** et le **musée d'Afrosiyob**, qui conserve les peintures murales de l'ancienne Samarcande. Le site archéologique autour correspond à la ville antérieure.
 
-## Jours 41-42 Khiva
+Terminez à **Shah-i-Zinda**, dont l'escalier passe entre les mausolées couverts de carreaux. Les façades sont assez proches pour observer leurs motifs et couleurs.
+
+Le train **Samarcande–Boukhara** prend **une heure et demie à trois heures**, selon le service. Billets sur [Uzbekistan Railways](https://eticket.railway.uz/en/). La gare de Boukhara est à **Kagan**, environ **15 km de la vieille ville** : prévoyez un transfert supplémentaire.
+
+## Jour 39 Vieille ville de Boukhara {#jour-39}
+
+![Boukhara](images/blog/bukhara.jpg)
+
+Ruelles étroites, murs couleur sable et cours entre mosquées et médersas.
+
+Commencez à **Poi-Kalyan** : le minaret de briques jouxte la **mosquée Kalyan**, face à la **médersa Mir-i-Arab**. Passez sous les coupoles marchandes et devant les ateliers de céramique et de bijoux vers **Lyabi-Hauz**, sa pièce d'eau, ses mûriers et ses terrasses où boire un thé.
+
+## Jour 40 Boukhara {#jour-40}
+
+Visitez la **forteresse Ark**, ancienne résidence des souverains, puis la **mosquée Bolo Hauz**, de l'autre côté de la place. Les colonnes de bois de son porche bordent un autre bassin.
+
+Continuez à l'ouest vers **Chashma Ayub** et le [**mausolée des Samanides**](https://uzbekistan.travel/en/o/10-amazing-facts-about-samanid-mausoleum/). Ici, des motifs de briques remplacent les carreaux bleus vus ailleurs.
+
+Le train pour **Khiva** part de Kagan : environ **3 h 20 à 5 h 40**, selon le service. Réservation auprès d'[Uzbekistan Railways](https://eticket.railway.uz/en/).
+
+## Jour 41 Vers Khiva {#jour-41}
 
 ![Khiva](images/blog/khiva.jpg)
 
-**Khiva** se concentre dans l'enceinte d'**Ichan Kala**. Minarets, palais, madrassas et maisons en pisé forment une vieille ville très compacte.
+Le train traverse la steppe jusqu'à **Khiva**. Dans les murs d'**Ichan Kala**, les rues passent entre maisons de terre, médersas et minarets carrelés.
 
-La lumière du soir est le meilleur moment pour les remparts et les toits. En journée, la chaleur peut rendre les ruelles pénibles.
+Commencez par **Kalta Minor**, le large minaret inachevé aux carreaux turquoise, puis **Kuhna Ark**, la résidence fortifiée des khans.
 
-## Jours 43-44 Nukus et Karakalpakstan
+## Jour 42 Khiva {#jour-42}
+
+Le lendemain, le **palais Tosh Hovli** offre des cours carrelées et des colonnes de bois sculpté. Dans la **mosquée Juma**, des rangées de piliers en bois soutiennent le toit ; le **minaret Islam Khodja** domine ce secteur.
+
+Le **festival du Melon** animait les rues avec musique et défilés, tandis que les habitants offraient des tranches aux visiteurs. Depuis les toits et les remparts, la vue porte sur les maisons et les minarets.
+
+## Jour 43 Nukus {#jour-43}
 
 ![Karakalpakstan](images/blog/karakalpakstan.jpg)
 
-**Nukus** sert de base pour le musée **Savitsky**, les sites du Karakalpakstan et l'ancienne mer d'Aral. Le musée est la vraie surprise de la ville.
+De **Khiva à Nukus**, comptez **trois à quatre heures de route**, environ **200 km**.
 
-Plus loin, **Moynaq** et le cimetière de bateaux montrent l'ampleur de la catastrophe de la mer d'Aral. La route est longue, le paysage devient presque lunaire, et il faut une excursion organisée ou un chauffeur pour éviter de perdre trop de temps.
+Le **musée Savitsky** expose de l'art d'avant-garde soviétique, dont des œuvres sauvées de la censure, ainsi que de l'art et des objets karakalpaks. À l'extérieur, visitez la **nécropole de Mizdakhan**, ses tombes et mausolées, puis les ruines voisines de **Gyaur-Kala**.
+
+## Jour 44 Muynak et mer d'Aral {#jour-44}
+
+**Muynak**, ancien port de pêche sur la **mer d'Aral**, se trouve à environ **trois heures de route dans chaque sens depuis Nukus**. Un chauffeur réservé à Nukus peut combiner le cimetière de bateaux et la nécropole au retour.
+
+Au **cimetière de bateaux**, les carcasses rouillées reposent dans le sable sous l'ancien rivage. Descendez de la falaise pour les voir. Le musée de la ville raconte la pêche et la disparition de la mer.
+
+Il n'y a plus d'eau près de Muynak. Le rivage actuel est plus loin et demande une excursion plus longue.
+
+Pour continuer au **Turkménistan**, je suis reparti de **Khiva**, comme dans mon [itinéraire au Turkménistan](/fr/blog/itinerary-turkmenistan/). Le retour Nukus–Khiva prend encore **trois à quatre heures**.
 
 ---
 
@@ -365,32 +534,151 @@ Plus loin, **Moynaq** et le cimetière de bateaux montrent l'ampleur de la catas
 
 #### [Conseils pour voyager au Turkménistan](/fr/blog/howto-turkmenistan/)
 
-## Jour 45 Kunya-Urgench et Darvaza
+#### L’agence
 
-Depuis Khiva, la route logique passe par la frontière de **Shavat**. Les procédures peuvent être lentes, et les frais varient selon le visa, l'agence et la nationalité. Emporte des dollars propres et confirme les montants avant d'arriver.
+Je recommande **Ruslan Hydyrov**, sur IndieGuide : fiable, rapide par courriel et très au fait des procédures. Ses coordonnées figurent ci-dessous.
 
-Après la frontière, l'agence récupère les voyageurs côté turkmène. **Kunya-Urgench** permet de voir des ruines et mausolées liés à l'ancienne Route de la soie. Ensuite, la route vers **Darvaza** peut demander un long détour selon l'état des pistes.
+## Jour 45 : Konye-Urgench {#jour-45}
 
-Le cratère se visite surtout de nuit, quand les flammes sont visibles.
+Première étape : entrer dans le pays.  
+Je venais d’Ouzbékistan. Avant, on pouvait traverser UZ → TM → IR,  
+aujourd’hui, seule la frontière **UZ → TM** est ouverte.
 
-![Darvaza](images/blog/turkmenistan3.jpg)
+J’ai pris un taxi partagé depuis **Khiva** jusqu’à la frontière de **Shavat** (environ 1 h).  
+Elle était bondée de Turkmènes rentrant chez eux les bras chargés : TV, PS4, friteuses, ordinateurs…
 
-## Jour 46 Darvaza et route vers Achgabat
+Après un passage interminable (il faut **payer un bus pour parcourir 200 m** de no man’s land !),  
+je suis arrivé au poste turkmène et j’ai retrouvé mon guide **Ruslan**.
 
-![Darvaza](images/blog/turkmenistan4.jpg)
+> (Il sait que je partage ses coordonnées ici — j’ai son autorisation, et je ne touche rien là-dessus.)
 
-Le matin, le cratère est moins impressionnant, mais il permet de comprendre le site. Selon le tour, la journée continue par d'autres cratères, des dunes et une longue route vers **Achgabat**.
+Coordonnées :  
+- Téléphone : +993 61 67 22 66  
+- Courriel : ruslanhydyrov@gmail.com  
 
-La capitale apparaît comme une ville de marbre blanc, de grands axes vides et de règles strictes. Beaucoup de visites se font en voiture parce que les distances sont grandes et les sites très espacés.
+Si vous le contactez, **dites-lui que vous venez de la part de Timothé Paris** — c'est moi. Il comprendra.  
 
-## Jour 47 Achgabat
 
-![Achgabat](images/blog/turkmenistan.jpg)
+Une centaine de dollars plus tard (visa + entrée + test COVID), me voilà officiellement en Turkménistan !
 
-**Achgabat** mérite plus qu'un simple passage si ton visa et ton tour le permettent. Mosquées, gare, monuments, centres commerciaux, ronds-points officiels et quartiers de marbre composent une ville très particulière.
+> Les tarifs varient selon la nationalité.  
+> Apporte beaucoup de **cash en USD neufs**, c’est obligatoire.
 
-Le départ se fait souvent par l'aéroport international, connu pour son bâtiment en forme d'oiseau. Vérifie les vols disponibles au moment de réserver : les liaisons changent plus que dans les pays voisins.
+Mon guide m’a accueilli, on a pris un chauffeur et filé vers **Konye-Urgench** pour voir les ruines.  
+Honnêtement, c’est plus dispersé et plus délabré que les sites d’Ouzbékistan,  
+mais les fans d’histoire apprécieront — surtout avec un guide, ce que je n’avais pas fait côté ouzbek.
+
+Ensuite, direction Darvaza ? Eh bien non.  
+Retour à **Dashoguz**, la route directe vers Darvaza n’étant pas terminée.  
+Après un détour interminable et une piste défoncée, j’ai enfin atteint **les Portes de l’Enfer**.
+
+On a visité le site de nuit pour profiter des flammes et du ciel étoilé.
+
+![Darvaza et moi](images/blog/turkmenistan3.jpg)
+
+Sympa, non ?
 
 ---
 
-Commentaires ?
+## Jour 46 : Darvaza {#jour-46}
+
+![Darvaza](images/blog/turkmenistan4.jpg)
+
+> Ce jour se mélange un peu avec le précédent, désolé 😅
+
+Après un barbecue et un peu d’observation d’animaux,  
+j’ai dormi dans une **yourte** près du cratère, jusqu’au lever du soleil.  
+De jour, le site est moins impressionnant — on sent qu’il s’éteint peu à peu.  
+Les Portes de l’Enfer finiront par n’être qu’un simple trou dans le désert.
+
+Nous avons ensuite repris la route, croisé d’autres cratères et dunes de sable,  
+direction **Achgabat**, la capitale.
+
+Une **ville de marbre blanc**, élégante, ordonnée, étincelante dans le désert.  
+Il ne manque qu’Aladdin et son tapis volant.
+
+J’ai adoré la visite — surtout en voiture, car tout est gigantesque.  
+La plupart des monuments se trouvent près des bâtiments gouvernementaux,  
+loin des quartiers animés. Ce n’est pas une ville fantôme,  
+mais une capitale très segmentée.
+
+La nuit, en revanche, la ville vit :  
+j’ai marché librement, parlé avec des soldats, serré des mains, salué tout le monde…  
+Juste profité de la ville, à ma manière.
+
+---
+
+## Jour 47 : Achgabat {#jour-47}
+
+![Achgabat de nuit](images/blog/turkmenistan.jpg)
+
+Selon ton circuit, tu auras peut-être plus de temps pour explorer la capitale.  
+Je te le conseille vivement.
+
+La **mosquée** est superbe, avec une acoustique incroyable.  
+La **gare** et ses alentours valent aussi la peine.  
+Les **ronds-points** sont un monde à part.  
+La **grande roue couverte** est complètement absurde.  
+Le **palais des mariages** pourrait bien te trouver une épouse 😆  
+Et les **centres commerciaux** sont parfaits pour acheter les fameux **abricots secs** (les meilleurs que j’aie goûtés).
+
+Avant de partir, admire l’**aéroport en forme d’oiseau**,  
+et profite des **vols à prix fixe** vers l’Europe et ailleurs.  
+J’ai pris un **Achgabat–Milan** (les vols vers Paris n’ont pas repris depuis le COVID).  
+Excellent rapport qualité-prix, sauf le **bus à 100 €** pour rentrer ensuite — quelle bande de fous.
+
+Turkménistan > Italie.
+
+## Plus de jours ? Prévu et réalisé
+
+### Kazakhstan
+
+#### Deux jours pour les canyons et les lacs
+
+J'ai fait **Charyn et les lacs Kolsai en un jour**. Tout était précipité et mon groupe très lent. Si c'était à refaire : un jour pour Charyn, puis un autre pour Kolsai et Kaindy.
+
+#### Burabay depuis Astana
+
+**Burabay** permet une journée supplémentaire entre lacs, forêt et formations rocheuses ; [Visit Astana propose une excursion à la journée avec transport aller-retour](https://visitastana.kz/en/weekend-tours/one-day-tour-to-burabay/). Je n'y suis pas allé. Dormir sur place permettrait de profiter davantage des lacs.
+
+#### Turkestan, surtout si vous ne passez pas par l'Ouzbékistan
+
+**Turkestan** était l'autre ajout envisagé. Je l'ai écarté parce que je continuais en Ouzbékistan : d'après mes recherches, son architecture de la route de la soie ressemblait trop à ce qui m'attendait ensuite pour justifier le détour. Si le Kazakhstan est votre seule destination en Asie centrale, ou si vous ne passez pas par l'Ouzbékistan, Turkestan devient bien plus intéressant.
+
+### Kirghizistan
+
+#### Ce que j'avais prévu autour de Bichkek
+
+Mon programme initial comprenait la **tour Burana** et le **parc national d'Ala-Archa**. Puis je suis parti à cheval avec mon ami Sofianos. J'ai tout de même vu Ala-Archa, mais pas Burana.
+
+**Burana** demande une sortie distincte à l'est de Bichkek. Prenez une marchroutka pour **Tokmok**, puis organisez le transfert aller-retour jusqu'à la tour. Le [service du tourisme de Bichkek](https://tourism.meria.kg/activeHoliday/1) décrit ce trajet sans mentionner de bus direct. Un chauffeur organisé par votre hébergement peut assurer Tokmok–Burana et attendre pendant la visite.
+
+#### Naryn
+
+La région de **Naryn** offre des paysages montagneux et des routes vers **Tash Rabat**. Je n'y suis pas allé et ne peux donc pas en parler de première main.
+
+#### Faut-il aller à Och ?
+
+Och m'a été utile comme point de départ pour le Pamir. Sinon, je la sauterais : continuez vers l'Ouzbékistan, revenez au Kazakhstan ou consacrez ces longues heures de transport à d'autres endroits du Kirghizistan. La ville ne justifiait pas ma nuit dans le bus de marchandises.
+
+On combine souvent le Kirghizistan et le Kazakhstan via Almaty. [Des travaux élargissent les portions chargées de la route Almaty–Bichkek](https://www.gov.kz/memleket/entities/transport/press/news/details/1260899?lang=ru).
+
+On entend parler d'une future liaison de deux heures : je connais le coin, ça prendra du temps. Beaucoup de temps. Mais la route est bien prévue.
+
+### Tadjikistan
+
+#### Une journée de plus à Douchanbé
+
+Je regrette de ne pas avoir consacré une journée entière à **Douchanbé** : arrivé à 16 h, je n'ai eu qu'une soirée. J'ajouterais un jour pour les parcs et les grands bâtiments de la capitale.
+
+#### Panjakent, Sept Lacs et Khujand
+
+Depuis **Panjakent** et les **Sept Lacs**, on peut rejoindre directement **Samarcande** en Ouzbékistan. Je suis parti dans l'autre sens pour retrouver mes amis à **Khujand**, d'où cet itinéraire moins logique. Le détour n'était pas si long et le trajet depuis Panjakent a été assez facile.
+
+### Ouzbékistan
+
+#### Chimgan, Charvak et Ugam-Chatkal
+
+Près de Tachkent, ajoutez **Chimgan**, le **réservoir de Charvak** et le [**parc national d'Ugam-Chatkal**](https://gov.uz/en/eco/news/view/22767). Je n'y suis pas allé.
+
+Une journée permet Chimgan et Charvak. Avec deux jours, dormez sur place et ajoutez une randonnée dans Ugam-Chatkal.

@@ -50,7 +50,7 @@ Fès est aussi pratique pour acheter des pâtisseries avant une journée de trai
 
 Sur la côte Atlantique, le poisson, les grillades simples et les produits à base d'argan sont les plus logiques. Dans le **Souss-Massa, autour d'Agadir et Taroudant**, cherche **l'amlou** : amandes grillées, huile d'argan alimentaire et miel, à manger avec du pain ou du msemen.
 
-| Produit | A vérifier |
+| Produit | À vérifier |
 | --- | --- |
 | Amlou | Huile d'argan alimentaire, amandes et miel |
 | Huile d'argan | Huile culinaire, pas cosmétique |
@@ -59,7 +59,7 @@ Sur la côte Atlantique, le poisson, les grillades simples et les produits à ba
 
 Achète d'abord un petit pot d'amlou. Si tu prends l'avion avec, emballe-le droit et bien fermé.
 
-A Essaouira, garde les repas simples : poisson grillé, pain, salade et thé. A Taghazout, la nourriture est plus orientée surf-town, donc alterne les petits déjeuners locaux, le poisson et les restaurants marocains simples plutôt que de dépendre uniquement des cafés.
+À Essaouira, garde les repas simples : poisson grillé, pain, salade et thé. À Taghazout, la nourriture est plus orientée surf-town, donc alterne les petits déjeuners locaux, le poisson et les restaurants marocains simples plutôt que de dépendre uniquement des cafés.
 
 ## Meknès, olives et cuisine de marché intérieure
 
@@ -113,7 +113,7 @@ Si tu pars en excursion dans le désert, prends des snacks. Les repas de tour pe
 
 Manger végétarien est possible, mais un tajine de légumes peut contenir un bouillon de viande ou une matière grasse animale. Les petits déjeuners, pains, soupes, salades, olives et pâtisseries sont les options les plus simples ; confirme la composition au moment de commander.
 
-Sans gluten, c'est plus compliqué : pain, msemen, couscous et pâtisseries sont partout. Riz, poisson grillé, viande grillée, oeufs et certains tajines sont plus faciles à gérer, mais les contaminations croisées sont courantes dans les petites cuisines.
+Sans gluten, c'est plus compliqué : pain, msemen, couscous et pâtisseries sont partout. Riz, poisson grillé, viande grillée, œufs et certains tajines sont plus faciles à gérer, mais les contaminations croisées sont courantes dans les petites cuisines.
 
 ## Quoi rapporter
 
@@ -125,8 +125,32 @@ Sans gluten, c'est plus compliqué : pain, msemen, couscous et pâtisseries sont
 | Sellou | Fès | Vendu au poids ou en boîte |
 | Dattes | Sud marocain | Garder au sec et fermé |
 
+## Tajine
+
+Le **tajine** désigne à la fois le récipient de terre peu profond au couvercle conique et ce qu'on y cuisine. On en trouve partout au Maroc : viande, poisson ou légumes, avec des recettes variant selon les régions et les familles.
+
+## Pains du petit-déjeuner
+
+Le **msemen** est plié, feuilleté et cuit sur une plaque. Le **baghrir**, crêpe de semoule moelleuse pleine de petits trous, se sert souvent avec miel et beurre. La **harcha**, également à la semoule, est friable, granuleuse et bien plus sèche.
+
+## Amlou et huile d'argan
+
+L'**amlou** associe amandes grillées moulues, miel et huile d'argan alimentaire. Plus liquide que le beurre de cacahuète, il fuit si le pot est mal fermé : prends-en un petit, conserve l'opercule et transporte-le droit.
+
+Il est particulièrement associé au **Souss-Massa, autour d'Agadir et de Taroudant**. Sur la côte, un poisson grillé simple vaut souvent mieux qu'un menu touristique compliqué : poisson, pain, salade et thé à Essaouira ; cafés de surfeurs, petits-déjeuners et restaurants locaux à Taghazout.
+
+On trouve aussi de l'amlou aux graines de courge : j'en achète dans une boutique marocaine à Rennes. Mon colocataire m'a expliqué que c'était peu courant, plutôt une nouveauté pour les jeunes.
+
+L'huile d'argan **alimentaire** a un goût grillé de noix. L'huile cosmétique est destinée à la peau et aux cheveux : vérifie l'étiquette avant d'en acheter pour la cuisine.
+
 ## Sources consultées
 
 - [Office National Marocain du Tourisme - spécialités typiques du Maroc](https://visitmorocco.com/fr/informations-pratiques/d%C3%A9guster) : tanjia, rfissa, pastilla, ghriba, pâtisseries, boissons et plats principaux.
 - [Office National Marocain du Tourisme - gastronomie](https://www.visitmorocco.com/fr/decouvrir-le-maroc/gastronomie) : contexte régional, épices, plats et pâtisseries.
 - [Office National Marocain du Tourisme - shopping à Agadir-Taghazout](https://www.visitmorocco.com/fr/voyage/agadir-taghazout/shopping) : produits à base d'argan et contexte régional.
+
+### Autres sources
+
+- [Moroccan National Tourist Office - Food & Drinks](https://www.visitmorocco.com/en/travel-info/food-drinks)
+- [Moroccan National Tourist Office - Gastronomy](https://www.visitmorocco.com/en/discover-morocco/gastronomy)
+- [Moroccan National Tourist Office - Agadir-Taghazout shopping](https://www.visitmorocco.com/en/travel/agadir-taghazout/shopping)

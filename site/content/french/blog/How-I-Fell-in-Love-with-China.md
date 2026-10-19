@@ -1,5 +1,5 @@
 ---
-date: "2026-08-18"
+date: "2026-08-30"
 title: "Comment je suis tombé amoureux de la Chine"
 description: "Un avis totalement biaisé sur la première économie mondiale"
 image: "images/blog/yunnan3.jpg"
@@ -97,7 +97,7 @@ J'ai aussi découvert le fast-food. C'est gras également, mais c'est une expér
 
 Puis il y a les restaurants plus agréables, avec un vrai service. Ils peuvent souvent coûter jusqu'à 10 € pour un repas, mais on y trouve des plats plus raffinés que l'on ne trouve pas partout.
 
-Et enfin : les petits bouis-bouis.
+Et enfin : les petits boui-boui.
 Meilleurs que ce que j'appelle les restaurants de bord de route (un entre-deux souvent situé près des routes commerçantes ou des endroits fréquentés par les travailleurs).
 Ce sont de tout petits endroits, souvent au rez-de-chaussée de la maison où vivent leurs propriétaires.
 Parfois, ils n'ont même pas de menu, ou alors il est très court.

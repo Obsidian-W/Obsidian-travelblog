@@ -21,14 +21,14 @@ J'ai traversé la Géorgie en 2019, entre l'Azerbaïdjan et l'Arménie. Voici le
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Sighnaghi](#jour-1--sighnaghi) | Passage depuis l'Azerbaïdjan |
-| Jour 2 | [Tbilissi](#jour-2--vieille-ville-de-tbilissi) | Vieille ville |
-| Jour 3 | [Tbilissi](#jour-3--encore-tbilissi) | Ville moderne et rive gauche |
-| Jour 4 | [Gori](#jour-4--gori-et-uplistsikhe) | Gori et Uplistsikhe |
-| Jour 5 | [Kazbegi](#jour-5--kazbegi) | Route militaire géorgienne |
-| Jour 6 | [Mtskheta](#jour-6--mtskheta) | Ancienne capitale |
+| Jour 1 | [Sighnaghi](#jour-1) | Passage depuis l'Azerbaïdjan |
+| Jour 2 | [Tbilissi](#jour-2) | Vieille ville |
+| Jour 3 | [Tbilissi](#jour-3) | Ville moderne et rive gauche |
+| Jour 4 | [Gori](#jour-4) | Gori et Uplistsikhe |
+| Jour 5 | [Kazbegi](#jour-5) | Route militaire géorgienne |
+| Jour 6 | [Mtskheta](#jour-6) | Ancienne capitale |
 
-## Jour 1 : Sighnaghi
+## Jour 1 : Sighnaghi {#jour-1}
 
 ![Sighnaghi](images/blog/georgia1.jpg)
 
@@ -45,7 +45,7 @@ Le bus ou la marchroutka vers Tbilissi prend environ deux heures et demie. J'ai 
 
 ---
 
-## Jour 2 : Vieille ville de Tbilissi
+## Jour 2 : Vieille ville de Tbilissi {#jour-2}
 
 ![Tbilissi vue d'en haut](images/blog/georgia2.jpg)
 
@@ -62,7 +62,7 @@ Depuis le parc, on voit le palais présidentiel, le palais de la reine Darejan e
 
 ---
 
-## Jour 3 : Encore Tbilissi
+## Jour 3 : Encore Tbilissi {#jour-3}
 
 Consacrez la deuxième journée aux quartiers situés au-delà de la vieille ville. Marchez le long de l'**avenue Roustavéli**, en vous arrêtant devant le Parlement et éventuellement au Musée national. Marquez absolument l'**Opéra** sur votre carte : il est vraiment beau.
 
@@ -74,7 +74,7 @@ Avec plus de temps, prenez la ligne 1 du métro jusqu'à **Ghrmaghele**, sortez 
 
 ---
 
-## Jour 4 : Gori et Uplistsikhe
+## Jour 4 : Gori et Uplistsikhe {#jour-4}
 
 ![Uplistsikhe](images/blog/georgia3.jpg)
 
@@ -91,7 +91,7 @@ Uplistsikhe a été le meilleur moment de la journée : c'était amusant à parc
 
 ---
 
-## Jour 5 : Kazbegi
+## Jour 5 : Kazbegi {#jour-5}
 
 ![Ananuri sur la route militaire géorgienne](images/blog/georgia4.jpg)
 
@@ -107,7 +107,7 @@ Ananuri avec le lac derrière était absolument superbe, et la route elle-même 
 
 ---
 
-## Jour 6 : Mtskheta
+## Jour 6 : Mtskheta {#jour-6}
 
 Visitez l'ancienne capitale de Géorgie, la **cathédrale de Svetitskhoveli** et le confluent des deux rivières, mon point fort personnel.
 

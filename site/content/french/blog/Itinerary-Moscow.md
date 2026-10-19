@@ -19,11 +19,11 @@ Cette information de visa correspond à mon voyage de 2020, pas à un guide de d
 
 | Jour | Destination | Notes |
 |:---:|:---|:---|
-| Jour 1 | [Place Rouge](#jour-1-place-rouge) | Kremlin, GUM et place Rouge de nuit |
-| Jour 2 | [Centre de Moscou](#jour-2-centre-de-moscou) | Stations de métro, Sept Sœurs et berges |
-| Jour 3 | [Kolomenskoïe](#jour-3-kolomenskoie) | Palais en bois, domaine et parc en hiver |
+| Jour 1 | [Place Rouge](#jour-1) | Kremlin, GUM et place Rouge de nuit |
+| Jour 2 | [Centre de Moscou](#jour-2) | Stations de métro, Sept Sœurs et berges |
+| Jour 3 | [Kolomenskoïe](#jour-3) | Palais en bois, domaine et parc en hiver |
 
-## Jour 1 Place Rouge
+## Jour 1 Place Rouge {#jour-1}
 
 ![Musée historique d’État à côté de la place Rouge](images/blog/moscow2.jpg)
 
@@ -33,7 +33,7 @@ L’entrée des musées du Kremlin se fait par le **jardin Alexandre**, de l’a
 
 Entrez dans **GUM**, même sans vouloir acheter quoi que ce soit. Les galeries font partie de la visite, et les kiosques à glace restent parmi les options les moins chères du bâtiment. Revenez sur la place Rouge après la tombée de la nuit pour revoir GUM et Saint-Basile illuminés.
 
-## Jour 2 Centre de Moscou
+## Jour 2 Centre de Moscou {#jour-2}
 
 ![Lumières d’hiver à Moscou](images/blog/moscow3.jpg)
 
@@ -43,7 +43,7 @@ Plusieurs des **Sept Sœurs** sont proches de ce parcours : l’hôtel Leningrad
 
 Marchez dans Old Arbat, puis continuez vers la **cathédrale du Christ-Sauveur** et les quais. Pour manger pas cher, j’ai utilisé les étages restauration des centres commerciaux et les kebabs d’Asie centrale qu’on trouve un peu partout en ville ; les deux coûtaient bien moins cher que les restaurants autour de la place Rouge.
 
-## Jour 3 Kolomenskoïe
+## Jour 3 Kolomenskoïe {#jour-3}
 
 ![Kolomenskoïe en hiver](images/blog/moscow1.jpg)
 

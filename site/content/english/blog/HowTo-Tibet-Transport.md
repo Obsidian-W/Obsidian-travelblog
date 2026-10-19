@@ -19,9 +19,9 @@ Operational transport and permit-related details were checked in August 2026 whe
 
 ## Note: Chinese vs Indians vs the rest
 
-Travel is much easier if you're a chinse national, you will have no restrictions.
+Travel is much easier if you're a Chinese national, you will have no restrictions.
 
-Indian nationals have access to some places other don't, there is a holy mountain popular for pilgramage. For the rest, good luck. Indians always get the short end of the stick. Stay strong my brothers.
+Indian nationals have access to some places other don't, there is a holy mountain popular for pilgrimage. For the rest, good luck. Indians always get the short end of the stick. Stay strong my brothers.
 
 ## Permits and organised travel
 
@@ -48,7 +48,7 @@ If you prefer GetYourGuide, [this eight-day Lhasa-to-Everest Base Camp tour is t
 **Booking method:** trip.com, plus permit handling through your agency.  
 **Important notes:** You still need the Tibet permit to board. Do not book assuming a train ticket alone is enough (Apparently, you can get in trouble for that)
 
-The train is usually chosen for the experience and gradual climb, not because it is the fastest. **Xining** is the most common practical gateway for the Qinghai-Tibet railway, while Chengdu, Beijing, Shanghai and Guangzhou services are much longer. (Because they are far away. Even Chengdu, seems close? Look again. And gosh, from Beijing, it's a whole oddysey.)
+The train is usually chosen for the experience and gradual climb, not because it is the fastest. **Xining** is the most common practical gateway for the Qinghai-Tibet railway, while Chengdu, Beijing, Shanghai and Guangzhou services are much longer. (Because they are far away. Even Chengdu, seems close? Look again. And gosh, from Beijing, it's a whole odyssey.)
 
 **Route:** Mainland China to Lhasa by air  
 **Best option:** Flight if time is limited.  

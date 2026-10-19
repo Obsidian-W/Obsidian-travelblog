@@ -326,6 +326,6 @@ Exactly two weeks, yay!
 - **Transport**: ONCF is just like the SNCF or the german trains, they don't know what on-time mean. Otherwise buses are good enough. 
 - **Booking**: Easy on most apps/websites, lot of choice, even trains can easily be booked the same day
 - **Budget**: around 30–40 € per day once you're there. Biggest cost are activities
-- **SIM card**: Easy to find, most european carriers will also work with some data in Morocco (check if it applies to you).
+- **SIM card**: Easy to find, most European carriers will also work with some data in Morocco (check if it applies to you).
 - **Best season**: Shoulder seasons, late april heat is already coming in.  
 - **ATMs**: Scams everywhere. They will steal your money, give you high rates, abusive fees and no one will help you.

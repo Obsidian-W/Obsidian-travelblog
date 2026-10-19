@@ -16,7 +16,7 @@ draft: false
 > **Une étape d'un voyage plus long :** voici la partie Yunnan de mon grand voyage du sud-ouest de la Chine vers le nord de l'Inde. Le récit complet est encore en cours de rédaction ; cette page reste donc un itinéraire autonome. Mon [itinéraire au Tibet](/fr/blog/itinerary-tibet/) couvre la grande étape suivante.
 
 Note : cet article sur la logistique peut aussi être une bonne lecture complémentaire.  
-#### [Conseils pour voyager en Chine](/blog/tips-china)
+#### [Conseils pour voyager en Chine](/fr/blog/tips-china)
 
 > Important : cet itinéraire dure 7/8 jours et se termine à Diqing / Shangri-La.  
 > Je conseille plutôt de passer **10 jours ou plus** dans le Yunnan. Ne le faites pas au pas de course comme moi.
@@ -28,28 +28,31 @@ Note : cet article sur la logistique peut aussi être une bonne lecture complém
 
 \_\_\_\_
 
+{{< worth-o-meter score="10" >}}
+Le Yunnan est un incontournable en Chine ! Entre traditions et nature, c'est la Chine dont j'ai toujours rêvé. Authentique, pas trop touristique, hors des sentiers battus et assez variée pour ne jamais s'ennuyer.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## Yunnan
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Kunming](#jour-1--kunming) | Départ en douceur |
-| Jour 2 | [Forêt de Pierre](#jour-2--la-forêt-de-pierre-shilin) | Excursion à Shilin |
-| Jour 3 | [Dali](#jour-3--dali) | Première vieille ville |
-| Jour 4 | [Lac Erhai et Xizhou](#jour-4--le-lac-erhai--xizhou) | Villages et lac |
-| Jour 5 | [Lijiang](#jour-5--lijiang) | Vieille ville et ambiance |
-| Jour 6 | [Montagne du Dragon de Jade](#jour-6--montagne-du-dragon-de-jade-lijiang) | Journée altitude |
-| Jour 7 | [Gorge du Saut du Tigre](#jour-7--la-gorge-du-saut-du-tigre) | Plus belle journée nature |
-| Jour 8 | [Shangri-La](#jour-8--shangri-la) | Fin plus tibétaine |
+| Jour 1 | [Kunming](#jour-1) | Départ en douceur |
+| Jour 2 | [Forêt de Pierre](#jour-2) | Excursion à Shilin |
+| Jour 3 | [Dali](#jour-3) | Première vieille ville |
+| Jour 4 | [Lac Erhai et Xizhou](#jour-4) | Villages et lac |
+| Jour 5 | [Lijiang](#jour-5) | Vieille ville et ambiance |
+| Jour 6 | [Montagne du Dragon de Jade](#jour-6) | Journée altitude |
+| Jour 7 | [Gorge du Saut du Tigre](#jour-7) | Plus belle journée nature |
+| Jour 8 | [Shangri-La](#jour-8) | Fin plus tibétaine |
 
 ---
 
-## Jour 1 : Kunming
+## Jour 1 : Kunming {#jour-1}
 
 ![Kunming](images/blog/yunnan2.jpg)
-^*Yuan Tong*
-
+*Yuan Tong*
 Je suis parti de **Paris (CDG)** pour arriver à **Kunming** (le lendemain, évidemment).  
 
 Les vols vers l’Asie sont souvent moins chers via **Istanbul**, **Doha** ou **Bangkok**.  
@@ -67,7 +70,7 @@ Avec un jour de plus, j’aurais aussi visité **Longmen**, le **lac Dian** et l
 
 ---
 
-## Jour 2 : La Forêt de Pierre (Shilin)
+## Jour 2 : La Forêt de Pierre (Shilin) {#jour-2}
 
 ![Shilin](images/blog/yunnan1.jpg)
 
@@ -91,7 +94,7 @@ Le soir, je suis allé dans un des vieux quartiers de Kunming pour manger et me 
 
 ---
 
-## Jour 3 : Dali
+## Jour 3 : Dali {#jour-3}
 
 ![Dali](images/blog/yunnan3.jpg)
 
@@ -114,7 +117,7 @@ Un peu pressé, mais satisfait.
 
 ---
 
-## Jour 4 : Le lac Erhai & Xizhou
+## Jour 4 : Le lac Erhai & Xizhou {#jour-4}
 
 Autour du lac (vers **Caicun Wharf**), on trouve plein de vélos à louer.  
 J’en ai pris un (un vieux tas de ferraille ^^’) et j’ai fait la boucle jusqu’au **village de Xizhou**.  
@@ -126,8 +129,7 @@ Mais on s’arrête souvent : architecture, champs, fleurs, mariages... tout att
 > Attention au soleil : à cette altitude, on brûle vite, même sous les nuages.
 
 ![Xizhou](images/blog/yunnan0.jpg)
-^*Une jolie maison du coin*
-
+*Une jolie maison du coin*
 Arrivé à **Xizhou** vers midi, j’ai mangé de la street food dans la vieille ville.  
 J’avais laissé le vélo à l’entrée du village (aucun autre choix possible).  
 
@@ -141,7 +143,7 @@ Plein de restos et de bars sympas.
 
 ---
 
-## Jour 5 : Lijiang
+## Jour 5 : Lijiang {#jour-5}
 
 Bus depuis la vieille ville de Dali vers **Lijiang** (départ 8h30, arrivée 11h30).  
 Il y en a plusieurs par jour.  
@@ -163,11 +165,10 @@ Les transports sont un peu confus pour les étrangers, mais les gens aident volo
 J’ai dormi sur les hauteurs, avec une belle vue sur la vieille ville.  
 
 ![Lijiang](images/blog/yunnan6.jpg)
-^*Lijiang la nuit*
-
+*Lijiang la nuit*
 ---
 
-## Jour 6 : Montagne du Dragon de Jade (Lijiang)
+## Jour 6 : Montagne du Dragon de Jade (Lijiang) {#jour-6}
 
 Excursion à la journée vers la **Montagne du Dragon de Jade** et la **Vallée de la Lune Bleue**.  
 L’altitude monte jusqu’à **4 500 m**, prévois des vêtements chauds, même en été.  
@@ -185,11 +186,10 @@ Si vous parlez un peu chinois, le **théâtre Impression Lijiang** vaut le déto
 Je l’ai vu de loin, sans comprendre un mot.  
 
 ![Montagne du Dragon de Jade](images/blog/yunnan7.jpg)
-^*On dirait Pamukkale, non ?*
-
+*On dirait Pamukkale, non ?*
 ---
 
-## Jour 7 : La Gorge du Saut du Tigre
+## Jour 7 : La Gorge du Saut du Tigre {#jour-7}
 
 Je n’ai pas pu la faire faute de temps (mon visa n’était que de 15 jours, je partais ensuite au Tibet).  
 Je ne l’ai donc vue que de loin. Très loin.  
@@ -199,7 +199,7 @@ Des bus relient **Lijiang**, la gorge et **Shangri-La**, mais la logistique peut
 
 ---
 
-## Jour 8 : Shangri-La
+## Jour 8 : Shangri-La {#jour-8}
 
 ![Shangri-la](images/blog/yunnan8.jpg)
 

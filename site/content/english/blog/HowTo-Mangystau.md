@@ -83,7 +83,7 @@ For three full days, the price made sense, especially since there isn't that muc
 ## Weather
 
 I went in July and had more than 40° (105° for you, yankees), mostly dry.
-Compared to the humid french summers of late, it's far easier to manage, but the sun is a bitch. The like of shade makes it insidious, heat strokes are common.
+Compared to the humid French summers of late, it's far easier to manage, but the sun is a bitch. The like of shade makes it insidious, heat strokes are common.
 Bring sunglasses, a hat/cap/umbrella, water.
 
 Aktau is colder but more humid, since it's close to the sea.

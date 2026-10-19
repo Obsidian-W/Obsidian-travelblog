@@ -61,7 +61,7 @@ Punta Arenas feels like the end of the world. It's windy, colourful, isolated an
 
 I walked all over the city: **Plaza Muñoz Gamero**, the port, the waterfront sculptures and **Cerro de la Cruz** for the view over the rooftops and the strait. The city isn't packed with must-sees, but the atmosphere does most of the work. Ships in the distance, empty streets, harsh light... Otherworldly is the word.
 
-The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherwordly in such an eerie way...
+The city isn't packed with must-sees, but the atmosphere does most of the work. It's really otherworldly in such an eerie way...
 My favourite part was the signpost place, where you had signs to all major destinations and distance, that's when you understand that you're in bumfuckistan.
 
 The airport is outside the city. I used the transfer into the centre, dropped my stuff and spent the rest of the day walking.
@@ -107,7 +107,7 @@ Once out of the park, we went to the Cueva Del Milodon, a large cave where they 
 
 > Cueva del Milodón is around 25 kilometres north of Puerto Natales. The cave is slightly interesting and often included with tours.
 
-The visit lasts around an hour, where you do a walk up to the cave, then through the cave, to observe the staglamatites and stalagtites and read the signs.
+The visit lasts around an hour, where you do a walk up to the cave, then through the cave, to observe the stalagmites and stalactites and read the signs.
 
 ---
 

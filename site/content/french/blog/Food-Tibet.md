@@ -15,9 +15,9 @@ draft: true
 
 ![Thé au beurre tibétain](https://commons.wikimedia.org/wiki/Special:Redirect/file/Tibetan%20butter%20tea.jpg)
 
-La cuisine tibétaine dépend de l'altitude, du froid et de ce qui pousse sur le plateau. Attends-toi à de l'**orge**, du **yak ou boeuf**, du **mouton**, des produits laitiers, du thé, des raviolis et des soupes de nouilles. Elle est souvent plus lourde et plus simple que les cuisines du Sichuan ou du Yunnan, ce qui convient aux longues journées de route et à l'appétit parfois réduit par l'altitude.
+La cuisine tibétaine dépend de l'altitude, du froid et de ce qui pousse sur le plateau. Attends-toi à de l'**orge**, du **yak ou bœuf**, du **mouton**, des produits laitiers, du thé, des raviolis et des soupes de nouilles. Elle est souvent plus lourde et plus simple que les cuisines du Sichuan ou du Yunnan, ce qui convient aux longues journées de route et à l'appétit parfois réduit par l'altitude.
 
-Lhassa offre le plus grand choix. Dès que tu pars vers Yamdrok, Gyantse, Shigatse ou l'Everest, les repas deviennent plus basiques : nouilles, riz, raviolis, oeufs, snacks emballés et arrêts connus du guide.
+Lhassa offre le plus grand choix. Dès que tu pars vers Yamdrok, Gyantse, Shigatse ou l'Everest, les repas deviennent plus basiques : nouilles, riz, raviolis, œufs, snacks emballés et arrêts connus du guide.
 
 ## Maisons de thé à Lhassa
 
@@ -75,7 +75,7 @@ La cuisine du Sichuan est courante au Tibet, pour des raisons de migration, d'ap
 
 ## Sur la route vers Yamdrok, Shigatse et l'Everest
 
-La nourriture de route est simple. Attends-toi à des nouilles, plats de riz, dumplings, oeufs, snacks emballés et thé en thermos. Sur les longues routes, mange quand le guide indique un arrêt fiable ; le suivant peut être beaucoup plus loin.
+La nourriture de route est simple. Attends-toi à des nouilles, plats de riz, dumplings, œufs, snacks emballés et thé en thermos. Sur les longues routes, mange quand le guide indique un arrêt fiable ; le suivant peut être beaucoup plus loin.
 
 Achète des snacks à Lhassa avant de partir vers Yamdrok, Shigatse ou l'Everest. L'altitude et les longues journées en véhicule peuvent rendre les gros repas peu attirants, donc noix, biscuits, fruits, flocons d'avoine instantanés et sels de réhydratation sont utiles. Ne compte pas trouver fruits frais ou plats végétariens à chaque arrêt.
 

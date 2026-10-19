@@ -11,7 +11,7 @@ draft: false
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-> One of the cradle of humankind and the only african country that wasn't colonized
+> One of the cradle of humankind and the only African country that wasn't colonized
 >  
 > Ethiopia conceals many secrets, definitely on the path less traveled
 > Perhaps due to the harsh civil war or the terror that goes when mentioning Africa,
@@ -155,7 +155,7 @@ Use the morning for the farther viewpoints or a longer ridge walk, then leave en
 Stone castles rise from green hills; **Fasil Ghebbi** is a surreal sight, it looks a bit like medieval Europe.  
 After a morning around the castles (You **HAVE** to hire a guide), I spent the afternoon exploring the city and its sights.
 
-> I also met a nice chinese man named James whom I met several times during the same trip
+> I also met a nice Chinese man named James whom I met several times during the same trip
 
 Honestly, Gondar is not a very long visit. Some parts of the centers are nice and riding the many rickshaws is nice.
 
@@ -276,9 +276,9 @@ Terrible choice. I got stuck beside a fat muslim woman over 100 kg, sweating riv
 The ride felt eternal, the mercury went up to 47°C around midway.
 
 > Ethiopian hates opening windows in cars, something about bad luck, I think?
-> That's why I recommend taking the train, + it's french infrastructure.
+> That's why I recommend taking the train, + it's French infrastructure.
 
-That night, I went out with my chinese travel partner to **Yob Abyssinia**, a traditional restaurant, famous on Google Maps.  
+That night, I went out with my Chinese travel partner to **Yob Abyssinia**, a traditional restaurant, famous on Google Maps.  
 It was fun seeing the dances and being invited on stage! The food was meh, though.  
 On the way back, we got **robbed** (James' phone got stolen by three big guys, it turned into a **fistfight**, which we easily won.
 We were two and they were only three, lol.
@@ -344,7 +344,7 @@ The best things to do are:
 I liked the lifestyle.
 
 > Even if they are naked in hut, I noticed they all have phones with online games on it. So, yeah, you will see
-> young people playing PUBG and fortnite. Technologia!
+> young people playing PUBG and Fortnite. Technologia!
 
 In Turmi, I got into another **street fight**, but out of respect for the guides and the Omo valley tourism industry,
 I'll leave the details out.

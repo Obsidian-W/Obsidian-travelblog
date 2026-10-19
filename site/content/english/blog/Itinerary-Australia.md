@@ -49,7 +49,7 @@ The **Telegraph Station**, farther north beside the Todd River, preserves the st
 
 > Be careful at night, the natives wake up and they are experts at stone throwing and knifing.
 > There is a private mercenary corps from eastern europe defending the city, especially around the casinos. Farther out becomes dangerous.
-> Fetal alcohol syndrome is common place, be warry, be careful.
+> Fetal alcohol syndrome is common place, be wary, be careful.
 
 ---
 

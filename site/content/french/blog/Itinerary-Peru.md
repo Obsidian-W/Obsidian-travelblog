@@ -4,8 +4,8 @@ title: "Quatre semaines au Pérou"
 description: "Quatre semaines entre Lima, la Cordillère Blanche, la côte désertique, Arequipa, Cusco, le Machu Picchu, l'Amazonie et le lac Titicaca."
 image: "images/blog/peru.jpg"
 itinerary_map: "/images/itineraries/peru.svg"
-categories: ["Itinerary", "South America", "Peru"]
-continents: ["South America"]
+categories: ["Itinéraire", "Amérique du Sud", "Pérou"]
+continents: ["Amérique du Sud"]
 draft: false
 ---
 
@@ -94,7 +94,7 @@ J'ai dormi au Krusty Hostel B&B : mignon, agréable et bien placé, avec plusieu
 
 ## Jour 3 : glacier Pastoruri {#jour-3}
 
-![Pastoruri Glacier in the Cordillera Blanca](images/blog/peru1.jpg)
+![Glacier Pastoruri dans la Cordillère Blanche](images/blog/peru1.jpg)
 
 Comme dit plus haut, j'ai réservé cette excursion auprès de l'auberge. C'était très pratique !
 
@@ -113,7 +113,7 @@ Mon avis ? Pas mal, mais le glacier recule sérieusement, il disparaît vite. C'
 
 ## Jour 4 : Laguna 69 {#jour-4}
 
-![Laguna 69 in the Cordillera Blanca](images/blog/peru2.jpg)
+![Laguna 69 dans la Cordillère Blanche](images/blog/peru2.jpg)
 
 Départ de l'hébergement à 04:30–05:00, retour à Huaraz vers 18:00–19:00.
 Presque six heures de route au total : ce n'est pas si loin, mais les routes sont difficiles. Je recommande de dormir au moins sur l'un des trajets.
@@ -142,7 +142,7 @@ Les bus de nuit pour **Trujillo** partent vers 22:00. Le trajet dure environ hui
 
 ## Jour 6 : Trujillo {#jour-6}
 
-![Historic central Trujillo](images/blog/peru3.jpg)
+![Centre historique de Trujillo](images/blog/peru3.jpg)
 
 Passez la matinée dans le centre colonial : **Plaza de Armas**, la cathédrale jaune, **Jirón Pizarro**, les façades et cours autour de **Casa Urquiaga** et **Palacio Iturregui**.
 Le centre se parcourt en une **boucle de 2–3 km**. Les maisons peintes et les balcons valent la visite si vous aimez l'architecture coloniale.
@@ -184,13 +184,17 @@ Chez **Ola Surf House**, un cours collectif dure **deux heures** et coûte 90 so
 
 Revenez à Trujillo pour le bus vers **Lima**. Depuis Huanchaco, le bus local prend 30–45 minutes ; comptez 3–5 soles (0,80–1,30€). Les départs du soir s'étalent environ de **19:00 à 23:15**, pour un trajet de **9:30 à 11 heures**. Les tarifs commencent à 40 soles (10,30€), davantage pour les sièges plus spacieux. Départs du **Terrapuerto Trujillo** ou de terminaux privés, notamment autour d'**Avenida América Sur**.
 
+> Dans ce bus, j'ai pris un somnifère donné par un inconnu. La meilleure nuit de ma vie. Ne faites évidemment pas ça.
+
 ## Jour 9 : Lima–Paracas {#jour-9}
 
 Après le bus de nuit, consacrez la matinée au **Museo Larco**, à **Pueblo Libre**. Les galeries présentent céramiques, textiles et objets métalliques précolombiens ; les réserves visibles montrent l'ampleur des collections au-delà des salles d'exposition. Comptez **deux heures**, jardin compris.
 
 Le musée se trouve **Avenida Simón Bolívar 1515**, ouvert tous les jours de **09:00 à 19:00**. L'entrée adulte coûte **45 soles (11,50€) en ligne** ou **50 soles (12,80€) sur place**. Le musée indique les bus **1013, 1253, 1234 et 1236** depuis **La Doce**, par Avenida Bolívar. Descendez à **Aragón / Juan Valer Sandoval**, puis marchez jusqu'à l'entrée sur **Calle Navarra**.
 
-Continuez en bus vers **Paracas**, à environ **quatre heures** au sud. Les billets commencent à 45 soles (11,50€). PerúBus annonce des départs jusqu'à **12:45** ; Jaksa en propose aussi l'après-midi et le soir. Parmi les points de départ : **La Victoria/Nicolás Arriola** et **Atocongo**. La destination est **Paracas/El Chaco** ; d'autres services s'arrêtent sur la route près de Pisco.
+Le musée Larco vaut vraiment le détour : c'est pour moi un incontournable à Lima, d'où son ajout ici.
+
+Continuez en bus vers **Paracas**, à environ **quatre heures** au sud, à partir de 45 soles (11,50 €). Les points d'embarquement comprennent **La Victoria/Nicolás Arriola** et **Atocongo**. Visez **Paracas/El Chaco** : certains autres bus s'arrêtent sur la route près de Pisco. Plusieurs compagnies assurent la liaison, avec des départs fréquents ; pour l'après-midi, j'avais repéré des possibilités vers **12 h 30–16 h**.
 
 À l'arrivée, promenez-vous sur le **front de mer d'El Chaco**, entre le port, les bateaux de pêche et les restaurants.
 
@@ -198,15 +202,19 @@ J'ai dormi au Paracas Backpackers House, l'une des deux grandes auberges. Je n'e
 
 ## Jour 10 : Paracas {#jour-10}
 
-![The coast of Paracas National Reserve](images/blog/peru4.jpg)
+![Côte de la réserve nationale de Paracas](images/blog/peru4.jpg)
 
 Prenez le bateau du matin depuis **Muelle El Chaco** pour les **îles Ballestas**. Les départs habituels sont à **08:00 et 10:00**, pour environ **deux heures**. Le bateau passe devant l'immense géoglyphe du **Candelabro**, puis s'approche des arches et corniches rocheuses des îles, où l'on peut voir otaries, oiseaux marins et manchots de Humboldt. On reste à bord.
 
 Un opérateur local annonce la sortie à 40 soles (10,30€). Le **billet combiné SERNANP Ballestas–Paracas coûte 17 soles (4,40€)**, auxquels s'ajoute une taxe portuaire. L'opérateur annonce 16 soles (4,10€) pour l'entrée des îles seules et les frais portuaires réunis.
 
-Ensuite, partez en minibus dans la **réserve nationale de Paracas**, généralement pour trois à quatre heures depuis El Chaco. Les arrêts comprennent souvent le **belvédère de La Catedral**, **Playa Roja** et le village de pêcheurs de **Lagunillas**. Parcourez les points de vue aménagés sur les falaises, au-dessus du sable rouge et de la rencontre entre le désert nu et le Pacifique. La réserve annonce des horaires de **09:00 à 16:00**.
+Ensuite, partez en minibus ou louez un vélo pour la **réserve nationale de Paracas**, normalement trois à quatre heures depuis El Chaco. Les arrêts comprennent le **belvédère de La Catedral**, **Playa Roja** et **Lagunillas**. Les points de vue aménagés dominent le sable rouge et la rencontre du désert avec le Pacifique. Les horaires annoncés sont **9 h–16 h**, mais ils semblent surtout concerner l'entrée : j'ai terminé vers 17 h.
+
+J'ai tout fait à vélo, loué à bas prix dans l'une des nombreuses boutiques. C'était plus intense que prévu : le vélo était pourri et je pédale une fois tous les deux ans, même si je cours régulièrement.
 
 [Cette excursion aux îles Ballestas et dans la réserve nationale de Paracas (lien affilié)](https://www.getyourguide.com/paracas-l32470/paracas-ballestas-islands-and-paracas-national-reserve-tour-t855974/?partner_id=H1N6CGH&utm_medium=online_publisher) combine bateau et circuit routier. L'entrée de la réserve et la taxe portuaire peuvent être en supplément selon la formule. Le déjeuner à Lagunillas est généralement à payer séparément.
+
+> Les deux visites valent-elles le coup ? Oui ! Le bateau permet de voir de beaux animaux et paysages, avec un bon bol d'air. Mais le joyau est la **réserve nationale de Paracas** : peu d'animaux, des paysages impressionnants et une pause bienvenue dans le relief accidenté du Pérou.
 
 ## Jour 11 : Ica et Huacachina {#jour-11}
 
@@ -238,7 +246,7 @@ J'ai dormi au Nanasqa Hostel. Je me suis saoulé le soir de mon arrivée, alors 
 
 ## Jour 12 : Nazca {#jour-12}
 
-![The Nazca Lines from the air](images/blog/peru5.jpg)
+![Les lignes de Nazca vues d'avion](images/blog/peru5.jpg)
 
 Ce jour-là, j'ai pris un vol au-dessus des **lignes de Nazca**.
 
@@ -266,7 +274,7 @@ Comptez une heure sur place. L'entrée coûte 10 soles (2,60€) et couvre aussi
 
 Autres arrêts à Nazca : les belvédères qui permettent de voir les lignes depuis le sol. C'est sympa d'avoir plusieurs perspectives, mais l'un des itinéraires traverse un bidonville.
 
-![A wrong turn through the outskirts of Nazca](images/blog/peruExtra.jpg)
+![Un détour dans la périphérie de Nazca](images/blog/peruExtra.jpg)
 
 Vous voyez ? Je me suis perdu à pied dans les bidonvilles en périphérie de Nazca, en revenant d'un point de vue sur les lignes, ou quelque chose comme ça.
 Les gens m'ont fait boire du vin, et j'ai dû rentrer à l'hôtel encore plus ivre que la veille.
@@ -278,7 +286,7 @@ Le trajet coûte environ 100 soles (26€) et dure neuf heures. Encore une longu
 
 ## Jour 13 : Arequipa {#jour-13}
 
-![Santa Catalina Monastery in Arequipa](images/blog/peru6.jpg)
+![Monastère Santa Catalina à Arequipa](images/blog/peru6.jpg)
 
 Depuis le **Terminal Terrestre ou le Terrapuerto d'Arequipa**, prenez un bus urbain vers le centre historique.
 J'ai déposé mes sacs à mon auberge, le Flying Dog Hostel. Faites de même, reposez-vous un peu et préparez-vous : Arequipa est magnifique et mérite plusieurs jours !
@@ -308,7 +316,7 @@ Elle n'a pas aimé la Ruta del Sillar non plus : son groupe avait passé telleme
 
 ## Jours 14 et 15 : canyon de Colca {#jours-14-15}
 
-![The landscape outside Arequipa](images/blog/peru7.jpg)
+![Paysages autour d'Arequipa](images/blog/peru7.jpg)
 
 J'ai fait Colca en une excursion de deux jours depuis Arequipa, avec une nuit dans l'oasis au fond du canyon.
 
@@ -365,7 +373,9 @@ Le **Centro Qosqo de Arte Nativo**, à **Avenida El Sol 872**, présente des mus
 
 ## Jours 18 à 22 : trek du Salkantay et Machu Picchu {#jours-18-22}
 
-> Ma réservation de cinq jours sur le Salkantay comprenait le transport depuis Cusco, les repas, un guide et la réservation du Machu Picchu.
+> Ma réservation de cinq jours sur le Salkantay comprenait le transport depuis Cusco, les repas, un guide — le fameux Steven Tyler ! — et la réservation du Machu Picchu.
+
+J'étais passé par Machu Picchu Reservations, mais je ne peux pas les recommander à cause de la façon dont ils ont traité Steven.
 
 Le premier jour de mon trek passait par le **lac Humantay** avant le premier camp. Les départs habituels de cinq jours commencent à Cusco vers **04:00–05:00**, avec trois à quatre heures de route par Mollepata vers Soraypampa. Depuis la vallée, la marche vers le lac monte pendant environ **1:30 à 2 heures**, jusqu'à l'eau turquoise sous une paroi glaciaire raide, vers 4 200 m. On redescend ensuite au camp dans la vallée ; son emplacement précis dépend de l'opérateur.
 
@@ -379,11 +389,17 @@ La dernière approche d'**Aguas Calientes** varie selon les circuits de cinq jou
 
 ![Machu Picchu](images/blog/peru8.jpg)
 
-Le lendemain matin, je suis entré au **Machu Picchu** avec la réservation comprise dans mon trek, puis je suis reparti en bus et en train vers la Vallée sacrée.
+Le lendemain matin, je suis entré au **Machu Picchu** avec la réservation comprise dans mon trek. Mais ça n'a pas été simple : réveil très matinal, environ **une heure de marche** jusqu'au départ des milliers de marches, puis **une heure à une heure et demie** pour les monter. Après plusieurs jours de randonnée, ça fait mal. Et attention aux chiens : ils montaient aussi, pour ce qui ressemblait à un club de bagarre canine. Vraiment étrange.
 
-Les bus d'**Aguas Calientes** rejoignent l'entrée en **25–30 minutes** ; monter les marches à pied prend environ **1:30 à 2 heures**. La visite suit le circuit et l'horaire inscrits sur le billet. Selon ce circuit, elle combine des vues sur les terrasses et les chemins autorisés entre bâtiments incas et espaces cérémoniels. Comptez deux à trois heures pour une visite guidée classique. La terrasse panoramique et les parcours dans la partie basse nécessitent des billets différents.
+Arrivé en haut, j'étais dans l'un des premiers groupes. Il existe plusieurs circuits et le guide reste au maximum deux heures. Profitez davantage du site si votre billet et les règles de votre circuit le permettent. Pour rentrer par la route, vérifiez l'horaire avec votre guide : il fallait repartir vers **15 h**, et le bus était loin.
 
-Le **train retour vers Ollantaytambo** prend environ **1:30 à 2 heures**, puis le transfert routier vers **Cusco** encore **1:30 à 2 heures**. L'entrée du Machu Picchu, le bus de montée et le train retour ne sont pas inclus dans toutes les formules. Le retour routier par Hidroeléctrica implique davantage de marche et un trajet plus long. Le **droit d'accès SERNANP au sanctuaire est actuellement de 11 soles (2,80€)** pour les étrangers, distinct du billet archéologique.
+Et là… Putain, quelle claque. Presque cinq jours de marche, l'entrée dans l'obscurité, puis une terrasse et dix minutes à attendre que la vue se dévoile. Le soleil se levait, la brume prenait une teinte rose, puis dix minutes plus tard elle se dissipait et nous restions bouche bée. Un souvenir inoubliable. Merci Steven Tyler, notre guide !
+
+> J'ai aussi commencé l'ascension du mont Machu Picchu, si mes souvenirs sont bons. Faute de temps, j'ai fait environ 80 % de la montée avant de revenir pour le bus. Au final, je n'avais que trente minutes d'avance.
+
+Au retour, j'ai longé de nouveau les rails pour rejoindre le bus de Cusco. Deux heures après le départ, un glissement de terrain nous a bloqués. Trois heures d'attente, le temps que les ouvriers dégagent les débris à la dynamite. Sacrément radical, et efficace ! Trois heures pour dégager tout un glissement de terrain.
+
+> Cinq jours, ça vaut le coup ? Oui. La randonnée est magnifique, malgré une journée de grosse pluie : beaucoup de souvenirs et l'une des plus belles marches du monde. Pour 250 € avec l'entrée au Machu Picchu, absolument ; même à 350 €, je trouverais ça justifié. La météo change tout le temps : un jour, nous sommes passés de 0 °C, avec petites avalanches et grêle, à 30 °C humides et pleins de moustiques. Le corps le sent passer.
 
 ## Jour 23 : Vallée sacrée et Ollantaytambo {#jour-23}
 
@@ -399,7 +415,7 @@ Après le déjeuner, continuez à **Ollantaytambo**. Montez les grandes terrasse
 
 Continuez dans la vallée jusqu'à **Pisac**, pour le site archéologique au-dessus du village, ses grandes terrasses agricoles et ses bâtiments en pierre dominant la vallée. Le circuit revient ensuite à **Cusco**.
 
-[Cette excursion dans la Vallée sacrée avec Moray et les salines de Maras (lien affilié)](https://www.getyourguide.com/ollantaytambo-l93095/from-cusco-sacred-valley-and-moray-salt-mines-t317787/?partner_id=H1N6CGH&utm_medium=online_publisher) continue à Pisac après Ollantaytambo, puis revient à Cusco. Le circuit complet dure **12 heures à 12:30**. Comptez environ 30–45€, avec les entrées archéologiques et Maras en supplément sauf si l'option choisie les inclut.
+[Cette excursion dans la Vallée sacrée avec Moray et les salines de Maras (lien affilié)](https://www.getyourguide.com/ollantaytambo-l93095/from-cusco-sacred-valley-and-moray-salt-mines-t317787/?partner_id=H1N6CGH&utm_medium=online_publisher) continue à Pisac après Ollantaytambo, puis revient à Cusco. Le circuit complet dure **12 heures à 12 heures et demie**. Comptez environ 30–45€, avec les entrées archéologiques et Maras en supplément sauf si l'option choisie les inclut.
 
 ## Jour 24 : Cusco {#jour-24}
 
@@ -409,15 +425,17 @@ Les deux musées sont inclus dans le billet touristique intégral, encore valabl
 
 L'après-midi, suivez **Avenida El Sol** vers le sud jusqu'au **monument à Pachacútec**, à environ **trente minutes de Qorikancha**. Il comprend une petite exposition historique et un belvédère au-dessus des axes animés du Cusco moderne ; son entrée est aussi comprise dans le billet touristique.
 
+J'avais volontairement gardé cette journée tranquille, pour faire ce qui manquait au premier jour à Cusco. J'en ai aussi profité pour courir en ville : après le trek, je me sentais tellement léger.
+
 Prenez le bus de nuit du **Terminal Terrestre de Cusco** pour **Puerto Maldonado**. Maldonado Tours annonce un départ à **19:00**, Palomino à **20:00** et Transzela à **21:00**. Le trajet dure neuf à onze heures, avec des billets à partir de 50 soles (12,80€). À l'arrivée au terminal de Puerto Maldonado, l'opérateur du lodge peut organiser le début du séjour en Amazonie.
 
 ## Jours 25 à 27 : Amazonie depuis Puerto Maldonado {#jours-25-27}
 
-![Travelling by boat outside Puerto Maldonado](images/blog/peru9.jpg)
+![Trajet en bateau près de Puerto Maldonado](images/blog/peru9.jpg)
 
 > Mon séjour en Amazonie était un seul circuit de trois jours réservé en ligne. L'opérateur a pris le groupe à Puerto Maldonado, puis nous a conduits au lodge par la route et en bateau.
 
-Le trajet fluvial longe les berges boisées au-delà de Puerto Maldonado. Pour les lodges les plus proches, comptez environ **une à deux heures de route et de bateau**. Les plus éloignés demandent davantage de temps, et le départ dépend de l'arrivée du groupe.
+Le trajet fluvial longe les berges boisées au-delà de Puerto Maldonado. Pour les lodges les plus proches, comptez environ **deux à trois heures de route et de bateau**. Les plus éloignés demandent davantage de temps, et le départ dépend de l'arrivée du groupe.
 
 Mon premier après-midi comprenait **Monkey Island**. Après la tombée de la nuit, le guide nous a emmenés chercher **insectes, grenouilles et mygales**.
 
@@ -431,23 +449,29 @@ Une **formule de trois jours en lodge** chez Tambopata Wild commence actuellemen
 
 [Ce circuit de trois jours en Amazonie depuis Puerto Maldonado (lien affilié)](https://www.getyourguide.com/puerto-maldonado-l2146/puerto-maldonado-3-day-amazon-jungle-tour-with-lodging-t981109/?partner_id=H1N6CGH&utm_medium=online_publisher) est une autre option avec hébergement en lodge, guide et transport en bateau. Les repas, entrées dans les réserves et transferts depuis les terminaux dépendent de la formule.
 
+> J'ai été un peu déçu du manque d'activités par rapport à d'autres circuits, mais ce n'était peut-être pas si mal : du repos et une découverte de l'Amazonie. Puerto Maldonado reste facile d'accès, assez peu fréquentée et l'une des meilleures portes d'entrée dans la forêt. À essayer pour une expérience complète du Pérou.
+
 Pour **Puno**, Transportes Reyna annonce un départ à **19:00** depuis son point d'embarquement à Puerto Maldonado, avec arrivée vers **08:00 le lendemain**. Le trajet dure **treize heures**, à partir de 80 soles (20,50€).
 
 ## Jour 28 : Amantani {#jour-28}
 
-![Lake Titicaca](images/blog/peru10.jpg)
+![Lac Titicaca](images/blog/peru10.jpg)
 
-Depuis **Juliaca**, j'ai continué vers **Puno**, puis traversé le **lac Titicaca** jusqu'à **Amantani**. J'avais rencontré une famille péruvienne pendant le séjour en Amazonie, et elle m'avait invité chez elle sur l'île. C'est devenu l'une des meilleures étapes du voyage.
+Depuis **Juliaca**, j'ai traversé le **lac Titicaca** jusqu'à **Amantani**. Une famille péruvienne rencontrée en Amazonie m'avait invité chez elle : l'une des meilleures étapes du voyage.
 
-Le bateau public part traditionnellement du **port principal de Puno**, au bout d'Avenida Titicaca côté lac, vers **08:00–08:30**, pour trois à quatre heures de traversée. Le guide officiel indique 30 soles (7,70€), mais c'est une référence ancienne, pas un tarif vérifié pour 2026.
+> Le parcours était long et comptait beaucoup de transports : Puerto Maldonado → Juliaca, puis gare routière → port, et enfin port → Amantani.
 
-Un autre accès à Amantani passe par **Capachica et Chifrón**. Depuis Puno, le colectivo pour Capachica prend environ **1 heure à 1:30**, puis il faut marcher environ **trente minutes** jusqu'au port de Chifrón et prendre une vedette partagée pour **45 minutes à une heure** jusqu'à Amantani. Les bateaux partent une fois remplis, sans horaire fixe. Comptez environ **10–15€ par personne** pour ces étapes partagées par route et bateau.
+Il restait environ **deux heures de bateau**, assez tôt le matin. Le bateau partait une fois rempli, comme un colectivo. Et hop, arrivée sur l'une des plus belles îles que j'ai vues.
 
-Sur l'île, marchez entre les villages et les terrasses agricoles, puis montez vers les **belvédères de Pachamama et Pachatata**. Les chemins relient les villages aux deux sommets, avec de grandes vues sur le lac et les montagnes. Comptez deux à trois heures aller-retour pour une marche en hauteur, selon le village où vous dormez. L'île se trouve vers 3 800 m, les sommets dépassant 4 000 m.
+Sur l'île, marchez entre les villages et les terrasses agricoles, puis montez vers les **belvédères de Pachamama et Pachatata**. Les chemins relient les villages, les deux sommets et les ruines, avec de grandes vues sur le lac et les montagnes. Comptez **deux à trois heures aller-retour**, selon votre village de départ. L'île est vers **3 800 m**, les sommets au-dessus de **4 000 m**. Tout autour, les chemins fleuris donnent sur cette mer au milieu des montagnes.
 
-J'ai dormi chez la famille. On peut organiser un séjour directement avec un hôte, en convenant des repas et du transport.
+J'ai dormi chez la famille rencontrée dans la jungle. Un séjour indépendant doit pouvoir s'organiser directement avec un hôte, en convenant des repas et du transport. Beaucoup de familles accueillent des visiteurs : le tourisme leur apporte un complément de revenu sur une île moins fréquentée comme Amantani.
 
-Le lendemain, j'ai continué vers **Copacabana**, pour la suite de mon [itinéraire en Bolivie](../itinerary-bolivia/).
+> J'ai partagé leurs repas traditionnels, appris à fabriquer des briques d'adobe et aidé à construire un bâtiment. Un moment formidable.
+
+Le lendemain, départ vers **Copacabana** pour l'[itinéraire en Bolivie](../itinerary-bolivia/) : la fin de mon voyage péruvien. J'ai aussi fait une courte promenade à Puno après un bateau très matinal d'environ **deux heures et demie**. Vingt-huit jours me semblaient trop courts, d'où la section suivante — je plaisante, elle existe dans tous mes articles.
+
+Pour un voyage uniquement au Pérou, passer à **trente jours** vaut le coup : le Titicaca mérite au moins une journée de plus, que j'ai faite côté bolivien, et j'en ajouterais aussi une à Arequipa.
 
 ## Plus de jours ?
 

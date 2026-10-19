@@ -107,7 +107,7 @@ Le train progresse, mais il ne remplace pas l'itinéraire classique safari-côte
 
 **TAZARA** exploite la ligne Tanzanie-Zambie. TAZARA a annoncé la reprise du service passagers transfrontalier en février 2026, avec le service Mukuba entre Dar es Salaam et New Kapiri Mposhi. C'est utile pour un voyage lent vers la Zambie, pas pour Zanzibar ni le circuit safari du nord. TAZARA conseille de réserver à l'avance.
 
-Pour le train, vérifie la gare exacte de départ. Dar es Salaam a plusieurs noeuds de transport, et une traversée de la ville en taxi peut prendre plus longtemps que prévu. Ne cale pas ferry, vol et train trop près.
+Pour le train, vérifie la gare exacte de départ. Dar es Salaam a plusieurs nœuds de transport, et une traversée de la ville en taxi peut prendre plus longtemps que prévu. Ne cale pas ferry, vol et train trop près.
 
 ## Vols intérieurs
 
@@ -119,7 +119,7 @@ Les vols vers pistes de safari sont pratiques, mais ne fonctionnent pas comme de
 
 ## Transport local
 
-A Dar es Salaam et Arusha, taxis, VTC quand disponibles, transferts d'hôtel et bus locaux existent, avec un confort variable. A Zanzibar, utilise taxis, transferts partagés ou dala-dalas selon ton budget et ta tolérance aux trajets lents.
+À Dar es Salaam et Arusha, taxis, VTC quand disponibles, transferts d'hôtel et bus locaux existent, avec un confort variable. À Zanzibar, utilise taxis, transferts partagés ou dala-dalas selon ton budget et ta tolérance aux trajets lents.
 
 Pour ferries et aéroports, garde ton passeport accessible. Pour les bus, achète dans un bureau ou auprès d'un opérateur identifiable quand possible, et évite les départs de nuit de dernière minute.
 
@@ -145,7 +145,7 @@ Le véhicule de safari n'est pas seulement un transport. Il contrôle accès aux
 ## Sources consultées
 
 - [Kilimanjaro International Airport - transport and parking](https://www.kilimanjaroairport.go.tz/pages/transport-and-car-parking) : taxis et navettes partagées.
-- [Air Tanzania - shuttle services](https://airtanzania.co.tz/shuttle-services) : points de navette à Arusha et Moshi.
+- [Air Tanzania - navette services](https://airtanzania.co.tz/shuttle-services) : points de navette à Arusha et Moshi.
 - [Air Tanzania - destinations](https://www.airtanzania.co.tz/destinations) : liste des destinations domestiques.
 - [Precision Air](https://www.precisionairtz.com/) : destinations domestiques et contexte de réservation.
 - [Zan Fast Ferries](https://mail.zanfastferries.co.tz/) : opérateur ferry, réservation et routes Dar es Salaam, Zanzibar et Pemba.

@@ -32,7 +32,7 @@ The country pages deliberately reuse their relevant days from this complete trip
 
 Before diving into my itinerary, a few considerations:
 
-- English is the Lingua Franca in the region, but in Rwanda many people speak french instead
+- English is the Lingua Franca in the region, but in Rwanda many people speak French instead
 - I actually came from Ethiopia, crossing through Kenya using the Moyale border
 - Backpacking is not a big thing in East Africa
 - It might be dangerous at times, I don't recommend going alone
@@ -47,8 +47,8 @@ Before diving into my itinerary, a few considerations:
 
 {{< worth-o-meter score="6" >}}
 East Africa could have been better, but due to the scams, the lack of security and the poor infrastructure,
-just like Ethiopa, I can't give it more than 6. This part of the world is beautiful, vibrant, culturally impressive, with a lot of history,
-natural sights everywhere... But, it is not ready yet for tourismn held back by its own governements.
+just like Ethiopia, I can't give it more than 6. This part of the world is beautiful, vibrant, culturally impressive, with a lot of history,
+natural sights everywhere... But, it is not ready yet for tourism held back by its own governments.
 {{< /worth-o-meter >}}
 
 # Itinerary done quick

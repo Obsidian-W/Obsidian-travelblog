@@ -26,13 +26,13 @@ Elle méritait peut-être plus.
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Alaverdi](#jour-1-alaverdi) | Haghpat et Sanahin |
-| Jours 2-3 | [Gyumri](#jours-2-3-gyumri) | Kumayri, musées, forteresse et option Marmashen |
-| Jour 4 | [Erevan](#jour-4-erevan) | Trajet et centre-ville |
-| Jour 5 | [Erevan](#jour-5-encore-erevan) | Etchmiadzin et musées |
-| Jour 6 | [Garni et Khor Virap](#jour-6-garni-et-khor-virap) | Temples, pierres et Ararat |
+| Jour 1 | [Alaverdi](#jour-1) | Haghpat et Sanahin |
+| Jours 2-3 | [Gyumri](#jours-2-3) | Kumayri, musées, forteresse et option Marmashen |
+| Jour 4 | [Erevan](#jour-4) | Trajet et centre-ville |
+| Jour 5 | [Erevan](#jour-5) | Etchmiadzin et musées |
+| Jour 6 | [Garni et Khor Virap](#jour-6) | Temples, pierres et Ararat |
 
-## Jour 1 Alaverdi
+## Jour 1 Alaverdi {#jour-1}
 
 ![Un monastère au-dessus d'Alaverdi](images/blog/armenia1.jpg)
 
@@ -46,11 +46,11 @@ Je recommande de dormir à Alaverdi : le passage depuis la Géorgie est lent.
 
 ---
 
-## Jours 2-3 Gyumri
+## Jours 2-3 Gyumri {#jours-2-3}
 
 Depuis Alaverdi, prenez un bus ou une marchroutka vers **Gyumri**. Après l'arrivée, gardez le premier après-midi pour le vieux centre : **place Vardanants**, **église Yot Verk**, **église du Saint-Sauveur**, puis les rues en tuf noir du **quartier historique de Kumayri** autour d'Abovyan, Rustaveli et des petites rues latérales.
 
-Si c'est ouvert, ajoutez la **galerie des soeurs Aslamazyan** sur la rue Abovyan. La [page officielle du musée](https://aslamazyan-sisters.mus.am/en/) place la galerie au 242 rue Abovyan et indique une ouverture normale du mardi au dimanche.
+Si c'est ouvert, ajoutez la **galerie des sœurs Aslamazyan** sur la rue Abovyan. La [page officielle du musée](https://aslamazyan-sisters.mus.am/en/) place la galerie au 242 rue Abovyan et indique une ouverture normale du mardi au dimanche.
 
 Le deuxième jour à Gyumri, commencez par le **musée Dzitoghtsyan de l'architecture nationale et de la vie urbaine**, puis revenez à pied dans Kumayri pour les vieilles maisons, les cours et les balcons. Continuez vers le **bazar de Gyumri** avant le déjeuner.
 
@@ -60,7 +60,7 @@ Le lendemain matin, partez de **Gyumri vers Erevan** en train, bus ou marchroutk
 
 ---
 
-## Jour 4 Erevan
+## Jour 4 Erevan {#jour-4}
 
 ![Erevan depuis la Cascade](images/blog/armenia3.jpg)
 
@@ -68,11 +68,11 @@ Le lendemain matin, partez de **Gyumri vers Erevan** en train, bus ou marchroutk
 
 Prenez la liaison du matin depuis Gyumri vers Erevan et gardez l'après-midi pour le centre.
 
-Commencez par la **place de la République**, remontez vers l'Opéra, puis grimpez la **Cascade** pour la vue, les oeuvres, les sculptures et le centre Cafesjian. Près de la Cascade se trouve un parc rempli de peintres ; ça m'a fait penser à une version plus ancienne et meilleure de Paris. L'Opéra et la place de la Liberté valent surtout le coup la nuit. Je recommande aussi de descendre vers la cathédrale Saint-Grégoire-l'Illuminateur.
+Commencez par la **place de la République**, remontez vers l'Opéra, puis grimpez la **Cascade** pour la vue, les œuvres, les sculptures et le centre Cafesjian. Près de la Cascade se trouve un parc rempli de peintres ; ça m'a fait penser à une version plus ancienne et meilleure de Paris. L'Opéra et la place de la Liberté valent surtout le coup la nuit. Je recommande aussi de descendre vers la cathédrale Saint-Grégoire-l'Illuminateur.
 
 ---
 
-## Jour 5 Encore Erevan
+## Jour 5 Encore Erevan {#jour-5}
 
 ![Le Matenadaran à Erevan](images/blog/armenia4.jpg)
 
@@ -82,7 +82,7 @@ Ensuite, j'ai visité le musée des manuscrits du **Matenadaran** et je me suis 
 
 ---
 
-## Jour 6 Garni et Khor Virap
+## Jour 6 Garni et Khor Virap {#jour-6}
 
 Ma journée était compliquée, mais possible avec un mélange de transports publics et de taxis. J'ai pris une marchroutka pour **Garni**, marché jusqu'aux sites, puis suis revenu déjeuner à Garni avant de rentrer à Erevan. Là, j'ai retrouvé une amie et ses amis ; nous avons partagé un taxi jusqu'à **Khor Virap**, ce qui a occupé le reste de l'après-midi.
 

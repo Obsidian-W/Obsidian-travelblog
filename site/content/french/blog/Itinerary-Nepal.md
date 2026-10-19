@@ -15,19 +15,19 @@ draft: true
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Katmandou](#jour-1-katmandou) | Durbar Square et vieille ville |
-| Jour 2 | [Bhaktapur et Nagarkot](#jour-2-bhaktapur-et-nagarkot) | Places de Bhaktapur et coucher de soleil à Nagarkot |
-| Jour 3 | [Katmandou](#jour-3-katmandou) | Lever de soleil à Nagarkot, Boudhanath et Pashupatinath |
-| Jour 4 | [Patan](#jour-4-patan) | Patan Durbar Square, Swayambhunath et ouest de Katmandou |
-| Jour 5 | [Lumbini](#jour-5-lumbini) | Maya Devi Temple et zone monastique |
+| Jour 1 | [Katmandou](#jour-1) | Durbar Square et vieille ville |
+| Jour 2 | [Bhaktapur et Nagarkot](#jour-2) | Places de Bhaktapur et coucher de soleil à Nagarkot |
+| Jour 3 | [Katmandou](#jour-3) | Lever de soleil à Nagarkot, Boudhanath et Pashupatinath |
+| Jour 4 | [Patan](#jour-4) | Patan Durbar Square, Swayambhunath et ouest de Katmandou |
+| Jour 5 | [Lumbini](#jour-5) | Maya Devi Temple et zone monastique |
 
-## Jour 1 Katmandou
+## Jour 1 Katmandou {#jour-1}
 
 Le véhicule du tour au Tibet a traversé la frontière à **Gyirong/Rasuwagadhi** et continué jusqu’à Katmandou. C’était une longue journée de route et je suis arrivé en fin d’après-midi, donc la première marche est restée dans le centre.
 
 Commencez à **Kathmandu Durbar Square** avec les cours du palais, le secteur Taleju, Kumari Ghar et les temples autour de Basantapur. Continuez par les ruelles autour d’**Indra Chowk**, **Asan Bazaar** et les cours entre la vieille ville et Thamel.
 
-## Jour 2 Bhaktapur et Nagarkot
+## Jour 2 Bhaktapur et Nagarkot {#jour-2}
 
 Prenez un bus local vers Bhaktapur depuis le côté **Ratna Park/Bagbazar** du centre de Katmandou. Demandez Bhaktapur au contrôleur et descendez près de l’entrée de la vieille ville.
 
@@ -35,13 +35,13 @@ Marchez de **Bhaktapur Durbar Square** à **Taumadhi Square**, au temple Nyatapo
 
 Depuis Bhaktapur, les bus locaux pour **Nagarkot** partent du côté Kamalbinayak. Arrivez pour les points de vue et le coucher de soleil, puis dormez sur place.
 
-## Jour 3 Katmandou
+## Jour 3 Katmandou {#jour-3}
 
 Marchez vers un point de vue de Nagarkot avant le lever du soleil, puis prenez le bus local retour par Bhaktapur vers Katmandou. Par matin clair, le panorama himalayen apparaît derrière la vallée de Katmandou.
 
 À Katmandou, visitez **Boudhanath** d’abord et faites un tour complet du stupa au niveau de la rue. Continuez vers **Pashupatinath**, dont le complexe longe les deux côtés de la rivière Bagmati. Les non-hindous ne peuvent pas entrer dans le temple principal, mais les chemins de rive et les points de vue opposés aux ghats de crémation restent accessibles. Boudhanath et Pashupatinath sont assez proches pour se combiner avec un court bus sur la Ring Road ou à pied si le trafic est pire que la marche.
 
-## Jour 4 Patan
+## Jour 4 Patan {#jour-4}
 
 Depuis **Ratna Park bus stop**, prenez un microbus marqué **Patan Dhoka**. Il termine près de Patan Dhoka, à environ cinq minutes à pied de **Patan Durbar Square**. Si ce service ne charge pas, prenez un microbus Ratna Park-Lagankhel et marchez dans Patan depuis Lagankhel.
 
@@ -49,7 +49,7 @@ Visitez la place royale et le **Patan Museum**, puis continuez dans les ruelles 
 
 Prenez le bus de nuit depuis **Gongabu New Bus Park** vers Lumbini et gardez le billet jusqu’à l’arrêt final.
 
-## Jour 5 Lumbini
+## Jour 5 Lumbini {#jour-5}
 
 Visitez le **Maya Devi Temple** et les vestiges archéologiques autour de la marker stone, puis passez par l’**Ashoka Pillar** et le bassin sacré. Le site plus large de Lumbini s’étend bien au-delà de l’enclos du temple. Louez un vélo pour les zones monastiques est et ouest de chaque côté du canal central.
 

@@ -45,7 +45,7 @@ Welcome to **Aktau**, on the Caspian Sea. White cliffs, desalination plants, oil
 
 Walk the **Skalnaya Tropa Promenade**, the path below the cliffs, then look for the **Melovoy Lighthouse**. It's built on top of a residential building. The **Ship Statue** and **Taras Shevchenko monument** are also on the coastal walk.
 
-If you have more time in the city, do visit the mosque, the memorial and spot the countless soviet murals on the walls.
+If you have more time in the city, do visit the mosque, the memorial and spot the countless Soviet murals on the walls.
 
 Aktau was the starting point for my three-day **Mangystau** tour. I personally used [RedMaya Travel](https://redmaya-travel.kz/english).
 
@@ -141,7 +141,7 @@ If you have time, take the **cable car to Kok Tobe** for city views.
 
 Museums like the Central State Museum offer historical context, but I haven't been there, someone told me it was more or less the same than the one in Astana.
 
-The city feels like Grenoble (The french chicago) without delinquency.
+The city feels like Grenoble (The French chicago) without delinquency.
 
 It's a really nice city to spend some time in and to base yourself for hikes.
 

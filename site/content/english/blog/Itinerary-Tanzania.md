@@ -35,7 +35,7 @@ I got this one too, for Cheap safaris!
 #### [Tips for Cheap Safaris](/blog/tips-cheap-safaris)
 
 {{< worth-o-meter score="4" >}}
-Tanganyika: Yup. Low score due to safety. Amazing nature, but stay safe, use guides and nice accomodations whenever possible.
+Tanganyika: Yup. Low score due to safety. Amazing nature, but stay safe, use guides and nice accommodations whenever possible.
 The Serengeti and its natural beauty, as well as the stunning Kilwa Kisiwani raise the score.
 {{< /worth-o-meter >}}
 

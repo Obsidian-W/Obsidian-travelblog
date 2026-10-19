@@ -28,7 +28,7 @@ It's eaten by hands, like god intended.
 
 ## Cheese
 
-**Baursak** are pieces of fried dough served with tea or a meal. The name sounds unfortunately close to *ballsack* in English. (Or my english as a frenchman, anyway)
+**Baursak** are pieces of fried dough served with tea or a meal. The name sounds unfortunately close to *ballsack* in English. (Or my English as a frenchman, anyway)
 
 Fresh baursak are soft and slightly oily; small dry ones are better for a bus or train. They are not a dessert unless something sweet comes with them.
 
@@ -51,7 +51,7 @@ Order beshbarmak when you have people to share it with. Alone, get lagman, manty
 ## Astana
 
 Astana is the easier place for a full traditional spread, particularly if you want beshbarmak with kazy and tea. Central restaurants can be expensive. Russian food is more common than in Almaty. YOu can also find international brands in Astana, easily get fried chicken, pizzas, burgers...
-No tasty crousty, no french tacos. If you want to start the business, you can, I just gave you the tip.
+No tasty crousty, no French tacos. If you want to start the business, you can, I just gave you the tip.
 
 ## Mangystau and road food
 
@@ -73,7 +73,7 @@ Formal Kazakh dishes are only part of the picture. **Lagman** is a bowl of noodl
 ## Drinks
 
 **Kumys** is fermented mare's milk: sour, lightly fizzy and sometimes mildly alcoholic. 
-Kumis/Kumys is **not Halal** but central asian muslims love it. 
+Kumis/Kumys is **not Halal** but central Asian muslims love it. 
 
 **Shubat**, made from camel milk, is thicker and common in western Kazakhstan. Buy the smallest serving first.
 I got a taste in Mangystau: It's definitely not for everyone (I shared one glass with two other travellers, none liked it, but at least, we all tried!)

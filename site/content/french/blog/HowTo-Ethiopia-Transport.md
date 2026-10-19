@@ -131,7 +131,7 @@ Ethiopian Railways Corporation décrit le **train Addis Ababa-Djibouti** comme u
 
 La disponibilité pour les voyageurs et les procédures doivent être vérifiées directement avant de construire un itinéraire autour du train. Une ligne sur la carte ne garantit pas une liaison touristique régulière.
 
-## A éviter
+## À éviter
 
 - Ne planifie pas Lalibela, Gondar, Bahir Dar et les Simiens comme une boucle automatique sans confirmation sécurité récente.
 - Ne réserve pas une route isolée parce qu'un vieux blog dit que c'est standard.

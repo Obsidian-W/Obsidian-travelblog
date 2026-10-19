@@ -27,7 +27,7 @@ Prévois une demi-journée, plus du temps dehors pour les points de vue et photo
 
 ![Temple Jokhang à Lhassa](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jokhang%20Temple%20frontal%20view.jpg)
 
-Le **temple Jokhang** et le circuit du **Barkhor** forment le coeur du vieux Lhassa. C'est la partie la plus active de la ville pour un voyageur : pèlerins, boutiques, maisons de thé, présence policière, moulins à prières et grande place autour du temple.
+Le **temple Jokhang** et le circuit du **Barkhor** forment le cœur du vieux Lhassa. C'est la partie la plus active de la ville pour un voyageur : pèlerins, boutiques, maisons de thé, présence policière, moulins à prières et grande place autour du temple.
 
 Prévois une demi-journée. Marche lentement ; Lhassa est déjà assez haute pour que la précipitation gâche la visite. Les règles photo peuvent varier dans les lieux religieux, donc suis le guide et les panneaux. Le Barkhor est aussi l'endroit le plus simple pour ajouter une pause dans une maison de thé.
 
@@ -62,3 +62,7 @@ Prévois au moins deux jours de plus après Lhassa-Gyantse-Shigatse, davantage s
 - [12306 China Railway](https://www.12306.cn/en/) : vérification des accès ferroviaires.
 - [Guide de l'aéroport de Lhassa Gonggar, gouvernement du Tibet](https://www.xizang.gov.cn/zmhd/hygq/202602/t20260210_524341.html) : bus aéroport et accès.
 - [UNESCO - Ensemble historique du palais du Potala](https://whc.unesco.org/fr/list/707/) : contexte Potala, Jokhang et Norbulingka.
+
+### Autres sources
+
+- [UNESCO - Historic Ensemble of the Potala Palace, Lhasa](https://whc.unesco.org/en/list/707/)

@@ -151,3 +151,6 @@ Avant de payer, je vérifie :
 - les conditions de modification et d'annulation.
 
 Après paiement, j'ouvre la réservation sur le site de la compagnie. Si la compagnie ne trouve pas le dossier, je contacte le vendeur avant de considérer le billet confirmé.
+
+
+Si le premier vol est en retard, la deuxième compagnie ne vous doit normalement rien pour une réservation séparée. Les droits européens peuvent couvrir le vol retardé lui-même, mais ne protègent généralement pas ce billet de continuation distinct. Voir le [guide européen des droits des passagers](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm).

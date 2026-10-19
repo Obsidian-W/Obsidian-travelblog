@@ -11,7 +11,7 @@ draft: true
 
 > Note: this article was built from an AI-generated base, then totally rewritten because this was utter shit. Don't use AI.
 
-Price examples were checked online in August 2026, but msay not totally reflect reality.
+Price examples were checked online in August 2026, but may not totally reflect reality.
 
 ## Injera and how meals work
 
@@ -23,7 +23,7 @@ Injera is traditionally made with teff (an uncommon cereal) but restaurants may 
 Gluten-free travellers should confirm that the injera is made from pure teff, as mixed-flour versions contain gluten. The flavour is sour.
 Honestly, I found Injera pretty disgusting, I can't stand sour tastes. So I suffered for my three weeks and a half I had in Ethiopia.
 
-> Fun note: If a girl likes you, she'll handfeed yous Injera. Pretend you like it. It's important. I don't know if the reverse is true.
+> Fun note: If a girl likes you, she'll hand-feed you injera. Pretend you like it. It's important. I don't know if the reverse is true.
 
 ## Core stews and fasting plates
 
@@ -86,13 +86,13 @@ Current online menus are useful only as a reference, not as a national price lis
 
 ## Northern highlands
 
-In Lalibela, Gondar and Bahir Dar, expect injera meals, shiro, tibs, firfirand fasting plates around religious areas. Food choice may shrink when visitor numbers are low, during instability or during fuel and supply disruptions (ie: Always, lol)
+In Lalibela, Gondar and Bahir Dar, expect injera meals, shiro, tibs, firfir and fasting plates around religious areas. Food choice may shrink when visitor numbers are low, during instability or during fuel and supply disruptions (ie: Always, lol)
 
 The northern highlands are also where **tej**, Ethiopian honey wine, is easiest to encounter in restaurants or tej houses (Place full of drunkards). I don't know much about Tej, I'm sikh, I don't drink alcohol.
 
 ## Harar and the east
 
-Harar has a different food context from the northern highlands due to the Muslim heritage and the distrinc environment. It's more of a tea place, even if coffee is still widly produced.
+Harar has a different food context from the northern highlands due to the Muslim heritage and the distinct environment. It's more of a tea place, even if coffee is still widely produced.
 
 This is also the best place to try Somali food, rice is becoming common, Injera lass so.
 

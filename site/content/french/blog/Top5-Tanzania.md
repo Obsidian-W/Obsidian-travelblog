@@ -71,5 +71,5 @@ Prévois deux nuits si possible. Une journée complète est nécessaire pour les
 - [Portail TANAPA](https://tanzaniaparks.go.tz/tourism) : contexte officiel des parcs nationaux.
 - [Stone Town Conservation and Development Authority](https://stcda.go.tz/) : contexte officiel de conservation de Stone Town et du site UNESCO.
 - [Kilimanjaro International Airport - transport and parking](https://www.kilimanjaroairport.go.tz/pages/transport-and-car-parking) : taxis et navettes partagées vers Moshi et Arusha.
-- [Air Tanzania - shuttle services](https://airtanzania.co.tz/shuttle-services) : points de prise en charge à Arusha et Moshi.
+- [Air Tanzania - navette services](https://airtanzania.co.tz/shuttle-services) : points de prise en charge à Arusha et Moshi.
 - [UNESCO - Ruines de Kilwa Kisiwani et Songo Mnara](https://whc.unesco.org/en/list/144) : contexte historique et statut UNESCO.

@@ -9,6 +9,17 @@ ai_generated: true
 draft: true
 ---
 
+> **Lien affilié :** cet article contient un lien affilié GetYourGuide. Si vous réservez avec ce lien, je peux toucher une commission sans frais supplémentaires pour vous.
+
+## Une organisation différente selon la nationalité
+
+Les voyages sont beaucoup plus simples pour les citoyens chinois. L'article anglais distingue aussi les ressortissants indiens, notamment pour les pèlerinages à une montagne sacrée, de ceux des autres pays. Les conditions ne sont donc pas interchangeables : faites confirmer à l'agence celles de votre nationalité et de votre itinéraire.
+
+J'ai réservé [exactement ce circuit Lhassa–Katmandou avec TibetVista](https://www.tibettravel.org/lhasa-to-kathmandu-overland/), que j'ai adoré. Le lien direct n'est pas affilié et son adresse peut changer au fil du temps.
+
+[Ce circuit de huit jours de Lhassa au camp de base de l'Everest (lien affilié)](https://www.getyourguide.com/lhasa-l1057/8-days-lhasa-to-everest-base-camp-with-tibet-travel-permit-t1121389/?partner_id=H1N6CGH&utm_medium=online_publisher) est l'alternative la plus proche que j'ai trouvée sur GetYourGuide. Il **revient à Lhassa**, au lieu de continuer à Katmandou. Je ne l'ai pas fait ; je préfère toujours le voyage TibetVista que j'ai réellement suivi.
+
+
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
 Les informations de transport et de permis ont été vérifiées en août 2026 lorsqu'elles sont mentionnées.
@@ -57,11 +68,11 @@ Les vols partent souvent de **Chengdu**, **Chongqing**, **Xian**, **Kunming** et
 
 ## Aéroport de Lhassa vers la ville
 
-L'aéroport de Lhassa Gonggar est loin du centre. Un guide publié par le gouvernement du Tibet liste le bus aéroport civil entre Lhassa et l'aéroport, avec départ en ville au **No. 1 Niangre Road, Chengguan District** et prise en charge à l'aéroport devant la **porte 5 du terminal 3**. Il indique environ 70 minutes pour le trajet ville-aéroport et une billetterie via mini-programme ou guichets.
+L'aéroport de Gonggar est loin du centre. Le guide gouvernemental de l'aéroport indique le bus entre le **1 Niangre Road, district de Chengguan**, et l'arrêt devant la **porte 5 du terminal 3**. Environ **70 minutes**, avec billet au guichet ou dans le mini-programme **Lhasa Airport Express**.
 
-Ton agence peut inclure le transfert aéroport. Confirme avant d'arriver ; c'est souvent plus simple que de gérer le bus juste après un vol en altitude.
+Votre circuit peut inclure le transfert : confirmez pour ne pas payer deux fois. Sinon, demandez si le guide doit vous accueillir ou si vous pouvez prendre le bus public.
 
-Si la prise en charge n'est pas incluse, demande à l'agence si tu peux utiliser seul le bus public de l'aéroport ou si le guide doit te récupérer. Les règles et pratiques d'arrivée varient selon l'agence.
+> Ma prise en charge était comprise ; ces informations de bus proviennent des sources en ligne.
 
 ## Se déplacer dans Lhassa
 
@@ -83,23 +94,16 @@ Le secteur Jokhang-Barkhor se marche facilement. Potala, Sera, Drepung et Norbul
 
 Cette route inclut souvent cols, points de vue sur Yamdrok, Gyantse et arrivée à Shigatse. C'est une journée de transport avec visites, pas une excursion tranquille au lac. Garde couches chaudes, lunettes, eau et snacks dans le véhicule.
 
-**Trajet :** Lhassa vers Namtso  
-**Meilleure option :** Véhicule guidé si l'itinéraire et la saison le permettent.  
-**Durée typique :** Longue journée ou nuit selon route, météo et plan.  
-**Départ :** Hôtel à Lhassa.  
-**Arrivée :** Zone visiteur de Namtso ou arrêt approuvé.  
-**Réservation :** Agence.  
-**Notes importantes :** Altitude élevée, météo et état de route comptent. L'accès saisonnier peut changer.
+**Trajet :** Lhassa–Namtso  
+**Distance et durée :** environ **177 km et deux heures et demie dans chaque sens**, sans les arrêts.  
+**Transport :** pas de bus public fixe. Les visiteurs étrangers utilisent le véhicule de l'agence puis, si nécessaire, la navette du site.  
+**Saison :** principalement **mai à septembre** ; accès moins fiable en hiver.
 
-**Trajet :** Shigatse vers Everest Base Camp / secteur de Rongbuk  
-**Meilleure option :** Véhicule guidé.  
-**Durée typique :** Longue journée de route ; souvent répartie selon l'itinéraire et les règles.  
-**Départ :** Shigatse ou étape proche.  
-**Arrivée :** Secteur Everest/Rongbuk ou zone touristique désignée.  
-**Réservation :** Incluse dans le circuit avec les permis nécessaires.  
-**Notes importantes :** Météo, altitude, état de la route et contenu du permis comptent. Les conditions changent vite.
-
-Attends-toi à des checkpoints et à de longs tronçons avec peu de flexibilité. Si l'itinéraire inclut l'Everest, demande où tu dors, quel chauffage existe, si de l'oxygène est prévu et ce qui se passe si météo ou route bloquent la vue.
+**Trajet :** Shigatse–zone touristique de l'Everest et Rongbuk  
+**Programme habituel :** **deux jours aller-retour**. Les itinéraires officiels rejoignent la zone touristique et Rongbuk le premier jour, dorment près de la montagne puis reviennent par le belvédère de Gyawula le lendemain.  
+**Transport :** véhicule de l'agence prévu par l'itinéraire autorisé. Les bus interurbains ne permettent pas de franchir les contrôles ou de circuler dans le site.  
+**Limite de visite :** la zone touristique désignée près de Rongbuk. Le cœur protégé au-dessus, dont le camp des alpinistes, est fermé au tourisme ordinaire depuis **2018**.  
+**Nuit :** hébergement près de la montagne ou dans un village voisin ; établissement et chambre doivent figurer au contrat.
 
 **Trajet :** Secteur Everest vers Gyirong / frontière népalaise  
 **Meilleure option :** Véhicule guidé si ton itinéraire sort vers le Népal.  
@@ -118,7 +122,7 @@ Attends-toi à des checkpoints et à de longs tronçons avec peu de flexibilité
 
 L'agence peut demander scans du passeport et du visa avant de déposer les permis. Les délais varient, et les vacances peuvent ralentir.
 
-## A garder sur les journées de transport
+## À garder sur les journées de transport
 
 Garde passeport, copie du permis si fournie, couches chaudes, eau, snacks, lunettes de soleil, médicaments de base et batterie externe. Sur les longues routes, ne mets pas tout dans le coffre si tu peux en avoir besoin avant l'hôtel suivant.
 
@@ -140,3 +144,9 @@ Si tu es sujet au mal des transports, prépare-toi avant Yamdrok, Gyantse, Evere
 - [National Immigration Administration - FAQ permis de zone frontière 2026](https://s.nia.gov.cn/mps/bszy/dzbjtxz/blzy/202604/t20260414_1001.html) : contexte des permis frontaliers.
 - [Guide de l'aéroport de Lhassa Gonggar, gouvernement du Tibet](https://www.xizang.gov.cn/zmhd/hygq/202602/t20260210_524341.html) : bus aéroport, billetterie et temps ville-aéroport.
 - [12306 China Railway](https://www.12306.cn/en/) : réservation ferroviaire officielle et vérification des trains.
+
+### Autres sources
+
+- [Tibet Department of Culture and Tourism: Namtso visitor guidance](https://wlt.xizang.gov.cn/xwzx_69/xydt/202304/t20230425_352510.html)
+- [Tibet Department of Culture and Tourism: regional route guide](https://wlt.xizang.gov.cn/xwzx_69/wlyw/wldt/202507/t20250725_491772.html)
+- [Tibet Department of Culture and Tourism: Qomolangma core-area notice](https://wlt.xizang.gov.cn/xwzx_69/jdxw/201812/t20181219_119925.html)

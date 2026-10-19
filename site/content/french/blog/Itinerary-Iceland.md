@@ -17,16 +17,16 @@ draft: true
 
 | Jour | Destination | Notes |
 |:---:|:---|:---|
-| Jour 1 | [Reykjavik](#jour-1-reykjavik) | Hallgrimskirkja, vieux centre et port |
-| Jour 2 | [Reykjavik](#jour-2-reykjavik) | Musée national, Settlement Exhibition et piscine publique |
-| Jour 3 | [Côte sud](#jour-3-cote-sud) | Cascades, Reynisfjara et Jökulsárlón |
-| Jour 4 | [Landmannalaugar](#jour-4-landmannalaugar) | Journée complète dans les Highlands |
-| Jour 5 | [Cercle d’Or](#jour-5-cercle-dor) | Thingvellir, Geysir, Gullfoss et Kerið |
-| Jour 6 | [Fagradalsfjall](#jour-6-fagradalsfjall) | Randonnée vers l’éruption de 2021 |
+| Jour 1 | [Reykjavik](#jour-1) | Hallgrimskirkja, vieux centre et port |
+| Jour 2 | [Reykjavik](#jour-2) | Musée national, Settlement Exhibition et piscine publique |
+| Jour 3 | [Côte sud](#jour-3) | Cascades, Reynisfjara et Jökulsárlón |
+| Jour 4 | [Landmannalaugar](#jour-4) | Journée complète dans les Highlands |
+| Jour 5 | [Cercle d’Or](#jour-5) | Thingvellir, Geysir, Gullfoss et Kerið |
+| Jour 6 | [Fagradalsfjall](#jour-6) | Randonnée vers l’éruption de 2021 |
 
 Les quatre excursions partaient de Reykjavik et revenaient en ville le soir. J’ai gardé le même logement pendant tout le voyage. En solo, les tours coûtaient aussi moins cher que louer une voiture six jours, tout en permettant de voir quatre zones très différentes sans refaire le sac chaque matin.
 
-## Jour 1 Reykjavik
+## Jour 1 Reykjavik {#jour-1}
 
 Keflavik Airport est à l’extérieur de Reykjavik. Des navettes d’aéroport vont jusqu’à **BSÍ**, juste au sud du centre. L’option publique moins chère est [la ligne Strætó 55](https://www.straeto.is/en/route-planner/bus-kefairport), mais seulement certains départs continuent jusqu’à BSÍ.
 
@@ -34,7 +34,7 @@ Commencez par **Hallgrimskirkja** et montez à la tour pour la vue sur les toits
 
 De là, suivez l’eau vers **Harpa**, le **Sun Voyager** et le vieux port.
 
-## Jour 2 Reykjavik
+## Jour 2 Reykjavik {#jour-2}
 
 Commencez par le **musée national d’Islande** sur Suðurgata. L’exposition permanente couvre l’histoire du peuplement de l’Islande jusqu’au pays moderne.
 
@@ -42,13 +42,13 @@ Revenez autour de Tjörnin vers **Aðalstræti** et la **Settlement Exhibition**
 
 Continuez vers le vieux port et Grandi pour le **Reykjavik Maritime Museum**, puis terminez dans une piscine géothermale municipale. **Sundhöllin** est proche de Hallgrimskirkja ; **Vesturbæjarlaug** est à l’ouest du centre. Les deux ont des bassins et plusieurs bains chauds. [La liste officielle des piscines](https://visitreykjavik.is/service-category/public-pool) donne les horaires actuels.
 
-## Jour 3 Côte sud
+## Jour 3 Côte sud {#jour-3}
 
 ![Le chemin derrière Seljalandsfoss](images/blog/iceland2.jpg)
 
 ![Glace flottant sur Jökulsárlón](images/blog/iceland1.jpg)
 
-J’ai réservé cette journée en ligne depuis Reykjavik, avec pickup en ville au lieu de changer de logement. C’était la plus longue journée de route de la semaine : environ quatorze heures sur la Route 1, par les cascades et la côte de sable noir, avant d’atteindre **Jökulsárlón**. Une excursion classique sur la côte sud fait demi-tour vers Vík ; la réservation doit indiquer explicitement le lagon glaciaire.
+J’ai réservé cette journée en ligne depuis Reykjavik, avec prise en charge en ville au lieu de changer de logement. C’était la plus longue journée de route de la semaine : environ quatorze heures sur la Route 1, par les cascades et la côte de sable noir, avant d’atteindre **Jökulsárlón**. Une excursion classique sur la côte sud fait demi-tour vers Vík ; la réservation doit indiquer explicitement le lagon glaciaire.
 
 Le premier gros arrêt était **Seljalandsfoss**. En été, le chemin peut passer derrière la cascade, ce qui veut aussi dire finir mouillé même sans pluie.
 
@@ -60,7 +60,7 @@ Le trajet allait aussi jusqu’à **Jökulsárlón**, où des blocs de glace dé
 
 Pour cette version longue, cherchez un tour qui liste explicitement Reynisfjara et Jökulsárlón ; le trajet prend autour de quatorze heures. [Ce tour actuel vers Jökulsárlón](https://city-sightseeing.com/en/49/reykjavik/2527/jokulsarlon-glacier-lagoon-tour) suit cette route. Le [tour côte sud d’EastWest](https://eastwest.is/south-coast), plus court, fait demi-tour après Reynisfjara et Sólheimajökull et dure autour de dix heures.
 
-## Jour 4 Landmannalaugar
+## Jour 4 Landmannalaugar {#jour-4}
 
 ![Montagnes de rhyolite autour de Landmannalaugar](images/blog/iceland4.jpg)
 
@@ -72,7 +72,7 @@ La route traverse un terrain volcanique nu avant d’arriver aux montagnes de rh
 
 La route d’accès est saisonnière et la météo peut annuler le départ. [Ce tour actuel en Super Jeep vers Landmannalaugar](https://www.landmannalaugartours.com/landmannalaugar-safari-super-jeep-day-tour) part de Reykjavik pour une journée de douze heures en été. Pour les sentiers et la réserve, utilisez [la page officielle de Fjallabak](https://ust.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/outdoor-activities-and-hiking-trails/).
 
-## Jour 5 Cercle d’Or
+## Jour 5 Cercle d’Or {#jour-5}
 
 ![Gullfoss](images/blog/iceland5.jpg)
 
@@ -88,7 +88,7 @@ Mon itinéraire s’arrêtait aussi à **Kerið**, le cratère rouge utilisé co
 
 [Reykjavik Excursions exploite encore la route de base du Cercle d’Or](https://www.re.is/tour/golden-circle-direct/). Vérifiez les arrêts avant de réserver, car Kerið n’est pas inclus dans toutes les versions.
 
-## Jour 6 Fagradalsfjall
+## Jour 6 Fagradalsfjall {#jour-6}
 
 Ma dernière excursion allait vers l’éruption près de **Fagradalsfjall**, sur la péninsule de Reykjanes. Le véhicule servait seulement au transfert depuis Reykjavik ; il fallait ensuite marcher sur un terrain volcanique exposé pour atteindre le point de vue.
 

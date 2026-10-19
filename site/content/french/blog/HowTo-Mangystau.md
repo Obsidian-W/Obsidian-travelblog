@@ -8,6 +8,9 @@ continents: ["Asie"]
 draft: false
 ---
 
+> **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Si vous réservez avec ces liens, je peux toucher une commission sans frais supplémentaires pour vous.
+
+
 Le **Mangystau** est l’un de ces noms qu’on ne découvre qu’en regardant le Kazakhstan d’un peu plus près  
 (ou en passant trop de temps sur Instagram, comme moi).
 
@@ -25,9 +28,11 @@ C’était, au passage, le vol le moins cher vers le Kazakhstan.
 Voyager seul est *techniquement* possible, mais à moins de parler russe ou kazakh, de savoir conduire des heures sur des pistes pourries  
 et d’être prêt à camper sans assistance, **le plus simple reste le tour organisé localement**.
 
-J’ai rejoint un petit groupe via un opérateur local trouvé en ligne avant mon arrivée.  
+J'ai rejoint un petit groupe avec [RedMaya Travel](https://redmaya-travel.kz/english), trouvé en ligne avant mon arrivée. C'est l'agence que j'ai utilisée et ma première recommandation ; ce lien direct n'est pas affilié.
+
+Si RedMaya n'est pas disponible ou si vous préférez GetYourGuide, [ce circuit de trois jours en jeep avec camping dans le Mangystau (lien affilié)](https://www.getyourguide.com/mangystau-l191788/aktau-3-day-mangystau-jeep-tour-with-camping-t1131777/?partner_id=H1N6CGH&utm_medium=online_publisher) est une alternative. Je n'ai pas fait ce circuit précis : privilégiez RedMaya si possible.  
 Nous étions six voyageurs répartis dans deux voitures, chacune avec un chauffeur, et un guide pour nous accompagner.  
-Les trois formaient une même famille : rôdés, bien équipés, autonomes (et excellents cuisiniers de camp !).
+Les trois formaient une même famille : rodés, bien équipés, autonomes (et excellents cuisiniers de camp !).
 
 Les distances sont **immenses**, les routes **déroutantes**, et les points d’intérêt très espacés.  
 Impossible de recommander d’y aller seul — et **n’imaginez même pas** le faire en transport public : il n’y en a presque pas.  
@@ -46,7 +51,9 @@ Les repas étaient un mélange de cantines locales et de cuisine de camp.
 - **Campement** : étonnamment bon ! copieux, varié, et cuisiné sur le feu.  
 - **À prévoir** : quelques snacks à partager, toujours une bonne idée.  
 
-Ils ont même géré les allergies alimentaires sans souci, chapeau.
+Ils ont même géré les allergies alimentaires sans souci, chapeau. Je ne peux pas manger de tomates : voilà pourquoi vous ne voyez pas beaucoup de plats à base de tomate sur ce site.
+
+Nous avons aussi croisé deux fois des touristes russes perdus. Certains traversent la région à vélo : c'est donc possible, même si ce n'est pas ma solution.
 
 ---
 
@@ -71,8 +78,7 @@ puis camping sous un ciel plein d’étoiles.
 
 ## Guides & Chauffeurs
 
-Notre guide était passionné, bavard et très… kazakh dans l’âme.  
-(Il a donné de la profondeur au voyage, au-delà des paysages — jolie phrase, merci ChatGPT.)
+Notre guide connaissait bien la région et aimait discuter. Il expliquait les lieux visités et l'organisation familiale de l'itinéraire, des camps et des repas.
 
 Les deux chauffeurs géraient les pistes et le sable sans broncher.  
 Leur anglais était limité, mais la communication fonctionnait :  
@@ -92,12 +98,16 @@ surtout vu le faible nombre de visiteurs pour l’instant.
 
 ---
 
+## Météo
+
+En juillet, il faisait plus de **40 °C**, avec un air surtout sec. C'est plus supportable que les récents étés humides français, mais le soleil est impitoyable et l'absence d'ombre rend la chaleur trompeuse. Les coups de chaleur sont fréquents : prenez lunettes, chapeau, casquette ou ombrelle et de l'eau. Aktau est plus fraîche mais plus humide, à cause de la mer.
+
 ## Infos pratiques
 
 - **Meilleure saison** : printemps et automne. Été = canicule, hiver = vent glacial.  
 - **À emporter** : vêtements en couches, bonnes chaussures, crème solaire, chapeau.  
 - **Réseau mobile** : quasi nul dans le désert.  
-- **Toilettes** : version sauvage, rien d’autre.  
+- **Toilettes** : camping sauvage, donc souvent en pleine nature ; il existe toutefois quelques installations que les guides connaissent.  
 - **Nuit** : camping obligatoire, souvent venteux.  
 
 ---

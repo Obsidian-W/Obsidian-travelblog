@@ -18,7 +18,7 @@ draft: false
 
 Before diving into my itinerary, a few considerations:
 
-- English is the Lingua Franca in the region, but in Rwanda many people speak french instead
+- English is the Lingua Franca in the region, but in Rwanda many people speak French instead
 - Backpacking is not a big thing in East Africa
 - It might be dangerous at times, I don't recommend going alone
 - It's by no mean a cheap destination
@@ -109,7 +109,7 @@ The trip was reduced because of what happened in Tanzania.
 
 ### So which walking road (if you wanna walk) do?
 
-Start near the indepence monument, go south to the Shiva Temple and the Shwaminarayan Mandir (It's interesting to see, I swear!), then all the way 
+Start near the independence monument, go south to the Shiva Temple and the Swaminarayan Mandir (It's interesting to see, I swear!), then all the way 
 to the **Kabaka's Palace**. That's when I realized it wasn't a walkable city, so I took a boda-boda to the Kasubi's tombs (and ate my rolex nearby as it wasn't open yet).
 
 And just like that... It was 5 PM. So I came back before night. This covered the west side of Kampala!
@@ -134,7 +134,7 @@ Then, because it wasn't over. Around 7:30PM, I ate and went further in the mount
 This last part took forever, I swear. With the driver we had to carry the motorbike through some sections. It wasn't just construction, a landslide might have happened.
 Oh, we also did that in the dark, since I arrived so late...
 
-Around 9:00PM I was at my accomodation, **Rwenzori Trekking**, they have some tents and some housing. (And prepare tours to Rwenzoris)
+Around 9:00PM I was at my accommodation, **Rwenzori Trekking**, they have some tents and some housing. (And prepare tours to Rwenzoris)
 
 
 ## Day 4 Rwenzori Mountains
@@ -187,11 +187,11 @@ Essentially, to go on, you suffer. That's why Uganda is 7/10 and will not be mor
 And that's also why, to spend more time in Uganda before attempting trips like that, you can do Murchison, Rwenzori, 
 then a day in Kampala before the Lake Bunyoni. Trust me.
 
-I arrived around the late evening in Kabale, hopped on aboat across the docks (Ask a boda boda to take you there).
+I arrived around the late evening in Kabale, hopped on a boat across the docks (Ask a boda boda to take you there).
 
 **How to get a boat to Bunyonyi?**
 
-Well you'll need to negociate for the boat, by the docks. It was getting late, so the negociation was harder, but I essentially got the guy's phone number
+Well you'll need to negotiate for the boat, by the docks. It was getting late, so the negotiation was harder, but I essentially got the guy's phone number
 and the promise he would come and get me out of the island.
 
 > Fuel is really expensive in Uganda. So if the prices quoted are high, you got the reason. And it took more than 20 minutes by boat.
@@ -216,7 +216,7 @@ I know, it's a bit boring said this way, so let's be a bit more "yay".
 
 A boat tour will last a few hours (Better in the morning or evening), it will go around the main islands, sometimes with stops,
 there is a lot of wildlife and some things of interests (plants, local life, natural beauty...), so it's defo worth it.
-Otherwise, Byoona Amagara was aboslutely idyllic. There, I said it.
+Otherwise, Byoona Amagara was absolutely idyllic. There, I said it.
 
 ---
 
@@ -243,7 +243,7 @@ Even more time?
 Three words:
 
 **Bwindi**, **impenetrable**, **forest**.
-The **Bwind impenetrable forest** is very popular with those not hiking in rwanda, I hesitated to do so.
+The **Bwindi impenetrable forest** is very popular with those not hiking in rwanda, I hesitated to do so.
 From Kasese, it's an additional two to three days.
 
 The road to take is Kasese -> Kisoro > Rubuguri

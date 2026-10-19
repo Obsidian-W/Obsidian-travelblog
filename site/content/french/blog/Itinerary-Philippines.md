@@ -17,18 +17,18 @@ Je ne recommande pas Manille comme destination. Je m’en suis servi comme hub p
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Manille](#jour-1-manille) | Intramuros et Fort Santiago |
-| Jour 2 | [Banaue](#jour-2-banaue) | Arrivée en bus de nuit et points de vue |
-| Jour 3 | [Banaue](#jour-3-banaue) | Rizières et marche villageoise |
-| Jour 4 | [Banaue](#jour-4-banaue) | Batad ou second sentier local |
-| Jour 5 | [Manille](#jour-5-manille) | Quiapo, Binondo et midget boxing |
-| Jour 6 | [Manille](#jour-6-manille) | Musées nationaux et Rizal Park |
-| Jour 7 | [Panglao](#jour-7-panglao) | Vol, ferry et Alona Beach |
-| Jour 8 | [Bohol](#jour-8-bohol) | Chocolate Hills, tarsiers et Loboc |
-| Jour 9 | [Cebu](#jour-9-cebu) | Basilique, croix de Magellan et Fort San Pedro |
-| Jour 10 | [Moalboal](#jour-10-moalboal) | Sardine run, plongée ou canyoning à Kawasan |
+| Jour 1 | [Manille](#jour-1) | Intramuros et Fort Santiago |
+| Jour 2 | [Banaue](#jour-2) | Arrivée en bus de nuit et points de vue |
+| Jour 3 | [Banaue](#jour-3) | Rizières et marche villageoise |
+| Jour 4 | [Banaue](#jour-4) | Batad ou second sentier local |
+| Jour 5 | [Manille](#jour-5) | Quiapo, Binondo et midget boxing |
+| Jour 6 | [Manille](#jour-6) | Musées nationaux et Rizal Park |
+| Jour 7 | [Panglao](#jour-7) | Vol, ferry et Alona Beach |
+| Jour 8 | [Bohol](#jour-8) | Chocolate Hills, tarsiers et Loboc |
+| Jour 9 | [Cebu](#jour-9) | Basilique, croix de Magellan et Fort San Pedro |
+| Jour 10 | [Moalboal](#jour-10) | Sardine run, plongée ou canyoning à Kawasan |
 
-## Jour 1 Manille
+## Jour 1 Manille {#jour-1}
 
 ![Bâtiment colonial à Manille](images/blog/philipines4.jpg)
 
@@ -40,43 +40,43 @@ J’ai détesté une grande partie de Manille. Le trafic, les déchets et la sc�
 
 Pour le trajet vers Banaue, **Coda Lines** part de son terminal à Cubao, Quezon City. Le trajet de nuit prend normalement neuf à dix heures. Vérifiez le départ et le terminal imprimés sur le billet : Manille n’a pas une gare routière centrale unique pour les bus provinciaux. [Coda Lines vend la route sur son site](https://www.codalines.ph/).
 
-## Jour 2 Banaue
+## Jour 2 Banaue {#jour-2}
 
 ![Rizières autour de Banaue](images/blog/philipines1.jpg)
 
 Arrivez tôt et laissez le sac à l’hébergement. Les quatre points de vue routiers au-dessus de **Banaue** se suivent sur la route vers Bontoc : **NFA Viewpoint**, **Dayanara Viewpoint**, **Banaue Main Viewpoint** et **Nungulunan Viewpoint**. Arrangez un aller-retour couvrant les quatre au Banaue Tourism Office, puis marchez dans le marché public et le centre.
 
-## Jour 3 Banaue
+## Jour 3 Banaue {#jour-3}
 
 Utilisez la deuxième journée pour une marche guidée de Banaue vers les rizières autour. Demandez au bureau touristique quels chemins de village sont ouverts et fixez le village de fin et le trajet retour avant de quitter la ville.
 
 Un soir, j’ai commandé un chicken adobo. Les enfants du propriétaire ont tué le poulet à côté de moi après la commande. Je me suis senti mal après.
 
-## Jour 4 Banaue
+## Jour 4 Banaue {#jour-4}
 
 Utilisez le troisième jour pour **Batad**. Le transport routier depuis Banaue s’arrête au-dessus du village ; Batad n’a pas d’accès véhicule. Descendez dans l’amphithéâtre, traversez les terrasses jusqu’au point de vue et continuez vers **Tappiya Falls**. Le long escalier vers la cascade en fait une journée complète avec le trajet depuis Banaue et la remontée vers la route. [La page tourisme philippine de Batad](https://philippines.travel/spots/batad-terraces/index) liste l’accès et les informations actuelles d’enregistrement.
 
 Prenez le bus de nuit retour vers Manille.
 
-## Jour 5 Manille
+## Jour 5 Manille {#jour-5}
 
 Commencez à **Quiapo Church**, traversez le marché et marchez vers Escolta. Traversez la Pasig River par **Jones Bridge** vers Binondo, puis suivez Ongpin Street entre **Binondo Church**, la Chinatown Arch et **Seng Guan Temple**. Le parcours fait environ quatre kilomètres et garde la journée du même côté du centre de Manille.
 
 Le soir, je suis allé voir du midget boxing. C’était non éthique et ça ne devrait pas être traité comme une activité touristique normale. J’ai trouvé des parties du show divertissantes sur le moment, mais je ne recommande pas de soutenir ça.
 
-## Jour 6 Manille
+## Jour 6 Manille {#jour-6}
 
 Commencez au **National Museum of Fine Arts** pour *Spoliarium* de Juan Luna, puis traversez Padre Burgos Avenue vers le **National Museum of Anthropology**. Deux heures dans chaque musée remplissent la majorité de la journée. L’entrée est gratuite ; en septembre 2026, les deux étaient ouverts tous les jours de 09:00 à 18:00. [La page de réservation du National Museum](https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum) liste les horaires actuels et ne demande une réservation à l’avance que pour les groupes d’au moins 20 personnes.
 
 Depuis le musée d’anthropologie, traversez Rizal Park vers le monument Rizal et finissez sur le bayfront.
 
-## Jour 7 Panglao
+## Jour 7 Panglao {#jour-7}
 
 Prenez l’avion de Manille à **Mactan-Cebu Airport**. Le bus d’aéroport termine à **SM City Cebu** ; de là, continuez vers **Pier 1** pour le ferry rapide vers Tagbilaran. La traversée prend environ deux heures. Le vol et le ferry sont des réservations séparées.
 
 Au port de Tagbilaran, le bus public Southern Star va à Panglao. Descendez à **Alona** pour les hébergements autour d’Alona Beach.
 
-## Jour 8 Bohol
+## Jour 8 Bohol {#jour-8}
 
 ![Chocolate Hills](images/blog/philipines2.jpg)
 ![Côte autour de Bohol](images/blog/philipines3.jpg)
@@ -85,11 +85,11 @@ L’ordre utile pour un circuit campagne à Bohol est **Baclayon Church**, le **
 
 Sans tour, les bus pour Carmen partent de **Dao Integrated Bus Terminal** à Tagbilaran et s’arrêtent près de la route d’accès aux Chocolate Hills. Ça marche pour les collines seules ; ça ne relie pas les quatre arrêts en une journée pratique. [Le site touristique provincial de Bohol](https://tourism.bohol.gov.ph/moving-around-bohol/) liste Dao comme terminal pour les routes intérieures.
 
-## Jour 9 Cebu
+## Jour 9 Cebu {#jour-9}
 
 Prenez le ferry du matin de Tagbilaran vers Cebu Pier 1. **Fort San Pedro** est à environ dix minutes à pied. Continuez vers Magellan’s Cross et la **Basilica Minore del Santo Niño**, puis passez par Cebu Metropolitan Cathedral vers la Yap-Sandiego Ancestral House et Heritage of Cebu Monument à Parian. Terminez à Carbon Market. Le parcours complet fait environ quatre kilomètres et ne demande pas de transport depuis le port.
 
-## Jour 10 Moalboal
+## Jour 10 Moalboal {#jour-10}
 
 Les bateaux à requins-baleines d’**Oslob** nourrissent les requins pour les garder près des bateaux. L’activité est donc non éthique : [une recherche de long terme à Oslob](https://pmc.ncbi.nlm.nih.gov/articles/PMC7550605/) a trouvé des changements de résidence et de comportement de plongée associés au nourrissage. Ça ne devrait pas être traité comme une activité wildlife normale, et je ne la recommande pas.
 

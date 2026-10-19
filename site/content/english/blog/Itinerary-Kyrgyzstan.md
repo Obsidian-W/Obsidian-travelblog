@@ -14,7 +14,7 @@ draft: false
 [Full Central Asia itinerary](/blog/itinerary-central-asia/)
 
 {{< worth-o-meter score="8" >}}
-Natural beauty. (And personnal connections for me)
+Natural beauty. (And personal connections for me)
 It's a country that takes time to discover and to enjoy, but that is raw and pure.
 Nonetheless, a rough climate created rough men, so be careful around them.
 {{< /worth-o-meter >}}
@@ -102,7 +102,7 @@ My trek was booked separately. [this three-day Song-Kul trip with a yurt stay an
 
 Walk around the centre for the Russian-style wooden houses, the **Dungan Mosque** and the **Tatar Mosque**. The bazaar is built from shipping containers, and there are Dungan-Chinese restaurants around town.
 
-It's the most beautiful city of Kyrgyzstan, probably because it's a russian/dungan city. I really appreciated the abundance of Dungan food.
+It's the most beautiful city of Kyrgyzstan, probably because it's a Russian/dungan city. I really appreciated the abundance of Dungan food.
 
 The cafés had plenty of Russian and European visitors. There are also beaches on Issyk-Kul outside town, if you have more time here.
 

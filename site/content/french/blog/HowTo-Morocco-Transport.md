@@ -134,7 +134,7 @@ La frontière terrestre Maroc-Algérie est fermée. Vérifie les règles actuell
 
 ## Notes pratiques
 
-- Garde les noms de gares précis. A Casablanca surtout, **Casa Voyageurs** et **Casa Port** ne sont pas le même arrêt.
+- Garde les noms de gares précis. À Casablanca surtout, **Casa Voyageurs** et **Casa Port** ne sont pas le même arrêt.
 - Arrive plus tôt chez CTM si tu as un bagage en soute ; les conditions CTM distinguent les voyageurs avec et sans bagage.
 - Pour les grands taxis, demande si le prix annoncé correspond à une place ou à toute la voiture avant de charger ton sac.
 - Dans les médinas de Marrakech et Fès, les taxis ne peuvent souvent pas arriver jusqu'à la porte du riad. Demande à ton hébergement la porte ou la place accessible la plus proche.

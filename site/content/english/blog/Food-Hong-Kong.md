@@ -95,7 +95,7 @@ It's expensive, but they have famous egg tarts (And a lot of very good pastries)
 ## Vegetarian and gluten-free food
 
 A plate containing only vegetables may still use oyster sauce, shrimp paste, lard or meat stock. Buddhist vegetarian restaurants are generally a more reliable option, although it is still worth stating any dietary restrictions.
-Buddhist restaurants are also often a bit cheaper (probbly because they are vegetarian)
+Buddhist restaurants are also often a bit cheaper (probably because they are vegetarian)
 
 Gluten appears in soy sauce, noodles, dumpling wrappers, buns and bakery products. Rice itself is gluten-free, but sauces and cross-contamination remain concerns in a Cantonese kitchen. If the restriction is medical, carry a translated explanation that states it clearly.
 

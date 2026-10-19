@@ -4,8 +4,8 @@ title: "Deux semaines en Bolivie"
 description: "Quatorze jours entre Copacabana, La Paz, Tiwanaku, Torotoro, Sucre, Potosí et la traversée d'Uyuni en quatre jours jusqu'au Chili."
 image: "images/blog/bolivia5.jpg"
 itinerary_map: "/images/itineraries/bolivia.svg"
-categories: ["Itinerary", "South America", "Bolivia"]
-continents: ["South America"]
+categories: ["Itinéraire", "Amérique du Sud", "Bolivie"]
+continents: ["Amérique du Sud"]
 draft: false
 ---
 
@@ -19,17 +19,17 @@ draft: false
 
 | Jour | Destination | Programme |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Copacabana](#jour-1--copacabana) | Basilique, bord du lac et Cerro Calvario |
-| Jour 2 | [La Paz](#jour-2--la-paz) | Centre historique, marchés, téléphériques et Cholitas Wrestling |
-| Jour 3 | [Tiwanaku](#jour-3--excursion-à-tiwanaku) | Ruines et musées, puis bus de nuit vers Cochabamba |
-| Jours 4–5 | [Parc national Torotoro](#jours-4-et-5--parc-national-torotoro) | Empreintes de dinosaures, canyon El Vergel et grotte d'Umajalanta |
-| Jour 6 | [Route vers Sucre](#jour-6--route-vers-sucre) | Minibus via Cochabamba |
-| Jours 7–8 | [Sucre](#jours-7-et-8--sucre) | Centre historique, La Glorieta, musées et La Recoleta |
-| Jours 9–10 | [Potosí](#jours-9-et-10--potosí) | Centre colonial, Casa de la Moneda et mines du Cerro Rico |
-| Jour 11 | [Tour d'Uyuni — partie 1](#jour-11--tour-duyuni---partie-1) | Cimetière des trains, Colchani et salar |
-| Jours 12–14 | [Tour d'Uyuni — partie 2](#jours-12-13-et-14--tour-duyuni---partie-2) | Incahuasi, lagunes, geysers, sources chaudes et frontière chilienne |
+| Jour 1 | [Copacabana](#jour-1) | Basilique, bord du lac et Cerro Calvario |
+| Jour 2 | [La Paz](#jour-2) | Centre historique, marchés, téléphériques et Cholitas Wrestling |
+| Jour 3 | [Tiwanaku](#jour-3) | Ruines et musées, puis bus de nuit vers Cochabamba |
+| Jours 4–5 | [Parc national Torotoro](#jours-4-5) | Empreintes de dinosaures, canyon El Vergel et grotte d'Umajalanta |
+| Jour 6 | [Route vers Sucre](#jour-6) | Minibus via Cochabamba |
+| Jours 7–8 | [Sucre](#jours-7-8) | Centre historique, La Glorieta, musées et La Recoleta |
+| Jours 9–10 | [Potosí](#jours-9-10) | Centre colonial, Casa de la Moneda et mines du Cerro Rico |
+| Jour 11 | [Tour d'Uyuni — partie 1](#jour-11) | Cimetière des trains, Colchani et salar |
+| Jours 12–14 | [Tour d'Uyuni — partie 2](#jour-12) | Incahuasi, lagunes, geysers, sources chaudes et frontière chilienne |
 
-## Jour 1 : Copacabana
+## Jour 1 : Copacabana {#jour-1}
 
 > Ici, je pars du principe que vous arrivez du Pérou / de Puno, comme moi.
 > Si ce n'est pas votre cas et que vous n'avez jamais vu Copacabana et les îles, prenez trois jours depuis La Paz : c'est incontournable !
@@ -41,7 +41,7 @@ Le bus international depuis Puno s'arrête aux deux postes-frontières avant de 
 
 J'ai passé la nuit au Hostal Resto Bar Flor de mi Tierra.
 
-## Jour 2 : La Paz
+## Jour 2 : La Paz {#jour-2}
 
 ![Un marché à La Paz](images/blog/bolivia1.jpg)
 
@@ -71,7 +71,7 @@ Mais le mieux, c'est que si vous terminez votre journée à El Alto, profitez-en
 
 J'ai dormi au Socialtel La Paz (anciennement Selina).
 
-## Jour 3 : excursion à Tiwanaku
+## Jour 3 : excursion à Tiwanaku {#jour-3}
 
 Des minibus partagés quittent le secteur du **Cementerio General** pour **Tiwanaku**, à 72 km. Le trajet dure 1:30–2 heures et le site indique un tarif de 7 Bs (0,50€). Le complexe est ouvert de **09:00 à 16:00**.
 
@@ -98,7 +98,7 @@ De nombreux opérateurs font la liaison (donc chaque horaire peut correspondre �
 
 (Note : même les options plus « luxueuses » ne sont pas tellement meilleures ; au final, un bus reste un bus.)
 
-## Jours 4 et 5 : parc national Torotoro
+## Jours 4 et 5 : parc national Torotoro {#jours-4-5}
 
 > IMPORTANT, JE LE DIS TOUT DE SUITE : IL N'Y A PEUT-ÊTRE PAS DE DISTRIBUTEUR À TOROTORO !
 > Je me souviens d'un seul, vieux et abîmé ; s'il n'y en a qu'un, ne comptez pas sur lui pour avoir du liquide. Prenez assez d'argent !
@@ -150,7 +150,7 @@ J'ai dormi à l'Hostal Margaritas.
 > Petite histoire : j'ai partagé mon lit (dans une chambre individuelle, de mémoire) avec un inconnu parce que l'auberge était complète. La propriétaire, qui gérait tout seule avec ses enfants et un tout petit bébé, n'avait pas réalisé qu'elle avait accepté trop de réservations.
 > Tout s'est bien passé, et je suis allé aux grottes d'Umajalanta avec ce touriste belge le lendemain.
 
-## Jour 6 : route vers Sucre
+## Jour 6 : route vers Sucre {#jour-6}
 
 Cette journée est longue : Torotoro est vraiment un détour.
 
@@ -171,7 +171,7 @@ Heureusement, il s'est vite rempli.
 Je suis arrivé à Sucre vers 21:00. (Le trajet en minibus a donc duré 7 heures, plus rapide que le bus.) Juste à temps pour dormir au très chouette Oropeza Hostel.
 Ils ont des tables de ping-pong. Ça compte. Et un jardin. J'ai adoré.
 
-## Jours 7 et 8 : Sucre
+## Jours 7 et 8 : Sucre {#jours-7-8}
 
 ![Le centre de Sucre](images/blog/bolivia3.jpg)
 
@@ -200,7 +200,7 @@ De retour en ville, je suis allé au **Musée d'art indigène** (un bâtiment tr
 
 La Recoleta est un couvent franciscain fondé en 1600. Son musée comprend des cloîtres, un ancien chœur et le **Cedro Milenario**, un cèdre ancien dans le jardin ; les arches blanches de l'autre côté de la place forment le belvédère sur Sucre.
 
-## Jours 9 et 10 : Potosí
+## Jours 9 et 10 : Potosí {#jours-9-10}
 
 J'ai pris un minibus partagé le matin depuis le Central de Autobuses de Sucre pour **Potosí**.
 
@@ -229,7 +229,7 @@ Depuis la Nueva Terminal de Potosí, il y a aussi des bus à **16:00**, **17:00*
 Je suis arrivé la nuit, avant de commencer mon tour.
 J'ai dormi au Piedra Blanca Backpackers, assez basique, mais suffisant pour une nuit.
 
-## Jour 11 : tour d'Uyuni - partie 1
+## Jour 11 : tour d'Uyuni - partie 1 {#jour-11}
 
 Mon **voyage de quatre jours à Uyuni** a été réservé directement à Uyuni ; j'ai fait le tour des agences et trouvé la meilleure offre (pas la moins chère, mais plutôt bon marché. Avec le recul, payer un peu plus n'aurait pas été une mauvaise idée, surtout pour les hébergements de nuit).
 
@@ -244,7 +244,7 @@ Cela semble bizarre, mais c'est une journée supplémentaire qui peut être asse
 
 Je n'ai pas pris celui-ci, mais il est là pour la commodité (et pour financer le coût du serveur de ce site).
 
-## Jours 12, 13 et 14 : tour d'Uyuni - partie 2
+## Jours 12, 13 et 14 : tour d'Uyuni - partie 2 {#jour-12}
 
 ![Incahuasi pendant le tour d'Uyuni](images/blog/bolivia5.jpg)
 

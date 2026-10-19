@@ -11,7 +11,7 @@ draft: false
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-> Let's explore Rwanda, the most advanced african country.
+> Let's explore Rwanda, the most advanced African country.
 >
 > **Part of a larger journey:** this focused Rwanda guide is adapted from the Rwanda section of my [complete East Africa itinerary](/blog/itinerary-eastafrica/). Stay here for the Rwanda detail, or open the complete trip to see how I connected Tanzania, Kenya, Uganda and Rwanda over one month.
 
@@ -154,7 +154,7 @@ The Congo Nile Trail is a nice coastal walk you can do section by sections or as
 Back to Kigali (3 hours from Kibuye).  
 Use the last day for shopping, coffee, or just resting before your flight.  
 
-> This article isn't the most complete, it exists mostly because I could extract it from my african itinerary.
+> This article isn't the most complete, it exists mostly because I could extract it from my African itinerary.
 
 ## More days? 
 

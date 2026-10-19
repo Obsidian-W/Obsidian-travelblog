@@ -71,7 +71,7 @@ L’aéroport de Delhi est agréable, facile d’accès et simple à parcourir !
 
 ---
 
-![More from India](images/blog/india5.jpg)
+![Autres images de l'Inde](images/blog/india5.jpg)
 
 ## Le fossé entre hommes et femmes
 
@@ -164,7 +164,7 @@ Les étudiants sont amusants, mais fais attention : lorsqu’ils sont en groupe,
 
 ---
 
-![More from India](images/blog/india3.jpg)
+![Autres images de l'Inde](images/blog/india3.jpg)
 
 ## Note sur les trains
 

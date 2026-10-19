@@ -40,10 +40,14 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 
 **À lire aussi**
 
-- [Conseils pratiques pour voyager en Afrique](/blog/tips-africa)
-- [Comment faire un safari pas cher ?](/blog/tips-cheap-safaris)
+- [Conseils pratiques pour voyager en Afrique](/fr/blog/tips-africa)
+- [Comment faire un safari pas cher ?](/fr/blog/tips-cheap-safaris)
 
 ---
+
+{{< worth-o-meter score="6" >}}
+L'Afrique de l'Est aurait pu faire mieux, mais les arnaques, le manque de sécurité et les infrastructures insuffisantes m'empêchent, comme pour l'Éthiopie, de dépasser 6. Une région belle, vivante, culturellement passionnante, avec une histoire riche et des merveilles naturelles partout. Mais je la trouve encore mal préparée au tourisme, freinée par ses propres gouvernements.
+{{< /worth-o-meter >}}
 
 # Itinéraire rapide
 
@@ -53,33 +57,33 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 
 | Jour | Destination | Notes |
 |:----:|:------------:|:------|
-| Jour 1 | [Arusha](#jour-1-arrivee-a-arusha) | Arrivée, préparation safari |
-| Jour 2 | [Arusha - Tarangire](#jour-2-arusha-safari-tarangire) | Safari - Tarangire |
-| Jour 3 | [Arusha - Ngorongoro](#jour-3-arusha-safari-ngorongoro) | Safari - Ngorongoro |
-| Jour 4 | [Arusha - Manyara](#jour-4-arusha-safari-manyara) | Safari - Manyara |
-| Jour 5 | [Moshi](#jour-5-route-vers-moshi) | Transfert |
-| Jour 6 | [Moshi](#jour-6-moshi) | Randonnée au pied du Kilimandjaro |
-| Jour 7 | [Lushoto](#jour-7-route-vers-lushoto) | Route panoramique |
-| Jour 8 | [Lushoto](#jour-8-lushoto) | Randonnée |
-| Jour 9 | [Zanzibar](#jour-9-route-vers-zanzibar) | Long trajet Dar + ferry |
-| Jour 10 | [Stone Town](#jour-10-stone-town) | Vieille ville |
-| Jour 11 | [Prison Island](#jour-11-prison-island-et-plage) | Excursion + plage |
-| Jour 12 | [Zanzibar – épices](#jour-12-spice-tour) | Tour des épices + bateau |
-| Jour 13 | [Kilwa Masoko](#jour-13-route-vers-kilwa-masoko) | Côte sud |
-| Jour 14 | [Kilwa Kisiwani](#jour-14-kilwa-kisiwani) | Ruines |
-| Jour 15 | [Kilwa Kivanje](#jour-15-kilwa-kivanje) | Autour de Kilwa |
-| Jour 16 | [Dar es Salaam](#jour-16-retour-a-dar-es-salaam) | Retour + visite |
-| Jour 17 | [Bagamoyo](#jour-17-bagamoyo) | Dernier stop avant le Kenya |
+| Jour 1 | [Arusha](#jour-1) | Arrivée, préparation safari |
+| Jour 2 | [Arusha - Tarangire](#jour-2) | Safari - Tarangire |
+| Jour 3 | [Arusha - Ngorongoro](#jour-3) | Safari - Ngorongoro |
+| Jour 4 | [Arusha - Manyara](#jour-4) | Safari - Manyara |
+| Jour 5 | [Moshi](#jour-5) | Transfert |
+| Jour 6 | [Moshi](#jour-6) | Randonnée au pied du Kilimandjaro |
+| Jour 7 | [Lushoto](#jour-7) | Route panoramique |
+| Jour 8 | [Lushoto](#jour-8) | Randonnée |
+| Jour 9 | [Zanzibar](#jour-9) | Long trajet Dar + ferry |
+| Jour 10 | [Stone Town](#jour-10) | Vieille ville |
+| Jour 11 | [Prison Island](#jour-11) | Excursion + plage |
+| Jour 12 | [Zanzibar – épices](#jour-12) | Tour des épices + bateau |
+| Jour 13 | [Kilwa Masoko](#jour-13) | Côte sud |
+| Jour 14 | [Kilwa Kisiwani](#jour-14) | Ruines |
+| Jour 15 | [Kilwa Kivanje](#jour-15) | Autour de Kilwa |
+| Jour 16 | [Dar es Salaam](#jour-16) | Retour + visite |
+| Jour 17 | [Bagamoyo](#jour-17) | Dernier stop avant le Kenya |
 
 ## 🇰🇪 KENYA
 
 | Jour | Destination | Notes |
 |:----:|:------------:|:------|
-| Jour 18 | [Mombasa](#jour-18-route-vers-mombasa) | Passage frontière |
-| Jour 19 | [Mombasa](#jour-19-mombasa) | Vieille ville, plage |
-| Jour 20 | [Train vers Nairobi](#jour-20-route-vers-nairobi) | Train SGR |
-| Jour 21 | [Nairobi](#jour-21-nairobi) | Découverte |
-| Jour 22 | [Parc national de Nairobi](#jour-22-nairobi-national-park) | Excursion à la journée |
+| Jour 18 | [Mombasa](#jour-18) | Passage frontière |
+| Jour 19 | [Mombasa](#jour-19) | Vieille ville, plage |
+| Jour 20 | [Train vers Nairobi](#jour-20) | Train SGR |
+| Jour 21 | [Nairobi](#jour-21) | Découverte |
+| Jour 22 | [Parc national de Nairobi](#jour-22) | Excursion à la journée |
 
 ## 🇺🇬 OUGANDA
 
@@ -98,12 +102,12 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 
 | Jour | Destination | Notes |
 |:----:|:------------:|:------|
-| Jour 31 | [Kigali](#jour-31-route-vers-kigali) | Entrée au Rwanda |
-| Jour 32 | [Kigali](#jour-32-kigali) | Ville |
-| Jour 33 | [Ruhengeri](#jour-33-ruhengeri) | Nord du pays |
-| Jour 34 | [Volcanoes NP](#jour-34-volcanoes-np) | Randonnée/gorilles |
-| Jour 35 | [Kibuye](#jour-35-kibuye) | Bord du lac Kivu |
-| Jour 36 | [Kigali](#jour-36-retour-a-kigali) | Départ |
+| Jour 31 | [Kigali](#jour-31) | Entrée au Rwanda |
+| Jour 32 | [Kigali](#jour-32) | Ville |
+| Jour 33 | [Ruhengeri](#jour-33) | Nord du pays |
+| Jour 34 | [Volcanoes NP](#jour-34) | Randonnée/gorilles |
+| Jour 35 | [Kibuye](#jour-35) | Bord du lac Kivu |
+| Jour 36 | [Kigali](#jour-36) | Départ |
 
 > Voilà ! Clique sur les liens pour les descriptions détaillées.
 
@@ -111,9 +115,7 @@ Avant de plonger dans l’itinéraire, quelques remarques :
 
 # Tanzanie
 
-## Jour 1 – Arrivée à Arusha
-
-![Arusha](images/blog/hk-center.jpg)
+## Jour 1 – Arrivée à Arusha {#jour-1}
 
 La plupart des voyageurs arrivent à l’aéroport du **Kilimandjaro** et rejoignent **Arusha** en navette.  
 Certains traversent la frontière depuis le Kenya, d’autres prennent un long bus depuis **Dar es Salaam** (10 h).  
@@ -126,6 +128,8 @@ J’ai vu des paysages incroyables, des tribus, des situations bizarres. L’Afr
 Une fois à Arusha : prends une **SIM locale (Vodacom ou Airtel)**, retire du cash et fais le tour des agences de safari.  
 Les prix sont assez similaires, mais en négociant un peu, on s’en sort.
 
+J'ai réservé sur place. [Ce safari de trois jours à Tarangire, Ngorongoro et Manyara (lien affilié)](https://www.getyourguide.com/arusha-l505/arusha-3-day-safari-to-tarangire-ngorongoro-lake-manyara-t834536/?partner_id=H1N6CGH&utm_medium=online_publisher) suit le même ordre de parcs, mais je n'ai pas utilisé cet opérateur.
+
 > Les safaris de 3 jours peuvent se trouver sous 500 €, même à la dernière minute.
 
 Arusha n’est pas très jolie : quelques temples hindous, des jardins, deux-trois galeries d’art… Une après-midi suffit.
@@ -136,80 +140,88 @@ Bienvenue en Afrique d’ailleurs.
 
 ---
 
-## Jour 2 – Safari à Tarangire
+## Jour 2 – Safari à Tarangire {#jour-2}
 
 ![Tarangire](images/blog/tanzania.jpg)
+
+J'avais réservé avec l'agence liée à **Arusha Backpackers**, dont j'ai oublié le nom. Bessa, un Tunisien propriétaire de la première auberge de Tunis, m'a aidé à négocier. C'est toujours mieux avec un ami.
 
 Départ tôt le matin vers le **Tarangire National Park**, célèbre pour ses éléphants et ses baobabs.  
 J’étais surexcité, c’était mon premier vrai safari.  
 
-On dort sous tente dans un camp de base, avec musique locale et moustiques.  
+Les guides agréés restent normalement à distance des animaux pour les respecter. Le trajet m'a rappelé le zoo de Thoiry, mais c'était mon premier vrai safari et j'étais ravi.
+
+J'ai dormi sous tente dans un camp, où j'ai entendu **Jambo Bwana** pour la première fois. Simple et amusant.  
 Si t’as de la chance, tu vois déjà le *Big Five* dès le premier jour.
 
 ---
 
-## Jour 3 – Safari à Ngorongoro
+## Jour 3 – Safari à Ngorongoro {#jour-3}
 
 ![Ngorongoro](images/blog/tanzania2.jpg)
 
 Réveil avant le lever du soleil, descente dans le cratère.  
 Le brouillard était épais, la visibilité quasi nulle, mais les animaux étaient partout.  
 C’est un peu comme *Pokémon Snap*, tu photographies tout ce qui bouge.  
-On a campé au bord du cratère, la nuit, tu entends les hyènes au loin.
+Nous avions manqué la migration de quelques semaines à cause des changements météo. On a campé au bord du cratère ; la nuit, on entendait les animaux.
+
+> Le nom Ngorongoro viendrait du son d'une cloche.
 
 > Fun fact : Ngorongoro fait partie du Serengeti, même si c’est un parc séparé.
 
 ---
 
-## Jour 4 – Safari à Manyara
+## Jour 4 – Safari à Manyara {#jour-4}
 
 Dernier jour de safari au **Lac Manyara**.  
-J’étais fatigué — les safaris sont intenses — mais le coin est superbe.  
+Pour ce dernier jour : moins de monde, beaucoup d'oiseaux et de singes, mais j'étais épuisé après les premières heures. C'est celle que j'ai le moins aimée ; les safaris deviennent fatigants à la longue.  
 On peut y voir les lions grimpeurs d’arbres (si on a du bol).
 
 ---
 
-## Jour 5 – Route vers Moshi
+## Jour 5 – Route vers Moshi {#jour-5}
 
-Petit détour par des cascades proches d’Arusha : décevant.  
+Petit détour par des cascades proches d'Arusha : décevant. On voulait me faire payer sans arrêt pour des chutes assez banales. Les minibus pour Moshi se trouvent près de la gare routière principale d'Arusha ; on te les proposera même sans demander.  
 Puis bus ou minivan jusqu’à **Moshi** (2–3 h).  
 Ville au pied du **Kilimandjaro**, souvent visible par temps clair.
 
-> Anecdote : arrivée de nuit, mauvaise auberge, agression bizarre… Faites attention et arrivez toujours de jour.
+> Je suis arrivé de nuit sans carte SIM, que j'avais oublié d'acheter. À **Mad Vervet Moshi**, une auberge où circulait de la drogue, quelqu'un m'a emmené de force dans un hôtel avec des hommes nus. Évite cet endroit, fais attention et arrive de jour. Ce n'est pas une plaisanterie.
 
 ---
 
-## Jour 6 – Moshi
+## Jour 6 – Moshi {#jour-6}
 
 Encore secoué, j’ai fait une courte balade vers **Materuni Falls**.  
-Un conducteur de tuk-tuk adorable m’a aidé et hébergé.  
-Mais attention : la police locale n’est pas toujours “protectrice” si tu vois ce que je veux dire.
+[Cette excursion à Materuni avec café et transport depuis Moshi (lien affilié)](https://www.getyourguide.com/moshi-l32320/moshi-materuni-waterfalls-chemka-hot-springs-coffee-tour-t599387/?partner_id=H1N6CGH&utm_medium=online_publisher) est une alternative à réserver en ligne. J'avais réservé localement et n'ai pas utilisé cet opérateur.
+
+Un conducteur de tuk-tuk adorable m'a énormément aidé ; j'ai passé du temps avec sa famille et changé d'hôtel pour un endroit plus sûr.
+
+> Après mon passage à la police, un autre policier m'a abordé dans un restaurant en disant vouloir veiller sur ma sécurité. Il a ensuite envoyé des photos presque nues et tenté de me retrouver. J'ai dû le bloquer trois fois, car il appelait avec d'autres numéros.
 
 ---
 
-## Jour 7 – Route vers Lushoto
+## Jour 7 – Route vers Lushoto {#jour-7}
 
 Bus très matinal pour fuir Moshi.  
 6–7 h de route vers **Lushoto**, dans les **monts Usambara**.  
-Hébergement simple chez une famille locale, ambiance miel et télévision à pile.
+J'ai dormi dans une nouvelle auberge au bord de la route, un peu au-dessus de la ville. Emanuel et sa famille y faisaient de l'apiculture. Nous avons partagé des repas et regardé des émissions à la télévision locale. Mes souvenirs de cette étape restent flous après les événements de Moshi.
 
 ---
 
-## Jour 8 – Lushoto
+## Jour 8 – Lushoto {#jour-8}
 
 ![Lushoto](images/blog/lushoto.jpg)
 
 Randonnée jusqu’au **Irente Viewpoint** : superbes vues, gamins rieurs, sentiers paisibles.  
 Toujours en convalescence mentale à ce moment du voyage.
 
-## Jour 9 – Route vers Zanzibar
+## Jour 9 – Route vers Zanzibar {#jour-9}
 
 ![Dar](images/blog/dar.jpg)
-^*Dar es-Salaam depuis le port*
-
+*Dar es-Salaam depuis le port*
 Départ matinal vers **Dar es-Salaam** (6 à 7 h de bus).  
 Emanuel, le propriétaire de mon hébergement, a réservé le bus pour moi — super service.  
-Arrivé en ville vers 15 h, je saute sur un **boda-boda** pour le port : c’est la guerre là-bas.  
+Arrivé en ville vers 15 h 30–16 h, je saute sur un **boda-boda** pour le port : c’est la guerre là-bas.  
 Des vendeurs, des faux billets, des types collants... bref, chaos total.  
 Mais j’ai réussi à attraper le ferry du soir.
 
@@ -219,11 +231,10 @@ Stone Town, me voilà !
 
 ---
 
-## Jour 10 – Stone Town
+## Jour 10 – Stone Town {#jour-10}
 
 ![Zanzibar](images/blog/zanzibar2.jpg)
-^*Le dispensaire colonial, Stone Town*
-
+*Le dispensaire colonial, Stone Town*
 Exploration du **centre historique** :  
 le vieux fort, les marchés, la corniche et les ruelles labyrinthiques.  
 Les maisons arabes, les portes sculptées, les parfums d’épices — tout y est.  
@@ -236,35 +247,36 @@ Je trouve mieux le lendemain dans une gargote sans nom où je retournerai chaque
 
 ---
 
-## Jour 11 – Prison Island et Plage
+## Jour 11 – Prison Island et Plage {#jour-11}
 
 ![Zanzibar plage](images/blog/zanzibar.jpg)
-^*Pour les amateurs de sable et de soleil*
-
+*Pour les amateurs de sable et de soleil*
 Excursion à **Prison Island** (île Changuu) pour voir les tortues géantes.  
-L’île a un passé sinistre — ancienne prison d’esclaves — mais c’est très paisible aujourd’hui.  
+Visite des tortues et de l'ancienne prison, puis retour vers les plages.  
 L’après-midi, détente sur une **plage ou un banc de sable**, baignade, soleil, silence.  
 
-J’ai réservé avec une petite agence locale près du fort : simple, honnête, sympa.  
+J'ai réservé auprès d'une agence locale au fort, Jambo Tour ou un nom approchant : sympathique et bien organisée.
+
+[Cette excursion combinant Prison Island, Stone Town et une ferme d'épices (lien affilié)](https://www.getyourguide.com/zanzibar-city-l872/31-tour-prison-island-stone-ton-spice-farm-t632437/?partner_id=H1N6CGH&utm_medium=online_publisher) réunit mes deux journées suivantes en une. Je préférais les faire séparément avec l'agence locale du fort.  
 > Si tu veux du confort, installe-toi à **Paje** ou **Nungwi** — mais c’est plus cher, plus touristique, et rempli de gigolos.
 
 ---
 
-## Jour 12 – Circuit des Épices
+## Jour 12 – Circuit des Épices {#jour-12}
 
 J’ai suivi un **spice tour**, une visite guidée de plantations d’épices.  
-Touriste, certes, mais instructif : on goûte, on sent, on apprend.  
+Touristique, certes, mais instructif : on goûte, on sent, on apprend.  
 Et j’étais seul, donc c’était presque une visite privée.  
 J’ai adoré.
 
 Le soir, retour à **Dar es-Salaam** par le ferry.  
-Dernier coucher de soleil sur l’océan Indien avant de plonger à nouveau dans la poussière du continent.
+Un coucher de soleil en dhow ne convient que si tu restes une nuit de plus à Zanzibar : le faire avant le ferry rendrait la soirée trop serrée. Dors à Dar près d'une liaison pratique pour le bus du lendemain.
 
 ---
 
-## Jour 13 – Route vers Kilwa Masoko
+## Jour 13 – Route vers Kilwa Masoko {#jour-13}
 
-Longue journée : ferry, puis bus vers le sud (8 à 9 h).  
+Le ferry a été pris la veille : cette journée est déjà occupée par **huit à neuf heures de bus** vers le sud. Les départs que j'avais trouvés étaient à **5 h 30** et **midi** ; j'ai pris mon bus vers **7 h**, peut-être en retard.  
 J’ai pris le bus à **Mbagala Rangi Tatu**, station infernale.  
 Les snacks vendus là-bas sont délicieux : petites boules frites, façon malgache.  
 
@@ -272,27 +284,26 @@ Le trajet est interminable, la route monotone, mais l’arrivée à **Kilwa Maso
 petite ville tranquille au bord de l’eau.  
 Je dors au **Slow Leopard**, une auberge géniale (ils ont aussi une antenne à Dar).
 
-Soirée détente et réservation de la visite pour le lendemain.
+Soirée détente et réservation auprès du **bureau d'information touristique**, le choix le plus évident. Je n'ai pas trouvé de circuit GetYourGuide actuel qui visite réellement **Kilwa Kisiwani** : organise bateau, guide et ruines avec le bureau de Kilwa, sans remplacer cela par une excursion générique à Zanzibar ou à Dar.
 
 ---
 
-## Jour 14 – Kilwa Kisiwani
+## Jour 14 – Kilwa Kisiwani {#jour-14}
 
 ![Kilwa](images/blog/kilwa.jpg)
-^*Lumière dure, site splendide*
-
+*Lumière dure, site splendide*
 Excursion en bateau vers **Kilwa Kisiwani**, une île classée à l’UNESCO.  
 Ancien comptoir swahili, ruines de mosquées, palais et fortifications.  
 Je suis venu parce que c’est une “Merveille du Monde” dans *Civilization VI*.  
 Pas déçu du voyage.
 
 Seulement deux touristes sur place, silence total, vent marin.  
-Le guide était passionné, on a exploré la moitié de l’île.  
+J'avais rencontré un scientifique en route : nous étions les deux seuls touristes sur notre bateau.  
 Un peu cher, un peu crevant, mais superbe.
 
 ---
 
-## Jour 15 – Kilwa Kivanje
+## Jour 15 – Kilwa Kivanje {#jour-15}
 
 Autre journée paisible à **Kilwa Kivanje**.  
 Visite des villages voisins, discussions avec les habitants, bain de soleil.  
@@ -301,22 +312,21 @@ Fin d’après-midi à la plage, enfin seul avec la mer.
 
 ---
 
-## Jour 16 – Retour à Dar es-Salaam
+## Jour 16 – Retour à Dar es-Salaam {#jour-16}
 
 Retour vers le nord (6 à 7 h).  
 Rien à signaler : chaleur, klaxons, fatigue.  
-Dar ne m’a pas laissé un grand souvenir — trop de bruit, trop de monde, trop de pickpockets.
+Dar ne m'a pas laissé un grand souvenir : je l'ai trouvée sans âme. Au total, cela faisait deux journées de transport pour voir Kilwa ; à toi de décider si le détour te convient.
 
 > Dar est connue pour être un peu dangereuse la nuit.  
 > Déplace-toi en taxi ou rentre tôt.
 
 ---
 
-## Jour 17 – Bagamoyo
+## Jour 17 – Bagamoyo {#jour-17}
 
 ![Bagamoyo](images/blog/bagamoyo.jpg)
-^*Les vestiges coloniaux de la côte swahilie*
-
+*Les vestiges coloniaux de la côte swahilie*
 Petite ville côtière à 1 h 30 au nord de Dar.  
 **Bagamoyo** fut autrefois un grand port d’esclaves et de commerçants arabes.  
 Aujourd’hui, c’est calme, poussiéreux, plein de charme.  
@@ -324,14 +334,10 @@ Aujourd’hui, c’est calme, poussiéreux, plein de charme.
 Vieilles maisons coloniales, palmiers, pêcheurs — une belle pause avant le Kenya.  
 Tu peux dormir ici, à Dar, ou plus loin à **Tanga** selon ton plan.
 
-> Pour ma part, je ne sais plus trop… c’est à ce moment que le flou est revenu.
-
----
-
 # 🇰🇪 KENYA
 ---
 
-## Jour 18 – Route vers Mombasa
+## Jour 18 – Route vers Mombasa {#jour-18}
 
 Départ matinal vers le **poste-frontière de Lunga Lunga**.  
 Une journée entière de bus, lente et poussiéreuse, pour arriver à **Mombasa** en soirée.  
@@ -343,7 +349,7 @@ Pas de backpackers hostels ici : il faut improviser.
 
 ---
 
-## Jour 19 – Mombasa
+## Jour 19 – Mombasa {#jour-19}
 
 ![Mombasa](images/blog/mbasa.jpg)
 
@@ -356,7 +362,7 @@ On peut voir des milliers de chauves-souris accrochées aux arbres du centre-vil
 
 ---
 
-## Jour 20 – Train vers Nairobi
+## Jour 20 – Train vers Nairobi {#jour-20}
 
 Prends le train rapide **SGR** (Standard Gauge Railway) vers **Nairobi**.  
 6 heures pile, clim, sièges confortables, ponctuel — un miracle africain.  
@@ -367,7 +373,7 @@ scanner, bagages, file d’attente, etc.
 
 ---
 
-## Jour 21 – Nairobi
+## Jour 21 – Nairobi {#jour-21}
 
 Retour à la “ville moderne” : buildings, trafic, chaos.  
 Je me suis promené au **Musée National**, j’ai payé deux fois malgré moi.  
@@ -382,7 +388,9 @@ Nairobi, c’est *fort*.
 
 ---
 
-## Jour 22 – Nairobi (Jour 2)
+[Cette excursion au parc national de Nairobi propose une demi-journée (lien affilié)](https://www.getyourguide.com/en-gb/nairobi-l267/nairobi-national-park-full-day-of-half-day-tour-with-guide-t11393/?partner_id=H1N6CGH&utm_medium=online_publisher). Je n'ai pas utilisé cet opérateur. On peut aussi visiter le centre des girafes ou le musée Karen Blixen.
+
+## Jour 22 – Nairobi (Jour 2) {#jour-22}
 
 Excursion au **Parc National de Nairobi**, juste à la sortie de la ville.  
 Tu peux y aller avec un tour organisé d’une demi-journée.  
@@ -504,67 +512,72 @@ Avec encore plus de temps, prévois deux ou trois jours pour la **forêt impén�
 ---
 
 # 🇷🇼 RWANDA
----
 
-## Jour 31 – Route vers Kigali
+## Jour 31 – Route vers Kigali {#jour-31}
 
-Depuis Kabale, j’ai trouvé sans difficulté un bus ou un minibus pour **Gatuna**, à la frontière rwandaise. Le poste m’a impressionné par sa modernité et la gentillesse du personnel.
-
-De l’autre côté, plusieurs rabatteurs proposent immédiatement un transport. J’ai pris un grand bus déjà bien rempli qui partait tout de suite : pas de mensonge, pas de prix gonflé, tout s’est déroulé sans problème jusqu’à **Kigali**.
-
----
-
-## Jour 32 – Kigali
-
-![Kigali](images/blog/rwanda2.jpg)
-
-Visite du **Mémorial du Génocide** – dur, mais nécessaire.  
-Un café, un “rolex” (omelette roulée dans un chapati), et un tour dans les rues impeccables.  
-Les motos-taxis sont nombreux et fiables, les gens adorables.
-
-> Lecture recommandée : *Petit Pays* de Gaël Faye.  
-> Un livre magnifique pour comprendre le Rwanda moderne.
+Passage de la frontière à **Katuna**.  
+Tout est fluide et bien organisé.  
+Arrivée à **Kigali** dans l’après-midi : ville propre, vallonnée et calme.  
+Je me suis offert une journée de repos. Je venais d'Ouganda ; j'avais prévu de rejoindre directement Ruhengeri, mais sa frontière est difficile d'accès sans véhicule personnel. Si tu arrives en avion, garde aussi cette journée pour marcher, manger, acheter une SIM et préparer la suite. On peut également venir par la Tanzanie, mais je n'ai pas testé cette route.
 
 ---
 
-## Jour 33 – Ruhengeri
+## Jour 32 – Kigali {#jour-32}
+
+![kigali](images/blog/rwanda2.jpg)
+*Kigali, entre mémoire et modernité*
+Visite du **Mémorial du Génocide**, pause café, dégustation d’un **Rolex** (œuf roulé), et passage devant le **centre de conférences**.  
+
+La ville est d’une propreté exemplaire et facile à parcourir en **moto-taxi**.  
+Attention toutefois : le mémorial est bouleversant, très dur émotionnellement. Ayant travaillé en maternelle, j'ai trouvé la partie consacrée aux enfants particulièrement insoutenable.  
+
+Il n’y a pas tant de choses à voir à Kigali, mais j’adore cette atmosphère tranquille.
+
+> À lire : *Petit Pays* de Gaël Faye — un superbe roman pour comprendre la vie de ceux qui ont survécu au génocide.
+
+---
+
+## Jour 33 – Ruhengeri {#jour-33}
 
 Depuis la gare routière de Nyabugogo à Kigali, prends un bus direct pour Musanze/Ruhengeri (environ 3h30).
 Ruhengeri est la porte d’entrée du **Parc national des Volcans**.
-Le climat plus frais et les vues sur les montagnes en font un endroit agréable pour ralentir. J’en ai profité pour lire, jouer aux jeux vidéo et manger dans les restaurants locaux.
+Le climat plus frais et les vues sur les montagnes en font un endroit agréable pour ralentir. J’en ai profité pour lire, jouer aux jeux vidéo et manger dans quelques restaurants. J'ai appris ensuite qu'on peut observer des animaux autour de la ville, mais mieux vaut demander à un guide local. Sinon, se promener en ville reste agréable.
 
 ---
 
-## Jour 34 – Parc des Volcans
+## Jour 34 Parc national des Volcans {#jour-34}
 
-![Volcanoes](images/blog/rwanda1.jpg)
+![Parc national des Volcans](images/blog/rwanda1.jpg)
 
-Randonnée dans le parc, possibilité de voir les gorilles si ton budget le permet (cher !).  
-Sinon, il existe une randonnée au cratère où on peut parfois les croiser.  
-Pas garanti, mais magique si ça arrive.
+Le trek des gorilles est une option si ton budget le permet et si tu souhaites soutenir la protection de la faune. Sinon, la **randonnée du mont Bisoke**, jusqu'à sa caldeira, coûte moins cher. Un voyageur rencontré sur place avait vu des gorilles la veille ; moi non. Ce n'est donc jamais garanti, mais la randonnée était un moment fort.
 
-> Attention aux escroqueries : certains promettent des “gorilles pas chers” — ça n’existe pas.  
+> Les randonnées comme l'observation des gorilles nécessitent un permis. La randonnée n'est pas gratuite.
 
----
+Rejoins le poste des rangers tôt en bus, voiture ou trajet partagé, enregistre-toi et retrouve d'autres marcheurs. Tu peux réserver sur **Visit Rwanda**. Le tarif indiqué pour **août 2026** est **75 $ / environ 65 €** pour Bisoke.
 
-## Jour 35 – Kibuye
+J'ai organisé la randonnée au parc. [Cette randonnée à Bisoke depuis Kigali (lien affilié)](https://www.getyourguide.com/volcanoes-national-park-rwanda-l144502/1-day-hiking-bisoke-volcano-t528173/?partner_id=H1N6CGH&utm_medium=online_publisher) propose transport, permis et guide ; je n'ai pas utilisé cet opérateur.
 
-Bus vers **Kibuye**, sur les rives du **lac Kivu**.  
-4 heures de route magnifique à travers les collines vertes.  
-Petite ville paisible, pêcheurs, couchers de soleil de folie.
+Pour les gorilles, les tarifs indiqués sont **1 500 $** pour les étrangers non-résidents, **500 $** pour les résidents étrangers au Rwanda et les titulaires d'un passeport africain, et **200 $** pour les citoyens de la Communauté d'Afrique de l'Est, Rwanda compris. Vérifie le tarif correspondant à ta situation.
 
-> Il existe un long sentier appelé **Congo Nile Trail**, 5 jours de marche le long du lac.  
-> Mon plan initial, que j’ai dû abandonner — mais ça reste tentant.
+> Des locaux proposent parfois un accès « bon marché » aux gorilles. D'après les témoignages recueillis, les gorilles ne sont jamais au rendez-vous. Je n'ai pas testé.
 
----
+[Ce trek des gorilles à la journée depuis Kigali (lien affilié)](https://www.getyourguide.com/rwanda-l169163/1-day-rwanda-gorilla-trekking-volcanoes-national-park-t854178/?partner_id=H1N6CGH&utm_medium=online_publisher) est une option à réserver à l'avance. Le **permis de 1 500 $ est annoncé séparément** : ajoute-le au prix pour comparer. Je n'ai pas pris cette excursion.
 
-## Jour 36 – Retour à Kigali
+## Jour 35 – Kibuye {#jour-35}
 
-Retour vers la capitale (3 h).  
-Dernier café, derniers achats, derniers remerciements.  
-C’est la fin du voyage, et franchement, j’étais épuisé.  
-Mais c’est l’un des plus beaux périples que j’ai faits.
+Bus vers le sud (4 h env.).  
+**Kibuye** est posée sur les rives du **lac Kivu**, parsemé d’îlots et de barques de pêche.  
+Coucher de soleil magnifique, ambiance paisible. J'avais visité un endroit similaire en Ouganda : prends un livre, repose-toi, nage et profite de la vie locale. Selon tes goûts, tu peux facilement y passer plusieurs jours.  
+
+> Si tu as plus de temps, fais le **Congo Nile Trail**, mon projet initial :  
+> 5 jours ou plus de marche le long du lac. Un peu répétitif paraît-il, mais charmant.
 
 ---
-Commentaires ?
+
+## Jour 36 – Retour à Kigali {#jour-36}
+
+Retour à **Kigali** (3 h env.).  
+Dernier café, un peu de shopping ou simplement du repos avant le vol retour.  
+Cet article existe surtout parce que j'ai pu l'extraire de mon grand itinéraire africain ; il ne prétend pas tout couvrir.
+
 ---

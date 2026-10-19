@@ -23,28 +23,32 @@ draft: false
 
 Ces pages reprennent les journées correspondantes du parcours complet et les présentent sous forme d'itinéraires pratiques par pays.
 
+{{< worth-o-meter score="9" >}}
+Un magnifique voyage dans certaines des plus belles montagnes du monde, mais aussi une découverte culinaire et culturelle. Incontournable ; prévoyez plutôt trois semaines ou davantage, car c'est un paradis de la randonnée avec énormément de choses à faire.
+{{< /worth-o-meter >}}
+
 # L'itinéraire en bref
 
 ## 🇦🇿🇬🇪🇦🇲 Azerbaïdjan - Géorgie - Arménie
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Bakou](#jour-1--arrivée-à-bakou-azerbaïdjan) | Arrivée à Bakou et vieille ville |
-| Jour 2 | [Bakou](#jour-2--bakou) | Le nouveau Bakou |
-| Jour 3 | [Bakou](#jour-3--excursion-à-qobustan) | Qobustan, volcans de boue et temple du Feu |
-| Jour 4 | [Xinaliq](#jour-4--xinaliq) | Excursion à Xınalıq / Khinaliq |
-| Jour 5 | [Sheki](#jour-5--sheki) | Vieille ville et palais |
-| Jour 6 | [Sheki](#jour-6--kish) | Randonnée à Kish et forteresse de Galarsan |
-| Jour 7 | [Sighnaghi](#jour-7--sighnaghi) | Passage en Géorgie |
-| Jour 8 | [Tbilissi](#jour-8--vieille-ville-de-tbilissi) | Vieille ville de Tbilissi |
-| Jour 9 | [Tbilissi](#jour-9--encore-tbilissi) | Encore Tbilissi |
-| Jour 10 | [Gori](#jour-10--excursion-à-gori) | Gori et Uplistsikhe |
-| Jour 11 | [Kazbegi](#jour-11--stepantsminda-et-le-mont-kazbegi) | Stepantsminda et mont Kazbegi |
-| Jour 12 | [Mtskheta](#jour-12--excursion-à-mtskheta) | Ancienne capitale géorgienne |
-| Jour 13 | [Alaverdi](#jour-13--alaverdi-haghpat-et-sanahin) | Monastères de Haghpat et Sanahin |
-| Jour 14 | [Erevan](#jour-14--erevan) | Centre d'Erevan |
-| Jour 15 | [Erevan](#jour-15--encore-erevan) | Etchmiadzin et musées |
-| Jour 16 | [Erevan](#jour-16--garni-la-symphonie-des-pierres-ararat-et-khor-virap) | Garni, Ararat et Khor Virap |
+| Jour 1 | [Bakou](#jour-1) | Arrivée à Bakou et vieille ville |
+| Jour 2 | [Bakou](#jour-2) | Le nouveau Bakou |
+| Jour 3 | [Bakou](#jour-3) | Qobustan, volcans de boue et temple du Feu |
+| Jour 4 | [Xinaliq](#jour-4) | Excursion à Xınalıq / Khinaliq |
+| Jour 5 | [Sheki](#jour-5) | Vieille ville et palais |
+| Jour 6 | [Sheki](#jour-6) | Randonnée à Kish et forteresse de Galarsan |
+| Jour 7 | [Sighnaghi](#jour-7) | Passage en Géorgie |
+| Jour 8 | [Tbilissi](#jour-8) | Vieille ville de Tbilissi |
+| Jour 9 | [Tbilissi](#jour-9) | Encore Tbilissi |
+| Jour 10 | [Gori](#jour-10) | Gori et Uplistsikhe |
+| Jour 11 | [Kazbegi](#jour-11) | Stepantsminda et mont Kazbegi |
+| Jour 12 | [Mtskheta](#jour-12) | Ancienne capitale géorgienne |
+| Jour 13 | [Alaverdi](#jour-13) | Monastères de Haghpat et Sanahin |
+| Jour 14 | [Erevan](#jour-14) | Centre d'Erevan |
+| Jour 15 | [Erevan](#jour-15) | Etchmiadzin et musées |
+| Jour 16 | [Erevan](#jour-16) | Garni, Ararat et Khor Virap |
 
 > Voilà ! Cliquez sur le nom des destinations pour aller directement à chaque journée.
 
@@ -54,7 +58,7 @@ Et, juste parce que j'en ai envie, une deuxième préface :
 > Je n'ai malheureusement pas eu le temps de la visiter, l'un de mes rares regrets. Mon meilleur ami Tim y est allé, et c'était incroyable.
 > Aucun rapport, mais je voulais aussi dire que j'adore les Arméniens et la communauté arménienne en France.
 
-## Jour 1 : Arrivée à Bakou, Azerbaïdjan
+## Jour 1 : Arrivée à Bakou, Azerbaïdjan {#jour-1}
 
 ![La vieille ville de Bakou et les Flame Towers](images/blog/azer1.jpg)
 
@@ -76,7 +80,7 @@ La place des Fontaines et la rue Nizami s'insèrent naturellement dans cette pro
 
 ---
 
-## Jour 2 : Bakou
+## Jour 2 : Bakou {#jour-2}
 
 ![La mosquée Heydar](images/blog/azer3.jpg)
 
@@ -91,7 +95,7 @@ S'il vous reste de l'énergie, le musée d'Art moderne est à proximité. Person
 
 ---
 
-## Jour 3 : Excursion à Qobustan
+## Jour 3 : Excursion à Qobustan {#jour-3}
 
 J'ai pris une excursion guidée vers les volcans de boue de Qobustan, le temple du Feu d'Ateshgah et Yanar Dag.
 
@@ -102,7 +106,7 @@ L'itinéraire exact varie, mais [cette excursion à Qobustan, aux volcans de bou
 
 ---
 
-## Jour 4 : Xinaliq
+## Jour 4 : Xinaliq {#jour-4}
 
 ![La route vers Xinaliq](images/blog/azer4.jpg)
 
@@ -119,7 +123,7 @@ Préparez-vous à une très longue journée.
 
 ---
 
-## Jour 5 : Sheki
+## Jour 5 : Sheki {#jour-5}
 
 ![Le palais des Khans de Sheki](images/blog/azer6.jpg)
 
@@ -132,7 +136,7 @@ Une fois à Sheki, passez le reste de la journée dans le centre historique, au 
 
 ---
 
-## Jour 6 : Kish
+## Jour 6 : Kish {#jour-6}
 
 ![Un repas avec Tim en Azerbaïdjan](images/blog/azer5.jpg)
 
@@ -143,7 +147,7 @@ Prenez une marchroutka depuis le centre de Sheki jusqu'à **Kish**, à environ 1
 
 ---
 
-## Jour 7 : Sighnaghi
+## Jour 7 : Sighnaghi {#jour-7}
 
 ![Sighnaghi](images/blog/georgia1.jpg)
 
@@ -160,7 +164,7 @@ Le bus ou la marchroutka vers Tbilissi prend environ deux heures et demie. J'ai 
 
 ---
 
-## Jour 8 : Vieille ville de Tbilissi
+## Jour 8 : Vieille ville de Tbilissi {#jour-8}
 
 ![Tbilissi vue d'en haut](images/blog/georgia2.jpg)
 
@@ -177,7 +181,7 @@ Depuis Rike Park, on voit le palais présidentiel, le palais de la reine Darejan
 
 ---
 
-## Jour 9 : Encore Tbilissi
+## Jour 9 : Encore Tbilissi {#jour-9}
 
 Consacrez la deuxième journée aux quartiers situés au-delà de la vieille ville. Marchez le long de l'**avenue Roustavéli**, en vous arrêtant devant le Parlement et éventuellement au Musée national. Marquez absolument l'**Opéra** sur votre carte : il est vraiment beau.
 
@@ -189,7 +193,7 @@ Avec plus de temps, prenez la ligne 1 du métro jusqu'à **Ghrmaghele**, sortez 
 
 ---
 
-## Jour 10 : Excursion à Gori
+## Jour 10 : Excursion à Gori {#jour-10}
 
 ![Uplistsikhe](images/blog/georgia3.jpg)
 
@@ -206,7 +210,7 @@ Uplistsikhe a été le meilleur moment de la journée : c'était amusant à parc
 
 ---
 
-## Jour 11 : Stepantsminda et le mont Kazbegi
+## Jour 11 : Stepantsminda et le mont Kazbegi {#jour-11}
 
 ![Ananuri sur la route militaire géorgienne](images/blog/georgia4.jpg)
 
@@ -222,7 +226,7 @@ J'ai pris [exactement cette excursion à Kazbegi, Gudauri, Guerguéti et Ananuri
 
 ---
 
-## Jour 12 : Excursion à Mtskheta
+## Jour 12 : Excursion à Mtskheta {#jour-12}
 
 Visitez l'ancienne capitale de Géorgie, la **cathédrale de Svetitskhoveli** et le confluent des deux rivières, mon point fort personnel.
 
@@ -238,7 +242,7 @@ Personnellement, je suis rentré à Tbilissi assez tôt pour aller à un autre d
 
 ---
 
-## Jour 13 : Alaverdi, Haghpat et Sanahin
+## Jour 13 : Alaverdi, Haghpat et Sanahin {#jour-13}
 
 ![Un monastère au-dessus d'Alaverdi](images/blog/armenia1.jpg)
 
@@ -257,7 +261,7 @@ Je recommande de dormir à Alaverdi : le passage depuis la Géorgie est lent.
 
 ---
 
-## Jour 14 : Erevan
+## Jour 14 : Erevan {#jour-14}
 
 ![Erevan depuis la Cascade](images/blog/armenia3.jpg)
 
@@ -273,7 +277,7 @@ Le centre se parcourt facilement à pied. L'**Opéra** et la place de la Libert�
 
 ---
 
-## Jour 15 : Encore Erevan
+## Jour 15 : Encore Erevan {#jour-15}
 
 ![Le Matenadaran à Erevan](images/blog/armenia4.jpg)
 
@@ -284,7 +288,7 @@ Ensuite, j'ai visité le musée des manuscrits du **Matenadaran** et me suis occ
 
 ---
 
-## Jour 16 : Garni, la Symphonie des pierres, Ararat et Khor Virap
+## Jour 16 : Garni, la Symphonie des pierres, Ararat et Khor Virap {#jour-16}
 
 Faites une excursion au sud d'Erevan vers le monastère de **Khor Virap** et sa vue classique sur le mont Ararat.
 
@@ -296,7 +300,7 @@ Ma journée était compliquée, mais je l'ai faite en transports publics. J'ai p
 
 ---
 
-## Jour X : Et après ?
+## Jour X : Et après ? {#jour-x}
 
 Personnellement, je suis rentré en avion avec une escale à Istanbul. Faites comme vous voulez : continuer vers la Turquie est possible, ou vers le Kurdistan comme mon ami Tim. Les possibilités sont nombreuses !
 

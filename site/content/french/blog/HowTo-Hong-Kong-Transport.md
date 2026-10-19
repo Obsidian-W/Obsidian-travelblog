@@ -27,7 +27,7 @@ L'erreur classique est de vouloir tout faire en MTR. Le MTR est excellent sur le
 
 **Route :** Hong Kong International Airport vers Central / Hong Kong Station  
 **Meilleure option :** Airport Express.  
-**Durée typique :** Le MTR indique que l'Airport Express prend au minimum 24 minutes entre l'aéroport et le coeur d'affaires de Central.  
+**Durée typique :** Le MTR indique que l'Airport Express prend au minimum 24 minutes entre l'aéroport et le cœur d'affaires de Central.  
 **Départ :** Airport Station.  
 **Arrivée :** Hong Kong Station, avec correspondances MTR.  
 **Réservation :** Distributeur, guichet, billet en ligne, Octopus ou paiements QR/sans contact acceptés.  
@@ -67,63 +67,31 @@ Stations utiles :
 | Shau Kei Wan | Bus pour Dragon's Back |
 | West Kowloon | Train grande vitesse vers la Chine continentale |
 
-## Routes utiles
+## Trajets utiles
 
-**Route :** Tsim Sha Tsui vers Central  
-**Meilleure option :** Star Ferry ou MTR.  
-**Durée typique :** Courte traversée du port en ferry ; MTR rapide aussi.  
-**Départ :** Star Ferry Pier de Tsim Sha Tsui ou station MTR.  
-**Arrivée :** Central Pier ou secteur MTR Central/Hong Kong.  
-**Réservation :** Octopus ou billet ferry/MTR.  
-**Notes :** Prends le ferry au moins une fois ; il est utile et visuel.
+### Tsim Sha Tsui à Central
 
-**Route :** Central vers The Peak  
-**Meilleure option :** Peak Tram si la file est raisonnable, sinon bus ou taxi.  
-**Durée typique :** Dépend surtout de l'attente.  
-**Départ :** Secteur Central / Admiralty.  
-**Arrivée :** The Peak.  
-**Réservation :** Billet Peak Tram, Octopus si accepté, bus ou taxi.  
-**Notes :** Par mauvais temps, la vue peut être médiocre. Vérifie la visibilité.
+Prends le **Star Ferry** entre les embarcadères de Tsim Sha Tsui et Central, ou le MTR entre Tsim Sha Tsui et Central/Hong Kong. Octopus ou billet individuel ; les deux sont rapides. Essaie le ferry au moins une fois, pour la vue autant que le trajet.
 
-**Route :** Tung Chung vers Ngong Ping / Big Buddha / Tai O  
-**Meilleure option :** MTR vers Tung Chung, puis Ngong Ping 360 ou bus vers Ngong Ping ; poursuis vers Tai O en bus si le timing le permet.  
-**Durée typique :** Presque toute la journée avec files d'attente et Tai O.  
-**Départ :** Secteur MTR de Tung Chung.  
-**Arrivée :** Ngong Ping, Big Buddha, Po Lin Monastery et Tai O.  
-**Réservation :** Billet téléphérique, Octopus/tarif bus ou tour.  
-**Notes :** Le téléphérique dépend de la météo. Vérifie son statut avant de traverser la ville.
+### Tung Chung, Ngong Ping, Grand Bouddha et Tai O
 
-**Route :** Shau Kei Wan vers Dragon's Back  
-**Meilleure option :** MTR vers Shau Kei Wan, puis bus 9 vers To Tei Wan.  
-**Durée typique :** Demi-journée avec la randonnée.  
-**Départ :** MTR Shau Kei Wan Exit A2, puis Shau Kei Wan Bus Terminus.  
-**Arrivée :** Départ du sentier à To Tei Wan ; retour de Big Wave Bay par bus 9.  
-**Réservation :** Octopus ou tarif bus.  
-**Notes :** C'est l'accès indiqué par le Hong Kong Tourism Board. Evite les crêtes exposées en cas d'orage.
+MTR jusqu'à **Tung Chung**, puis téléphérique **Ngong Ping 360** ou bus jusqu'à Ngong Ping. Continue en bus à Tai O si tu as le temps. Grand Bouddha, monastère Po Lin et Tai O remplissent presque une journée. Le téléphérique se paie séparément et dépend de la météo ; le bus accepte Octopus.
 
-**Route :** Central vers Lamma ou Cheung Chau  
-**Meilleure option :** Ferry depuis les Central Piers.  
-**Durée typique :** Selon île et bateau.  
-**Départ :** Central ferry piers.  
-**Arrivée :** Jetée de l'île.  
-**Réservation :** Octopus ou billet ferry.  
-**Notes :** Vérifie le retour avant de partir tard.
+### Shau Kei Wan à Dragon's Back
 
-**Route :** Hong Kong vers Macao  
-**Meilleure option :** Ferry ou bus via Hong Kong-Zhuhai-Macao Bridge selon point de départ et bagages.  
-**Durée typique :** Court à l'échelle régionale, mais immigration et terminaux ajoutent du temps.  
-**Départ :** Terminaux ferry de Hong Kong ou HZMB Hong Kong Port.  
-**Arrivée :** Terminal ferry de Macao ou HZMB Macau Port.  
-**Réservation :** Opérateur ferry, navette du pont ou bus.  
-**Notes :** Prends ton passeport et vérifie les règles d'entrée selon ta nationalité.
+MTR jusqu'à **Shau Kei Wan**, sortie **A2**, puis **bus 9** depuis le terminus jusqu'au départ de **To Tei Wan**. Retour de **Big Wave Bay** en bus 9. Environ une demi-journée avec la randonnée, paiement Octopus ou tarif du bus. C'est l'accès décrit par l'office de tourisme. Évite cette randonnée exposée en cas d'orage.
 
-**Route :** Hong Kong vers Shenzhen / Chine continentale  
-**Meilleure option :** Passages MTR pour Shenzhen local, ou train grande vitesse depuis West Kowloon pour les trajets ville-à-ville.  
-**Durée typique :** Variable selon passage, file et destination.  
-**Départ :** Lo Wu, Lok Ma Chau, West Kowloon ou autre passage selon route.  
-**Arrivée :** Métro/gare de Shenzhen ou destination continentale.  
-**Réservation :** MTR/train, billet ferroviaire continental ou transport frontalier.  
-**Notes :** Visa, règles d'entrée et applis de Chine continentale sont séparés de Hong Kong. Entrer à Hong Kong ne donne pas automatiquement accès à la Chine continentale.
+### Central à Lamma ou Cheung Chau
+
+Ferry depuis les quais de Central jusqu'à l'île choisie. Durée selon l'île et le bateau ; Octopus ou billet. Vérifie le dernier retour si tu pars tard.
+
+### Hong Kong à Macao
+
+Choisis ferry ou **bus du pont Hong Kong–Zhuhai–Macao** selon ton point de départ et tes bagages. Départ d'un terminal de ferry ou de HZMB Hong Kong Port, arrivée au terminal correspondant à Macao. Réserve auprès de l'opérateur. Immigration et transferts ajoutent du temps. Prends ton passeport et vérifie les conditions d'entrée selon ta nationalité.
+
+### Hong Kong à Shenzhen ou en Chine continentale
+
+Les passages frontaliers du MTR rejoignent le réseau de Shenzhen ; le train à grande vitesse de **West Kowloon** convient aux trajets entre villes. Selon l'itinéraire : **Lo Wu**, **Lok Ma Chau**, West Kowloon ou un autre poste, avec le billet correspondant. La durée dépend des files et de la destination. Les règles d'entrée, visas et applications de Chine continentale sont distincts : entrer à Hong Kong n'autorise pas à entrer sur le continent.
 
 ## Trams, bus et ferries
 
@@ -142,6 +110,8 @@ Les ferries servent Central-Tsim Sha Tsui, les îles, Lamma, Cheung Chau et quel
 
 ## Applications et paiement
 
+Une [**carte Octopus**](https://www.octopus.com.hk/en/consumer/index.html) reste l'option la plus simple pour le MTR, les bus, ferries, tramways, supérettes et petits paiements. Des paiements sans contact ou par QR sont aussi possibles sur les services compatibles.
+
 Utilise **HKeMobility** pour les trajets multimodaux. Le Hong Kong Tourism Board le décrit comme une application du Transport Department couvrant MTR, bus, minibus, trams, ferries, water taxis, tarifs, durées et conditions en temps réel.
 
 Le MTR accepte Octopus, billets simples et certains paiements QR/sans contact. Les moyens de paiement peuvent varier dans les bus et minibus, donc garde une Octopus chargée.
@@ -158,6 +128,16 @@ Depuis le 1er avril 2026, les taxis de Hong Kong doivent proposer au moins deux 
 - Pour les ferries vers les îles, vérifie le dernier retour avant le dîner.
 - Pour la Chine continentale, prépare visa, Alipay/WeChat Pay et cartes séparément ; les habitudes de transport hongkongaises ne se transfèrent pas proprement.
 
+## Monter au pic Victoria
+
+Le **Peak Tram**, funiculaire de Garden Road au Peak, est l'option facile. Les tarifs indiqués sont **82 HK$ l'aller simple et 116 HK$ l'aller-retour** pour un adulte. La **Sky Terrace 428** coûte **80 HK$ de plus**. Réserve ou viens tôt pour limiter l'attente, et regarde la météo avant de payer pour un mur de nuages.
+
+La montée à pied depuis Central est gratuite. Pars des **escalators Central–Mid-Levels**, près du Central Market, et traverse SoHo. Ils descendent avant **10 h** et montent à partir de **10 h 20** : plus tôt, utilise les marches à côté.
+
+Vers Staunton Street, arrête-toi à **Bakehouse Soho** pour une tartelette. J'ai travaillé pour eux en vivant au Cambodge : recommandation totalement partiale avant la partie raide.
+
+En haut des escalators, sur **Conduit Road**, pars à l'ouest jusqu'à **Hornsey Road**, puis rejoins **Old Peak Road**. Le chemin est goudronné et simple à suivre, mais vraiment pentu. Tu peux redescendre en Peak Tram ou en bus.
+
 ## Sources consultées
 
 - [MTR - Airport Express](https://www.mtr.com.hk/en/customer/services/airport_express_index.html) : liaison aéroport et trajet de 24 minutes.
@@ -168,3 +148,9 @@ Depuis le 1er avril 2026, les taxis de Hong Kong doivent proposer au moins deux 
 - [Hong Kong Tourism Board - Dragon's Back](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-dragon-s-back.html) : accès par bus 9.
 - [Octopus - usage touristique](https://www.octopus.com.hk/en/consumer/tourist/usages/index.html) : recharge et détails d'utilisation pour visiteurs.
 - [Communiqué du gouvernement de Hong Kong, mars 2026](https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm) : paiement électronique obligatoire dans les taxis à partir du 1er avril 2026.
+
+### Autres sources
+
+- [The Peak Tram - December 2025 fare adjustment](https://www.thepeak.com.hk/sites/peak/files/2025-12/%5BPress%20Release%5D%20The%20Peak%20Tram%20Announces%20Fare%20Adjustment.pdf)
+- [Hong Kong Tourism Board - Central–Mid-Levels Escalator](https://www.discoverhongkong.com/eng/place-to-go/central-mid-levels-escalator.html)
+- [Bakehouse - locations](https://www.bakehouse.hk/locations)

@@ -117,9 +117,9 @@ The lake Yamdrok is pretty, with its azure color, but is a bit touristy.
 Gyantse is a quick stop, there is one fortification I saw from after.
 It's still the title of the section, but that was boring.
 The Korola glacier was completely filled with trash.
-I cleaned as much as I could under the laughter of the chinese, throwing gas bottles and plastic everywhere they went
+I cleaned as much as I could under the laughter of the Chinese, throwing gas bottles and plastic everywhere they went
 knowing I would pick it up.
-Some guys helped me, french obviously, then we were met by younger chinese people (< 30) that gave more than a hand.
+Some guys helped me, French obviously, then we were met by younger Chinese people (< 30) that gave more than a hand.
 I think that, together, we picked up half a dozen kilo. Yay.
 Yup, that's all I remember from the melted glacier, take that how you want.
 
@@ -137,7 +137,7 @@ yet, it was still a drive I'll remember.
 Folks, don't lose your hearing, ever since I lost my sense of balance and I get sick
 in transports.
 
-Everest Base Camp is big, very big. There are a lot of tents with ten times as many dancing chinese.
+Everest Base Camp is big, very big. There are a lot of tents with ten times as many dancing Chinese.
 They party as they made it to the world's roof, in front of the incredible Everest.
 I managed to see the peak, some were there for a week, only to catch that specific glimpse.
 It lasted like 20 minutes during the day, another 20 at night.
@@ -163,7 +163,7 @@ met a lush jungle.
 I shit you not, desert to jungle took like, 10 minutes? By driving of course.
 It's just separated by a single range of mountain. The Himalayas are wild man.
 Gyirong is another case of a town where locals barely see any westerners.
-Foreigners, yes, nepali are common, but not a group made of: a German, two french of different
+Foreigners, yes, nepali are common, but not a group made of: a German, two French of different
 ethnicities, a latina and an ashkenazi we met along the way.
 
 ## Day 7 Road to Kathmandu
@@ -173,7 +173,7 @@ ethnicities, a latina and an ashkenazi we met along the way.
 Last day!
 
 And a fun one, in a way.
-The border on the chinese side is super modern, right on time, with a military parade and everything.
+The border on the Chinese side is super modern, right on time, with a military parade and everything.
 The nepali side is... very different.
 A small mud house with only one entrance, a guy sitting on a stool, in front of a barrel writing things by hand,
 the "roads" which are actually just muddy paths.

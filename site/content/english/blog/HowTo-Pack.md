@@ -31,7 +31,7 @@ A lighter backpack is easier to carry between stations, hostels and hiking trail
 > Showers twice a day if possible, it also help maintaining clean clothes.
 
 Note: Choose clothes that can be washed together without separating colours, and clothes with proper material that don't keep smell.
-Always wear clothes adapted to the weather, in hot weather linen is a godsent.
+Always wear clothes adapted to the weather, in hot weather linen is a godsend.
 
 ---
 
@@ -67,7 +67,7 @@ Hygiene goes second, even if you travel, stay clean, it helps to keep clothes/be
 - Wet wipes: Replace Toilet Paper or showers when camping without water.
 - Antibacterial gel: use it often, especially before eating. If going to dirty places, you might even have to resupply along the way. (I buy 50ml, very small so it's convenient to carry)
 - Dry soap and shampoo: small, doesn’t leak, often ecological.
-- Deodorant that is not anti-perspirant. (I use an oat deodorant from Yves Rocher, it allows me to sweat with a good smell (But drinky plenty to))
+- Deodorant that is not anti-perspirant. (I use an oat deodorant from Yves Rocher, it allows me to sweat with a good smell (But drink plenty too))
 - Toothbrush and toothpaste. (Obviously! For toothpaste, I use small 100ml package, they last for bigger trips)
 - File/Nail trimmer. (After two weeks of traveling without using your nail, you'll feel the need)
 - Lightweight towel: Dries fast and doesn’t take too much space. Useful when ho(s)tels don't provide any.
@@ -164,7 +164,7 @@ I use a 40L backpack!
 - USB A 2.0 cable
 - Phone charger (The big block)
 - Mi Bank 10k mAh
-- Mi Watch (To track steps, hearbeat, for running sessions)
+- Mi Watch (To track steps, heartbeat, for running sessions)
 - Mi 14 (That's the phone I use)
 - Mi buds (I use the buds 4, IIRC)
 - Kindle

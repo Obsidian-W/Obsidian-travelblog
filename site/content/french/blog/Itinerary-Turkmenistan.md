@@ -1,5 +1,5 @@
 ---
-date: "2025-08-01"
+date: "2025-08-14"
 title: "3 jours au Turkménistan"
 description: "Itinéraire court au Turkménistan, de la frontière ouzbèke à Darvaza et Achgabat."
 image: "images/blog/turkmenistan2.jpg"
@@ -20,15 +20,19 @@ draft: false
 
 ---
 
+{{< worth-o-meter score="4" >}}
+Une expérience amusante et unique, mais très chère, compliquée à organiser, dans une dictature. Les ruines sont très dégradées et peu expliquées ; Achgabat est intéressante sans être la meilleure ville du monde. Son originalité ne suffit pas à en faire une destination de rêve.
+{{< /worth-o-meter >}}
+
 # Itinéraire en bref
 
 ## 🇹🇲 Turkménistan
 
 | Jour | Destination | Notes |
 |:----:|:-------------|:------|
-| Jour 1 | [Konye-Urgench](#jour-1-konye) | Passage de frontière et ruines |
-| Jour 2 | [Portes de l’Enfer](#jour-2-darvaza) | Cratère de Darvaza et route vers Achgabat |
-| Jour 3 | [Achgabat](#jour-3-achgabat) | Fin de la visite d’Achgabat |
+| Jour 1 | [Konye-Urgench](#jour-1) | Passage de frontière et ruines |
+| Jour 2 | [Portes de l’Enfer](#jour-2) | Cratère de Darvaza et route vers Achgabat |
+| Jour 3 | [Achgabat](#jour-3) | Fin de la visite d’Achgabat |
 
 Article court = moins de boulot pour moi, ouf 😄  
 Allez, entrons directement dans le vif du sujet.  
@@ -54,11 +58,11 @@ Quelques conseils en plus :
 - Ce n’est **pas une bonne destination solo** si tu voyages avec un petit budget  
 - Voyager en **groupe** est bien plus rentable  
 
-#### [Conseils pour voyager au Turkménistan](/blog/howto-turkmenistan)
+#### [Conseils pour voyager au Turkménistan](/fr/blog/howto-turkmenistan)
 
 ---
 
-## Jour 1 : Konye-Urgench
+## Jour 1 : Konye-Urgench {#jour-1}
 
 Première étape : entrer dans le pays.  
 Je venais d’Ouzbékistan. Avant, on pouvait traverser UZ → TM → IR,  
@@ -94,13 +98,13 @@ Après un détour interminable et une piste défoncée, j’ai enfin atteint **l
 
 On a visité le site de nuit pour profiter des flammes et du ciel étoilé.
 
-![Darvaza and I](images/blog/turkmenistan3.jpg)
+![Darvaza et moi](images/blog/turkmenistan3.jpg)
 
 Sympa, non ?
 
 ---
 
-## Jour 2 : Darvaza
+## Jour 2 : Darvaza {#jour-2}
 
 ![Darvaza](images/blog/turkmenistan4.jpg)
 
@@ -128,9 +132,9 @@ Juste profité de la ville, à ma manière.
 
 ---
 
-## Jour 3 : Achgabat
+## Jour 3 : Achgabat {#jour-3}
 
-![Night in Ashgabat](images/blog/turkmenistan.jpg)
+![Achgabat de nuit](images/blog/turkmenistan.jpg)
 
 Selon ton circuit, tu auras peut-être plus de temps pour explorer la capitale.  
 Je te le conseille vivement.

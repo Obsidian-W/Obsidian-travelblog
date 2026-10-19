@@ -1,7 +1,7 @@
 ---
 date: "2026-08-30"
 title: "How I fell in love with China"
-description: "A totally biased review of the 1st mondial economy"
+description: "A totally biased review of the world's largest economy"
 image: "images/blog/yunnan3.jpg"
 categories: ["Other", "China"]
 continents: ["Asia"]

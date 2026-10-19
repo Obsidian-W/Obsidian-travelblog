@@ -41,7 +41,7 @@ Fes cooking leans into sweet-savoury combinations. **Pastilla** combines pigeon 
 **Rfissa** is shredded msemen soaked with chicken broth, lentils and fenugreek. It is soft, rich and filling. **Khlii** (Khlee?) is meat preserved with salt, spices and fat, then used with eggs or beans. It is concentrated and salty, and is usually treated as an ingredient rather than eaten alone like jerky. My roommate often get some from his mom, but I never dared try. Apparently it's used for breakfasts or as an ingredient for some dishes.
 
 For sweets, **cornes de gazelle** are slender almond pastries perfumed with orange blossom. **Ghriba** are round, cracked cookies made in several versions, including almond, sesame and semolina. (But it often breaks apart quickly) **Sellou** is a dense, crumbly mixture of toasted flour, sesame, almonds, spices and fat.
-**Baklava** is not of moroccan origin, but common. They differ from the tunisian/armenian Baklava and are closer to the Turkish ones.
+**Baklava** is not of Moroccan origin, but common. They differ from the tunisian/armenian Baklava and are closer to the Turkish ones.
 
 Ghriba and cornes de gazelle crumble easily, so use a rigid box if you plan to carry them on a train or in a backpack.
 
@@ -51,13 +51,13 @@ Ghriba and cornes de gazelle crumble easily, so use a rigid box if you plan to c
 
 It is particularly associated with **Souss-Massa, around Agadir and Taroudant**. Along the Atlantic coast, simple grilled fish is usually a better choice than an elaborate tourist menu. In Essaouira, look for fish, bread, salad and tea; in Taghazout, mix the surf-town cafes with local breakfasts, fish and simple Moroccan restaurants.
 
-In some places you can find pumpkin seed amlou (I find them in a moroccan shop in Rennes, France, imported from morocco), my roommate told me it's uncommon and more of a novelty targetting the trendy youth. Now you know.
+In some places you can find pumpkin seed amlou (I find them in a Moroccan shop in Rennes, France, imported from morocco), my roommate told me it's uncommon and more of a novelty targetting the trendy youth. Now you know.
 
 Culinary argan oil is made for eating and has a toasted, nutty flavour. Cosmetic argan oil is processed for use on skin and hair. Check that the bottle is labelled for culinary use before buying it as food.
 
 ## Meknes, olives and inland market food
 
-Meknes markets are particularly useful for trying local ingredients. Olives vary from bitter green fruit to soft purple ones seasoned with chilli, herbs or preserved lemon. Taste before buying. Preserved lemons are strongly salty and sour cooking ingredients rather than fruit intended to be eaten whole. They go well with Houmus (Which is not maroccan, obviously). The markets are also useful for dates and dried fruit.
+Meknes markets are particularly useful for trying local ingredients. Olives vary from bitter green fruit to soft purple ones seasoned with chilli, herbs or preserved lemon. Taste before buying. Preserved lemons are strongly salty and sour cooking ingredients rather than fruit intended to be eaten whole. They go well with Hummus (Which is not Moroccan, obviously). The markets are also useful for dates and dried fruit.
 
 Meknes is also a practical stop for picnic food before Volubilis. Buy bread, olives, fruit and water before leaving the city; food options around the site are barely existing.
 
@@ -68,7 +68,7 @@ I found a nice, well-rated shop in the old town of Rabat (not really northern, I
 
 Northern goat cheese is fresh, white and mild. Keep it cool and eat it promptly. 
 
-For Akchour, bring water. Food is found every ten minutes of walk. Mostly tajines, not that expensive compared to the city, so it's definetely worth a stop.
+For Akchour, bring water. Food is found every ten minutes of walk. Mostly tajines, not that expensive compared to the city, so it's definitely worth a stop.
 After the hike, Chefchaouen's bakeries and simple restaurants are enough.
 
 ## Tangier cafes and northern snacks

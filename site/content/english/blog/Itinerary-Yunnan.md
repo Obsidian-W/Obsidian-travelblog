@@ -188,14 +188,14 @@ Altitude hits 4500m near the top, so bring warm clothes even in summer.
 
 There are organized shuttles that make it easy to visit without hiking too hard.  
 The turquoise water and mountain views are stunning when the weather clears and you can go yak spotting.
-Or Jacks, as they call it with their wrong french translation.
+Or Jacks, as they call it with their wrong French translation.
 
 For me the highlight was definitely the Blue moon valley and the lakes. They have stunning colors
-and a nice shimmer, the signs around are hilarious if you can read french *(Yes they are translated in French for some reason)*,
-like one said *forbidden to assholes* instead of *Smoking is prohibited*. And one, in english, said something like
+and a nice shimmer, the signs around are hilarious if you can read French *(Yes they are translated in French for some reason)*,
+like one said *forbidden to assholes* instead of *Smoking is prohibited*. And one, in English, said something like
 *ecleptic car paint* instead of *electrical car*. Yup.
 
-If you have time and can understand chinese, you can checkout the Theatre: **Impression Lijiang.**
+If you have time and can understand Chinese, you can checkout the Theatre: **Impression Lijiang.**
 I've seen it from afar, I couldn't understand anything.
 
 ![Jade Dragon Snow Mountain](images/blog/yunnan7.jpg)

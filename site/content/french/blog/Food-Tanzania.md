@@ -19,7 +19,7 @@ Les repères de prix actuels, lorsqu'ils sont mentionnés, ont été vérifiés 
 
 L'assiette de base comprend **ugali**, riz, haricots, légumes verts, ragoût, viande grillée ou poisson. Dans les restaurants locaux, les repas sont copieux. L'ugali se mange avec la main et sert à attraper sauce, légumes ou viande ; le riz est souvent disponible comme alternative.
 
-La différence régionale est nette. A l'intérieur, autour d'Arusha, Moshi, Dodoma ou Mwanza, la cuisine repose davantage sur le maïs, les haricots, les bananes plantains, la viande et les feuilles vertes. Sur la côte et à Zanzibar, tu trouveras plus de riz, noix de coco, cardamome, girofle, cannelle, tamarin et fruits de mer.
+La différence régionale est nette. À l'intérieur, autour d'Arusha, Moshi, Dodoma ou Mwanza, la cuisine repose davantage sur le maïs, les haricots, les bananes plantains, la viande et les feuilles vertes. Sur la côte et à Zanzibar, tu trouveras plus de riz, noix de coco, cardamome, girofle, cannelle, tamarin et fruits de mer.
 
 | Plat | Ce que c'est | Où chercher |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Kariakoo et les secteurs de marché sont utiles pour les snacks et repas bon mar
 
 ![Marché aux épices à Stone Town](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spice%20Market%20in%20Stone%20town%20Zanzibar.JPG)
 
-A Zanzibar et sur la côte, la cuisine change nettement. Attends-toi à du riz, de la noix de coco, des fruits de mer, des épices, du chapati, du pilau, du biryani et des snacks influencés par les échanges swahilis, arabes, indiens et côtiers.
+À Zanzibar et sur la côte, la cuisine change nettement. Attends-toi à du riz, de la noix de coco, des fruits de mer, des épices, du chapati, du pilau, du biryani et des snacks influencés par les échanges swahilis, arabes, indiens et côtiers.
 
 | Plat | Ce que c'est | Où chercher |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ Forodhani est pratique et vivant, mais la qualité varie. Le marché convient à
 
 ## Kilwa et petites villes côtières
 
-A Kilwa Masoko et dans les petites villes côtières, le choix se limite souvent au poisson, riz, haricots, frites, chapati et thé. Les restaurants indépendants peuvent fermer tôt ou manquer de plats ; les hébergements connaissent généralement les adresses ouvertes.
+À Kilwa Masoko et dans les petites villes côtières, le choix se limite souvent au poisson, riz, haricots, frites, chapati et thé. Les restaurants indépendants peuvent fermer tôt ou manquer de plats ; les hébergements connaissent généralement les adresses ouvertes.
 
 Ne prévois pas un itinéraire culinaire serré ici. Mange là où les trajets et les bateaux te laissent du temps.
 
@@ -94,6 +94,14 @@ Le thé est courant, le café est intéressant dans les zones de production du n
 L'hygiène varie. Les jours de transport, privilégie les plats chauds, les adresses fréquentées et les choses simples. Si tu pars en safari, vérifie les repas inclus et prends des snacks ; une fois dans les parcs, les options dépendent de l'opérateur ou du lodge.
 
 Pour l'alcool, vérifie le contexte. Il est facile à trouver dans les hôtels touristiques, lodges de safari et beaucoup de restaurants urbains, mais moins présent dans les zones côtières conservatrices ou majoritairement musulmanes.
+
+## En bref
+
+- Dans les terres : ugali avec une bonne sauce, nyama choma, chipsi mayai et ndizi nyama.
+- À Dar : mishkaki et poisson grillé.
+- À Zanzibar : urojo, pilau ou biryani, vitumbua et pizza de Zanzibar.
+- Confirme le prix avant de commander viande ou poisson au poids.
+- Remplace les toasts de l'hôtel par un chapati, mandazi ou vitumbua frais.
 
 ## Sources consultées
 

@@ -1,5 +1,5 @@
 ---
-date: "2025-09-27"
+date: "2025-03-27"
 title: "Une semaine dans le delta de la Rivière des Perles"
 description: "Itinéraire d'une semaine entre Hong Kong, Macao, Shenzhen et Guangzhou."
 image: "images/blog/pearldelta.jpg"
@@ -13,7 +13,7 @@ draft: false
 >
 > Le **delta de la Rivière des Perles** !  
 > Au milieu de ces villes géantes, on trouve encore des coins de nature incroyablement gratifiants.  
-> J’y suis allé environ une semaine, en avril 2025, principalement pour **manger autant que possible** (mon amour pour les dumplings me survivra) et visiter *Hong Kong*,  
+> J’y suis allé environ une semaine, fin mars et début avril 2025, principalement pour **manger autant que possible** (mon amour pour les dumplings me survivra) et visiter *Hong Kong*,  
 > l’une des villes les plus fascinantes d’Asie.  
 > Au final, ce fut un voyage mémorable !
 
@@ -35,24 +35,28 @@ j’utiliserai donc cet ordre, mais adapte-le à ta situation. 😉
 
 \_\_\_\_
 
+{{< worth-o-meter score="7.5" >}}
+Shenzhen et Canton m'ont laissé sur ma faim : pas assez de choses à faire ? J'attendais davantage de Canton. Hong Kong et Macao remontent nettement la note : concentrez-vous sur elles, elles méritent chacune une journée de plus.
+{{< /worth-o-meter >}}
+
 # L'itinéraire en bref
 
 ## Delta de la Rivière des Perles
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Shenzhen - Bao'an](#jour-1--arrivée-à-shenzhen--baoan) | Mise en jambe près de l'aéroport |
-| Jour 2 | [Hong Kong - Nord](#jour-2--hong-kong--nord-mong-kok-tst--cie) | Mong Kok, TST et classique hongkongais |
-| Jour 3 | [Hong Kong - Lantau](#jour-3--hong-kong--lantau) | Iles, randos et téléphérique |
-| Jour 4 | [Hong Kong - Central](#jour-4--hong-kong--central) | Skyline, Peak et centre-ville |
-| Jour 5 | [Macao](#jour-5--macao) | Vieille ville et ambiance casino |
-| Jour 6 | [Guangzhou](#jour-6--guangzhou-canton) | Bouffe cantonaise et grande ville |
-| Jour 7 | [Guangzhou / Shenzhen](#jour-7--dernier-jour--guangzhou--shenzhen) | Fin flexible avant le vol |
-| Jour X | [Plus de temps](#jour-x--si-tu-as-plus-de-temps) | Idées d'étapes supplémentaires |
+| Jour 1 | [Shenzhen - Bao'an](#jour-1) | Mise en jambe près de l'aéroport |
+| Jour 2 | [Hong Kong - Nord](#jour-2) | Mong Kok, TST et classique hongkongais |
+| Jour 3 | [Hong Kong - Lantau](#jour-3) | Iles, randos et téléphérique |
+| Jour 4 | [Hong Kong - Central](#jour-4) | Skyline, Peak et centre-ville |
+| Jour 5 | [Macao](#jour-5) | Vieille ville et ambiance casino |
+| Jour 6 | [Guangzhou](#jour-6) | Bouffe cantonaise et grande ville |
+| Jour 7 | [Guangzhou / Shenzhen](#jour-7) | Fin flexible avant le vol |
+| Jour X | [Plus de temps](#jour-x) | Idées d'étapes supplémentaires |
 
 ---
 
-## Jour 1 : Arrivée à Shenzhen – Bao’an
+## Jour 1 : Arrivée à Shenzhen – Bao’an {#jour-1}
 
 ![Une bibliothèque à Shenzhen](images/blog/szlib.jpg)
 
@@ -84,7 +88,7 @@ Sinon, garde-les pour ton retour à Shenzhen.
 
 ---
 
-## Jour 2 : Hong Kong – Nord (Mong Kok, TST & cie)
+## Jour 2 : Hong Kong – Nord (Mong Kok, TST & cie) {#jour-2}
 
 Le bus depuis Shenzhen te déposera autour de **Mong Kok**.  
 C’est une bonne zone pour loger, surtout si ton budget est limité.  
@@ -112,7 +116,7 @@ Et sur le chemin du retour, fais un tour au **marché de Temple Street** pour l�
 
 ---
 
-## Jour 3 : Hong Kong – Lantau
+## Jour 3 : Hong Kong – Lantau {#jour-3}
 
 ![Lantau](images/blog/lantau.jpg)
 
@@ -127,7 +131,9 @@ Prépare-toi à marcher longtemps : c’est raide, et j’y ai tordu la cheville
 
 ### Après-midi
 
-Depuis **Ngong Ping Village**, des bus partent toutes les 30 min pour le village de pêcheurs de **Tai O** (le 21, normalement).  
+Depuis **Ngong Ping Village**, en début d'après-midi, des bus partent toutes les 30 min pour le village de pêcheurs de **Tai O** (le 21, normalement).  
+Si tu descends en téléphérique, les bus 1 et 11 permettent aussi de rejoindre Tai O ; la liaison mentionnée dans mon itinéraire était d'environ vingt minutes.
+
 Flâne dans le marché, observe les chats et goûte aux mochis !  
 Le bord de mer est adorable, et les boutiques sont moins chères qu’ailleurs.
 
@@ -136,13 +142,13 @@ Retourne ensuite à *Tung Chung* (bus 11) puis au centre en métro (ligne orange
 
 ---
 
-## Jour 4 : Hong Kong – Central
+## Jour 4 : Hong Kong – Central {#jour-4}
 
 ### Matinée
 
 Dernière grande île à explorer : **Hong Kong Island**.  
 Ses gratte-ciel, le **Monster Building**, les vieux forts, les batteries côtières…  
-Avance d’est en ouest en bus, c’est plus pratique.  
+Avance vers l’est le long de la côte en bus, c’est plus pratique.  
 
 Tu peux aussi voir le **manoir Haw Par** ou les **archives du cinéma de Hong Kong** (l’architecture vaut le détour).  
 Et bien sûr, déguste une **tarte aux œufs** de chez *Bakehouse* !
@@ -153,20 +159,20 @@ Depuis *Bakehouse*, tu es tout près des **escalators de Central-Mid-Levels**.
 Promène-toi, admire le street art et laisse-toi porter jusqu’au **pied du mont Victoria**.  
 
 Puis grimpe pour admirer le coucher du soleil sur la baie.  
-Même blessé, je l’ai fait — donc toi aussi tu peux.
+Même en boitant après ma blessure à Lantau, j'ai réussi la montée assez facilement.
 
 Si tu restes plus longtemps, ajoute des musées, une balade sur l’île de **Lamma**, ou une **course hippique à Wan Chai**.  
 Je pourrais y vivre un mois sans m’ennuyer.
 
 ---
 
-## Jour 5 : Macao
+## Jour 5 : Macao {#jour-5}
 
 ![Macau](images/blog/macau.jpg)
 
 ### Matinée
 
-Prends un **ferry** ou un **bus** vers **Macao** (j’avais pris *One Bus*).  
+Prends un **ferry** ou un **bus** vers **Macao** (je crois avoir pris *One Bus*, mais je n'en suis plus certain).  
 Dépose ton sac à l’hôtel, puis explore l’île sud, **Coloane**.  
 
 Entre **casinos**, tramway, et petits villages côtiers, tu as de quoi faire jusqu’à 15 h.  
@@ -187,7 +193,7 @@ Si tu restes plus longtemps, ajoute le **phare Guia** et le quartier **São Láz
 
 ---
 
-## Jour 6 : Guangzhou (Canton)
+## Jour 6 : Guangzhou (Canton) {#jour-6}
 
 ![Guangzhou](images/blog/guangzhou.jpg)
 
@@ -205,14 +211,14 @@ Le **parc Yuexiu** t’attend juste à côté, avec la statue du **bélier**, le
 Ensuite, prends le métro vers le **quartier colonial de Shamian**, au bord de la rivière.  
 
 En fin d’après-midi, direction le centre pour le **spectacle lumineux** autour de la **tour de télévision de Guangzhou** (Huacheng Plaza).  
-Un tunnel souterrain permet de traverser facilement vers l’île et la tour.  
+Une navette souterraine permet de traverser la rivière vers l'île et la tour ; il y a aussi des ponts.  
 
 > Utilise **Didi** pour gagner du temps : les transports en commun sont labyrinthiques.  
 > À l’époque, AMAP n’était qu’en chinois ; j’ai galéré.
 
 ---
 
-## Jour 7 : Dernier jour – Guangzhou / Shenzhen
+## Jour 7 : Dernier jour – Guangzhou / Shenzhen {#jour-7}
 
 ### Matinée
 
@@ -221,14 +227,14 @@ Les **parcs voisins** sont très verts, parfaits pour souffler avant le train re
 
 ### Après-midi
 
-On arrive à la fin, et comme toujours… la flemme. 😄  
+Si ton vol part de Canton, termine la visite sur place. Sinon, prends le train pour Shenzhen. C'est exactement mon programme : je suis parti tôt le matin du huitième jour.  
 Revois ce que tu n’as pas encore fait à Shenzhen :  
 un peu de shopping, le vieux quartier, le port, une rando…  
 Mais ne t’attends pas à des merveilles touristiques.
 
 ---
 
-## Jour X : Si tu as plus de temps…
+## Jour X : Si tu as plus de temps… {#jour-x}
 
 Trop de jours devant toi ?  
 - Ajoute une journée pour **Macao** et ses casinos.  

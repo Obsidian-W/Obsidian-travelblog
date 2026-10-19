@@ -57,7 +57,7 @@ The first line costs 3 Bs (0,2€); each transfer costs 2 Bs (0,14€).
 Going up and around using El Teleferico is part of the fun in La Paz!
 La Paz is mostly incredible seen from the top and from the air, so do yourself a favour!
 
-Additionnaly, El Alto has something special and rather unique: The cholets.
+Additionally, El Alto has something special and rather unique: The cholets.
 What's a cholet? That's the transformers looking houses with bright colors. It's a neo-andean architectural style that you don't see outside of Bolivia; I think that El Alto might have the biggest concentration of them.
 So... Hop on the red line and walk around to see something new!
 
@@ -75,7 +75,7 @@ I slept in Socialtel La Paz (Used to be Selina).
 
 Shared minibuses leave the **Cementerio General** area for **Tiwanaku**, 72 km away. The ride takes 1:30–2 hours and the site gives the minibus fare as 7 Bs (0,50€). The complex is open **09:00–16:00**.
 
-Additionnaly, many tours departs from La Paz and/or are organized by hostels. That's how I did since I had no proper planning (It happens) and a tight deadline.
+Additionally, many tours departs from La Paz and/or are organized by hostels. That's how I did since I had no proper planning (It happens) and a tight deadline.
 
 Entry is 100 Bs (7€) for foreign visitors, including the museums. The site includes **Kalasasaya**, the **Gate of the Sun**, the **Semi-Subterranean Temple** and **Pumapunku**.
 
@@ -83,7 +83,7 @@ Entry is 100 Bs (7€) for foreign visitors, including the museums. The site inc
 
 It's a fun architectural day trip and it's a bit different from Peruvian/Incan ruins, if you visited Peru before, you won't be disappointed, it's not similar. If you didn't, you have to (should?) do it!
 
-Since Tiwaniku closes early, you'll return early too. So... Either you have more time in La Paz, or you can ues a night bus to continue the trip.
+Since Tiwanaku closes early, you'll return early too. So... Either you have more time in La Paz, or you can use a night bus to continue the trip.
 
 > I was a bit tight in my planning; More time in La Paz would have been better but I went on to Cochabamba, towards Torotoro.
 
@@ -103,7 +103,7 @@ There are many operators doing the routes (So each hour can mean a different ope
 > IMPORTANT, LET ME STATE THIS RIGHT AWAY: THERE MIGHT BE NO ATM in TOROTORO!
 > I remember one, old and beaten up, if there's only one, don't expect it to have cash, so bring enough!
 
-I arrived in Cochambamba around 06:00.
+I arrived in Cochabamba around 06:00.
 
 Then, I spent no more than three hours in **Cochabamba**: enough to arrive eat, walk around and find the shared minibus for Torotoro.
 
@@ -118,7 +118,7 @@ So... you can find groups for the next days, meet the rare visitors and plan you
 A certified guide is required for all interesting trips.
 One guide takes up to six people and costs 200 Bs (14€) per group. (I found this data online, stc), you form groups usually in the morning, but some departs around 14:00, Since I came a bit late, a group already departed an hour before.
 
-So, on my first day I did the The dinosaur-track, canyon and waterfall circuit takes around five hours.
+So, on my first day I did the dinosaur-track, canyon and waterfall circuit, which takes around five hours.
 It goes from the canyon rim down steep stairs and rough paths to the **El Vergel** waterfalls and pools, then climbs back out.
 Quite scenic, quite nice.
 
@@ -182,7 +182,7 @@ Then, once it gets hot around noon, head to **Casa de la Libertad**, on Plaza 25
 
 (It is open Monday–Friday **08:30–16:30** and Saturday–Sunday **09:00–13:00**. Foreign entry is 50 Bs (3,50€))
 
-From the plaza, walk to **San Felipe Neri** for its rooftop, one of the best place to see Sucre from the top (also works for sunset, but might be crowded) then continue to the **General Cemetery** for its arcades, mausoleums and flower stalls. I know it's a weird rec, but the cemetario is a real work of art.
+From the plaza, walk to **San Felipe Neri** for its rooftop, one of the best place to see Sucre from the top (also works for sunset, but might be crowded) then continue to the **General Cemetery** for its arcades, mausoleums and flower stalls. I know it's a weird rec, but the cemetery is a real work of art.
 
 > I was dead tired, so went to sleep early. More time means more walking in Sucre, there are some signage and walking itineraries you can find easily online or onsite.
 

@@ -4,8 +4,8 @@ title: "Le nord du Chili et la Patagonie"
 description: "Surtout le nord et le sud : un court voyage au Chili, avec des idées pour prolonger le séjour."
 image: "images/blog/patagonia2.jpg"
 itinerary_map: "/images/itineraries/chile.svg"
-categories: ["Itinerary", "South America", "Chile"]
-continents: ["South America"]
+categories: ["Itinéraire", "Amérique du Sud", "Chili"]
+continents: ["Amérique du Sud"]
 draft: false
 ---
 
@@ -67,7 +67,7 @@ Je dormais à Casa Voyage Hostel. L'auberge existe toujours, et on peut encore t
 
 ## Jour 2 : désert d'Atacama {#jour-2}
 
-![An emergency stop during the Atacama cycling trip](images/blog/chileExtra.jpg)
+![Un arrêt imprévu pendant la sortie à vélo dans l'Atacama](images/blog/chileExtra.jpg)
 
 ![The Atacama Desert](images/blog/chile1.jpg)
 
@@ -119,7 +119,7 @@ Mon endroit préféré était celui avec les panneaux indiquant les grandes dest
 
 ## Jour 6 : Puerto Natales {#jour-6}
 
-![New SF Char leaked](images/blog/chile3.jpg)
+![Un personnage de Street Fighter à Puerto Natales](images/blog/chile3.jpg)
 
 *J'ai trouvé ce gars près du centre. On dirait un nouveau personnage de Street Fighter.*
 
@@ -133,7 +133,7 @@ J'ai ensuite réservé les deux jours suivants auprès d'une agence locale : une
 
 ## Jour 7 : Torres del Paine {#jour-7}
 
-![Torres del Paine in winter](images/blog/patagonia3.jpg)
+![Torres del Paine en hiver](images/blog/patagonia3.jpg)
 *Pas mal comme cadre pour prendre des photos.*
 
 C'était une excursion d'une journée en voiture dans le **parc national Torres del Paine**, en petit groupe.
@@ -142,13 +142,13 @@ J'avais réservé auprès d'une agence locale à quelques minutes du musée de P
 
 Nous avons passé l'essentiel de la journée en voiture, avec des arrêts pour sortir et découvrir le parc. Il faisait un froid de dingue, et j'étais bien content de rentrer dans la voiture entre les arrêts. L'hiver, ce n'est pas une plaisanterie.
 
-[Voir les excursions à Torres del Paine sur GetYourGuide (lien affilié)](https://www.getyourguide.com/torres-del-paine-l177394/?partner_id=H1N6CGH&utm_medium=online_publisher).
+[GetYourGuide répertorie aussi des excursions photographiques à Torres del Paine, dont un safari photo comparable à la journée (lien affilié)](https://www.getyourguide.com/torres-del-paine-l177394/photography-tours-tc19/?partner_id=H1N6CGH&utm_medium=online_publisher). Ce n'est pas l'agence que j'avais utilisée ; les offres n'incluent pas toutes la prise en charge à Puerto Natales ni la Cueva del Milodón.
 
 > Cueva del Milodón est à environ 25 km au nord de Puerto Natales. La grotte est un peu intéressante et souvent incluse dans les excursions.
 
 ## Jour 8 : Base Torres {#jour-8}
 
-![Base Torres covered in snow](images/blog/patagonia2.jpg)
+![Base Torres sous la neige](images/blog/patagonia2.jpg)
 *Base Torres en hiver.*
 
 La deuxième excursion était une journée de randonnée à **Base Torres**, réservée avec la même agence.
@@ -197,7 +197,7 @@ Six heures en voiture pour quelques heures de marche, ce n'était pas le meilleu
 
 ## Jour 11 : Perito Moreno {#jour-11}
 
-![Perito Moreno Glacier](images/blog/patagonia.jpg)
+![Glacier Perito Moreno](images/blog/patagonia.jpg)
 *Perito Moreno, avec un oiseau qui maîtrisait mieux le cadrage que moi.*
 
 Perito Moreno était bien plus simple. Le transport part d'El Calafate, suit la **Ruta Provincial 11** et atteint le glacier en environ 1:30. Il se trouve à environ 80 km de la ville.

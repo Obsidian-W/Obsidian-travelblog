@@ -8,6 +8,9 @@ continents: ["Afrique"]
 draft: false
 ---
 
+> **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Une réservation par leur intermédiaire peut me rapporter une commission, sans frais supplémentaires pour vous.
+
+
 > Cette liste a été établie sur base de points communs observés à travers le continent africain, d'une grande diversité.
 Elle résume les outils et astuces qui font souvent la différence, surtout lors des déplacements entre différents pays et cultures. **Vérifiez toujours les conseils spécifiques à chaque pays !**
 
@@ -87,3 +90,15 @@ Elle résume les outils et astuces qui font souvent la différence, surtout lors
 ---
 Commentaires?
 ---
+
+
+## Réserver les excursions avant le départ
+
+J'ai réservé mes excursions localement. Les liens suivants sont des alternatives pour organiser à l'avance les étapes correspondantes ; je n'ai pas utilisé ces opérateurs. Comparez les inclusions et les jours nécessaires avant de réserver.
+
+- [Safari de trois jours au nord de la Tanzanie depuis Arusha (lien affilié)](https://www.getyourguide.com/arusha-l505/arusha-3-day-safari-to-tarangire-ngorongoro-lake-manyara-t834536/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Trek de trois jours dans le Simien depuis Gondar (lien affilié)](https://www.getyourguide.com/gondar-l1965/3-days-adventure-of-wildlife-spotting-trekking-simien-moun-t603334/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Circuit de quatre jours dans l'Omo depuis Arba Minch (lien affilié)](https://www.getyourguide.com/addis-ababa-l1085/omo-valley-4-day-cultural-tour-to-remote-tribes-villages-t801604/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Safari de trois jours aux chutes Murchison depuis Kampala (lien affilié)](https://www.getyourguide.com/kampala-l908/kampala-3-day-murchison-falls-safari-t388740/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Trek de sept jours au Rwenzori vers le pic Margherita (lien affilié)](https://www.getyourguide.com/uganda-l169189/9-days-rwenzori-trek-to-margherita-peak-in-uganda-t414530/?partner_id=H1N6CGH&utm_medium=online_publisher)
+- [Ascension de huit jours du Kilimandjaro par Lemosho (lien affilié)](https://www.getyourguide.com/kilimanjaro-l32590/8-days-kilimanjaro-climbing-itinerary-via-the-lemosho-route-t970896/?partner_id=H1N6CGH&utm_medium=online_publisher)

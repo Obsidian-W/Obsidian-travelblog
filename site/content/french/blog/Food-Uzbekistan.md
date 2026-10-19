@@ -11,22 +11,23 @@ draft: true
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-## Plats principaux
+## Plov
 
 ![Plov ouzbek](https://commons.wikimedia.org/wiki/Special:Redirect/file/Plov.jpg)
 
-La cuisine ouzbèke repose sur le riz, le blé, la viande, les carottes, les oignons, les produits laitiers, le thé et la cuisson au tandoor. Les plats sont généralement copieux et riches en viande, pâte ou riz.
+Le **plov** est du riz cuit dans un *kazan* avec viande, oignons, carottes et beaucoup de gras. On peut ajouter pois chiches, raisins, ail ou œufs de caille. Le riz doit rester brillant et les grains séparés, sans devenir crémeux comme un risotto.
 
-| Plat | Ce que c'est | Où chercher |
-| --- | --- | --- |
-| Plov | Riz avec viande, carottes et gras | Centres de plov, restaurants du midi |
-| Samsa | Pâté cuit au tandoor, souvent viande ou courge | Bazaars, boulangeries, stands |
-| Non | Pain rond au tandoor | Marchés et boulangeries |
-| Shashlik | Brochettes grillées | Restaurants de grillades |
-| Lagman | Nouilles avec viande et légumes | Restaurants locaux |
-| Manti | Raviolis vapeur | Restaurants du midi |
+Les centres de plov préparent de grandes quantités pour le déjeuner. Arrive vers midi pendant la cuisson : en fin d'après-midi, les portions peuvent avoir attendu plusieurs heures et devenir plus sèches et grasses. À Tachkent, tout est souvent mélangé et bien garni ; à Samarcande, riz, carottes et viande restent parfois en couches visibles.
 
-Le plov se mange surtout au déjeuner. Va plutôt tôt que tard l'après-midi si tu veux une bonne version.
+## Samsa et non
+
+Les **samsa** sont collées sur la paroi intérieure d'un *tandir* brûlant. La farce classique associe agneau haché, oignon et assez de gras pour rester juteuse. Laisse refroidir un peu : le jus peut être brûlant.
+
+Celles à la courge sont plus légères et parfois sans viande, mais vérifie la graisse de cuisson. La base doit être dorée et croustillante, pas pâle et ramollie par le réchauffage.
+
+Le **non** est un pain rond au tandir, marqué au centre avec un *chekich*. Le motif empêche le milieu de gonfler tandis que le bord monte. Le pain de Samarcande est dense et se conserve bien, donc pratique en train.
+
+Autres commandes courantes : **lagman**, nouilles avec viande et légumes ; **manti**, grands raviolis vapeur ; **shashlik**, brochettes grillées. Ils sont plus faciles à trouver toute la journée que le plov.
 
 ## Tashkent
 
@@ -50,11 +51,11 @@ Le centre ancien est compact et les restaurants sont faciles à intégrer entre 
 
 La vieille ville de Khiva a des restaurants pour voyageurs, mais moins de choix que Tashkent ou Samarkand. Garde des repas simples : soupe, shashlik, lagman, pain, salades et thé.
 
-A Nukus et au Karakalpakstan, attends-toi aux bases ouzbèkes, à quelques variations régionales, au poisson quand disponible et à une nourriture de route plus simple. Si tu vas vers Muynak ou la mer d'Aral, prends eau et snacks.
+À Nukus et au Karakalpakstan, attends-toi aux bases ouzbèkes, à quelques variations régionales, au poisson quand disponible et à une nourriture de route plus simple. Si tu vas vers Muynak ou la mer d'Aral, prends eau et snacks.
 
 ## Notes alimentaires
 
-Les végétariens peuvent s'en sortir à Tashkent et dans les villes touristiques, mais beaucoup de plats utilisent viande ou bouillon. Samsa à la courge, salades, pain, oeufs, produits laitiers et certaines soupes aident, mais demande clairement.
+Les végétariens peuvent s'en sortir à Tashkent et dans les villes touristiques, mais beaucoup de plats utilisent viande ou bouillon. Samsa à la courge, salades, pain, œufs, produits laitiers et certaines soupes aident, mais demande clairement.
 
 Sans gluten, c'est difficile : non, samsa, nouilles et raviolis sont partout. Le riz aide, mais le plov ne convient pas toujours si les contaminations comptent.
 

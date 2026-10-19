@@ -24,7 +24,7 @@ Before diving into my itinerary, a few considerations:
 *For a line, the best starting and ending points are Hong Kong and Guangzhou*
 - Hong Kong is not really China, the **one country two systems** policy still remains, hence Hong Kong has its own visa policy and rules.
 - To survive in mainland China, Alipay and a translator apps are lifesavers. Cash is accepted, but annoying to use and find.
-- AMAP is now in english, even on Android, it works very well in mainland China. Google Maps is better in HK
+- AMAP is now in English, even on Android, it works very well in mainland China. Google Maps is better in HK
 - Never speak about politics. It's touchy.
 - I did it in 7 days, but 8 would have been better. Damn flight deals.
 
@@ -245,11 +245,11 @@ It doesn't take too much time and allow you to see another side of the city.
 
 Afterwards, it should be around nightfall, head to the center to see the light show near the **Guangzhou TV Tower**,
 iirc it's the **Huacheng Plaza**, the small island and then the new tower is across.
-An underground shuttle allow you to freely cross tehe river without worries, but there are a few bridges as well.
+An underground shuttle allow you to freely cross the river without worries, but there are a few bridges as well.
 
 > Don't hesitate to use *Didi* to get to those places easily. It's hard to find your way in the subway or to use the buses.
 I took more time than wanted to see the city because I walked too much and had too hard of a time finding my way.
-Hopefully, by now there are better transportation apps in english (AMAP was still in chinese only when I went...)
+Hopefully, by now there are better transportation apps in English (AMAP was still in Chinese only when I went...)
 
 ---
 

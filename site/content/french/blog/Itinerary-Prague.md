@@ -13,11 +13,11 @@ draft: true
 
 | Jour | Destination | Notes |
 |:---:|:---|:---|
-| Jour 1 | [Vieille Ville](#jour-1-vieille-ville) | Place, quartier juif et pont Charles |
-| Jour 2 | [Château de Prague](#jour-2-chateau-de-prague) | Château et Malá Strana |
-| Jour 3 | [Troja](#jour-3-troja) | Château de Troja et dernier tour en ville |
+| Jour 1 | [Vieille Ville](#jour-1) | Place, quartier juif et pont Charles |
+| Jour 2 | [Château de Prague](#jour-2) | Château et Malá Strana |
+| Jour 3 | [Troja](#jour-3) | Château de Troja et dernier tour en ville |
 
-## Jour 1 Vieille Ville
+## Jour 1 Vieille Ville {#jour-1}
 
 ![Tour Poudrière et Maison municipale](images/blog/prague1.jpg)
 
@@ -27,7 +27,7 @@ Les sites du musée juif sont regroupés dans les mêmes rues : synagogues Maise
 
 Continuez par le Klementinum jusqu’au **pont Charles**, traversez vers Kampa, puis revenez par la rive est en passant devant le Théâtre national. Le parcours complet fait environ six kilomètres avant le temps passé dans les monuments.
 
-## Jour 2 Château de Prague
+## Jour 2 Château de Prague {#jour-2}
 
 ![Prague vue d’en haut](images/blog/prague2.jpg)
 
@@ -35,7 +35,7 @@ Prenez le tram 22 jusqu’à **Pražský hrad** et entrez dans le château par l
 
 Sortez par la porte est, passez les anciens escaliers du château et descendez par Malá Strana vers le mur Lennon et Kampa. Traversez le pont des Légions vers la Nouvelle Ville pour la tête rotative de Kafka et la place Venceslas.
 
-## Jour 3 Troja
+## Jour 3 Troja {#jour-3}
 
 ![Château de Troja](images/blog/prague3.jpg)
 

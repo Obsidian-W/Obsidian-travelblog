@@ -71,3 +71,9 @@ Pars tôt quand il fait chaud et prends de l'eau. Les itinéraires de la cascade
 - [ONCF Voyages](https://www.oncf-voyages.ma/) : accès ferroviaires vers Casablanca, Meknès, Fès, Marrakech et Tanger.
 - [Réservation CTM](https://booking.ctm.ma/) : accès en autocar vers Chefchaouen et trajets interurbains.
 - [Visit Meknes - Volubilis](https://visit-meknes.com/en/welcome-to-volubilis/) : accès à Meknès, Moulay Idriss et Volubilis.
+
+### Autres sources
+
+- [UNESCO - Morocco](https://whc.unesco.org/en/statesparties/ma)
+- [Jardin Majorelle official site](https://www.jardinmajorelle.com/en/homepage/)
+- [Hassan II Mosque Foundation](https://www.fmh2.ma/en/node)

@@ -87,7 +87,7 @@ Si tu arrives d'une autre région chinoise, voler vers **Lijiang**, **Dali**, **
 **Départ :** Gare routière de Kunming desservant le sud.  
 **Arrivée :** Xinjie / secteur des rizières de Yuanyang, puis transfert local.  
 **Réservation :** Gare routière, hébergement ou chauffeur.  
-**Notes importantes :** A traiter comme une excursion d'une ou deux nuits. Météo et brouillard décident de la visibilité.
+**Notes importantes :** À traiter comme une excursion d'une ou deux nuits. Météo et brouillard décident de la visibilité.
 
 ## Forêt de Pierre depuis Kunming
 
@@ -125,7 +125,7 @@ Intègre ces transferts dans la journée. Un train de deux heures peut quand mê
 
 En ville, utilise le métro quand il existe, les taxis et Didi. **Amap** est plus utile que Google Maps en Chine continentale pour la marche, les transports publics et les sorties de gare. Alipay est généralement l'application de paiement la plus simple pour les étrangers, mais configure-la avant d'en avoir besoin.
 
-Les vieilles villes du Yunnan se visitent à pied mais sont pénibles avec des bagages. A Dali et Lijiang, les taxis déposent souvent à une porte plutôt qu'à l'hébergement.
+Les vieilles villes du Yunnan se visitent à pied mais sont pénibles avec des bagages. À Dali et Lijiang, les taxis déposent souvent à une porte plutôt qu'à l'hébergement.
 
 Pour les trains, utilise exactement le nom du passeport utilisé à la réservation. En gare, prévois de la marge pour sécurité, contrôle nominatif et accès au quai. Les gares chinoises sont efficaces, mais pas pensées pour arriver au dernier moment avec un souci de billet étranger.
 

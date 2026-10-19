@@ -66,13 +66,13 @@ La vieille ville de Lijiang est très touristique, donc la qualité varie beauco
 | Lijiang baba | Pain plat local cuit à la plaque | Snacks et comptoirs de petit déjeuner |
 | Hotpot de côtes de porc salées | Fondue de côtes de porc, souvent très nourrissante | Restaurants locaux par temps frais |
 
-Baisha et Shuhe sont souvent plus faciles pour un repas tranquille que le coeur de la vieille ville de Lijiang.
+Baisha et Shuhe sont souvent plus faciles pour un repas tranquille que le cœur de la vieille ville de Lijiang.
 
 Si tu pars randonner dans la gorge du Saut du Tigre depuis Lijiang, mange correctement avant de partir et prends des snacks. Les repas de guesthouse dans la gorge sont pratiques, mais il ne faut pas compter sur un grand choix.
 
 ## Cuisine tibétaine de plateau autour de Shangri-La
 
-A Shangri-La, la cuisine bascule vers les produits du plateau tibétain : orge, yak, produits laitiers, thé au beurre, hotpot et soupes de nouilles simples. C'est un bon endroit pour essayer cette cuisine sans la logistique de la région autonome du Tibet.
+À Shangri-La, la cuisine bascule vers les produits du plateau tibétain : orge, yak, produits laitiers, thé au beurre, hotpot et soupes de nouilles simples. C'est un bon endroit pour essayer cette cuisine sans la logistique de la région autonome du Tibet.
 
 | Plat ou boisson | Ce que c'est | Notes |
 | --- | --- | --- |

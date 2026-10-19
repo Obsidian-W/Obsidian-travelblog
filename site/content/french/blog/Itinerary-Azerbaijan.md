@@ -15,20 +15,24 @@ draft: false
 
 J'ai traversé l'Azerbaïdjan en 2019, au début d'un voyage plus long en Azerbaïdjan, en Géorgie et en Arménie. Cet itinéraire de six jours tient dans une semaine en ajoutant l'arrivée ou le départ.
 
+{{< worth-o-meter score="9" >}}
+On ne pense pas souvent à l'Azerbaïdjan, mais il a tout : architecture, cuisine, paysages uniques et histoire. Un incontournable encore méconnu, parmi les rares pays où tout est exceptionnel sans être envahi de touristes.
+{{< /worth-o-meter >}}
+
 # L'itinéraire en bref
 
 ## 🇦🇿 Azerbaïdjan
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Bakou](#jour-1--arrivée-à-bakou) | Arrivée et vieille ville |
-| Jour 2 | [Bakou](#jour-2--bakou) | Le Bakou moderne |
-| Jour 3 | [Qobustan](#jour-3--qobustan) | Volcans de boue et sites du feu |
-| Jour 4 | [Xinaliq](#jour-4--xinaliq) | Excursion en montagne |
-| Jour 5 | [Sheki](#jour-5--sheki) | Route vers Sheki et vieille ville |
-| Jour 6 | [Kish](#jour-6--kish) | Église et randonnée jusqu'à la forteresse |
+| Jour 1 | [Bakou](#jour-1) | Arrivée et vieille ville |
+| Jour 2 | [Bakou](#jour-2) | Le Bakou moderne |
+| Jour 3 | [Qobustan](#jour-3) | Volcans de boue et sites du feu |
+| Jour 4 | [Xinaliq](#jour-4) | Excursion en montagne |
+| Jour 5 | [Sheki](#jour-5) | Route vers Sheki et vieille ville |
+| Jour 6 | [Kish](#jour-6) | Église et randonnée jusqu'à la forteresse |
 
-## Jour 1 : Arrivée à Bakou
+## Jour 1 : Arrivée à Bakou {#jour-1}
 
 ![La vieille ville de Bakou et les Flame Towers](images/blog/azer1.jpg)
 
@@ -46,7 +50,7 @@ Continuez vers le musée du Tapis et la Petite Venise, puis marchez le long du f
 
 ---
 
-## Jour 2 : Bakou
+## Jour 2 : Bakou {#jour-2}
 
 ![La mosquée Heydar](images/blog/azer3.jpg)
 
@@ -59,7 +63,7 @@ S'il vous reste de l'énergie, le musée d'Art moderne est à proximité. Person
 
 ---
 
-## Jour 3 : Qobustan
+## Jour 3 : Qobustan {#jour-3}
 
 J'ai pris une excursion guidée vers les volcans de boue de Qobustan, le temple du Feu d'Ateshgah et Yanar Dag.
 
@@ -69,7 +73,7 @@ La guide nous a expliqué les pétroglyphes, nous a laissés jouer avec la boue,
 
 ---
 
-## Jour 4 : Xinaliq
+## Jour 4 : Xinaliq {#jour-4}
 
 ![La route vers Xinaliq](images/blog/azer4.jpg)
 
@@ -80,7 +84,7 @@ Préparez-vous à une très longue journée. J'ai adoré son côté quête secon
 
 ---
 
-## Jour 5 : Sheki
+## Jour 5 : Sheki {#jour-5}
 
 ![Le palais des Khans de Sheki](images/blog/azer6.jpg)
 
@@ -93,7 +97,7 @@ Passez le reste de la journée dans le centre historique, au **palais des Khans 
 
 ---
 
-## Jour 6 : Kish
+## Jour 6 : Kish {#jour-6}
 
 ![Un repas avec Tim en Azerbaïdjan](images/blog/azer5.jpg)
 

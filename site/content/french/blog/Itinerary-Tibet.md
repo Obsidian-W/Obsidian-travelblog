@@ -9,6 +9,14 @@ continents: ["Asie"]
 draft: false
 ---
 
+J'ai réservé [exactement ce circuit terrestre de Lhassa à Katmandou avec TibetVista](https://www.tibettravel.org/lhasa-to-kathmandu-overland/). J'ai adoré : TibetVista était formidable. Ce lien direct n'est pas affilié.
+
+Si vous préférez GetYourGuide, [ce circuit de huit jours de Lhassa au camp de base de l'Everest (lien affilié)](https://www.getyourguide.com/lhasa-l1057/8-days-lhasa-to-everest-base-camp-with-tibet-travel-permit-t1121389/?partner_id=H1N6CGH&utm_medium=online_publisher) est l'alternative la plus proche que j'ai trouvée. Il revient à Lhassa au lieu de continuer à Katmandou. Je ne l'ai pas fait et peux toucher une commission avec ce lien. Pour mon itinéraire, je préfère toujours TibetVista.
+
+
+> **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Une réservation par leur intermédiaire peut me rapporter une commission, sans frais supplémentaires pour vous.
+
+
 
 > Avertissement : ne parlez pas de politique.
 
@@ -23,23 +31,27 @@ draft: false
 
 \_\_\_\_  
 
+{{< worth-o-meter score="8" >}}
+Le Xizang/Tibet est incroyable, mais les règles strictes et les permis compliquent toujours la visite. Peu de touristes, mais un coût élevé qui empêche le 9. Le palais du Potala est extraordinaire, les monastères aussi, et l'Everest : un rêve devenu réalité.
+{{< /worth-o-meter >}}
+
 # L'itinéraire en bref
 
 ## (Insérez ici le drapeau de votre choix) Tibet
 
 | Jour | Destination | Notes |
 |:----:|:-----------:|:-----:|
-| Jour 1 | [Arrivée à Lhassa](#jour-1-lhassa) | Arrivée et Norbulingka |
-| Jour 2 | [Lhassa](#jour-2-drepung-et-sera) | Monastères de Drepung et Sera |
-| Jour 3 | [Lhassa](#jour-3-palais-du-potala) | Potala, Jokhang et Barkhor |
-| Jour 4 | [Gyantse et Shigatse](#jour-4-gyantse) | Lac Yamdrok, glacier Korola et Gyantse |
-| Jour 5 | [Camp de base de l'Everest](#jour-5-camp-de-base-de-leverest) | Shigatse et camp de base |
-| Jour 6 | [Gyirong](#jour-6-gyirong) | Camp de base puis Gyirong |
-| Jour 7 | [Frontière népalaise](#jour-7-route-vers-katmandou) | Départ vers Katmandou |
+| Jour 1 | [Arrivée à Lhassa](#jour-1) | Arrivée et Norbulingka |
+| Jour 2 | [Lhassa](#jour-2) | Monastères de Drepung et Sera |
+| Jour 3 | [Lhassa](#jour-3) | Potala, Jokhang et Barkhor |
+| Jour 4 | [Gyantse et Shigatse](#jour-4) | Lac Yamdrok, glacier Korola et Gyantse |
+| Jour 5 | [Camp de base de l'Everest](#jour-5) | Shigatse et camp de base |
+| Jour 6 | [Gyirong](#jour-6) | Camp de base puis Gyirong |
+| Jour 7 | [Frontière népalaise](#jour-7) | Départ vers Katmandou |
   
   ---
   
-## Jour 1 Lhassa
+## Jour 1 Lhassa {#jour-1}
 
 Je suis arrivé à Lhassa en avion depuis Shangri-La, une autre ville tibétaine située dans le Yunnan.
 Il faut trois jours de route entre les deux, donc l'avion s'imposait. Il existe aussi des trains, mais tout dépend de la ville de départ. Depuis le Yunnan, malgré la relative proximité géographique — 1 500 km quand même — il faut prendre l'avion.
@@ -47,7 +59,7 @@ Il faut trois jours de route entre les deux, donc l'avion s'imposait. Il existe 
 J'étais malade à mon arrivée et je n'ai donc pas visité le palais de Norbulingka comme prévu. Si vous êtes en forme, rendez-moi service : allez le voir et racontez-moi dans les commentaires ! Il semble possible de le visiter sans guide.
 
 
-## Jour 2 Drepung et Sera
+## Jour 2 Drepung et Sera {#jour-2}
 
 ![Un monastère](images/blog/tibet5.jpg)
 
@@ -61,7 +73,7 @@ C'est une journée intéressante : on regarde les moines débattre, on découvre
 Si vous avez le temps, visitez aussi le musée de la culture tibétaine. Il revient en détail sur la « libération » du Tibet face aux puissances maléfiques : l'Angleterre, la Russie et « d'autres ». Grâce à la Chine et à son armée pacifique, les esclaves tibétains auraient été libérés de l'alliance des conspirateurs : Wakanda, Tuvalu et Groenland...
 
 
-## Jour 3 Palais du Potala
+## Jour 3 Palais du Potala {#jour-3}
 
 Fuuuuuuu-sion!
 Désolé, je pensais aux boucles d'oreilles Potara.
@@ -77,7 +89,7 @@ Après le Potala, je suis descendu vers la rue Barkhor pour visiter le dernier d
 ![KFC](images/blog/tibet2.jpg)
 *KFC à Gyantse*
 
-## Jour 4 Gyantse
+## Jour 4 Gyantse {#jour-4}
 
 ![Route tibétaine](images/blog/tibet3.jpg)
 
@@ -91,7 +103,7 @@ Le glacier Korola était couvert de déchets. J'en ai ramassé autant que possib
 
 Nous avons ensuite passé la nuit à Shigatse, où j'ai très bien mangé dans un restaurant de la vieille ville.
 
-## Jour 5 Camp de base de l'Everest
+## Jour 5 Camp de base de l'Everest {#jour-5}
 
 ![Devant le camp de base de l'Everest](images/blog/tibet4.jpg)
 
@@ -100,7 +112,7 @@ Après une visite rapide du petit palais de Shigatse, intéressant bien qu'assez
 Le camp de base de l'Everest est immense. De nombreuses tentes accueillent encore plus de visiteurs qui dansent et célèbrent leur arrivée sur le toit du monde, face à l'Everest. J'ai eu la chance d'apercevoir le sommet. Certaines personnes attendaient depuis une semaine pour cette seule éclaircie. Il est resté visible une vingtaine de minutes en journée, puis encore vingt minutes pendant la nuit.
 
 
-## Jour 6 Gyirong
+## Jour 6 Gyirong {#jour-6}
 
 Avant de quitter le camp de base, nous avons visité Rongbuk, l'un des monastères les plus hauts du monde. Son architecture n'est pas particulièrement remarquable, mais son histoire l'est davantage : détruit sous Mao Zedong, il a été reconstruit à l'époque de Deng Xiaoping. La vie est rude là-haut.
 
@@ -112,7 +124,7 @@ Nous avons dépassé les champs d'orge, traversé le désert et les dunes, franc
 
 À Gyirong aussi, les habitants voient peu d'Occidentaux. Les voyageurs népalais sont courants, mais notre groupe — un Allemand, deux Français d'origines différentes, une Latina et un Ashkénaze rencontré en chemin — attirait davantage l'attention.
 
-## Jour 7 Route vers Katmandou
+## Jour 7 Route vers Katmandou {#jour-7}
 
 ![La fameuse frontière de Gyirong](images/blog/nepalborder.jpg)
 

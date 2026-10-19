@@ -8,6 +8,9 @@ continents: ["Amérique du Sud"]
 draft: false
 ---
 
+> **Liens affiliés :** cet article contient des liens affiliés GetYourGuide. Une réservation par leur intermédiaire peut me rapporter une commission, sans frais supplémentaires pour vous.
+
+
 > Quelqu’un m’a déjà dit :  
 > *« Tu ne peux pas aller en Patagonie en hiver, tout est fermé ! »*  
 
@@ -112,3 +115,12 @@ Apporte des vêtements chauds, prévois tes hébergements et transports à l’a
 ---
 Commentaires ?
 ---
+
+
+### Options de réservation à l'avance
+
+- [Perito Moreno avec bateau facultatif depuis El Calafate (lien affilié)](https://www.getyourguide.com/el-calafate-l544/el-calafate-perito-moreno-glacier-optional-boat-trip-t231537/?partner_id=H1N6CGH&utm_medium=online_publisher) : l'option directe pour la journée au glacier.
+- [Randonnée à Base Torres depuis Puerto Natales (lien affilié)](https://www.getyourguide.com/puerto-natales-l32145/puerto-natales-base-of-the-towers-day-hike-t419260/?partner_id=H1N6CGH&utm_medium=online_publisher) : vérifiez les départs hivernaux et l'état du sentier avant de payer.
+- [Excursions photo à Torres del Paine, dont le safari photo d'une journée (lien affilié)](https://www.getyourguide.com/torres-del-paine-l177394/photography-tours-tc19/?partner_id=H1N6CGH&utm_medium=online_publisher) : l'offre la plus proche que j'ai trouvée du petit groupe photo avec lequel j'étais parti, mais pas le même opérateur.
+
+Pour une longue journée similaire à la mienne, [cette excursion à El Chaltén et au mont Fitz Roy depuis El Calafate (lien affilié)](https://www.getyourguide.com/el-calafate-l544/from-el-calafate-full-day-tour-to-el-chalten-t239467/?partner_id=H1N6CGH&utm_medium=online_publisher) peut se réserver en avance. Ce n'est pas mon opérateur ; vérifiez les départs en hiver pour votre date.

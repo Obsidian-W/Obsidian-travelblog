@@ -28,7 +28,7 @@ If any of the company mentioned here wishes to give me money, please do.
 
 ### Google Translate  
 - /!\ Download the Chinese language before arriving.  
-- The camera function is useful for menus and signs (It understandmy english better than my french!?).  
+- The camera function is useful for menus and signs (It understands my English better than my French!?).  
 - Conversation mode works decently for simple interactions, but I prefer to use the one in Alipay.
 
 ### VPNs  
@@ -62,7 +62,7 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 
 ### Alipay
 - QR code payments, anytime, anywhere.  
-- Non chinese citizen can link their bank card on it (needs a passport).  
+- Non Chinese citizen can link their bank card on it (needs a passport).  
 - If linking fails, apparently, there is a “Tour Pass” option you can top up. I never tried.  
 
 ### WeChat

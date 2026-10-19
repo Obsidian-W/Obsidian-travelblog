@@ -13,35 +13,35 @@ draft: true
 
 | Jour | Destination | Notes |
 |:---:|:---|:---|
-| Jour 1 | [Budapest](#jour-1-budapest) | Parlement, Danube et Pest central |
-| Jour 2 | [Budapest](#jour-2-budapest) | Colline du château, City Park et bains |
-| Jour 3 | [Boucle du Danube](#jour-3-boucle-du-danube) | Esztergom, Visegrád et Szentendre |
-| Jour 4 | [Košice et Poprad](#jour-4-kosice-et-poprad) | Arrêt à Košice vers les Hautes Tatras |
-| Jour 5 | [Mont Rysy](#jour-5-mont-rysy) | Randonnée depuis Štrbské Pleso |
-| Jour 6 | [Hautes Tatras](#jour-6-hautes-tatras) | Hrebienok et cascades de montagne |
-| Jour 7 | [Bratislava](#jour-7-bratislava) | Château, vieille ville et église bleue |
-| Jour 8 | [Vienne](#jour-8-vienne) | Ringstrasse, centre historique et Belvédère |
-| Jour 9 | [Vienne](#jour-9-vienne) | Schönbrunn, Naschmarkt et quartier des musées |
+| Jour 1 | [Budapest](#jour-1) | Parlement, Danube et Pest central |
+| Jour 2 | [Budapest](#jour-2) | Colline du château, City Park et bains |
+| Jour 3 | [Boucle du Danube](#jour-3) | Esztergom, Visegrád et Szentendre |
+| Jour 4 | [Košice et Poprad](#jour-4) | Arrêt à Košice vers les Hautes Tatras |
+| Jour 5 | [Mont Rysy](#jour-5) | Randonnée depuis Štrbské Pleso |
+| Jour 6 | [Hautes Tatras](#jour-6) | Hrebienok et cascades de montagne |
+| Jour 7 | [Bratislava](#jour-7) | Château, vieille ville et église bleue |
+| Jour 8 | [Vienne](#jour-8) | Ringstrasse, centre historique et Belvédère |
+| Jour 9 | [Vienne](#jour-9) | Schönbrunn, Naschmarkt et quartier des musées |
 
-## Jour 1 Budapest
+## Jour 1 Budapest {#jour-1}
 
 ![Parlement hongrois](images/blog/hungary1.jpg)
 
 Commencez au **Parlement hongrois**, marchez le long du Danube en passant par le mémorial des Chaussures et continuez vers la basilique Saint-Étienne. Traversez le centre par Deák Ferenc tér jusqu’à la grande synagogue et au quartier juif. Le tram 2 longe aussi les quais de Pest.
 
-## Jour 2 Budapest
+## Jour 2 Budapest {#jour-2}
 
 ![Château de Vajdahunyad](images/blog/hungary2.jpg)
 
-Prenez le bus 16 vers la **colline du château** pour l’église Matthias, le bastion des Pêcheurs et le château de Buda. Revenez à Pest par la ligne 1 du métro pour Heroes’ Square, le château de Vajdahunyad et les chemins de City Park. Terminez aux bains Széchenyi, ou à Gellért si la journée finit côté Buda.
+Prenez le bus 16 vers la **colline du château** pour l’église Matthias, le bastion des Pêcheurs et le château de Buda. Revenez à Pest par la ligne 1 du métro pour Heroes’ Square, le château de Vajdahunyad et les chemins de City Park. Terminez aux **bains Széchenyi**. Gellért n'est pas une alternative actuellement : le [site officiel des bains](https://www.gellertbath.hu/) annonce une fermeture pour rénovation depuis octobre 2025.
 
-## Jour 3 Boucle du Danube
+## Jour 3 Boucle du Danube {#jour-3}
 
 Prenez le train du matin depuis Budapest-Nyugati vers **Esztergom**. Visitez la basilique, le trésor et le musée du château, puis descendez vers le Danube et traversez le pont Maria Valeria pour la vue depuis la Slovaquie.
 
-Prenez le bus régional vers le sud jusqu’à **Visegrád** et descendez pour monter au château supérieur, à pied ou avec la navette. Continuez sur la même route du Danube en bus vers **Szentendre** pour les ruelles entre la place principale et la rivière. La ligne HÉV H5 revient de Szentendre à Batthyány tér à Budapest.
+Le [corridor de bus **880–889**](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2920) suit le Danube d'**Esztergom** à **Szentendre** par **Visegrád**. Descendez à Visegrád pour monter au **château supérieur**, au-dessus de la boucle : il faut grimper, le château n'est pas près de l'arrêt. Continuez sur la même route du Danube en bus vers **Szentendre** pour les ruelles entre la place principale et la rivière. La ligne HÉV H5 revient de Szentendre à Batthyány tér à Budapest.
 
-## Jour 4 Košice et Poprad
+## Jour 4 Košice et Poprad {#jour-4}
 
 ![Centre de Košice](images/blog/slovakia.jpg)
 ![Église à Košice](images/blog/slovakia1.jpg)
@@ -50,13 +50,13 @@ Prenez le train du matin de Budapest-Keleti à **Košice**. Je l’ai utilisé c
 
 Dormir à Košice marche aussi, mais raccourcit la randonnée du lendemain vers le Rysy. J’ai continué jusqu’à Poprad et je m’en suis servi comme base pour les deux journées de montagne.
 
-## Jour 5 Mont Rysy
+## Jour 5 Mont Rysy {#jour-5}
 
 ![Štrbské Pleso dans les Hautes Tatras](images/blog/slovakia2.jpg)
 
-Prenez le Tatra Electric Railway de Poprad-Tatry à **Štrbské Pleso** et suivez le sentier balisé vers Popradské pleso et Chata pod Rysmi. L’aller-retour au **mont Rysy** prend la journée et inclut des chaînes dans la partie supérieure. Partez avec le premier train de montagne utilisable et vérifiez que le sentier d’altitude est ouvert avant de quitter Poprad.
+Prenez le Tatra Electric Railway de Poprad-Tatry à **Štrbské Pleso** et suivez le sentier balisé vers Popradské pleso et Chata pod Rysmi. L’aller-retour au **mont Rysy** prend la journée et inclut des chaînes dans la partie supérieure. Après **Chata pod Rysmi**, le sentier rejoint la crête frontalière avec une vue vers la Pologne. La [fermeture saisonnière](https://www.tatry.sk/en/information-center/tatra-national-park/visiting-rules/winter-closure-of-marked-hiking-trails/) va de novembre à mai : cette journée est une randonnée d'été.
 
-## Jour 6 Hautes Tatras
+## Jour 6 Hautes Tatras {#jour-6}
 
 ![Sentier dans les Hautes Tatras](images/blog/slovakia3.jpg)
 
@@ -66,7 +66,7 @@ J’ai redescendu tout le chemin à pied au lieu de reprendre le funiculaire. La
 
 Prenez le train du soir vers Bratislava.
 
-## Jour 7 Bratislava
+## Jour 7 Bratislava {#jour-7}
 
 ![Église bleue de Bratislava](images/blog/slovakia4.jpg)
 
@@ -74,14 +74,14 @@ Marchez par Michael’s Gate, la place principale et les rues anciennes sous le 
 
 Prenez le train régional direct de Bratislava hlavná stanica à Vienne.
 
-## Jour 8 Vienne
+## Jour 8 Vienne {#jour-8}
 
 ![Karlskirche à Vienne](images/blog/vienna1.jpg)
 ![Belvédère](images/blog/vienna2.jpg)
 
 Marchez sur la Ringstrasse entre l’Opéra, la Hofburg, le Parlement et le Rathaus, puis traversez le centre jusqu’à la cathédrale Saint-Étienne. Prenez le tram D vers le **Belvédère** pour les jardins du palais et le musée.
 
-## Jour 9 Vienne
+## Jour 9 Vienne {#jour-9}
 
 Prenez la U4 vers **Schönbrunn** pour les salles du palais, les jardins et la Gloriette. Revenez par la même ligne jusqu’à Kettenbrückengasse pour **Naschmarkt**, puis traversez le MuseumsQuartier et finissez autour des rues de la Hofburg manquées le jour 8.
 

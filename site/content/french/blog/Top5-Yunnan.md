@@ -59,7 +59,7 @@ Vérifie les conditions locales avant de partir. Pluie, glissements de terrain, 
 
 **Shangri-La** est l'extrémité tibétaine du nord-ouest du Yunnan. Les principaux arrêts sont **Dukezong Old Town**, le **monastère Songzanlin** et les paysages de plateau autour. La région a sa propre culture frontalière tibétaine et ne relève pas du système de permis de la Région autonome du Tibet.
 
-Prévois deux nuits si tu réagis à l'altitude. Shangri-La est bien plus haute que Kunming, Dali ou Lijiang, donc évite d'arriver et d'enchaîner directement avec une grosse randonnée. La ligne Lijiang-Shangri-La a ouvert en 2023, et les médias d'Etat annonçaient alors un meilleur temps d'environ 1 h 18 entre les deux villes.
+Prévois deux nuits si tu réagis à l'altitude. Shangri-La est bien plus haute que Kunming, Dali ou Lijiang, donc évite d'arriver et d'enchaîner directement avec une grosse randonnée. La ligne Lijiang-Shangri-La a ouvert en 2023, et les médias d'État annonçaient alors un meilleur temps d'environ 1 h 18 entre les deux villes.
 
 La météo change vite. Prends des couches même si Kunming et Dali étaient chaudes.
 

@@ -97,7 +97,7 @@ Welcome to **Aktau**, on the Caspian Sea. White cliffs, desalination plants, oil
 
 Walk the **Skalnaya Tropa Promenade**, the path below the cliffs, then look for the **Melovoy Lighthouse**. It's built on top of a residential building. The **Ship Statue** and **Taras Shevchenko monument** are also on the coastal walk.
 
-If you have more time in the city, do visit the mosque, the memorial and spot the countless soviet murals on the walls.
+If you have more time in the city, do visit the mosque, the memorial and spot the countless Soviet murals on the walls.
 
 Aktau was the starting point for my three-day **Mangystau** tour. I personally used [RedMaya Travel](https://redmaya-travel.kz/english).
 
@@ -189,7 +189,7 @@ If you have time, take the **cable car to Kok Tobe** for city views.
 
 Museums like the Central State Museum offer historical context, but I haven't been there, someone told me it was more or less the same than the one in Astana.
 
-The city feels like Grenoble (The french chicago) without delinquency.
+The city feels like Grenoble (The French chicago) without delinquency.
 
 It's a really nice city to spend some time in and to base yourself for hikes.
 
@@ -299,7 +299,7 @@ My trek was booked separately. [this three-day Song-Kul trip with a yurt stay an
 
 Walk around the centre for the Russian-style wooden houses, the **Dungan Mosque** and the **Tatar Mosque**. The bazaar is built from shipping containers, and there are Dungan-Chinese restaurants around town.
 
-It's the most beautiful city of Kyrgyzstan, probably because it's a russian/dungan city. I really appreciated the abundance of Dungan food.
+It's the most beautiful city of Kyrgyzstan, probably because it's a Russian/dungan city. I really appreciated the abundance of Dungan food.
 
 The cafés had plenty of Russian and European visitors. There are also beaches on Issyk-Kul outside town, if you have more time here.
 

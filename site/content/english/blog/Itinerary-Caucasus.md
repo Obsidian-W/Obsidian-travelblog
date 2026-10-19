@@ -80,7 +80,7 @@ The centre is compact, so there is no need to rush: part of the fun is getting l
 PS: Don't miss the old baths!
 
 You can also continue onward to see the Carpet Musem and the mini venice, they are better seen in the afternoon and at right next to the old town.
-I'd also recomment walk along the waterfront, at least once during the day and once during the night, to enjoy the breeze and see the lightshow with the **Flame Towers**, they are impossible to miss!
+I'd also recommend walk along the waterfront, at least once during the day and once during the night, to enjoy the breeze and see the lightshow with the **Flame Towers**, they are impossible to miss!
 
 Around the old city there are also a few places worth visiting (They kinda insert themselves naturally here)
 
@@ -101,7 +101,7 @@ Day 2 is for the newer side of Baku.
 You will cross more distances and abuse the subway system a bit more (I kept the first day compact, for this one you'll go farther and further).
 Visit the enormous **Heydar Mosque**, you really shouldn't miss it.
 Then continue your way south to the famous *Heydar Aliyev Center**, whose curves are probably the city's most recognisable piece of modern architecture. Not far from the Aliyev Center, going South West, you have the main bazaar, definitely worth a stop.
-Then, go even more south west, getting close to be back to the old city. You'll find, first, the Heydar Aliyev (again) palace, then one of my favourite building: The ballet theater, with a more russian style of architecture.
+Then, go even more south west, getting close to be back to the old city. You'll find, first, the Heydar Aliyev (again) palace, then one of my favourite building: The ballet theater, with a more Russian style of architecture.
 
 
 If you still have energy after all of that, I guess you can visit the museum of modern art, it's nearby.
@@ -134,7 +134,7 @@ The exact tour I used no longer exists, but [this Quba and Khinaliq village tour
 Be prepared for a very long day.
 
 > I loved the side quest nature of the trip and the things we had on the way.
-> 1/ We crossed the mountain roads with russian tanks going the opposite way. No photos were allowed.
+> 1/ We crossed the mountain roads with Russian tanks going the opposite way. No photos were allowed.
 > 2/ To get into Xinaliq's small museum, we had to find the keykeeper. For this, we had to ask the children, that led us
 > us to a man on a roof, which himself told us to ask a little girl, that found the keys in a couple of minutes.
 
@@ -161,7 +161,7 @@ Then, once in Sheki spend the rest of the day exploring its historic centre and 
 ![A meal with Tim in Azerbaijan](images/blog/azer5.jpg)
 
 Take a local marshrutka from central Sheki to Kish, around 15 to 25 minutes away. Visit the old Albanian church, then continue on foot towards Galarsan-Gorarsan fortress.
-Allow several hours for the return hike and take water; return to Sheki by marshrutka (They were plentyful on this side)
+Allow several hours for the return hike and take water; return to Sheki by marshrutka (They were plentiful on this side)
 
 > With my friend, Tim, we got a bit lost and ended up crossing a river on foot, jumping and throwing our bags from place to place to cross it. Good times.
 
@@ -199,7 +199,7 @@ Start at **Freedom Square** and walk into the old city through its steep lanes a
 Don't miss the Gabriadze Theater Clock Tower!
 It's one of the city prettiest spot, close to the river!
 
-I then recommend to walk alongside(ish) the river, to see the nice brigdes, a view of Rike Park from one side, then the Sioni Church, the museums and the Meidan Bazar.
+I then recommend to walk alongside(ish) the river, to see the nice bridges, a view of Rike Park from one side, then the Sioni Church, the museums and the Meidan Bazar.
 
 At this point, it could be around noon, and the spot is filled with restaurants!
 Those are a bit more expensive than the rest, but could be nice. Personally I ate quite a bit later in a Cafe in Rike Park.
@@ -284,7 +284,7 @@ The trip is really the exact same one I took, with Gamajorba tours (I can take a
 
 ## Day 12 Day trip to Mtskheta
 
-Visit Georgia's ancient capital and Svetitskhoveli Cathedral as well as the jointure of the two rivers (Personnal highlght!)
+Visit Georgia's ancient capital and Svetitskhoveli Cathedral as well as the jointure of the two rivers (Personal highlight!)
 
 Take a Mtskheta-bound marshrutka from Didube bus station (Always the same!).
 It takes around 45 minutes and drops you near the centre; return marshrutkas leave from the same general area.
@@ -301,7 +301,7 @@ Or if you're lucky, perhaps you can get the transportation to Alaverdi, reaching
 For a shorter guided option that keeps Gori as a separate day, [this half-day Mtskheta tour also visits Jvari and the Chronicle of Georgia (affiliate link)](https://www.getyourguide.com/tbilisi-l1379/tbilisi-explore-mtskheta-the-ancient-capital-of-georgia-t165599/?partner_id=H1N6CGH&utm_medium=online_publisher).
 Again, I went independently and did not use that operator.
 
-Personnaly, I returned to Tbilissi early enough to go on with yet another date.
+Personally, I returned to Tbilissi early enough to go on with yet another date.
 
 ---
 
@@ -314,7 +314,7 @@ Cross into Armenia and base yourself in Alaverdi to visit the UNESCO-listed mona
 To get to Alaverdi, you can take any Yerevan bound bus from the international bus station and stop on the way.
 You'll probably be one of the only crazy person doing that, but unesco sites are worth it!
 
-They are a bit hard to reach, you might need to rely on taxis, which I don't personnaly don't like.
+They are a bit hard to reach, you might need to rely on taxis, which I personally don't like.
 A cable car can help you reach some sites, but I didn't see it in action?
 
 Honestly, that stop was overly complicated and was globally very exhausting for me.
@@ -352,7 +352,7 @@ I also warmly recommend walking a bit more south to see the Saint Gregory Cathed
 
 ![The Matenadaran in Yerevan](images/blog/armenia4.jpg)
 
-Spend another day discovering Yerevan, I recommend the Etchmiadzin monastery (I, for once, shared a taxi with a chinese friend, I don't usually recommend taxis... On the way back, we found the bus (helped by locals))
+Spend another day discovering Yerevan, I recommend the Etchmiadzin monastery (I, for once, shared a taxi with a Chinese friend, I don't usually recommend taxis... On the way back, we found the bus (helped by locals))
 We also crashed a marriage. Fun times.
 After that, I went to the Matenadaran manuscript museum and took care of my friend that got sick. If you have more time, you could visit the Ararat Distillery!
 
@@ -377,7 +377,7 @@ From there I went back to Yerevan after a lunch in a nice roadside restaurant, j
 
 ## Day X And after?
 
-Personnaly, I took a flight back, through Istanbul.
+Personally, I took a flight back, through Istanbul.
 You do you. Going to Turkiye next is an option, or, like my friend Tim, Kurdistan. Possibilities are many!
 
 ## More days? Planned vs Done
