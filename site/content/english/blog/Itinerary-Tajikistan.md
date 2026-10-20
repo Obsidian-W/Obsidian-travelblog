@@ -1,7 +1,7 @@
 ---
 date: "2025-07-25"
 title: "Ten days across Tajikistan"
-description: "A ten-day Tajikistan itinerary along the Pamir Highway, then Dushanbe, Panjakent and Khujand."
+description: "A ten-day Tajikistan itinerary along the Pamir Highway, Dushanbe, Panjakent and Khujand."
 image: "images/blog/pamir2.jpg"
 itinerary_map: "/images/itineraries/tajikistan.svg"
 categories: ["Itinerary", "Tajikistan", "Central Asia"]
@@ -9,9 +9,11 @@ continents: ["Asia"]
 draft: true
 ---
 
-I joined the Pamir Highway tour in **Osh**, Kyrgyzstan. The approach via **Tulpar-Kul** and **Peak Lenin** is in my [Kyrgyzstan itinerary](/blog/itinerary-kyrgyzstan/).
+I joined [Visit Alay's Osh–Dushanbe Pamir Highway tour](https://visitalay.com/tour/osh-dushanbe-pamir-highway/) in **Osh**, Kyrgyzstan. The approach via **Tulpar-Kul** and **Peak Lenin** is in my [Kyrgyzstan itinerary](/blog/itinerary-kyrgyzstan/).
 
 [Full Central Asia itinerary](/blog/itinerary-central-asia/)
+
+I spent **six days crossing the Tajik Pamirs**, then four days around **Panjakent and Khujand**. The approach from Osh adds a day in Kyrgyzstan.
 
 {{< worth-o-meter score="5" >}}
 In the middle. The pamir is nice, but not incredible; the vibe is mostly weird, weird ass grown men everywhere, gave me the creeps.
@@ -33,6 +35,26 @@ If you're in the region, it's worth for a cultural detour, but don't expect an e
 | Day 8 | [Seven Lakes](#day-8-seven-lakes) | Shing Valley and lake excursion |
 | Day 9 | [Khujand](#day-9-road-to-khujand) | Four-hour journey, fort and riverfront |
 | Day 10 | [Khujand](#day-10-khujand) | Museum, reconstructed village and hill |
+
+---
+
+## Booking the Pamir Highway from Osh
+
+### Visit Alay: price and inclusions
+
+[Visit Alay](https://visitalay.com/tour/osh-dushanbe-pamir-highway/) sells the **seven-day Osh–Dushanbe trip**, with private departures and groups to join. I travelled with them, but was disappointed by the shortened trip, extra charges and poor communication.
+
+**Advertised prices checked on 20 October 2026**, per person: **500$ (450€)** with four travellers, **670$ (603€)** with three, **1 000$ (900€)** with two, or **2 000$ (1 800€)** travelling alone.
+
+The price includes the **English-speaking driver, vehicle, fuel, side trips, the driver's food and accommodation, and vehicle border fees**. **Your own meals, accommodation, attraction tickets, visa and GBAO permit are extra.** The operator quotes **20–30$ (18–27€)** per person for a village homestay with dinner and breakfast; lunch is extra.
+
+### Permits and the border
+
+The tour crosses at **Bor-Dobo–Kyzyl-Art**, between the Alay Valley and Karakul.
+
+The **GBAO permit** authorises travel in **Gorno-Badakhshan**, including the eastern Pamirs and Wakhan Valley. It is separate from permission to enter Tajikistan: visa-free entry doesn't remove the permit requirement. The [Tajik embassy's e-visa information](https://mfa.tj/en/korea/consular-issues/consular-services/standard-visa) lists the GBAO add-on at **20$ (18€)** through the e-visa process. Travellers entering visa-free should arrange a standalone permit through the operator before leaving Osh; an agent's fee can increase the total.
+
+There are permit checkpoints along the route, including on the descent towards the Wakhan Valley. A printed GBAO permit is needed there.
 
 ---
 
@@ -70,6 +92,8 @@ Locals invited us to join a football game. We also tried **yak-milk ice cream**,
 We left **Alichur** for **Langar**, near the Afghan border.
 
 On the way, we stopped at a high-altitude lake and hiked for about **three hours**, reaching roughly **4 800 m**. There were marmots and wildflowers along the route.
+
+Visit Alay calls this hike **Panorama Ridge**, above **Khargush Pass**, also written **Kargush**, and lists **3–4 hours return**. Two small lakes sit below the ridge, with views towards the Afghan Pamirs from the top.
 
 The road then descended towards the **Wakhan Valley**. Trees and greenery returned as we dropped towards **3 000 m**, and we could see villages across the **Panj River** in Afghanistan.
 
@@ -120,6 +144,10 @@ It's not a must do, just like Vietnam's **Ha Giang loop**, it's overblown and ov
 
 Perhaps it's better on a motorbike, like many do. I guess it's part of the appeal.
 
+### An evening in Dushanbe
+
+For an evening walk, **Rudaki Avenue**, the **Ismoili Somoni monument on Dousti Square** and **Rudaki Park** are close together. The fountains and gardens make an easy first stop after the drive.
+
 ---
 
 ## Day 7 Panjakent
@@ -128,6 +156,12 @@ Perhaps it's better on a motorbike, like many do. I guess it's part of the appea
 
 From **Dushanbe**, continue to **Panjakent**, near the Uzbek border. The road journey takes roughly **4–5 hours** by car.
 
+### Dushanbe to Panjakent
+
+The road heads north through the **Anzob/Istiqlol tunnel**, then turns west at **Ayni** towards Panjakent. A direct transfer can be arranged through accommodation or a licensed tour operator.
+
+For bus departures and fares, the [Dushanbe terminal information service](https://traveltajikistan.tj/en/moving-around-the-country/) is **+992 37 236-66-13** or **+992 37 236-69-14**.
+
 In town, visit the **bazaar**, then walk up to the ruins of **old Panjakent** in the late afternoon. The archaeological site is above the modern town; the remains are the streets and mud-brick walls of the old Sogdian settlement.
 
 ---
@@ -135,6 +169,12 @@ In town, visit the **bazaar**, then walk up to the ruins of **old Panjakent** in
 ## Day 8 Seven Lakes
 
 The second day is for the **Seven Lakes**, also called **Haft Kul**, in the **Shing Valley**. A driver booked in Panjakent can take you along the lower lakes and back to town. The lakes are at different heights along the valley, with villages between them and walking routes towards the upper lakes.
+
+### Getting to the lakes
+
+A **4×4 day trip from Panjakent** follows the lakes up the valley to **Marguzor, the sixth lake**. [Local operator Sayohat Travel](https://sayohattravel.com/en/blog/routes/seven-lakes-tajikistan-guide/) gives roughly **two hours driving each way**, excluding stops. From Marguzor, the walk to **Hazorchashma, the seventh lake**, takes about **one hour each way**.
+
+[SevenLakes.tj](https://sevenlakes.tj/en/) also offers a day tour **from Samarkand**, advertised from **180$ (162€) per vehicle for up to four people**, checked on **20 October 2026**. It uses a driver on each side of the border and a 4×4 in Tajikistan. Lunch is extra, as is an English-speaking guide.
 
 It's great if you transfer to Uzbekistan from there.
 I mostly followed other people here before heading to Khujand.
@@ -149,6 +189,8 @@ I mostly followed other people here before heading to Khujand.
 
 I took a shared taxi from **Panjakent to Khujand**, around **four hours**.
 
+The route goes back through **Ayni**, then north through the **Shahriston tunnel** towards Khujand. Accommodation or a licensed operator can arrange a private transfer.
+
 The centre has a reconstructed fort, museums, a mausoleum and parks along the **Syr Darya**. The fort and the riverfront are close together, with the market streets farther into town.
 
 ---
@@ -160,6 +202,16 @@ The city is worth it for its big museum
 You'll find a fake village, a building similar to the one in Uzbekistan, with hilarious paintings of the great leader inside as well
 as a hill overlooking the city.
 
+This is the **Khujand Fortress Historical and Cultural Complex**, also called **Qalai Khujand**. The restored complex has **five exhibition halls** and **eight reconstructed courtyards** for crafts including weaving, embroidery, pottery and calligraphy. It is separate from the older **Historical Museum of Sughd** beside the fortress. [Details of the restoration](https://president.uz/en/lists/view/8004).
+
+For the rest of the day, **Kamoli Khujandi Park** and the **Syr Darya riverfront** are beside the fortress. **Panjshanbe Bazaar** and the **Sheikh Muslihiddin complex** make another walk through the centre.
+
+### Onward to Uzbekistan
+
+**Khujand → Tashkent** goes through **Oybek**, also known as **Buston/Fotekhobod** on the Tajik side. Private cross-border transfers usually use two vehicles, with a walk through passport control between them. [A local operator's route](https://traveltotajikistan.org/khujand-tours-from-tashkent/) allows roughly **2:30 of driving each way**, plus the crossing.
+
+**Panjakent → Samarkand** goes through **Sarazm–Jartepa**. This is the shorter continuation after the Seven Lakes, without the detour north to Khujand. [SevenLakes.tj's transfer service](https://sevenlakes.tj/en/terms/) also uses a vehicle on each side and a pedestrian crossing.
+
 ---
 
 ## More days? Planned vs Done
@@ -167,6 +219,12 @@ as a hill overlooking the city.
 ### One more day in Dushanbe
 
 I regret not spending a full day in **Dushanbe**. I arrived at 16:00 and essentially got an evening. I would add a day for the parks and the grand buildings around the capital.
+
+Start with the **National Museum of Antiquities**, at **3 Academician Rajabov Street**, for the nearly **13 m reclining Buddha from Ajina Tepe** and the Sogdian wall paintings from ancient Panjakent. This is an archaeological museum, separate from the larger National Museum near the flagpole. Allow **1:30–2 hours**. [Museum collection and location](https://traveltajikistan.tj/en/tajikistan-national-museum-of-antiquities/).
+
+Then walk **Rudaki Avenue**, the **Somoni monument** and **Rudaki Park**, continuing towards the **flagpole** and **National Museum of Tajikistan**. The latter has broader historical and natural-history collections; its [official admission for foreign visitors is 70 somoni (6,40€)](https://osorkhonaimilliidip.tj/en/tickets/), checked on **20 October 2026**, with guided tours and photography charged separately.
+
+For more architecture, **Kokhi Navruz / Navruz Palace** has carved wooden interiors, painted ceilings and decorated reception halls. **Mehrgon Bazaar** is another option for the market building and food stalls.
 
 ### Panjakent, Seven Lakes and Khujand
 

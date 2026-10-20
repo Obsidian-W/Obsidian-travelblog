@@ -5,6 +5,25 @@ These rules apply to every new article and every rewrite in this blog. They are 
 The objective is to publish original, useful, trustworthy travel writing that gives readers substantially more value than a generic search summary. Human sounding is better.
 Don't insult users.
 
+Follow the user's explicit instructions and this guide on every edit. Preserve the author's existing edits and image placement unless asked to change them. Apply corrections to the same issue throughout the requested work, not just to the sentence cited. Do not reintroduce rejected wording, generic filler, obvious reminders, patronizing explanations, or editorial commentary in article prose. An acknowledgement in chat does not replace making an explicitly requested change in the files.
+
+### Required checks for every edit
+
+Before editing:
+
+1. Read this guide, the live target files and their current diff. Identify the author's changes so they are preserved.
+2. Record the requested scope and the user's applicable corrections internally. Treat repeated corrections as constraints for the whole requested scope.
+3. Check the proposed change against those constraints before writing it.
+
+Before reporting completion:
+
+1. Read the resulting diff. Every changed passage must serve the request and comply with the user's instructions.
+2. Check the entire requested scope for the same problem, including equivalent wording. Fixing one quoted example is insufficient.
+3. Remove sentences that merely explain the article's organisation, state the obvious, justify the draft, or lecture readers. Keep concrete information about places, activities, transport, booking and costs.
+4. Verify that author edits, images and unrelated files were preserved. Do not claim a check passed unless it was actually performed.
+
+If a proposed sentence repeats a previously rejected pattern, discard it. Do not replace it with a synonym or a longer explanation. Do not add article prose defending an earlier mistake.
+
 These rules implement Google's guidance on helpful, reliable, people-first content and its prohibition on scaled, low-value content. Google does not ban AI-assisted writing; it does penalize unoriginal content produced at scale without meaningful value.
 
 ## 1. Non-negotiable principle

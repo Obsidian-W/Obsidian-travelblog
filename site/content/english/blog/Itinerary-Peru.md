@@ -17,6 +17,12 @@ draft: false
 
 Prices are approximate euro equivalents, checked in September 2026.
 
+{{< worth-o-meter score="10" >}}
+Peru is an absolute must, I don't want to give out a lot of 10, but Peru deserves one.
+Really. Amazing mix of different landscapes, easy to travel, great food, peruvian people are kind folks, very fun too.
+And all the history! This place has two thousands years of history, and it shows! Wow. Just wow.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## Peru

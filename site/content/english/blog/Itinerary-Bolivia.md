@@ -13,6 +13,13 @@ draft: false
 
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
+{{< worth-o-meter score="8.5" >}}
+Bolivia wasn't as perfect as Peru, but still packed unique sights. It's unique an totally different from its neighbor.
+Don't let people discourage you by saying combining it with another latin american country is the same, because it's not.
+Widly more native, unique architecture and culture, really distinct landscape (Uyuni, Torotoro), impressive cities (La Paz, Sucre)
+Currently, it lacks infrastructure and food wasn't to my taste, but Bolivia is amazing.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## Bolivia
