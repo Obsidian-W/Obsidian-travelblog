@@ -9,11 +9,11 @@ continents: ["Eurasia"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 > This article was actually written in 2026, but the trip and what I did date back to 2019 
 > I spent around two weeks in this amazing region following a coworker's advice.
 > One of the best advice I received, I met my ex girlfriend and my best friend in this very trip!
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 **Focused country guides from this journey:**
 

@@ -9,6 +9,8 @@ continents: ["Asia"]
 draft: false
 ---
 
+A horse trek to Song-Kul, walks around Karakol and the mountains below Peak Lenin are the main stops on this twelve-day Kyrgyzstan route.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 [Full Central Asia itinerary](/blog/itinerary-central-asia/)

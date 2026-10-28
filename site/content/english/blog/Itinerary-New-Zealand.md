@@ -1,13 +1,24 @@
 ---
 date: "2020-02-05"
-title: "Two weeks in New Zealand"
-description: "A public-transport and hitchhiking route from Auckland to Tongariro, Wellington, Abel Tasman, Franz Josef, Queenstown, Te Anau and Christchurch."
+title: "Two weeks across New Zealand"
+description: "Two weeks across both islands: Tongariro, Abel Tasman, Franz Josef, Queenstown and more."
 image: "images/blog/nz.jpg"
 itinerary_map: "/images/itineraries/new-zealand.svg"
 categories: ["Itinerary", "New Zealand"]
 continents: ["Oceania"]
 draft: true
 ---
+
+Two weeks in New Zealand took me across Tongariro’s volcanoes, along the Abel Tasman coast and to the lakes around Queenstown and Te Anau. A wonderful trip through a wonderful country.
+
+> I travelled from Auckland on the North Island (**Te Ika-a-Māui**) to Christchurch on the South Island (**Te Waipounamu**) during my 2020 world trip. I always use public transport as much as possible and give you my tips.
+
+{{< worth-o-meter score="8" >}}
+NZ is a definitive 8. I loved the scenery, the hints of Maori Culture, the remoteness.
+But the goddamn rude people (Most of those I met were genuinely awful), the fact it's not that easy on public transportation and it's lack of visible history drop the score a notch.
+Still, it's a country you have to do at least once in your life, the epic Tongariro crossing is one of a kind, Queenstown is delightful, the sounds and fjords are like Norway, the hikes numerous!
+New Zealand is not just Lord Of The Ring, it's pure adventure.
+{{< /worth-o-meter >}}
 
 # Itinerary done quick
 
@@ -16,95 +27,205 @@ draft: true
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
 | Day 1 | [Auckland](#day-1-auckland) | Harbour, museum and Mount Eden |
-| Day 2 | [Ohakune](#day-2-ohakune) | Railway town and local walk |
-| Day 3 | [Tongariro](#day-3-tongariro) | Tongariro Alpine Crossing |
-| Day 4 | [Wellington](#day-4-wellington) | Waterfront, Te Papa and Mount Victoria |
-| Day 5 | [Wellington](#day-5-wellington) | Parliament, cable car and Weta Workshop |
-| Day 6 | [Cook Strait and Nelson](#day-6-cook-strait-and-nelson) | Ferry through the Marlborough Sounds |
-| Day 7 | [Abel Tasman](#day-7-abel-tasman) | Beaches and coastal track |
-| Day 8 | [West Coast](#day-8-west-coast) | Punakaiki and the road to Franz Josef |
-| Day 9 | [Franz Josef](#day-9-franz-josef) | Glacier valley walk |
-| Day 10 | [Queenstown](#day-10-queenstown) | Wānaka road and Lake Wakatipu |
-| Day 11 | [Queenstown](#day-11-queenstown) | Arrowtown and Queenstown Hill |
-| Day 12 | [Te Anau](#day-12-te-anau) | Lake, bird sanctuary and town |
-| Day 13 | [Kepler Track](#day-13-kepler-track) | Day walk from Te Anau |
-| Day 14 | [Christchurch](#day-14-christchurch) | Long transfer across the South Island |
-| Day 15 | [Christchurch](#day-15-christchurch) | Centre and flight towards Alice Springs |
+| Days 2–3 | [Ohakune and Tongariro](#days-2-and-3-ohakune-and-tongariro) | Mangawhero Forest and Alpine Crossing |
+| Days 4–5 | [Wellington](#days-4-and-5-wellington) | Te Papa, Mount Victoria, Botanic Garden and Weta Workshop |
+| Day 6 | [Picton and Nelson](#day-6-picton-and-nelson) | Marlborough Sounds and Nelson centre |
+| Day 7 | [Abel Tasman](#day-7-abel-tasman) | Anchorage and coastal walk to Marahau |
+| Days 8–9 | [Punakaiki and Franz Josef](#days-8-and-9-punakaiki-and-franz-josef) | Pancake Rocks, glacier valley and Tatare Tunnels |
+| Days 10–11 | [Queenstown](#days-10-and-11-queenstown) | Lake Wakatipu, Arrowtown and Queenstown Hill |
+| Days 12–13 | [Te Anau and the Kepler Track](#days-12-and-13-te-anau-and-the-kepler-track) | Lakefront, bird sanctuary, Brod Bay and Luxmore option |
+| Day 14 | [Christchurch](#day-14-christchurch) | Journey via Queenstown |
+
+## Getting around by coach
+
+**InterCity** runs the long-distance coaches, some scenic services are operated by GreatSights or Gray Line, with commentary and sightseeing stops.
+
+You can buy individual tickets on [InterCity](https://www.intercity.co.nz/), or get a pass:
+
+- **[FlexiPass](https://www.intercity.co.nz/bus-pass/flexipass-buy-pass):** 30 hours cost **280 NZD (140€)**; 60 hours cost **518 NZD (259€)**. Reserve each journey and its listed travel time is deducted from the pass.
+It lasts 12 months from activation, can be topped up and covers eligible Interislander ferry journeys.
+- **TravelPass:** a fixed route with flexible dates. You can stop along each leg, but cannot backtrack after completing it.
+
+Note that bus are often in a once a day basis, so they are not that common, you need preparation. And they get expensive very fast.
+
+Prices were checked in October 2026. Euro equivalents are approximate, rounded at **1€ ≈ 2 NZD**.
 
 ## Day 1: Auckland
 
-Walk from the harbour through the centre to **Albert Park**, then continue through the Domain to the **Auckland War Memorial Museum**. Take a local bus to **Mount Eden** in the late afternoon and follow the rim of the volcanic crater for the city view.
+Start at **Viaduct Harbour**, follow the waterfront to **Britomart**, then walk uphill to **Albert Park**. Continue through the **Auckland Domain** to the **Auckland War Memorial Museum** (If you wish to). The walk and parks take roughly two hours, before visiting the museum.
 
-## Day 2: Ohakune
+The museum has Māori and Pacific collections, natural history and war exhibits. International adult entry costs **32 NZD (16€)**; I didn't went due to lack of time.
 
-Take the [InterCity coach from Auckland to Ohakune](https://www.intercity.co.nz/north-island-buses/bus-auckland-to-ohakune): it leaves from SkyCity, 102 Hobson Street, and stops at 27 Clyde Street after about 6:30. I stopped here rather than going straight to National Park. The town grew around the railway, and the short walks beside the tracks and towards the old station filled the remaining daylight.
+If you ever get enough time, likely in the late afternoon, take a local bus towards **Mount Eden / Maungawhau** and walk up to the crater rim for the view across the city and harbour. I got this recommendation a bit late, sadly, I wish I could have visited.
 
-## Day 3: Tongariro
+> Note: I arrive in Auckland quite late from Taipei, so my time was quite limited. And I wanted to go on rather quickly, to see more.
+
+
+## Days 2 and 3: Ohakune and Tongariro
+
+I stopped in Ohakune after taking the coach from Auckland, it took quite a few hours, most of ym morning was spent this way.
+Ohakune is the base for Tongariro, I left it for the next day, to make it possible, as it's a full day trip.
+
+Hence I spent the afternoon walking towards the old railway station.
+Near Ohakune Junction, the **Mangawhero Forest Walk** starts opposite the DOC office at the bottom of Ohakune Mountain Road.
+The free **3,4 km loop** takes about **1:05**, through forest beside the river.
+Of course, it's possible to extend that walk over the hills and more of the forest. I spent 4 hours walking around Ohakune following recommendations from my hostel. 
+
+Honestly, I used that as a rest day. And I prepared my lunch for the next day, and so should you.
 
 ![The Tongariro Alpine Crossing](images/blog/nz1.jpg)
 
-Use the booked shuttle from Ohakune to the Mangatepopo trailhead for the **Tongariro Alpine Crossing**. The route climbs through South Crater to Red Crater, passes the Emerald Lakes and descends to Ketetahi. The crossing is exposed and the shuttle can cancel when the weather turns; confirm the pickup point and return time the evening before.
+The following morning, take a shuttle to the **Tongariro Alpine Crossing**. [Dempsey Buses](https://dempseybuses.co.nz/tongariro-crossing/) runs return transport from Ohakune, listed from **90 NZD (45€)** per adult, dropping you at **Mangatepopo** and collecting you at **Ketetahi**. But the entrance is free in a way, you pay it with the shuttle.
+(So you cross one way, the bus finds you at the other. Convenient.)
 
-Stay in Ohakune after the crossing and take the southbound coach to Wellington on Day 4.
+Walk up **Mangatepopo Valley** to **South Crater**, then climb to **Red Crater**. Descend the loose scree to the **Emerald Lakes**, continue past **Blue Lake** and follow the long descent to Ketetahi.
 
-## Day 4: Wellington
+The crossing is **20,2 km one way**, around **6 hours**, doable from November to April.
+Shuttle users also need the free [DOC track booking](https://www.doc.govt.nz/tongariroalpinecrossing), apparently (Info found on the net, it's quite new I guess).
+And you have to take food with you, of course, most people snack around the top
 
-After the coach journey from Ohakune, walk Wellington's waterfront to **Te Papa**, whose collections cover Māori culture, natural history and New Zealand's geology. Continue around Oriental Bay and climb **Mount Victoria** for the harbour view.
+I recommend spending a second night in Ohakune before travelling south to Wellington, since it's far too long.
 
-The cheap Wellington hostels were notoriously poor and filled quickly. Mine was filthy and shared with sex workers and men who made the stay deeply unpleasant. Book this stop earlier than the others.
+> My review of Tongariro: Absolutely incredible. The best day hike I've ever did.
+> It's epic, colorful, not that simple, not hard either, and just so WOW. Not beautiful, WOW, uppercase.
+> This was my favourite part of my whole New Zealand trip, it started strong!
 
-## Day 5: Wellington
+## Days 4 and 5: Wellington
 
-Visit the **Beehive** and Parliament grounds, ride the cable car uphill and walk back through the **Botanic Garden**. In the afternoon, take **Bus 2 towards Miramar**, not the Seatoun service, and get off at Darlington Road, stop 6240. [Weta Workshop](https://www.wetaworkshop.com/tours/wellington/plan-your-visit) is at 1 Weka Street, a short walk away. The workshop tour was worth the trip across the city.
+Take the coach from Ohakune to **Wellington**;
 
-## Day 6: Cook Strait and Nelson
+My departure was quite late, but it was direct.
 
-Take the morning ferry from Wellington to **Picton**. The last part threads through the Marlborough Sounds and was the best part of this travel day. Connect to the coach for Nelson after disembarking. I barely visited Nelson beyond the evening stop.
+> I rushed that a bit and focused on the museum, the trip took almost the whole day, so I arrived rather late, 
+
+From the railway-station end of town, walk along the waterfront past **Queens Wharf** and **Frank Kitts Park** to **Te Papa**.
+The museum covers Māori culture, natural history and New Zealand’s geology. (International adult entry costs **35 NZD (17,50€)**, valid for 48 hours;)
+100% worth it, IMHO, and I had enough of museums. It covers so much, especially of a culture that doesn't shine as brightly as it should.
+
+Ideally, if you have time, continue to **Oriental Bay**, climb the **Oriental Terrace** zigzag to **Hawker Street**, then follow the lookout signs up **Mount Victoria**. Descend towards **Majoribanks Street** and Courtenay Place.
+
+The hill walk takes roughly two hours from the centre and rewards you with good views, historic buildings, the terrace and quite a lot of nature. I did it around sunset, but ended up at the top of Mount victoria at night. Luckily I could spot the many glow worms and the hedgehogs.
+
+The cheap Wellington hostels were notoriously poorly rated and filled quickly, be careful. Book early.
+
+> Mine was filthy and shared with sex workers and disgusting men who made the stay deeply unpleasant. Book this stop earlier than the others, I regret booking it too late, I saw the ratings on my place, didn't believe it could be that bad.
+> But for two nights... I took the risk.
+> I arrived in a room with 3 guys that clearly lived in that thing, chips on the floor everywhere, full on diogene syndrome trash everywhere, stench that could wake the deads, and just not pleasant. I went to the toilet, weirdoe masturbating loudly on the urinal.
+> Noice. 10/10.
+
+---
+
+On the second day, I walked up through the **Botanic Garden** and **Bolton Street Cemetery** to the **Beehive** and Parliament. This takes around an hour. The gardens and the one-hour Parliament tour are free (And nice to do).
+Then I went on back near the waterfront, to enjoy the street food and the lively areas, before making my way to the next stop, which I warmly recommend: **Weta Workshop**, where they did the costumes for Lord Of the Ring.
+
+For **Weta Workshop**, take **bus 2 towards Miramar** to **Darlington Road**, then walk to **1 Weka Street**.
+The tour covers props, costumes and practical film effects, Tickets start at **59 NZD (29,50€)** online for the **1:30** tour. With the Weta Cave shop, allow about two hours (and a half?) there. Well worth the two hours trip to get there.
+
+And that was it for me, I went back early, checked into a different, better place.
+
+With more time, I don't really know what to do, I felt like I did the most I could in this city, outside of just chilling out.
+
+## Day 6: Picton and Nelson
+
+Take the morning ferry from Wellington to **Picton**. Sailing through the **Marlborough Sounds** before reaching Picton was the best part of the journey.
+It's not as beautiful as Milford Sound, but it's a close second.
+
+[Interislander](https://www.interislander.co.nz/about/interislander-ferry-faqs) takes around **3:30**, with foot-passenger fares starting around **90 NZD (45€)**. Check-in is at least 60 minutes before departure;
+
+From Picton, you can try to get lunch before taking the coach to **Nelson**. I barely visited Picton, just got lunch before the bus.
+Then, around 5PM I fnally dropped my luggage in Nelson. I had enough daytime left to walk through centre to **Christ Church Cathedral** and **Queens Gardens**, the view is quite nice and sunset is even better.
 
 ## Day 7: Abel Tasman
 
 ![The coast in Abel Tasman National Park](images/blog/nz2.jpg)
 
-Reach **Marahau** or **Kaiteriteri** for a section of the **Abel Tasman Coast Track**. I hitchhiked from Nelson and it was difficult. For a booked alternative, take a Nelson–Marahau shuttle and a water taxi to **Anchorage**, then walk back through the bays to Marahau. This follows a section of the coastal track through beech forest above the beaches.
+I hitchhiked from Nelson to **Abel Tasman**, and finding a lift was difficult, it took me the whole morning to get there.
+If you don't have your own car, you're toast. Or you have to be lucky enough to find a tour, so luck is a factor here, pray Fortuna. Bus do run, but good luck finding them.
+Luckily I found a tour bus for my return, I had to pay a fee, but not a bad one, it ended up quite positive.
 
-## Day 8: West Coast
+Head to the main Coast Track, then follow it past **Apple Tree Bay**, **Coquille Bay** and **Tinline Bay** to the Marahau causeway. The walk is **12,4 km**, around **4 hours**, plus detours to the beaches and caves.
 
-My southbound bus made sightseeing stops on the way from Nelson towards Franz Josef, including the **Punakaiki Pancake Rocks**. The road follows the Buller Gorge and then the Tasman coast before continuing through Greymouth and Hokitika.
+From Kaiteriteri:
 
-At **Punakaiki**, the short loop crosses the layered limestone formations above the sea. The blowholes depend on the tide and swell. Continue south to **Franz Josef** for the night.
+https://www.getyourguide.com/en-gb/nelson-new-zealand-l1758/abel-tasman-sea-shuttle-cruise-and-walking-tour-combo-t101900/?ranking_uuid=c209edf3-32be-4eb7-af36-673307b921fe&q=Abel+Tasman+National+Park
 
-## Day 9: Franz Josef
+From Nelson, a bit crazier:
 
-Take the local shuttle towards the **Franz Josef Glacier** valley and walk the marked trail to the viewpoint. Heavy fog covered the entire view when I went. I completed the walk and saw cloud where the glacier should have been.
+https://www.getyourguide.com/en-gb/kaiteriteri-l91056/nelson-cruise-abel-tasman-national-park-to-golden-bay-tour-t1008561/?ranking_uuid=c209edf3-32be-4eb7-af36-673307b921fe&q=Abel+Tasman+National+Park
 
-Spend the second half of the day on the Tatare Tunnels walk or around Lake Mapourika, then return to Franz Josef for the night.
+## Days 8 and 9: Punakaiki and Franz Josef
 
-## Day 10: Queenstown
+My southbound bus made sightseeing stops between Nelson and Franz Josef, including the **Punakaiki Pancake Rocks**. The road follows the **Buller Gorge** and the Tasman coast, then passes **Greymouth** and **Hokitika**. The journey takes roughly **10 hours**.
+Honestly I'm glad the grey bus went this way, made the trip much more manageable.
+
+At **Punakaiki**, the free **Pancake Rocks and Blowholes Walk** is a **1,1 km loop**, around **20 minutes**, above layered limestone and surge pools.
+The bus does stop for 30 minutes, good enough to do it.
+
+Once in Franz Josef, i went to the Tatare Tunnel walk to see the glow worms, it's a short walk to get there (Have to do it at night) and not that long of a walk at night.
+My phone was not good enough to capture the beautiful blue lights, so I have no picture, but it's a beautiful as what you see online.
+
+---
+
+Once in Franz Josef, I left early in the morning to see the Glacier, but the view was so foggy, I barely saw the glacier on the way back, but the hike was fun. We started being only two, went back in a group of 9 that went on to get dinner together.
+The hike is around 6 hours both ways, through a misty forest (Very pretty) then across miradors all the way to the cold topmost viewpoint.
+It was a fun experience in the end, butvery weather dependant.
+
+It's possible to walk the glacier with an helicopter ride (yup), I met a few girls that did it, "short but super fun and unique".
+On top of the glacier, the fog wasn't much of an issue apparently, but flights were heavily delayed.
+Beware tho, it's quite expensive, not like the free hike.
+## Days 10 and 11: Queenstown
 
 ![Queenstown and Lake Wakatipu](images/blog/nz3.jpg)
 
-The [coach from Franz Josef to Queenstown](https://www.intercity.co.nz/south-island-buses/bus-to-queenstown) takes about 8:30, travelling through Haast Pass and **Wānaka**. After arrival, walk along **Lake Wakatipu** and through Queenstown Gardens.
+The coach from Franz Josef to **Queenstown** takes about **8:30**, through **Haast Pass** and **Wānaka**.
 
-## Day 11: Queenstown
+After arrival, walk along **Lake Wakatipu** to **Queenstown Gardens**. Follow the shoreline around the peninsula and back to the beach: about an hour, with no entry fee.
+
+This was a short visit for me, might be for you too, the trip is so long! One of my main grip about NZ: A lot of time spent in bus. Or perhaps I tried doing it all too quickly. I could have added a day to make it more worth it.
+
+Queenstown is a party town more than a hiking town (Wanaka is more hiking friendly, but it was too full, accomodation wise). I did party a bit, not my thing, but it's fun, life is very social around thre.
 
 ![Queenstown from above](images/blog/nz4.jpg)
 
-Take Bus 2 to **Arrowtown** for the historic centre and riverside trail. Return to Queenstown and climb **Queenstown Hill**. The Ben Lomond summit is a separate full hike and does not fit after Arrowtown.
+For a full day hiking, let's go with **Ben Lomond**. From the gondola base on **Brecon Street**, follow the **Tiki Trail**, then climb to the saddle and summit. The summit walk takes **6–8 hours return**. I walked all the way from the base and extended a bit around the area because it was so beautiful, the landscapes, the lakes... It was the prettiest place in the southern island, nothing else came close.
 
-## Day 12: Te Anau
+I don't think you can really do more than a hike.
 
-Take the morning coach from Queenstown to **Te Anau**. Walk the lakefront to the **Te Anau Bird Sanctuary**, then continue along the first easy section of the Kepler Track from the control gates if there is enough daylight.
+## Days 12 and 13: Te Anau and the Kepler Track
 
-## Day 13: Kepler Track
+Take a morning coach from Queenstown to **Te Anau**, around **2:30**. InterCity and **Tracknet** sell this journey; Tracknet also runs shuttles to the walking tracks.
 
-From Te Anau, walk or take a booked transfer to the **Kepler Track car park** at the control gates. The path follows the lakeshore through beech forest to **Brod Bay**, 5,6 km and about 1:30 each way from the car park.
+Walk south along the lakefront past the **Fiordland National Park Visitor Centre** to the **Te Anau Bird Sanctuary**. It is about **20 minutes from the visitor centre**, with free self-guided entry during daylight.
 
-Beyond Brod Bay, the track climbs steeply through the forest before reaching open tussock slopes below **Luxmore Hut**. The hut is another 8,2 km and 3:30–4:30 uphill from Brod Bay. Returning all the way from the hut makes this a long mountain day, not the short lakeside walk. [DOC gives the distances for each section](https://www.doc.govt.nz/keplertrack).
+Then use the afternoon to take a boat to visit the fjords, Milford sounds (**Piopiotahi**) is the main draw, boats leave every so often, but this will take the whole afternoon.
+
+Of course, you can do it the other way around, depends on the way you use.
+
+--
+
+The next morning, walk or take a shuttle to the **Kepler Track car park** at the control gates. From the visitor centre, the lakeside path is **3 km**, around **50 minutes**.
+
+Cross the gates and follow the **Kepler Track** through beech forest past **Dock Bay** to **Brod Bay**, **5,6 km**, the first good viewpoint.
+But for the mountain views, continue beyond Brod Bay to **Luxmore Hut**. The track climbs through forest, passes limestone bluffs and emerges above the tree line. This adds **8,2 km and 3:30–4:30 uphill** from Brod Bay. The full return to the control gates is **27,6 km**, around **8–10 hours**, plus any walking to and from town.
+This is what I did, but I started from quite far (My hostel was so far out, it was actually an hour and a half walk south from Te Anau... Super nice stay, but better suited if you have a car, once again).
+
+You can spot a few LOTR filming locations there! I won't spoil you.
+
+> New Zealand is actually so much easier and more enjoyable with your own car, everyone says it for a reason. I wanted to proove them wrong by using public transportation.
+>It's still very enjoyable, but you waste a lot of time and it's not that much cheaper.
 
 ## Day 14: Christchurch
 
-Travel from Te Anau through Queenstown to **Christchurch**. The connection takes most of the day and may require separate tickets. I used Christchurch mainly as the stopping point between New Zealand and Australia.
+Use this day to travel from Te Anau to **Christchurch**. 
+Bus are going through a much more interesting Dunedin, worth a few hours of stopping, if possible.
 
-## Day 15: Christchurch
+I used Christchurch mainly as the stopping point between New Zealand and Australia. It's not an interesting city, but it's well connected with the airport. I walked around, but was quite disappointed, it's not pretty, outside of one church that is... ok? I guess.
 
-Walk through the **Botanic Gardens**, the Arts Centre and the rebuilt streets around Cathedral Square before the flight. My route continued from Christchurch to the Gold Coast and then Alice Springs.
+### More days?
+
+With more days in New zealand, I would take a bit more time to enjoy it all.
+Auckland deserves one more day to go up north, see the birds and the nature.
+Hobbiton is a great spot to visit to, I didn't go because I felt like "It would be too touristy", old me deserves a slap, I regret it now.
+Wanaka is also a good one day stop for hiking on the way to Queenstown.
+The Kepler track deserves one more day, to do it in full, with a stop in a hut (You have to book in advance).
+Dunedin to have a last real visit before flying away in christchurch can be nice, if my flight wasn't so early in day 15, I would have spent the night.

@@ -9,14 +9,11 @@ continents: ["Africa"]
 draft: false
 ---
 
+I finally got the chance to travel to Morocco, so close to France and so cheap for flights... It's probably one of the easiest African countries to visit, with its rail and bus network, nice weather and incredibly diverse to boot.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
-> I finally got the chance to travel to Morocco, so close to France and so cheap for flights...
->
-> It's probably one of the easiest African countries to visit, with its rail and bus network.
 > Springtime seems like the ideal season, autumn should be nice as well.
-> Morocco is incredibly diverse.
-
 > Important: This trip is for 15 days, starting in Marrakesh and ending in Tangier.
 > The reverse route, or starting from Spain, should be easily done.
 > The duration was pretty much perfect! Doesn't happen that often, tbh.

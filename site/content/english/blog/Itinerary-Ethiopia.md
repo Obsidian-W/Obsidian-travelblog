@@ -9,13 +9,13 @@ continents: ["Africa"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 > One of the cradle of humankind and the only African country that wasn't colonized
 >  
 > Ethiopia conceals many secrets, definitely on the path less traveled
 > Perhaps due to the harsh civil war or the terror that goes when mentioning Africa,
 > the name of a goddess long forgotten, for a continent that linger in memories
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 > **Connected to a larger journey:** this Ethiopia itinerary was the opening part of my longer East African trip. Read my [complete East Africa itinerary](/blog/itinerary-eastafrica/) to see how I continued through Kenya, Tanzania, Uganda and Rwanda.
 

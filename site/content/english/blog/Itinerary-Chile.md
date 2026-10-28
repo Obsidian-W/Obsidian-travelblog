@@ -1,7 +1,7 @@
 ---
 date: "2022-07-18"
-title: "Northern Chile and Patagonia"
-description: "North and South mostly, this is a short trip in Chile with ideas for more"
+title: "Chile in less than two weeks"
+description: "Chile is a looong country. This focus on two extremes, the hot sandy desert north and the cold snowy desert south"
 image: "images/blog/patagonia2.jpg"
 itinerary_map: "/images/itineraries/chile.svg"
 categories: ["Itinerary", "South America", "Chile"]
@@ -9,21 +9,19 @@ continents: ["South America"]
 draft: false
 ---
 
+Chile is one looong boooy. An overlooked country in south America, often forgotten, despite having Patagonia as a major draw. Here's my itinerary.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 > **Part of a larger journey:** this is the Chile and Patagonia section of my longer South America trip. The complete continental itinerary is still being edited, so there is no dead link here: this page is the standalone version for now.
 >
 > Note, this was done 4 years before writing this article, so I'm not remembering 100% of things.
 > So I'm giving general directions and ideas, and sharing my pictures.
-> Also, This include parts of Argentina, because.
+> Also, This include parts of Argentina, because you have to for Patagonia.
 
-Chile is Looong, so While I started from Bolivia, you can also start from Argentina (south), or Santiago and take a flight or two somewhere. But it's not super convenient.
+Chile is Looong, so while I started from Bolivia, you can also start from Argentina (south), or Santiago and take a flight or two somewhere. But it's not super convenient.
 I'd say that Chile is best as a continuation of another trip.
-Nonetheless, if it's not the case, don't be worried, I have something for more days than I did and ways to get a better progression
-with only one backtracking (Santiago is in the middle so you will have to!)
-
-> The part which needs a flight is patagonia, can't do it easily from Chile without crossing into Argentina.
-
+Nonetheless, if it's not the case, don't be worried, I have something for more days than I did and ways to get a better progression with only one backtracking (Santiago is in the middle so you will have to!)
 
 # Itinerary done quick
 

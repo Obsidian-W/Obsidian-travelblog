@@ -9,6 +9,8 @@ continents: ["Asia"]
 draft: false
 ---
 
+The Caspian coast at Aktau, camping in Mangystau, Astana and Almaty make up this twelve-day route across Kazakhstan.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 [Full Central Asia itinerary](/blog/itinerary-central-asia/)

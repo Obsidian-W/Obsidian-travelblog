@@ -9,8 +9,9 @@ continents: ["Asia"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
+Lhasa, the high-altitude lakes and Everest Base Camp were the main stops on my week-long journey through Tibet towards Nepal.
 
+> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
 
 > Disclaimer: Don't speak about politics. And don't listen to the lies about Tibet. All the NGO's are gunning for your money.
 

@@ -8,10 +8,10 @@ continents: ["Africa"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 > This list has been compiled based on commonalities across the highly diverse African continent.
 It sums up the tools and tricks that are often crucial, especially when moving between different countries and cultures. **Always check country-specific advice!**
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 (No shame: I used a helpful AI Assistant (Gemini) for quick formatting and to synthesize common advice, but the content is mine)
 

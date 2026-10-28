@@ -8,9 +8,9 @@ continents: ["South America"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 > Once someone told me: YoU cAn't Go tO PaTaGOnIa iN wiNtEr, eveRytHing Is clOseD
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 Well, that was wrong, I went in early August and everything was fine and open
 However, I still had to make that article, due to the many specifics.

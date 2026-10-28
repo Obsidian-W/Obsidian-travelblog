@@ -6,15 +6,13 @@ image: "images/blog/patagonia3.jpg"
 itinerary_map: "/images/itineraries/patagonia.svg"
 categories: ["Itinerary", "South America", "Chile", "Argentina"]
 continents: ["South America"]
-draft: true
+draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
+Patagonia in winter? Yup. I did it, nothing went terribly wrong and the snow made Torres del Paine even prettier.
 
 > I took this trip in July and August 2022, but wrote the article in 2026.
 > It was part of a much longer trip through South America, starting in Lima and ending in Punta Arenas. Technically, though, this section began with a flight from Santiago.
-
-Patagonia in winter? Yup. I did it, nothing went terribly wrong and the snow made Torres del Paine even prettier.
 
 The main annoyance was transportation. Winter buses were rare, daylight was short and I had to return through Chile instead of continuing through Argentina.
 
@@ -25,6 +23,8 @@ Patagonia is a winter wonderland. The transportation is limited, but given the s
 I'd say it'd be miles better with your own transportation. Hence the lower rating. 
 Once again, tho, Winter Wonderland. Absolutely Magical!
 {{< /worth-o-meter >}}
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 # Itinerary done quick
 

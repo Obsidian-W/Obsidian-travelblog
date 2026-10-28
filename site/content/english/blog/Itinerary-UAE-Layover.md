@@ -17,6 +17,13 @@ It worked, but it wasted a fair part of a 48-hour stopover. If the flights allow
 
 **Affiliate disclosure:** This article contains one GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
 
+{{< worth-o-meter score="3.5" >}}
+Meh. Big meh. Pointless.
+It's nice to see the Burj Khalifa and Sheikh Zayed Grand Mosque, and that's it.
+Good for a layover, but that doesn't warrant a trip in Slave Land.
+Not recommended.
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## United Arab Emirates

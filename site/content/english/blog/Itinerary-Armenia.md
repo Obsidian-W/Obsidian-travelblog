@@ -9,11 +9,11 @@ continents: ["Eurasia"]
 draft: false
 ---
 
+I reached Armenia from Georgia in 2019, at the end of a larger journey across Azerbaijan, Georgia and Armenia. I had to cut Gyumri from the real trip because I had fewer paid-leave days than planned, but this standalone Armenia version should be the proper week: Alaverdi, Gyumri, Yerevan, Etchmiadzin, Garni and Khor Virap.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 > **Part of a larger journey:** This focused Armenia guide is adapted from my [complete Caucasus itinerary](/blog/itinerary-caucasus/). Use this page for the Armenia day-by-day detail; use the complete trip for the cross-border route through Azerbaijan, Georgia and Armenia.
-
-I reached Armenia from Georgia in 2019, at the end of a larger journey across Azerbaijan, Georgia and Armenia. I had to cut Gyumri from the real trip because I had fewer paid-leave days than planned, but this standalone Armenia version should be the proper week: Alaverdi, Gyumri, Yerevan, Etchmiadzin, Garni and Khor Virap.
 
 {{< worth-o-meter score="7" >}}
 Armenia was the most disappointing part of the Caucasus, perhaps because I only allowed it a few days.

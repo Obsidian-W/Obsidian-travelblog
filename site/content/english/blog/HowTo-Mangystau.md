@@ -8,9 +8,9 @@ continents: ["Asia"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
-
 Mangystau is one of those names that you only hear once you start looking at Kazakhstan in detail (Or spend too much time on Insta like I do).  
+
+> **Affiliate disclosure:** This article contains a GetYourGuide affiliate link. If you book through it, I may earn a commission at no extra cost to you.
 
 Remote, harsh, desert-like, with landscapes that feel like nowhere else on Earth — cliffs, white canyons, underground mosques, vast plateaus.  
 Reaching the main sites requires advance planning because they are far from Aktau and from each other.  

@@ -9,14 +9,14 @@ continents: ["Africa"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 > Tanzania, Kenya, Uganda & Rwanda: 4 Countries in one month!
 >  \> As I'm starting with this blog, I'll share in a slightly different format.  
 > I'll start with my usual considerations before giving an itinerary outline and
 > an even more detailed version of the itinerary.  
 > originally, it was supposed to last one more week, it changed due to a awful event that happened
 > And shook me up, I'll specify the section that has been changed.
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 **Focused country guides from this journey:**
 

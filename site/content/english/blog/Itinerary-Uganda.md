@@ -9,12 +9,11 @@ continents: ["Africa"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
-
 > Let's explore Uganda, home of Knuckles!
 >
 > **Part of a larger journey:** this focused Uganda guide is adapted from the Uganda section of my [complete East Africa itinerary](/blog/itinerary-eastafrica/). Stay here for the Uganda detail, or open the complete trip to see how I connected Tanzania, Kenya, Uganda and Rwanda over one month.
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 Before diving into my itinerary, a few considerations:
 

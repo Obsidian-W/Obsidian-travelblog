@@ -9,11 +9,11 @@ continents: ["Eurasia"]
 draft: false
 ---
 
+I travelled through Georgia in 2019, between Azerbaijan and Armenia. This is the week-long Georgia section I actually did; the suggestions at the end explain how I would stretch it if you have more time.
+
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 > **Part of a larger journey:** This focused Georgia guide is adapted from my [complete Caucasus itinerary](/blog/itinerary-caucasus/). Use this page for the Georgia day-by-day detail; use the complete trip for the cross-border route through Azerbaijan, Georgia and Armenia.
-
-I travelled through Georgia in 2019, between Azerbaijan and Armenia. This is the week-long Georgia section I actually did; the suggestions at the end explain how I would stretch it if you have more time.
 
 # Itinerary done quick
 

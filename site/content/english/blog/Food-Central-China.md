@@ -9,9 +9,9 @@ ai_generated: true
 draft: false
 ---
 
-> Note: this article was AI-generated, then checked and edited against the sources listed at the end.
-
 Sichuan and Hunan both use chilli, but **Sichuan pepper** gives many Sichuan dishes their characteristic numbing flavour. **Hunan cooking** often puts fresh and preserved chillies alongside sour vegetables, smoked meat and strongly flavoured sauces.
+
+> Note: this article was AI-generated, then checked and edited against the sources listed at the end.
 
 I spent around **60 RMB (7,50€) a day**, including snacks and drinks. The dish prices are **budget estimates**, per serving unless marked as shared dishes; euro equivalents use **8 RMB = 1€**. The cooking-class link is an affiliate link: I may earn a commission at no extra cost to you.
 

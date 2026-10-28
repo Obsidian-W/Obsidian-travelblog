@@ -8,10 +8,10 @@ continents: ["Africa"]
 draft: false
 ---
 
-> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
-
 Safaris have a reputation for being insanely expensive.  
 I'll tell you how to afford it easily.
+
+> **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
 So... yes, if you go with those big international tour companies, you'll be quoted thousands.  
 But if you're flexible and book locally, you can get a proper multi-day safari for a fraction of that.  

@@ -12,6 +12,7 @@ draft: false
 > One of the most densely inhabited regions in the world, bustling metropolis one after the other: Hong Kong, Guangzhou, Shenzhen, Macau...
 >
 > The Pearl Delta!
+
 Amidst those big cities, patches of rewarding nature!
 I went for around a week in late March and early April 2025, mainly to **eat as much as possible** (My love for dumplings will last till I die) and see *Hong Kong*,
 one of Asia's most interesting city;

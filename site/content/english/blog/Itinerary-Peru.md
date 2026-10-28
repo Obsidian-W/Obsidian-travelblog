@@ -1,7 +1,7 @@
 ---
 date: "2022-06-30"
 title: "Four weeks in Peru"
-description: "Four weeks through Lima, the Cordillera Blanca, Peru's desert coast, Arequipa, Cusco, Machu Picchu, the Amazon and Lake Titicaca."
+description: "Four weeks through Peru, one of the world's most beautiful country"
 image: "images/blog/peru.jpg"
 itinerary_map: "/images/itineraries/peru.svg"
 categories: ["Itinerary", "South America", "Peru"]
@@ -11,10 +11,9 @@ draft: false
 
 > This was my four-week route through Peru: the northern mountains and coast, the desert south of Lima, Colca Canyon, Cusco, the Amazon and Lake Titicaca.
 
-> **Part of a larger journey:** Peru was the first part of my 53-day trip through South America, followed by [Bolivia](/blog/itinerary-bolivia/), northern Chile and Patagonia.
-
 > **Affiliate disclosure:** This article contains GetYourGuide affiliate links. If you book through one of them, I may earn a commission at no extra cost to you.
 
+**Part of a larger journey:** Peru was the first part of my 53-day trip through South America, followed by [Bolivia](/blog/itinerary-bolivia/), northern Chile and Patagonia.
 Prices are approximate euro equivalents, checked in September 2026.
 
 {{< worth-o-meter score="10" >}}
