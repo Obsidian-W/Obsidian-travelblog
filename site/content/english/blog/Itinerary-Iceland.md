@@ -13,6 +13,12 @@ draft: true
 >
 > The last one was for the volcanic eruption near Fagradalsfjall. The 2021 eruption ended, so that day cannot be repeated now.
 
+<!-- Placeholder score approved by author; replace 10 and add your verdict. -->
+{{< worth-o-meter score="10" >}}
+{{< /worth-o-meter >}}
+
+Some links below are **affiliate links**. I may earn a commission if you book through them, at no extra cost to you.
+
 # Itinerary done quick
 
 ## Iceland
@@ -26,11 +32,9 @@ draft: true
 | Day 5 | [Golden Circle](#day-5-golden-circle) | Thingvellir, Geysir, Gullfoss and Kerið |
 | Day 6 | [Fagradalsfjall](#day-6-fagradalsfjall) | Hike to the 2021 eruption |
 
-All four excursions left Reykjavik and returned there in the evening. I kept the same accommodation for the whole trip.
-
 ## Day 1: Reykjavik
 
-Keflavik Airport is outside Reykjavik. Airport coaches run to **BSÍ**, just south of the centre. The cheaper public option is [Strætó route 55](https://www.straeto.is/en/route-planner/bus-kefairport), although only some departures continue as far as BSÍ.
+Keflavik Airport is outside Reykjavik. Airport coaches run to **BSÍ**, just south of the centre, in roughly **0:45**. [The Flybus airport transfer can be booked here (affiliate link)](https://www.getyourguide.com/reykjavik-l30/reykjavik-shuttle-bus-transfer-tofrom-keflavik-airport-t400146/?partner_id=H1N6CGH&utm_medium=online_publisher). The cheaper public option is [Strætó route 55](https://www.straeto.is/en/route-planner/bus-kefairport), although only some departures continue as far as BSÍ.
 
 Begin at **Hallgrimskirkja** and go up the tower for the view over the corrugated roofs. Walk downhill along **Skólavörðustígur**, the street painted in rainbow colours, then continue through **Laugavegur** and the compact centre around **Austurvöllur**, Parliament and **Tjörnin**.
 
@@ -42,7 +46,7 @@ Start with the **National Museum of Iceland** on Suðurgata. Its permanent exhib
 
 Walk back around Tjörnin to **Aðalstræti** and the **Settlement Exhibition**, built around the remains of a tenth-century longhouse.
 
-Continue to the old harbour and Grandi for the **Reykjavik Maritime Museum**, then finish in one of the municipal geothermal pools. **Sundhöllin** is close to Hallgrimskirkja; **Vesturbæjarlaug** is west of the centre. Both have swimming pools and several hot tubs. The [official pool list](https://visitreykjavik.is/service-category/public-pool) has the current opening hours.
+Continue to the old harbour and Grandi for the **Reykjavik Maritime Museum**, then finish in one of the municipal geothermal pools. **Sundhöllin** is close to Hallgrimskirkja; **Vesturbæjarlaug** is west of the centre. Both have swimming pools and several hot tubs.
 
 ## Day 3: South Coast
 
@@ -63,7 +67,7 @@ Reynisfjara has killed visitors. Stay well back from the water: sneaker waves tr
 At **Jökulsárlón**, pieces of ice drift across the lagoon below **Breiðamerkurjökull**. Walk along the shore for the glacier and the icebergs floating towards the sea.
 
 
-The full excursion takes around **fourteen hours**, including the drive back to Reykjavik. [This Jökulsárlón tour](https://city-sightseeing.com/en/49/reykjavik/2527/jokulsarlon-glacier-lagoon-tour) follows that route. The shorter [EastWest South Coast tour](https://eastwest.is/south-coast) turns back after Reynisfjara and Sólheimajökull and takes around **ten hours**. It does not reach the glacier lagoon.
+The full excursion takes around **fourteen hours**, including the drive back to Reykjavik. [This Jökulsárlón and Diamond Beach day trip from Reykjavik also stops at Seljalandsfoss (affiliate link)](https://www.getyourguide.com/en-gb/vik-l32622/reykjavik-jokulsarlon-glacier-lagoon-diamond-beach-tour-t67020/?partner_id=H1N6CGH&utm_medium=online_publisher). Shorter South Coast excursions usually turn back around **Vík**, before the glacier lagoon.
 
 ## Day 4: Landmannalaugar
 
@@ -77,9 +81,11 @@ The road crosses bare volcanic ground before reaching the colourful rhyolite mou
 
 
 
-The access road is seasonal and bad weather can cancel the departure. [This current Landmannalaugar Super Jeep tour](https://www.landmannalaugartours.com/landmannalaugar-safari-super-jeep-day-tour) leaves Reykjavik for a twelve-hour day in summer. For trail and reserve information, use the [official Fjallabak page](https://ust.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/outdoor-activities-and-hiking-trails/).
+Summer departures from Reykjavik take most of the day. [This Landmannalaugar hiking excursion has a Reykjavik pickup option (affiliate link)](https://www.getyourguide.com/reykjavik-l30/landmannalaugar-4-hour-hiking-experience-t49196/?partner_id=H1N6CGH&utm_medium=online_publisher): around **fourteen hours including transport**, with about **four hours walking** through the lava field and coloured hills.
 
 ## Day 5: Golden Circle
+
+[This Golden Circle tour includes the classic stops and Kerið on its earlier departures (affiliate link)](https://www.getyourguide.com/reykjavik-l30/grand-golden-circle-tour-t67012/?partner_id=H1N6CGH&utm_medium=online_publisher).
 
 ![Gullfoss](images/blog/iceland5.jpg)
 
@@ -94,8 +100,6 @@ At the **Geysir geothermal area**, Geysir itself is mostly dormant. Strokkur is 
 
 My route also stopped at **Kerið**, the red volcanic crater used as the cover photograph for this article. Walk along the rim first, then take the stairs down to the lake.
 
-[Reykjavik Excursions still runs the basic Golden Circle route](https://www.re.is/tour/golden-circle-direct/). Check the stops before booking because Kerið is not included in every version.
-
 ## Day 6: Fagradalsfjall
 
 My final excursion went to the eruption near **Fagradalsfjall** on the Reykjanes Peninsula. The vehicle only handled the transfer from Reykjavik; reaching the viewpoint meant hiking across exposed volcanic ground.
@@ -103,3 +107,17 @@ My final excursion went to the eruption near **Fagradalsfjall** on the Reykjanes
 This was the 2021 eruption. Lava later covered parts of the original paths, new eruptions opened elsewhere on Reykjanes and access rules changed repeatedly. The route I walked is no longer a current eruption trail.
 
 For any future eruption, the destination can change from one day to the next. [SafeTravel Iceland](https://safetravel.is/) publishes the open routes and closure notices.
+
+## With more days
+
+### Sleep on the South Coast
+
+Spend two or three days along the South Coast, with nights around **Vík** and **Jökulsárlón**. Between the waterfalls and glacier lagoon, stop at **Skaftafell** for the **Svartifoss–Sjónarsker–Sel loop**, around **5,8 km and two hours**. The path climbs through woodland to the waterfall's basalt columns, then continues past a viewpoint and the old turf-roofed farm at Sel. A car or multi-day tour connects the South Coast stops.
+
+### More time in Landmannalaugar
+
+Climb **Bláhnúkur** for the view across the multicoloured mountains, then descend towards **Grænagil**, where greenish canyon walls meet black lava. Another circuit climbs **Brennisteinsalda** above **Laugahraun**. Landmannalaugar has a mountain hut and campsite for summer stays.
+
+### Another Reykjavik day
+
+Visit **Árbær Open Air Museum** for the old farm buildings and relocated Reykjavík houses, then continue to **Laugardalslaug** for its outdoor geothermal pools. Both are east of the centre and reachable by city bus.

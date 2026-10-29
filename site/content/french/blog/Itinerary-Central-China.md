@@ -3,6 +3,7 @@ date: "2026-10-20"
 title: "Trois semaines en Chine centrale"
 description: "Le meilleur de la Chine : Shaanxi, Sichuan, Hunan et même un peu de Guizhou !"
 image: "images/blog/jiuzhaigou2.jpg"
+itinerary_map: "/images/itineraries/central-china.svg"
 categories: ["Itinéraire", "Chine"]
 continents: ["Asie"]
 ai_generated: false

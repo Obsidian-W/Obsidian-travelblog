@@ -13,6 +13,24 @@ const P = (name, lat, lon, label = true, labelDx, labelDy, labelAnchor) => ({ na
 
 const routes = [
   {
+    slug: "central-china",
+    title: "Central China",
+    countries: ["China"],
+    bounds: [100.5, 27.2, 111.8, 35.5],
+    points: [
+      P("Xi'an", 34.34, 108.94), P("Chengdu", 30.67, 104.07, true, 12, -14),
+      P("Leshan", 29.55, 103.77, true, 12, 20), P("Emei", 29.52, 103.33, true, -12, -8, "end"),
+      P("Huanglong", 32.75, 103.82, true, -12, -12, "end"), P("Jiuzhaigou", 33.26, 103.92),
+      P("Chongqing", 29.56, 106.55), P("Wulong", 29.40, 107.76, true, 12, -12),
+      P("Tongren", 27.72, 109.19, true, 12, 20), P("Fanjingshan", 27.91, 108.69, false),
+      P("Fenghuang", 27.95, 109.60, true, 12, -12), P("Furong", 28.75, 109.97, true, -12, -8, "end"),
+      P("Tianmen Mountain", 29.05, 110.48, false), P("Wulingyuan", 29.35, 110.55, true, 12, -12),
+    ],
+    sectionIndexes: [0, 1, 2, 3, 4, 4, 5, 6, 7, 7, 8, 9, 10, 11],
+    groups: ["Xi'an", "Chengdu", "Leshan", "Emei", "Huanglong · Jiuzhaigou", "Chongqing", "Wulong", "Tongren · Fanjingshan", "Fenghuang", "Furong", "Tianmen Mountain", "Wulingyuan"],
+    groupSections: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+  },
+  {
     slug: "morocco",
     title: "Morocco",
     countries: ["Morocco", "W. Sahara", "Algeria", "Spain", "Mauritania"],
@@ -923,6 +941,27 @@ function renderRoute(route) {
   ${routeSummary(route)}
   <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
 </svg>`;
+}
+
+// English route revisions have different section counts from the French articles.
+for (const { sourceSlug, ...variant } of [
+  {
+    slug: "nepal-six-days",
+    sourceSlug: "nepal",
+    points: [
+      P("Gyirong border", 28.28, 85.38),
+      P("Kathmandu Valley", 27.72, 85.32),
+      P("Lumbini", 27.48, 83.28, true, -12, -12, "end"),
+      P("Sonauli border", 27.47, 83.47, true, 12, 26),
+    ],
+    sectionIndexes: [0, 0, 5, 5],
+  },
+  { slug: "krakow-four-days", sourceSlug: "krakow", sectionIndexes: [0, 2, 3] },
+]) {
+  routes.push({
+    ...routes.find((route) => route.slug === sourceSlug),
+    ...variant,
+  });
 }
 
 fs.mkdirSync(outputDir, { recursive: true });

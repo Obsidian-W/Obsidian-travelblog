@@ -3,6 +3,7 @@ date: "2026-10-20"
 title: "Three weeks in Central China"
 description: "The best of China: Shaanxi, Sichuan, Hunan and even a bit of Guizhou, the best of China!"
 image: "images/blog/jiuzhaigou2.jpg"
+itinerary_map: "/images/itineraries/central-china.svg"
 categories: ["Itinerary", "China"]
 continents: ["Asia"]
 ai_generated: false

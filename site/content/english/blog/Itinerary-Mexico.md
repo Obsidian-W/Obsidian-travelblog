@@ -1,6 +1,6 @@
 ---
 date: "2022-02-01"
-title: "Three weeks in Mexico"
+title: "Seventeen days in Mexico"
 description: "Mexico City, Puebla, Oaxaca, San Cristobal, Palenque, Merida, Izamal, Valladolid, Tulum and Cancun."
 image: "images/blog/mexico.jpg"
 itinerary_map: "/images/itineraries/mexico.svg"
@@ -11,6 +11,18 @@ draft: true
 
 > Palenque was my favourite archaeological site in Mexico.
 > San Cristobal was also one of the best stops, until I became seriously ill after leaving.
+
+This route starts in Mexico City and finishes in Cancún, with overnight bus legs across the longer gaps in the south.
+
+{{< worth-o-meter score="8" >}}
+My favourite North American country!
+While I didn't really like Yucatan, I loved the rest and I would love to come back.
+Yucatan peninsula is slighly overrated, ruined by american tourists looking for resorts (Hence there is drug trafficking, ugly hotels along the sea and food adapated to their palate).
+The rest is just wow! Chiapas is a world wonder, Oaxaca is underrated and flying too much under the radars, Ciudad de Mexico is one of the best metropolis I've seen.
+I'm not exagerating.
+{{< /worth-o-meter >}}
+
+Some links below are **affiliate links**. I may earn a commission if you book through them, at no extra cost to you.
 
 # Itinerary done quick
 
@@ -33,14 +45,12 @@ draft: true
 | Day 13 | [Valladolid](#day-13-valladolid) | Calzada de los Frailes and San Bernardino |
 | Day 14 | [Chichen Itza](#day-14-chichen-itza) | Archaeological site and cenote |
 | Day 15 | [Tulum](#day-15-tulum) | Tulum ruins and beach |
-| Day 16 | [Tulum](#day-16-tulum) | Cenote and Sian Kaan area |
+| Day 16 | [Tulum](#day-16-tulum) | Muyil ruins and Sian Ka'an lagoons |
 | Day 17 | [Cancun](#day-17-cancun) | Final Caribbean day |
 
 ## Day 1: Mexico City
 
 Start in the **Zócalo**, visit the Metropolitan Cathedral and the excavated **Templo Mayor**, then walk west along Madero towards the **Palacio de Bellas Artes** and Alameda Central. Continue to the **Palacio Postal** before returning through the centre.
-
-The metro and Metrobús connect the airport with central districts. Keep large luggage out of the rush-hour carriages and choose the line that reaches the accommodation without several changes.
 
 ## Day 2: Mexico City
 
@@ -48,27 +58,29 @@ Give the **National Museum of Anthropology** the morning and early afternoon; th
 
 ## Day 3: Teotihuacan
 
-Take the direct bus from **Terminal Central del Norte** to Teotihuacan and note the gate used for the return. Walk the **Avenue of the Dead** between the Pyramid of the Sun, Pyramid of the Moon and the Temple of the Feathered Serpent. The site is exposed, large and much farther from Mexico City than the urban metro map makes it feel.
+Take the direct bus from **Terminal Central del Norte** to Teotihuacan and note the gate used for the return. Walk the **Avenue of the Dead** between the Pyramid of the Sun, Pyramid of the Moon and the Temple of the Feathered Serpent. The bus takes roughly **an hour**, followed by the walk between the archaeological groups. [This guided Teotihuacan excursion also visits the Guadalupe shrine (affiliate link)](https://www.getyourguide.com/mexico-city-l194/mexico-city-teotihuacan-guadalupe-shrine-tour-with-lunch-t28868/?partner_id=H1N6CGH&utm_medium=online_publisher).
 
 ## Day 4: Puebla
 
-Take an intercity bus from Mexico City's **TAPO** terminal to **Puebla CAPU**, followed by a local bus into the historic centre. Walk from the cathedral and Zócalo to the **Biblioteca Palafoxiana**, the Amparo Museum and the tiled façades around Calle de los Dulces. Finish in the artists' quarter around El Parián before collecting the bag.
+Take an intercity bus from **Mexico City's TAPO terminal to Puebla CAPU**, around **two to three hours**, followed by a local bus into the historic centre. Walk from the cathedral and Zócalo to the **Biblioteca Palafoxiana**, the Amparo Museum and the tiled façades around Calle de los Dulces. Finish in the artists' quarter around **El Parián**.
 
 ## Day 5: Oaxaca
 
-Take the direct bus from Puebla CAPU to Oaxaca. Begin at **Santo Domingo**, including the cultural museum and botanical-garden complex, then walk through the centre to Mercado Benito Juárez and **Mercado 20 de Noviembre**. Return through the Zócalo after dark.
+![A colourful street in Oaxaca](images/blog/mexico1.jpg)
+
+Take a direct **ADO bus from Puebla CAPU to Oaxaca's first-class terminal**, around **five hours**. Begin at **Santo Domingo**, including the cultural museum and botanical-garden complex, then walk through the centre to Mercado Benito Juárez and **Mercado 20 de Noviembre**. Return through the Zócalo after dark.
 
 ## Day 6: Monte Alban
 
-Use the tourist bus from central Oaxaca to **Monte Albán** and allow most of the morning for the main plaza, tombs and viewpoints over the valley. Back in Oaxaca, visit the **Textile Museum** and the streets around the Zócalo.
+Use the tourist bus from central Oaxaca to **Monte Albán** and allow most of the morning for the main plaza, tombs and viewpoints over the valley. Back in Oaxaca, visit the **Textile Museum** and the streets around the Zócalo. [This four-hour guided Monte Albán visit leaves from central Oaxaca (affiliate link)](https://www.getyourguide.com/oaxaca-de-juarez-l681/guided-tour-of-monte-alban-no-tourist-traps-t1145313/?partner_id=H1N6CGH&utm_medium=online_publisher). The road up to the ruins takes around **0:30**.
 
-Collect the luggage and take the overnight bus to San Cristóbal de las Casas.
+Take an **OCC/ADO overnight bus from Oaxaca to San Cristóbal de las Casas**, roughly **eleven to twelve hours**.
 
 ## Day 7: San Cristobal
 
 Walk from the cathedral through the centre to **Santo Domingo**, the crafts market and the local food market. Continue along the pedestrian streets to the **Guadalupe Church** steps and the neighbourhoods above the centre.
 
-The overnight bus from Oaxaca arrives at the San Cristóbal terminal within walking distance of the centre. Leave the bag first; the cobbled streets are unpleasant with wheeled luggage.
+The **OCC terminal** is south of the historic centre, roughly **0:15–0:20 on foot** from the main square.
 
 ## Day 8: San Cristobal
 
@@ -79,7 +91,7 @@ I took a cooking and history class here. It was awesome and covered both the foo
 
 I became seriously ill after San Cristóbal. Be careful with the water, including what you use to brush your teeth. I would use sealed bottled or properly filtered water for both drinking and brushing.
 
-Take the night bus towards Palenque after the class.
+Take an overnight **OCC/ADO bus from San Cristóbal to Palenque**, around **eight to nine hours** on the longer road via Tuxtla and Villahermosa.
 
 ## Day 9: Palenque
 
@@ -91,9 +103,9 @@ These were the best ruins of my trip. The combination of large temples and humid
 
 ## Day 10: Palenque
 
-Take a locally booked day trip to **Misol-Ha** and **Agua Azul**. Misol-Ha is the single high fall and pool; Agua Azul is a longer sequence of cascades and paths. The road between Palenque and the waterfalls is slow, which is why the shared day trip works better than treating them as quick stops before a bus.
+Take a locally booked day trip to **Misol-Ha** and **Agua Azul**. At Misol-Ha, a single high waterfall drops into a pool surrounded by vegetation. Agua Azul spreads across a much longer series of turquoise cascades, with paths following the river upstream.
 
-Return to Palenque and take the night bus to Mérida.
+Return to **Palenque's ADO terminal** for the night bus to **Mérida**, roughly **8:30–9 hours**.
 
 ## Day 11: Merida
 
@@ -103,10 +115,10 @@ Visit **Plaza Grande**, the cathedral and **Casa de Montejo**, then walk through
 
 ![The yellow streets of Izamal](images/blog/mexico5.jpg)
 
-Take the morning bus from Mérida to **Izamal**. Visit the **Convent of San Antonio de Padua**, walk through the yellow centre and climb the Kinich Kakmó pyramid for the view over town.
+Take the morning bus from **Mérida's Noreste terminal to Izamal**, around **1:30**. Visit the **Convent of San Antonio de Padua**, walk through the yellow centre and climb the Kinich Kakmó pyramid for the view over town.
 
 
-Continue by bus to Valladolid. Direct services are limited; if there is no suitable departure, return to Mérida and change there.
+Return to **Mérida** after Izamal. The following morning, take a direct bus from **Mérida to Valladolid**, around **2:30**, before the walk through town.
 
 ## Day 13: Valladolid
 
@@ -114,18 +126,42 @@ Walk from Valladolid's main square along the **Calzada de los Frailes** to the C
 
 ## Day 14: Chichen Itza
 
-Take the morning bus from Valladolid to **Chichén Itzá**. Walk from El Castillo to the Great Ball Court, Temple of the Warriors and observatory before the exposed paths become hotter and busier.
+![El Castillo at Chichén Itzá](images/blog/mexico3.jpg)
+
+Take a morning bus or colectivo from **Valladolid to Chichén Itzá**, around **an hour**. Walk from El Castillo to the Great Ball Court, Temple of the Warriors and observatory before the exposed paths become hotter and busier.
 
 Continue to a nearby cenote after the ruins, then return to Valladolid on the afternoon bus. The cenote requires its own local connection; it is not part of the archaeological ticket.
 
 ## Day 15: Tulum
 
-Take a direct bus from Valladolid to Tulum and leave the bag before reaching the archaeological site. Walk through the walled complex to El Castillo and the cliff viewpoints, then continue to the public beach after leaving the ruins.
+Take a direct bus from **Valladolid to Tulum**, around **1:30–2 hours**. The archaeological site is north of the town centre, reached by local bus or an accommodation-arranged transfer. Walk through the walled complex to El Castillo and the cliff viewpoints, then continue to the beach after leaving the ruins.
 
 ## Day 16: Tulum
 
-Use the second day for one cenote outside town and the coast towards **Sian Ka'an**. Colectivos run along Highway 307, but the reserve entrances and boat departures need their own connection from the main road.
+Go south to **Muyil**, about **25 km from Tulum** on Highway 307. Visit the Maya ruins among the trees, including **El Castillo**, then continue towards the **Sian Ka'an lagoons**. Boat trips cross the open water to the old canals, where the current carries swimmers between the mangroves.
+
+[This six-hour Muyil and Sian Ka'an excursion includes pickup from Tulum, the ruins and canal float (affiliate link)](https://www.getyourguide.com/tulum-l248/from-riviera-maya-mayan-ruins-sian-kaan-reserve-tour-t13850/?partner_id=H1N6CGH&utm_medium=online_publisher). For the ruins alone, take a **Felipe Carrillo Puerto-bound colectivo** on Highway 307 and get off at **Muyil**.
 
 ## Day 17: Cancun
 
-Take the direct bus from Tulum to Cancún's central terminal. Use the final day for **Playa Delfines** and the **Museo Maya**, both along the hotel-zone bus route, then return to the central terminal for the airport bus.
+Take the direct bus from **Tulum to Cancún's central terminal**, around **2:30–3 hours**. Use the final day for **Playa Delfines** and the **Museo Maya**, both along the hotel-zone bus route.
+
+## With more days
+
+### Oaxaca: another two days
+
+![The mineral terraces at Hierve el Agua](images/blog/mexico2.jpg)
+
+Add a day east of Oaxaca for **Mitla** and **Hierve el Agua**. Mitla's palace walls have intricate stone mosaics; farther into the hills, Hierve el Agua's mineral terraces overlook the dry valleys below.
+
+Use another day for the craft villages south of the city: **San Bartolo Coyotepec** for black pottery and **San Martín Tilcajete** for carved and painted **alebrijes**. Workshops show the making and decoration as well as selling finished pieces.
+
+[Oaxaca day-trip listings can be compared here (affiliate link)](https://www.getyourguide.com/oaxaca-de-juarez-l681/day-trips-tc172/?partner_id=H1N6CGH&utm_medium=online_publisher).
+
+### More time in San Cristóbal
+
+Take a day trip to **Sumidero Canyon**, with a boat journey between the tall rock walls and a stop in **Chiapa de Corzo**. Shared excursions leave San Cristóbal in the morning and return in the afternoon. Another option is **San Juan Chamula and Zinacantán**, neighbouring highland towns known for their churches and textile traditions.
+
+### Valladolid instead of another hotel change
+
+Visit **Ek Balam**, north of Valladolid, for its large stucco-decorated Acropolis and the forest around the archaeological site. **Cenote X'Canche** is nearby. An accommodation-arranged day trip can combine them; allow a full day for the ruins, cenote and return to Valladolid.

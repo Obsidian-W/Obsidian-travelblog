@@ -13,6 +13,12 @@ draft: true
 
 I do not recommend Manila as a destination. I used it as the hub for the night bus to Banaue and the flight south.
 
+<!-- Placeholder score approved by author; replace 10 and add your verdict. -->
+{{< worth-o-meter score="10" >}}
+{{< /worth-o-meter >}}
+
+Some links below are **affiliate links**. I may earn a commission if you book through them, at no extra cost to you.
+
 # Itinerary done quick
 
 ## Philippines
@@ -20,12 +26,12 @@ I do not recommend Manila as a destination. I used it as the hub for the night b
 | Day | Destination | Notes |
 |:----:|:-----------:|:-----:|
 | Day 1 | [Manila](#day-1-manila) | Intramuros and Fort Santiago |
-| Day 2 | [Banaue](#day-2-banaue) | Night-bus arrival and terrace viewpoints |
+| Day 2 | [Banaue](#day-2-banaue) | Rice-terrace viewpoints |
 | Day 3 | [Banaue](#day-3-banaue) | Rice-terrace and village walk |
-| Day 4 | [Banaue](#day-4-banaue) | Batad or a second local trail |
+| Day 4 | [Banaue](#day-4-banaue) | Batad terraces and Tappiya Falls |
 | Day 5 | [Manila](#day-5-manila) | Quiapo, Binondo and midget boxing |
 | Day 6 | [Manila](#day-6-manila) | National museums and Rizal Park |
-| Day 7 | [Panglao](#day-7-panglao) | Flight, ferry and Alona Beach |
+| Day 7 | [Panglao](#day-7-panglao) | Alona Beach |
 | Day 8 | [Bohol](#day-8-bohol) | Chocolate Hills, tarsiers and Loboc |
 | Day 9 | [Cebu](#day-9-cebu) | Basilica, Magellan's Cross and Fort San Pedro |
 | Day 10 | [Moalboal](#day-10-moalboal) | Sardine run, diving or Kawasan canyoneering |
@@ -36,7 +42,7 @@ I do not recommend Manila as a destination. I used it as the hub for the night b
 
 Enter **Intramuros** from the Pasig River side and visit **Fort Santiago** first. From the fort, the walking route is Plaza Roma, Manila Cathedral, Plaza San Luis, San Agustin Church and Casa Manila, followed by the southern wall at Baluarte de San Diego. It is approximately three kilometres before entering the buildings.
 
-Fort Santiago needs about an hour. Casa Manila adds around 30 minutes and is closed on Mondays. In September 2026, the regular entrance was **₱75** for each site; the [Intramuros Administration publishes the current hours and prices](https://intramuros.gov.ph/hours/).
+Fort Santiago needs about an hour. Casa Manila adds around **0:30** and is closed on Mondays. In September 2026, the regular entrance was **₱75** for each site.
 
 I disliked most of Manila. The traffic, rubbish and visible sex-tourism scene were difficult to ignore. I repeatedly saw older foreign men seeking very young company, and it coloured my entire impression of the city.
 
@@ -50,13 +56,13 @@ Arrive early in Banaue. The four road viewpoints above **Banaue** are in sequenc
 
 ## Day 3: Banaue
 
-Arrange a guided walk through the **rice terraces around Banaue** at the tourism office. The paths run along the terrace walls and irrigation channels, descending between the fields and houses below the roadside viewpoints. This is a separate walk from Batad, visited the following day; the guide can arrange a pickup at the end rather than returning along the same path.
+Arrange a guided walk through the **rice terraces around Banaue** at the tourism office. The paths follow terrace walls and irrigation channels between the fields and houses below the roadside viewpoints.
 
 One evening I ordered chicken adobo. The owner's children killed the chicken beside me after I placed the order. I felt bad afterwards.
 
 ## Day 4: Banaue
 
-Use the third day for **Batad**. Road transport from Banaue ends above the village; Batad itself has no vehicle access. Walk down into the amphitheatre, cross the terraces to the viewpoint and continue to **Tappiya Falls**. The long staircase to the waterfall makes this a full day once the ride from Banaue and the climb back to the road are included. The [Philippine tourism page for Batad](https://philippines.travel/spots/batad-terraces/index) lists the access route and current registration information.
+Use the third day for **Batad**. Road transport from Banaue ends above the village; Batad itself has no vehicle access. Walk down into the amphitheatre, cross the terraces to the viewpoint and continue to **Tappiya Falls**. The long staircase to the waterfall makes this a full day once the ride from Banaue and the climb back to the road are included.
 
 Take the night bus back to Manila.
 
@@ -68,15 +74,17 @@ In the evening, I went to see midget boxing. It was unethical and should not be 
 
 ## Day 6: Manila
 
-Start in the **National Museum of Fine Arts** for Juan Luna's *Spoliarium*, then cross Padre Burgos Avenue to the **National Museum of Anthropology**. Two hours in each museum fills most of the day. Admission is free; in September 2026, both were open daily from 09:00 to 18:00. The [National Museum booking page](https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum) lists the current hours and only requires advance booking for groups of at least 20 people.
+Start in the **National Museum of Fine Arts** for Juan Luna's *Spoliarium*, then cross Padre Burgos Avenue to the **National Museum of Anthropology** for its archaeological finds, textiles and traditional crafts. Admission is free; in September 2026, both were open daily from 09:00 to 18:00.
 
-From the Anthropology museum, cross Rizal Park to the Rizal Monument and finish on the bayfront.
+Continue to the **National Museum of Natural History**, whose galleries cover the islands' animals, plants and geology beneath the **Tree of Life** glass dome. Walk through **Rizal Park** to the Rizal Monument and finish on the bayfront.
 
 ## Day 7: Panglao
 
-Fly from Manila to **Mactan-Cebu Airport**. The airport bus terminates at **SM City Cebu**; from there, continue to **Pier 1** for the fast ferry to Tagbilaran. The crossing takes roughly two hours. The flight and ferry are separate bookings.
+Fly from **Manila to Mactan-Cebu Airport**, roughly **1:30**. The airport bus terminates at **SM City Cebu**; from there, continue to **Pier 1** for the fast ferry to **Tagbilaran**, around **two hours**.
 
-At Tagbilaran port, the public Southern Star bus runs to Panglao. Get off at **Alona** for accommodation around Alona Beach.
+
+
+At **Tagbilaran port**, the public **Southern Star bus** runs to Panglao in around **0:45–1 hour**. Get off at **Alona** for Alona Beach.
 
 ## Day 8: Bohol
 
@@ -85,7 +93,9 @@ At Tagbilaran port, the public Southern Star bus runs to Panglao. Get off at **A
 
 Arrange a countryside tour from Panglao for **Baclayon Church**, the **Philippine Tarsier Sanctuary at Corella**, **Loboc** and the **Chocolate Hills viewing complex at Carmen**. Baclayon is a coral-stone church with a small museum; Corella's sanctuary has guided paths through the tarsiers' habitat. Continue past the Loboc River to Carmen, where more than 200 steps lead up to the view across the rounded hills.
 
-Without a tour, buses for Carmen leave from **Dao Integrated Bus Terminal** in Tagbilaran and stop near the Chocolate Hills access road. That works for the hills alone; it does not connect the four stops into a practical one-day circuit. The [Bohol provincial tourism site](https://tourism.bohol.gov.ph/moving-around-bohol/) lists Dao as the terminal for interior routes.
+For **Chocolate Hills** by public transport, take a Carmen-bound bus from **Dao Integrated Bus Terminal** in Tagbilaran and get off near the access road to the viewing complex.
+
+[Bohol countryside tours are listed here (affiliate link)](https://www.getyourguide.com/tarsier-sanctuary-l108277/?partner_id=H1N6CGH&utm_medium=online_publisher). Look for **Corella** if following the sanctuary visit described above.
 
 ## Day 9: Cebu
 
@@ -97,4 +107,14 @@ The whale-shark boats at **Oslob** feed the sharks to keep them beside the boats
 
 I recommend **Moalboal** instead. From Cebu South Bus Terminal, take a Ceres bus marked **Bato via Barili** and get off in Moalboal town. The journey takes approximately three to four hours. Panagsama Beach is another four kilometres from the bus stop; arrange that final transfer with the accommodation.
 
-The sardine run is directly offshore at Panagsama, with no feeding required. The other main options are a dive around **Pescador Island** or a registered canyoneering trip near **Kawasan Falls in Badian**, south of Moalboal. The [official Philippines tourism page for Moalboal](https://philippines.travel/destinations/moalboal/index) has the current registration rules for canyoneering.
+The sardine run is directly offshore at Panagsama, with no feeding required. The other main options are a dive around **Pescador Island** or a registered canyoneering trip near **Kawasan Falls in Badian**, south of Moalboal. [This Kawasan canyoneering excursion includes transport from Cebu (affiliate link)](https://www.getyourguide.com/cebu-city-l433/cebu-pick-up-full-course-kawasan-canyoneering-with-lunch-t792199/?partner_id=H1N6CGH&utm_medium=online_publisher). Stay in Moalboal after the coastal visit; the return to **Cebu South Bus Terminal** takes another **three to four hours**.
+
+## With more days
+
+### Moalboal: two more nights
+
+Give **Panagsama** and the sardine run one day, then spend another diving around **Pescador** or canyoneering near **Kawasan**. Return to Cebu on the following day, around **three to four hours by bus**.
+
+### Stay longer on Panglao
+
+Take a boat from Panglao to **Balicasag** for its reef and wall dives, or spend a day snorkelling around the island. Back on Panglao, **Dumaluan Beach** lies east of Alona, with a longer strip of sand. Boat excursions and dive shops operate from the Alona area.

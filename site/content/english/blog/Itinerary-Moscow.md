@@ -13,6 +13,12 @@ I visited Moscow on a transit visa during a 72-hour layover in January 2020.
 
 > I also visited someone there, so my days were only half days.
 
+
+
+<!-- Placeholder score approved by author; replace 10 and add your verdict. -->
+{{< worth-o-meter score="10" >}}
+{{< /worth-o-meter >}}
+
 # Itinerary done quick
 
 ## Moscow
@@ -31,7 +37,7 @@ Take the metro to **Okhotny Ryad** and enter Red Square beside the State Histori
 
 The visitor entrance to the Kremlin museums is in **Alexander Garden**, on the opposite side of the wall from Red Square. **Cathedral Square** and the **Armoury** are separate museum visits. Around the square are the Assumption, Archangel and Annunciation cathedrals; the Armoury holds royal carriages, armour and ceremonial objects. Leave the Kremlin through Alexander Garden, cross Manezhnaya Square and enter Kitay-gorod along Nikolskaya Street.
 
-Go inside **GUM**, even without any intention of shopping. The galleries are part of the visit, and the ice-cream kiosks are one of the cheaper things in the building. Return to Red Square after dark. The illuminated GUM façade and St Basil's are worth seeing twice.
+Go inside **GUM** for its glass-roofed galleries and bridges between the upper floors. Return to Red Square after dark. The illuminated GUM façade and St Basil's are worth seeing twice.
 
 ## Day 2: Central Moscow
 
@@ -51,5 +57,15 @@ Take Metro Line 2 to **Kashirskaya** for the reconstructed wooden **Palace of Ts
 
 After the palace, walk north through the estate to the Church of the Ascension, the wooden buildings and the paths above the Moscow River. Exit at **Kolomenskaya** station instead of retracing the whole park. The route across the estate is around five kilometres. The park was particularly good under snow.
 
+From **Kolomenskaya**, **Line 2** returns to **Teatralnaya**, near Red Square, in roughly **0:20**.
 
-With a fourth day, add **New Jerusalem Monastery** near **Istra**, west of Moscow. The complex was built around a cathedral inspired by Jerusalem's Church of the Holy Sepulchre. Travel on the Riga-direction suburban railway and arrange the final connection from Istra; departures and interchanges can differ from those used in 2020.
+
+## With more days
+
+### New Jerusalem Monastery
+
+With a fourth day, add **New Jerusalem Monastery** near **Istra**, west of Moscow. The complex was built around a cathedral inspired by Jerusalem's Church of the Holy Sepulchre. Take the metro to **Tushinskaya** and change to a Riga-direction suburban train from **Tushino to Istra**, roughly **an hour**. From Istra station, buses **32 or 33** stop at **Monastyr**, beside the monastery. Allow around **two hours each way from central Moscow**, including the changes.
+
+### Another day in central Moscow
+
+Visit the **Tretyakov Gallery** in **Zamoskvorechye**, south of the river, for its Russian icons and painting collections. Continue through the streets around **Lavrushinsky Lane** to the riverfront and cross towards **Zaryadye Park**, with its projecting viewpoint above the river and St Basil's Cathedral nearby.
