@@ -13,6 +13,13 @@ Une courte escale aux Émirats, notamment avec l'offre d'Etihad ? Voici comment 
 
 Je suis arrivé à Abu Dhabi, je suis parti directement à Dubaï, puis je suis revenu à Abu Dhabi le lendemain pour mon vol. Ça se fait, mais ça mange une bonne partie d’une escale de 48 heures. Si les horaires le permettent, passez les deux jours dans la même ville. Dubaï convient mieux pour le vieux centre et une sortie dans le désert ; Abu Dhabi pour la mosquée, les musées et la Corniche.
 
+{{< worth-o-meter score="3.5" >}}
+Bof. Gros bof. Sans intérêt.
+C'est sympa de voir le Burj Khalifa et la grande mosquée Sheikh Zayed, et c'est tout.
+Bien pour une escale, mais ça ne justifie pas un voyage au pays de l'esclavage.
+Je ne recommande pas.
+{{< /worth-o-meter >}}
+
 **Divulgation d’affiliation :** cet article contient un lien affilié GetYourGuide. Si vous réservez avec ce lien, je peux toucher une commission sans coût supplémentaire pour vous.
 
 # L'itinéraire en bref

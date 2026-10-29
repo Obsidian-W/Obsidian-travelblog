@@ -87,3 +87,21 @@
 
 - id: itinerary_map_stages
   translation: "Étapes du parcours"
+
+- id: worthmeter_out_of_ten
+  translation: "{{ .Score }} sur 10"
+
+- id: worthmeter_absolutely
+  translation: "Vaut absolument le détour"
+
+- id: worthmeter_very
+  translation: "Vaut vraiment le détour"
+
+- id: worthmeter_consider
+  translation: "À envisager"
+
+- id: worthmeter_skip
+  translation: "Plutôt à éviter"
+
+- id: worthmeter_not_worth
+  translation: "N'en vaut pas la peine"

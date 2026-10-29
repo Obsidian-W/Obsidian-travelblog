@@ -3,11 +3,11 @@
 {{- $note := .Inner -}}
 
 {{- if .IsNamedParams -}}
-  {{- with .Get "score" }}{{ $score = int . }}{{ end -}}
+  {{- with .Get "score" }}{{ $score = float . }}{{ end -}}
   {{- with .Get "title" }}{{ $title = . }}{{ end -}}
   {{- with .Get "text" }}{{ $note = . }}{{ end -}}
 {{- else -}}
-  {{- with .Get 0 }}{{ $score = int . }}{{ end -}}
+  {{- with .Get 0 }}{{ $score = float . }}{{ end -}}
   {{- if ge (len .Params) 2 }}{{ $note = .Get 1 }}{{ end -}}
 {{- end -}}
 
@@ -16,6 +16,10 @@
 {{- end -}}
 
 {{- $scorePct := mul $score 10 -}}
+{{- $scoreLabel := printf "%g" (float $score) -}}
+{{- if eq .Page.Language.Lang "fr" -}}
+  {{- $scoreLabel = replace $scoreLabel "." "," -}}
+{{- end -}}
 
 <aside
   class="worthmeter"
@@ -25,11 +29,11 @@
   aria-valuemin="0"
   aria-valuemax="10"
   aria-valuenow="{{ $score }}"
-  aria-valuetext="{{ $score }} out of 10"
+  aria-valuetext="{{ i18n "worthmeter_out_of_ten" (dict "Score" $scoreLabel) }}"
 >
   <header class="worthmeter__header">
     <strong class="worthmeter__title">{{ $title }}</strong>
-    <strong class="worthmeter__score">{{ $score }}/10</strong>
+    <strong class="worthmeter__score">{{ $scoreLabel }}/10</strong>
   </header>
 
   <div class="worthmeter__gauge" aria-hidden="true">
@@ -41,15 +45,15 @@
 
   <div class="worthmeter__verdict">
     {{- if ge $score 9 -}}
-      <span class="worthmeter__heat">🔥</span> Absolutely worth it
+      <span class="worthmeter__heat">🔥</span> {{ i18n "worthmeter_absolutely" }}
     {{- else if ge $score 7 -}}
-      <span class="worthmeter__heat">🔥</span> Very worth it
+      <span class="worthmeter__heat">🔥</span> {{ i18n "worthmeter_very" }}
     {{- else if ge $score 5 -}}
-      Worth considering
+      {{ i18n "worthmeter_consider" }}
     {{- else if ge $score 3 -}}
-      Probably skip it
+      {{ i18n "worthmeter_skip" }}
     {{- else -}}
-      Not worth it
+      {{ i18n "worthmeter_not_worth" }}
     {{- end -}}
   </div>
 

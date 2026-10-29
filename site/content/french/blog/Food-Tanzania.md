@@ -11,8 +11,6 @@ draft: true
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-Les repères de prix actuels, lorsqu'ils sont mentionnés, ont été vérifiés en août 2026 et restent des ordres de grandeur.
-
 ## Cuisine du quotidien
 
 ![Ugali](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ugali%2020251129%20163844.jpg)
@@ -21,93 +19,55 @@ L'assiette de base comprend **ugali**, riz, haricots, légumes verts, ragoût, v
 
 La différence régionale est nette. À l'intérieur, autour d'Arusha, Moshi, Dodoma ou Mwanza, la cuisine repose davantage sur le maïs, les haricots, les bananes plantains, la viande et les feuilles vertes. Sur la côte et à Zanzibar, tu trouveras plus de riz, noix de coco, cardamome, girofle, cannelle, tamarin et fruits de mer.
 
-| Plat | Ce que c'est | Où chercher |
-| --- | --- | --- |
-| Ugali | Pâte ferme de maïs | Restaurants locaux du midi et adresses de route |
-| Maharage | Haricots, souvent en sauce | Petits restaurants, repas de gare routière |
-| Sukuma wiki ou légumes verts | Feuilles cuites | Assiettes du midi |
-| Chipsi mayai | Omelette aux frites | Stands et cafés simples |
-| Makande | Maïs et haricots | Restaurants locaux, surtout à l'intérieur |
-| Ndizi nyama | Bananes plantains avec viande ou ragoût | Kilimanjaro et zones du nord-ouest |
-
-Ces plats sont utiles les jours de transport : courants, rapides et moins chers que les restaurants touristiques.
-
-Des guides alimentaires tanzaniens consultés en 2026 situent souvent les assiettes locales simples dans les bas milliers de shillings, avec les grillades plus haut. Prends ces montants comme des repères larges seulement : lodges de safari, hôtels de plage et restaurants d'aéroport relèvent d'une autre catégorie.
+- **Ugali** : Pâte ferme de maïs.
+- **Maharage** : Haricots, souvent en sauce.
+- **Sukuma wiki ou légumes verts** : Feuilles cuites.
+- **Chipsi mayai** : Omelette aux frites.
+- **Makande** : Maïs et haricots.
+- **Ndizi nyama** : Bananes plantains avec viande ou ragoût.
 
 ## Arusha et Moshi
 
-Arusha et Moshi sont pratiques pour les grillades, les restaurants locaux simples et les repas après safari. **Nyama choma** est l'option grillée classique : commande la viande à la portion ou au poids quand le système est clair, puis ajoute kachumbari, frites, ugali ou riz.
-
-Moshi est aussi utile pour le café grâce aux contreforts du Kilimandjaro. Les visites café se font souvent autour de villages chagga ; vois-les comme une activité de jour, pas juste comme une pause café.
-
-Les végétariens peuvent s'en sortir avec haricots, riz, légumes verts, chapati et ragoûts de légumes, mais demande si le bouillon contient de la viande si c'est important pour toi.
-
-Avant ou après un safari, mange en ville si le programme de l'opérateur est flou. Une fois dans les parcs, les repas dépendent généralement de l'opérateur, du lodge ou de la cuisine du camp. Demande ce qui est inclus avant le départ et prends des snacks qui supportent la chaleur.
+Arusha et Moshi sont pratiques pour les grillades, les restaurants locaux simples et les repas après safari. **Nyama choma** est l'option grillée classique : servie à la portion ou au poids, avec kachumbari, frites, ugali ou riz.
 
 ## Dar es Salaam
 
-Dar est plus intéressante pour manger que pour visiter. Cherche les grillades, snacks d'influence indienne, fruits de mer et repas locaux rapides. Les restaurants de quartier fréquentés sont souvent plus fiables que les adresses touristiques vides.
+À **Dar es Salaam**, les snacks comprennent **mishkaki**, brochettes grillées, **chapati**, **sambusa** et **bhajia**.
 
-| Plat | Ce que c'est | Où |
-| --- | --- | --- |
-| Mishkaki | Brochettes de viande grillée | Stands de grillades le soir |
-| Chapati | Pain plat | Petits-déjeuners et restaurants locaux |
-| Samosa | Beignet farci frit | Comptoirs de snacks et salons de thé |
-| Poisson avec riz | Poisson frit ou en sauce | Restaurants côtiers et secteurs de marché |
-| Bhajia | Beignet de lentilles ou de pomme de terre | Comptoirs de snacks d'influence indienne |
-| Urojo / Zanzibar mix | Soupe acidulée avec beignets et chutneys | Plus courant à Zanzibar, parfois dans les zones côtières |
+- **Mishkaki** : Brochettes de viande grillée.
+- **Chapati** : Pain plat.
+- **Samosa** : Beignet farci frit.
+- **Poisson avec riz** : Poisson frit ou en sauce.
+- **Bhajia** : Beignet de lentilles ou de pomme de terre.
+- **Urojo / Zanzibar mix** : Soupe acidulée avec beignets et chutneys.
 
-Utilise Dar comme pause entre longs bus, vols et ferry vers Zanzibar. C'est aussi là que tu trouveras le plus de choix indien, swahili et international.
-
-Kariakoo et les secteurs de marché sont utiles pour les snacks et repas bon marché, mais ils sont très fréquentés et pas pensés pour le confort des visiteurs. Vas-y de jour, garde peu d'objets visibles et choisis les adresses où ça tourne vite.
+Le marché de **Kariakoo** vend des produits frais et des snacks.
 
 ## Zanzibar et la côte swahilie
+
+À Zanzibar, j'ai fait une **visite de ferme aux épices**. C'était touristique, mais les odeurs et les dégustations valaient cette demi-journée. J'étais seul pour la visite.
 
 ![Marché aux épices à Stone Town](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spice%20Market%20in%20Stone%20town%20Zanzibar.JPG)
 
 À Zanzibar et sur la côte, la cuisine change nettement. Attends-toi à du riz, de la noix de coco, des fruits de mer, des épices, du chapati, du pilau, du biryani et des snacks influencés par les échanges swahilis, arabes, indiens et côtiers.
 
-| Plat | Ce que c'est | Où chercher |
-| --- | --- | --- |
-| Pilau | Riz épicé, souvent avec viande | Restaurants swahilis et cantines du midi |
-| Biryani | Riz avec viande ou poisson épicé | Stone Town et restaurants côtiers |
-| Curry de poulpe | Fruits de mer en sauce coco ou épicée | Zanzibar et villages côtiers |
-| Zanzibar pizza | Pâte farcie et frite | Secteurs de street food le soir |
-| Wali wa nazi | Riz à la noix de coco | Restaurants côtiers et adresses familiales |
-| Vitumbua | Petits gâteaux riz-coco | Stands du matin |
-| Mandazi | Beignet simple | Petits-déjeuners et salons de thé |
+- **Pilau** : Riz épicé, souvent avec viande.
+- **Biryani** : Riz avec viande ou poisson épicé.
+- **Curry de poulpe** : Fruits de mer en sauce coco ou épicée.
+- **Zanzibar pizza** : Pâte farcie et frite.
+- **Wali wa nazi** : Riz à la noix de coco.
+- **Vitumbua** : Petits gâteaux riz-coco.
+- **Mandazi** : Beignet simple.
 
-Stone Town est le lieu le plus simple pour goûter plusieurs choses dans un petit périmètre. Darajani market est utile en journée. Les zones de street food du soir peuvent être pratiques, mais choisis les stands fréquentés avec beaucoup de rotation.
+Le marché de **Darajani**, à Stone Town, vend des produits frais et des épices.
 
-Forodhani est pratique et vivant, mais la qualité varie. Le marché convient à un snack ou une boisson ; les cantines locales, cuisines swahilies et restaurants de fruits de mer offrent d'autres possibilités hors du front de mer.
-
-## Kilwa et petites villes côtières
-
-À Kilwa Masoko et dans les petites villes côtières, le choix se limite souvent au poisson, riz, haricots, frites, chapati et thé. Les restaurants indépendants peuvent fermer tôt ou manquer de plats ; les hébergements connaissent généralement les adresses ouvertes.
-
-Ne prévois pas un itinéraire culinaire serré ici. Mange là où les trajets et les bateaux te laissent du temps.
+J'ai mangé à **Forodhani Gardens** lors de mon **voyage de 2023** et trouvé l'endroit surestimé. Une petite adresse locale servait une bien meilleure cuisine ; j'y suis retourné pour la plupart de mes repas.
 
 ## Boissons et notes pratiques
 
-Le thé est courant, le café est intéressant dans les zones de production du nord, et les jus frais se trouvent en ville et sur la côte. Pour les voyageurs, l'eau en bouteille reste le réflexe.
-
-L'hygiène varie. Les jours de transport, privilégie les plats chauds, les adresses fréquentées et les choses simples. Si tu pars en safari, vérifie les repas inclus et prends des snacks ; une fois dans les parcs, les options dépendent de l'opérateur ou du lodge.
-
-Pour l'alcool, vérifie le contexte. Il est facile à trouver dans les hôtels touristiques, lodges de safari et beaucoup de restaurants urbains, mais moins présent dans les zones côtières conservatrices ou majoritairement musulmanes.
-
-## En bref
-
-- Dans les terres : ugali avec une bonne sauce, nyama choma, chipsi mayai et ndizi nyama.
-- À Dar : mishkaki et poisson grillé.
-- À Zanzibar : urojo, pilau ou biryani, vitumbua et pizza de Zanzibar.
-- Confirme le prix avant de commander viande ou poisson au poids.
-- Remplace les toasts de l'hôtel par un chapati, mandazi ou vitumbua frais.
+Le thé est courant, le café est intéressant dans les zones de production du nord, et les jus frais se trouvent en ville et sur la côte.
 
 ## Sources consultées
 
-- [Tanzania Tourism Board - accueil](https://www.tanzaniatourism.go.tz/) : contexte officiel sur gastronomie, spice tours, fruits de mer swahilis, fermes de café et marchés.
-- [Tanzania Tourism Board - Sea, Sun & Sand](https://www.tanzaniatourism.go.tz/sea-sun-sand/) : contexte côtier officiel sur fruits de mer, cuisine swahilie, épices et marchés.
-- [Visit Tanzania - cultural tourism](https://www.visittanzania.org/experiences-in-tanzania/cultural-tourism/) : exemples de cuisine locale, dont ugali, makande, matoke, pilau et nyama choma.
-- [Tanzania Tourism Board - Zanzibar Island FAM Trip](https://site.tanzaniatourism.go.tz/page/zanzibar-island-fam-trip-international-hosted-buyers-only-) : contexte Stone Town et spice farm.
-- [Ambassade de Tanzanie à Washington - People and Culture](https://www.us.tzembassy.go.tz/tanzania/category/people-and-culture) : liste officielle de plats tanzaniens côtiers et de l'intérieur.
-- [The Tanzanian Guide - Food in Tanzania](https://www.thetanzanianguide.com/food-guide/) : source comparative 2026 pour la variété des plats, les différences régionales et les repères de prix locaux.
+- [Embassy of Tanzania: traditional foods](https://www.us.tzembassy.go.tz/tanzania/category/people-and-culture).
+- [Visit Tanzania: cultural tourism and coffee](https://www.visittanzania.org/experiences-in-tanzania/cultural-tourism/).

@@ -13,6 +13,12 @@ draft: false
 
 > **Une étape d'un voyage plus long :** le Pérou était la première partie de mon voyage de 53 jours en Amérique du Sud, suivi de la [Bolivie](../itinerary-bolivia/), du nord du Chili et de la Patagonie.
 
+{{< worth-o-meter score="10" >}}
+Le Pérou est un incontournable absolu. Je ne veux pas distribuer les 10 à tout-va, mais le Pérou en mérite un.
+Vraiment. Un mélange incroyable de paysages différents, un pays facile à parcourir, une excellente cuisine, des Péruviens gentils et très drôles aussi.
+Et toute cette histoire ! Deux mille ans d'histoire, et ça se voit ! Waouh. Juste waouh.
+{{< /worth-o-meter >}}
+
 > **Liens affiliés :** Cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux percevoir une commission sans frais supplémentaires pour vous.
 
 Les prix en euros sont des équivalents approximatifs, vérifiés en septembre 2026.

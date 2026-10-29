@@ -93,3 +93,21 @@
 
 - id: itinerary_map_stages
   translation: "Route stages"
+
+- id: worthmeter_out_of_ten
+  translation: "{{ .Score }} out of 10"
+
+- id: worthmeter_absolutely
+  translation: "Absolutely worth it"
+
+- id: worthmeter_very
+  translation: "Very worth it"
+
+- id: worthmeter_consider
+  translation: "Worth considering"
+
+- id: worthmeter_skip
+  translation: "Probably skip it"
+
+- id: worthmeter_not_worth
+  translation: "Not worth it"

@@ -20,6 +20,8 @@ Still, it's a country you have to do at least once in your life, the epic Tongar
 New Zealand is not just Lord Of The Ring, it's pure adventure.
 {{< /worth-o-meter >}}
 
+Some links below are **GetYourGuide affiliate links**. If you book through them, I may earn a commission at no extra cost to you.
+
 # Itinerary done quick
 
 ## New Zealand
@@ -32,8 +34,8 @@ New Zealand is not just Lord Of The Ring, it's pure adventure.
 | Day 6 | [Picton and Nelson](#day-6-picton-and-nelson) | Marlborough Sounds and Nelson centre |
 | Day 7 | [Abel Tasman](#day-7-abel-tasman) | Anchorage and coastal walk to Marahau |
 | Days 8–9 | [Punakaiki and Franz Josef](#days-8-and-9-punakaiki-and-franz-josef) | Pancake Rocks, glacier valley and Tatare Tunnels |
-| Days 10–11 | [Queenstown](#days-10-and-11-queenstown) | Lake Wakatipu, Arrowtown and Queenstown Hill |
-| Days 12–13 | [Te Anau and the Kepler Track](#days-12-and-13-te-anau-and-the-kepler-track) | Lakefront, bird sanctuary, Brod Bay and Luxmore option |
+| Days 10–11 | [Queenstown](#days-10-and-11-queenstown) | Lake Wakatipu, Queenstown Gardens and Ben Lomond |
+| Days 12–13 | [Te Anau and the Kepler Track](#days-12-and-13-te-anau-and-the-kepler-track) | Milford Sound, Brod Bay and Luxmore option |
 | Day 14 | [Christchurch](#day-14-christchurch) | Journey via Queenstown |
 
 ## Getting around by coach
@@ -170,6 +172,8 @@ Once in Franz Josef, I left early in the morning to see the Glacier, but the vie
 The hike is around 6 hours both ways, through a misty forest (Very pretty) then across miradors all the way to the cold topmost viewpoint.
 It was a fun experience in the end, butvery weather dependant.
 
+The short [Franz Josef Glacier valley walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/franz-josef-glacierka--roimata-o-hine-hukatere-walk/) now listed by DOC is **1,7 km return, around 30 minutes from the glacier car park**. That is a different outing from my long hike, and it doesn't reach the ice.
+
 It's possible to walk the glacier with an helicopter ride (yup), I met a few girls that did it, "short but super fun and unique".
 On top of the glacier, the fog wasn't much of an issue apparently, but flights were heavily delayed.
 Beware tho, it's quite expensive, not like the free hike.
@@ -193,11 +197,9 @@ I don't think you can really do more than a hike.
 
 ## Days 12 and 13: Te Anau and the Kepler Track
 
-Take a morning coach from Queenstown to **Te Anau**, around **2:30**. InterCity and **Tracknet** sell this journey; Tracknet also runs shuttles to the walking tracks.
+Start the day in **Te Anau** for a full-day excursion to **Milford Sound / Piopiotahi**. The boats leave from Milford, with **2–3 hours by road each way from Te Anau**. The [RealNZ coach-and-cruise trip](https://www.realnz.com/en/experiences/day-cruises/milford-sound-day-trip-from-te-anau/) includes scenic stops on the Milford Road and **1:30–2 hours on the water**, beneath Mitre Peak and the waterfalls. Allow around **7–8 hours** for the outing.
 
-Walk south along the lakefront past the **Fiordland National Park Visitor Centre** to the **Te Anau Bird Sanctuary**. It is about **20 minutes from the visitor centre**, with free self-guided entry during daylight.
-
-Then use the afternoon to take a boat to visit the fjords, Milford sounds (**Piopiotahi**) is the main draw, boats leave every so often, but this will take the whole afternoon.
+Stay a second night in Te Anau for the Kepler walk. If you arrive from Queenstown on Day 12 instead, the coach takes around **2:30**: use the afternoon for the lakefront and **Te Anau Bird Sanctuary**, about **20 minutes south of the Fiordland National Park Visitor Centre**. Adding Milford then needs another day.
 
 Of course, you can do it the other way around, depends on the way you use.
 
@@ -224,8 +226,35 @@ I used Christchurch mainly as the stopping point between New Zealand and Austral
 ### More days?
 
 With more days in New zealand, I would take a bit more time to enjoy it all.
+
+#### Auckland: one more day
+
 Auckland deserves one more day to go up north, see the birds and the nature.
+
+**Rangitoto** is a volcanic island reached by [ferry from downtown Auckland](https://www.fullers.co.nz/destinations-and-experiences/destinations/rangitoto-island/), with black lava fields, pōhutukawa forest and views back across the harbour. The [summit track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/rangitoto-island/tracks/rangitoto-summit-track/) is **7 km return**, around **2 hours from the wharf**.
+
+#### Hobbiton: one day from Auckland
+
 Hobbiton is a great spot to visit to, I didn't go because I felt like "It would be too touristy", old me deserves a slap, I regret it now.
+
+The set near **Matamata** includes the hobbit holes, **Bag End**, the interiors of **Bagshot Row** and the **Green Dragon Inn**. Entry is by guided tour; the [standard Hobbiton visit](https://www.hobbitontours.com/plan-visit/frequently-asked-questions/) takes around **2:30 from The Shire's Rest**, before travel from Auckland. An Auckland excursion makes this a full day; with your own car, it can fit between Auckland and Ohakune.
+
+#### Wānaka: one or two days before Queenstown
+
 Wanaka is also a good one day stop for hiking on the way to Queenstown.
-The Kepler track deserves one more day, to do it in full, with a stop in a hut (You have to book in advance).
+
+With one full day, walk the lakefront and climb **Mount Iron** for views over the lake, town and Upper Clutha Basin. The [Mount Iron loop](https://www.wanaka.co.nz/explore/mount-iron-walk/) is **4,5 km**, around **1:30**, starting about **2 km from the centre**. Two nights give you a full day here instead of squeezing a walk between buses.
+
+#### Te Anau: an extra day for Milford Sound
+
+If you arrive from Queenstown on Day 12, add a day for the full **Milford Sound coach-and-cruise outing** before the Kepler. This keeps the lakefront afternoon and saves rushing from Ben Lomond to the evening coach.
+
+#### The full Kepler Track: allow three days
+
+The [full Kepler circuit](https://www.doc.govt.nz/keplertrack) is about **60 km**, continuing beyond Luxmore along the alpine ridges, then descending through the **Iris Burn valley** and returning beside **Lake Manapouri**. You can do the circuit in **two or three days**, adding **one or two days** to the Luxmore day walk in this itinerary. Huts and campsites are booked through DOC for the Great Walks season.
+
+#### Dunedin: one or two nights before Christchurch
+
 Dunedin to have a last real visit before flying away in christchurch can be nice, if my flight wasn't so early in day 15, I would have spent the night.
+
+Break the Queenstown–Christchurch journey here for the **Octagon**, **St Paul's Cathedral** and the [Dunedin Railway Station](https://www.dunedinnz.com/insiders/dunedin-railway-station), with its elaborate façade and mosaic-tiled interior. One night gives you an afternoon or morning in the centre; two leave a full day before the onward coach to Christchurch.

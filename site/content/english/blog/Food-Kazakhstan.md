@@ -19,7 +19,7 @@ draft: true
 Traditional Kazakh food grew from pastoral life on the steppe. That means a lot of boiled meat, fat, dough and preserved milk. It's plain, barely spicy.
 Modern Kazakh food is better, tho.
 
-**Beshbarmak** is the dish everyone mentions: horse meat, lamb or beef served over wide sheets of dough with broth and onions. It is a substantial communal dish, and restaurant portions may be intended for several people. Ask how many the serving feeds before ordering; solo travellers will usually find lagman, manty or soup easier to order.
+**Beshbarmak** is the dish everyone mentions: horse meat, lamb or beef served over wide sheets of dough with broth and onions. It is a substantial communal dish, and restaurant portions may be intended for several people.
 It's eaten by hands, like god intended.
 
 **Kazy** is horse-rib sausage with a generous strip of fat. It is dense, salty and often sliced over beshbarmak.
@@ -30,19 +30,18 @@ It's eaten by hands, like god intended.
 
 **Baursak** are pieces of fried dough served with tea or a meal. The name sounds unfortunately close to *ballsack* in English. (Or my English as a frenchman, anyway)
 
-Fresh baursak are soft and slightly oily; small dry ones are better for a bus or train. They are not a dessert unless something sweet comes with them.
+Fresh baursak are soft and slightly oily; drier versions are firmer. They are not a dessert unless something sweet comes with them.
 
-**Kurut** is dried fermented dairy shaped into small white balls. It can be extremely salty and has a hard, chalky texture, so buy one to try before committing to a large bag.
+**Kurut** is dried fermented dairy shaped into small white balls. It can be extremely salty and has a hard, chalky texture.
 
-> Contrary to popular beliefs, kuruts are apparently not rolled under the armpits. 
-> But the salty taste defo feels like men's armpits. If yours smells oniony, maybe it was actually done that way, but by a woman.
+> Kurut tastes like armpits to me. Extremely salty.
 
 ## Almaty
 
 Almaty has a broad mix of traditional Kazakh food, Uyghur **lagman**, Uzbek-style plov, Russian food, Korean food and Georgian food.
 It's a strong USSR culture (+ Korean, who have been displaced here for a long time)
 
-At the **Green Bazaar**, concentrate on things you can compare or carry: dried fruit, nuts, bread, kurt and prepared salads. Sample unfamiliar products before buying a large quantity, particularly strongly flavoured kurt.
+At the **Green Bazaar**, the food stalls include dried fruit, nuts, bread, kurut and prepared salads.
 
 Order beshbarmak when you have people to share it with. Alone, get lagman, manty, shashlik, plov or soup instead.
 
@@ -63,8 +62,7 @@ In my tour with RedMaya, we stopped at roadside canteens. It was quite nice.
 
 > IIRC, I spoke about it in my [How To Mangystau article](/blog/howto-mangystau) itinerary
 
-If you go by yourself, you'll probably need a portable stove. The Ustyurt plateau and Bozjyra are far from civilization, so if, like most, you camp outside, bring something simple.
-Mantis and dumplings can probably survive the day. A pasta salad can go a long way.
+[My Mangystau tour](/blog/howto-mangystau/)
 
 ## What you will probably eat more often
 
@@ -72,12 +70,10 @@ Formal Kazakh dishes are only part of the picture. **Lagman** is a bowl of noodl
 
 ## Drinks
 
-**Kumys** is fermented mare's milk: sour, lightly fizzy and sometimes mildly alcoholic. 
-Kumis/Kumys is **not Halal** but central Asian muslims love it. 
+**Kumys** is fermented mare's milk: sour, lightly fizzy and sometimes mildly alcoholic.
 
-**Shubat**, made from camel milk, is thicker and common in western Kazakhstan. Buy the smallest serving first.
+**Shubat**, made from camel milk, is thicker and common in western Kazakhstan.
 I got a taste in Mangystau: It's definitely not for everyone (I shared one glass with two other travellers, none liked it, but at least, we all tried!)
-
 
 ## Dietary notes
 Vegetarians should target Almaty and Astana cafes, I found some vegan places and coffee shops (Filled with pretty women, btw, if cool women are your thing. And a lot of cool looking duded too, if that's up your alley. Food is food)
@@ -87,5 +83,5 @@ Gluten-free travel is difficult because noodles, bread, dumplings and fried doug
 
 ## Source log
 
-- [Kazakhstan government culture page](https://www.gov.kz/article/64578?lang=en): official context for beshbarmak, kazy, kuyrdak, baursak, kumys, shubat and Kazakh cuisine.
-- [Visit Astana - beshbarmak](https://visitastana.kz/kz/about-city/what-to-eat/beshbarmak/): official city tourism food context.
+- [Kazakhstan: national cuisine](https://www.gov.kz/article/64578?lang=en).
+- [Visit Astana: beshbarmak](https://visitastana.kz/kz/about-city/what-to-eat/beshbarmak/).

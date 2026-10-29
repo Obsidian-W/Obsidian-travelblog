@@ -11,6 +11,13 @@ draft: false
 
 > Voici mon itinéraire de deux semaines, de Puno au Pérou jusqu'à San Pedro de Atacama au Chili, en traversant la Bolivie. Le cœur du voyage : les bus indépendants, le parc national Torotoro et une traversée d'Uyuni en quatre jours.
 
+{{< worth-o-meter score="8.5" >}}
+La Bolivie n'était pas aussi parfaite que le Pérou, mais elle regorgeait tout de même de lieux uniques. Elle est vraiment différente de son voisin.
+Ne laisse personne te dire que la combiner avec un autre pays d'Amérique latine revient au même : c'est faux.
+Une présence autochtone bien plus marquée, une architecture et une culture singulières, des paysages vraiment distincts — Uyuni, Torotoro — et des villes impressionnantes comme La Paz et Sucre.
+Pour l'instant, les infrastructures manquent et la nourriture n'était pas à mon goût, mais la Bolivie est incroyable.
+{{< /worth-o-meter >}}
+
 > **Divulgation d'affiliation :** Cet article contient des liens affiliés GetYourGuide. Si vous réservez par leur intermédiaire, je peux percevoir une commission sans coût supplémentaire pour vous.
 
 # Itinéraire en bref

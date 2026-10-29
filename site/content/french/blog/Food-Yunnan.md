@@ -11,91 +11,48 @@ draft: true
 
 > Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
 
-Le contexte culinaire et les repères de prix actuels, lorsqu'ils sont mentionnés, ont été vérifiés en août 2026 et restent indicatifs.
-
 ## Nouilles de riz, thé et champignons autour de Kunming
 
 ![Nouilles qui traversent le pont](https://commons.wikimedia.org/wiki/Special:Redirect/file/Crossing%20the%20Bridge%20Noodle%20at%20Qian%20Xiang%20Yuan.jpg)
 
-Kunming est le point de départ le plus simple pour la cuisine du Yunnan. Le premier plat à essayer est les **cross-bridge rice noodles** : bouillon chaud, nouilles de riz et garnitures ajoutées à table. Le site officiel du tourisme du Yunnan présente ce plat comme une spécialité de **Mengzi**, avec soupe, tranches de viande ou poisson, légumes et nouilles de riz.
+Kunming réunit plusieurs cuisines du Yunnan : nouilles de riz, poulet en marmite vapeur, spécialités dai, fondues de champignons et thé Pu'er.
 
-Kunming permet aussi de manger dans plusieurs registres de la province sans changer d'hôtel chaque soir. Utilise la ville pour les nouilles de riz, les champignons, les restaurants dai ou du sud-est du Yunnan, les boutiques de thé Pu'er et les pâtisseries. Il n'y a pas une seule rue à viser : cherche les chaînes de nouilles dans les centres commerciaux fréquentés, les petits-déjeuners près des marchés et les restaurants moins chers vers les quartiers résidentiels ou universitaires.
+Les **nouilles qui traversent le pont**, originaires de **Mengzi**, arrivent en plusieurs éléments : un bouillon brûlant, des nouilles de riz et de petites assiettes de viande, d'herbes et de légumes à ajouter à table. La couche de graisse à la surface retient la chaleur du bouillon. Les **nouilles en petit pot**, elles, cuisent avec viande hachée, pickles et piment dans une petite marmite de cuivre.
 
-| Plat | Ce que c'est | Où chercher |
-| --- | --- | --- |
-| Cross-bridge rice noodles | Bouillon, nouilles de riz et garnitures ajoutées séparément | Chaînes locales et restaurants de nouilles à Kunming |
-| Small-pot rice noodles | Nouilles cuites en petit pot avec viande et pickles | Echoppes de petit déjeuner et déjeuner |
-| Flower cakes | Pâtisserie feuilletée à la rose | Boulangeries, gares et aéroport |
-| Thé Pu'er | Thé fermenté du Yunnan | Boutiques de thé et marchés |
-| Poulet en marmite vapeur | Soupe de poulet cuite dans une marmite en céramique | Restaurants du Yunnan, surtout à Kunming |
-| Champignons sauvages | Champignons de saison, sautés ou en hotpot | Restaurants sérieux pendant la saison |
+Le **poulet en marmite vapeur** doit son nom au récipient en céramique muni d'une cheminée centrale. La vapeur entre par cette cheminée et se condense pour former le bouillon.
 
-Kunming est aussi pratique pour goûter les champignons du Yunnan. Les champignons sauvages doivent être consommés dans des restaurants spécialisés qui respectent les temps de cuisson.
+Les champignons sauvages se mangent sautés ou en fondue. La [commission de la santé du Yunnan](https://ynswsjkw.yn.gov.cn/html/2026/xuanchuankejiao_0526/4024979.html) signale des intoxications dues à des espèces mal identifiées ou insuffisamment cuites.
 
-Le Yunnan connaît chaque année des cas d'intoxication pendant la saison des champignons. Il faut donc respecter les consignes et les minuteurs éventuels du restaurant avant de commencer à manger.
+Les **gâteaux aux fleurs** sont des pâtisseries feuilletées à la confiture de pétales de rose. Le **Pu'er** peut être cru (*sheng*) ou mûr (*shou*) : le premier évolue avec l'âge et peut être âpre lorsqu'il est jeune ; le second subit une fermentation accélérée, donnant une tasse plus sombre et terreuse.
 
 ## Cuisine bai autour de Dali et Xizhou
 
 ![Fromage rubing du Yunnan](https://commons.wikimedia.org/wiki/Special:Redirect/file/Rubing%20Goats%20Cheese%20of%20Yunnan%20China.jpg)
 
-Dali est bien pour la cuisine bai, les grillades simples, le poisson du lac et le **rubing**, le fromage de chèvre du Yunnan souvent frit ou grillé. Xizhou est pratique pour les snacks, surtout le pain plat farci local vendu autour de la vieille ville.
+Le **rubing** est un fromage de chèvre ferme, souvent frit ou grillé, au goût doux. Le **rushan** se prépare avec du lait de vache : le caillé est étiré en fines feuilles, séché sur des supports de bambou, puis grillé.
 
-| Plat | Ce que c'est | Où |
-| --- | --- | --- |
-| Rubing | Fromage de chèvre, souvent frit ou grillé | Restaurants bai |
-| Xizhou baba | Pain plat farci, sucré ou salé | Stands de Xizhou |
-| Poisson du lac Erhai | Plats de poisson du lac | Restaurants simples autour du lac |
-| Repas bai | Légumes, porc, pickles et plats locaux | Vieille ville de Dali et villages |
-| Rushan | Fines feuilles de fromage de lait, souvent grillées | Stands et restaurants bai |
-| Poisson aigre-épicé | Poisson avec pickles ou assaisonnement local | Restaurants autour du lac |
+Le **Xizhou baba** est un pain plat épais, feuilleté et farci. Les versions sucrées contiennent notamment pâte de rose ou sucre brun ; les salées, porc, ciboule ou légumes conservés.
 
-Dali compte de nombreux cafés ainsi que des restaurants locaux hors des rues les plus fréquentées de la vieille ville.
+Les repas bai comprennent aussi légumes, porc, pickles et poisson du lac Erhai. Le **poisson aigre-épicé** se cuisine avec des légumes conservés ou un autre ingrédient acidulant local.
 
-Xizhou est utile parce que les snacks s'intègrent naturellement à une journée autour du lac. Passe le matin ou au déjeuner ; en fin d'après-midi, le choix peut être plus réduit.
+Pendant mon voyage de **2024**, j'ai mangé de la street food dans la **vieille ville de Xizhou vers midi**. À Kunming, je suis allé du côté de **Wuhua** pour manger le soir.
 
 ## Cuisine naxi autour de Lijiang
 
-La vieille ville de Lijiang est très touristique, donc la qualité varie beaucoup. Les restaurants spécialisés proposent notamment nouilles, snacks grillés, plats naxi et hotpots.
+La **gelée de pois chiche** se mange froide, avec vinaigre, piment et ail, ou frite, avec une croûte et un cœur encore souple. La **fondue de côtes de porc salées** a un goût fumé et un bouillon déjà bien assaisonné.
 
-| Plat | Ce que c'est | Où |
-| --- | --- | --- |
-| Poisson grillé façon naxi | Poisson avec assaisonnement local | Restaurants hors des ruelles les plus fréquentées |
-| Gelée de pois chiche | Plat froid ou frit à base d'amidon | Echoppes de snacks |
-| Nouilles de riz | Petit déjeuner ou déjeuner rapide | Petits restaurants de nouilles |
-| Hotpot de yak ou champignons | Repas partagé pour les soirées fraîches | Restaurants dans les rues plus calmes |
-| Lijiang baba | Pain plat local cuit à la plaque | Snacks et comptoirs de petit déjeuner |
-| Hotpot de côtes de porc salées | Fondue de côtes de porc, souvent très nourrissante | Restaurants locaux par temps frais |
-
-Baisha et Shuhe sont souvent plus faciles pour un repas tranquille que le cœur de la vieille ville de Lijiang.
-
-Si tu pars randonner dans la gorge du Saut du Tigre depuis Lijiang, mange correctement avant de partir et prends des snacks. Les repas de guesthouse dans la gorge sont pratiques, mais il ne faut pas compter sur un grand choix.
+On trouve aussi du **Lijiang baba**, pain plat cuit sur une plaque, des nouilles de riz, du poisson grillé façon naxi et des fondues de champignons ou de yak.
 
 ## Cuisine tibétaine de plateau autour de Shangri-La
 
-À Shangri-La, la cuisine bascule vers les produits du plateau tibétain : orge, yak, produits laitiers, thé au beurre, hotpot et soupes de nouilles simples. C'est un bon endroit pour essayer cette cuisine sans la logistique de la région autonome du Tibet.
+À Shangri-La, les produits du plateau prennent davantage de place : orge, yak ou bœuf, produits laitiers, thé au beurre, raviolis et soupes de nouilles.
 
-| Plat ou boisson | Ce que c'est | Notes |
-| --- | --- | --- |
-| Hotpot de yak | Fondue partagée avec viande de yak | Bien quand il fait froid |
-| Tsampa | Farine d'orge grillée | Souvent mélangée avec du thé ou du thé au beurre |
-| Thé au beurre | Thé salé avec beurre | Essaie une petite tasse d'abord |
-| Produits d'orge | Pain, alcool ou bouillies simples | Courants dans les zones tibétaines |
-| Momos | Raviolis à la viande ou aux légumes | Restaurants simples et guesthouses |
-| Thukpa | Soupe de nouilles | Fiable les jours froids ou en altitude |
+La **tsampa** est de la farine d'orge grillée, mélangée à du thé ou du thé au beurre. Les **momos** sont des raviolis farcis ; le **thukpa**, une soupe de nouilles. L'orge entre aussi dans des pains, bouillies et boissons alcoolisées.
 
-L'altitude peut couper l'appétit. Le premier soir, mange simple et bois de l'eau plutôt que de prévoir une grosse tournée de restaurants.
-
-## Notes pratiques
-
-La cuisine du Yunnan peut être épicée, acide et très herbacée, mais elle change selon les régions. Les végétariens s'en sortent assez bien à Kunming et Dali, mais il faut demander pour le bouillon et l'huile de cuisson. Dans les zones tibétaines, les options existent mais les menus sont plus orientés viande et produits laitiers.
-
-Si tu ne lis pas le chinois, une application de traduction aide à lire les menus. Les menus avec photos sont plus fréquents dans les restaurants destinés aux visiteurs.
-
-Pour les prix, évite les vieux chiffres de blogs. Les menus changent selon les villes et les plateformes. D'après des sources voyageurs vérifiées en 2026, les bols de nouilles et snacks restent l'option économique, les hotpots de champignons ou de yak montent dans une gamme moyenne ou haute, et les cafés de vieille ville à Dali ou Lijiang peuvent coûter plus cher que des restaurants locaux servant une meilleure cuisine du Yunnan.
+Le thé au beurre est salé et gras, servi à la tasse ou au thermos. La fondue de yak est un plat à partager.
 
 ## Sources consultées
 
-- [Visit Colorful Yunnan - Cross-Bridge Rice Noodles](https://www.visityunnanchina.com/experiences/food/cross-bridge-rice-noodles) : origine, ingrédients et exemples à Kunming.
-- [Visit Colorful Yunnan - saveurs du Yunnan](https://www.visityunnanchina.com/plan-your-trip/travel-blog/feast-senses-savor-flavors-yunnan) : nouilles, champignons, flower cakes et thé Pu'er.
-- [Wikivoyage Yunnan](https://en.wikivoyage.org/wiki/Yunnan) : liste pratique de plats, dont les nouilles de riz et le rubing.
-- [Visit Yunnan - Yunnan food guide](https://visit-yunnan.com/en/blog/yunnan-food-guide) : source comparative 2026 pour les plats régionaux, champignons, fromages, nouilles et contexte pratique.
+- [Visit Colorful Yunnan: cross-bridge rice noodles](https://www.visityunnanchina.com/experiences/food/cross-bridge-rice-noodles).
+- [Visit Colorful Yunnan: regional dishes](https://www.visityunnanchina.com/plan-your-trip/travel-blog/feast-senses-savor-flavors-yunnan).
+- [Visit Colorful Yunnan: steam-pot chicken](https://www.visityunnanchina.com/node/73).

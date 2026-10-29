@@ -6,10 +6,11 @@ image: "images/blog/morocco1.jpg"
 categories: ["Food", "Morocco", "Africa"]
 continents: ["Africa"]
 ai_generated: true
-draft: true
+draft: false
 ---
 
 > Note: this article was AI-generated, then checked and edited against the sources listed at the end.
+> Then reworked quite a lot, like always. Even GPT 6.1 is still shit.
 
 ## Tajine
 
@@ -18,8 +19,6 @@ draft: true
 ## Marrakesh: tanjia and Jemaa el-Fnaa
 
 **Tanjia is a speciality of Marrakesh.** Meat, preserved lemon, garlic, cumin, saffron and fat are placed in a tall clay jar and slow-cooked, traditionally in the embers of a communal oven or hammam furnace. The result is very tender meat in a concentrated sauce.
-
-At Jemaa el-Fnaa, establish the price before accepting bread, olives or small side plates, as they may be added to the bill. Choose a stall that squeezes orange juice in front of you rather than serving it from a prepared jug.
 
 ## Breakfast breads
 
@@ -43,17 +42,15 @@ Fes cooking leans into sweet-savoury combinations. **Pastilla** combines pigeon 
 For sweets, **cornes de gazelle** are slender almond pastries perfumed with orange blossom. **Ghriba** are round, cracked cookies made in several versions, including almond, sesame and semolina. (But it often breaks apart quickly) **Sellou** is a dense, crumbly mixture of toasted flour, sesame, almonds, spices and fat.
 **Baklava** is not of Moroccan origin, but common. They differ from the tunisian/armenian Baklava and are closer to the Turkish ones.
 
-Ghriba and cornes de gazelle crumble easily, so use a rigid box if you plan to carry them on a train or in a backpack.
-
 ## Amlou and argan oil
 
-**Amlou** combines ground roasted almonds, honey and culinary argan oil. It is runnier than peanut butter and can leak from a poorly sealed jar. Buy a small jar first and pack it upright (or keep the seal, they are often well sealed.)
+**Amlou** combines ground roasted almonds, honey and culinary argan oil. It is runnier than peanut butter, with a roasted, nutty flavour.
 
-It is particularly associated with **Souss-Massa, around Agadir and Taroudant**. Along the Atlantic coast, simple grilled fish is usually a better choice than an elaborate tourist menu. In Essaouira, look for fish, bread, salad and tea; in Taghazout, mix the surf-town cafes with local breakfasts, fish and simple Moroccan restaurants.
+Amlou is particularly associated with **Souss-Massa, around Agadir and Taroudant**.
 
 In some places you can find pumpkin seed amlou (I find them in a Moroccan shop in Rennes, France, imported from morocco), my roommate told me it's uncommon and more of a novelty targetting the trendy youth. Now you know.
 
-Culinary argan oil is made for eating and has a toasted, nutty flavour. Cosmetic argan oil is processed for use on skin and hair. Check that the bottle is labelled for culinary use before buying it as food.
+Culinary argan oil is made for eating and has a toasted, nutty flavour. Cosmetic argan oil is processed for use on skin and hair.
 
 ## Meknes, olives and inland market food
 
@@ -63,10 +60,10 @@ Meknes is also a practical stop for picnic food before Volubilis. Buy bread, oli
 
 ## Northern mountain food around Chefchaouen
 
-**Bissara** is puréed dried fava beans, served hot with olive oil, cumin and chilli. It is cheap, thick and well suited to a cold mountain morning. 
+**Bissara** is puréed dried fava beans, served hot with olive oil, cumin and chilli. It is cheap, thick and well suited to a cold mountain morning.
 I found a nice, well-rated shop in the old town of Rabat (not really northern, I know). I forgot the name, unfortunately.
 
-Northern goat cheese is fresh, white and mild. Keep it cool and eat it promptly. 
+Northern goat cheese is fresh, white and mild.
 
 For Akchour, bring water. Food is found every ten minutes of walk. Mostly tajines, not that expensive compared to the city, so it's definitely worth a stop.
 After the hike, Chefchaouen's bakeries and simple restaurants are enough.
@@ -74,11 +71,7 @@ After the hike, Chefchaouen's bakeries and simple restaurants are enough.
 ## Tangier cafes and northern snacks
 
 **Kalinti** is a soft chickpea-flour bake sold by the slice, usually dusted with cumin and chilli. Its name comes from the Spanish *caliente*. The centre can look undercooked even when it is ready; the texture is closer to custard than bread.
-They are a very popular item in nearby Algeria, every algerian I know grew up with it. Apparently it's only a thing in the very north of Morocco. 
-
-Tangier also works well for bakeries, juice shops and simple street food. 
-
-If you are taking the ferry to Spain, eat before going to the port unless you have plenty of time. A bakery stop, fruit and water make the ferry day easier, followed by a proper meal after arrival.
+They are a very popular item in nearby Algeria, every algerian I know grew up with it. Apparently it's only a thing in the very north of Morocco.
 
 ## Southern road food
 
@@ -102,6 +95,6 @@ Amlou travels only in a properly sealed jar. Ghriba and cornes de gazelle need a
 
 ## Source log
 
-- [Moroccan National Tourist Office - Food & Drinks](https://www.visitmorocco.com/en/travel-info/food-drinks): tanjia, rfissa, pastilla, ghriba, pastries, drinks and general dish background.
-- [Moroccan National Tourist Office - Gastronomy](https://www.visitmorocco.com/en/discover-morocco/gastronomy): regional cuisine context, spices, dishes and pastries.
-- [Moroccan National Tourist Office - Agadir-Taghazout shopping](https://www.visitmorocco.com/en/travel/agadir-taghazout/shopping): argan products and regional shopping context.
+- [Office National Marocain du Tourisme: food and drinks](https://www.visitmorocco.com/en/travel-info/food-drinks).
+- [Office National Marocain du Tourisme: gastronomy](https://www.visitmorocco.com/en/discover-morocco/gastronomy).
+- [Office National Marocain du Tourisme: Agadir-Taghazout](https://www.visitmorocco.com/en/travel/agadir-taghazout/shopping).

@@ -6,12 +6,12 @@ image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Bre
 categories: ["Food", "Hong Kong", "China"]
 continents: ["Asia"]
 ai_generated: true
-draft: true
+draft: false
 ---
 
 > Note: this article was, at the beginning, AI-generated, then reworked
 
-Hong Kong has dim sum, roast meat, wonton noodles, cha chaan teng breakfasts and a long list of street snacks. Cantonese cuisine is one of my favourites, and this guide covers the dishes I would look for again.
+Cantonese cuisine is one of my favourites, especially the dumplings and pastries.
 
 ## Yum cha and dim sum
 
@@ -21,7 +21,6 @@ Hong Kong has dim sum, roast meat, wonton noodles, cha chaan teng breakfasts and
 
 A few common dishes are:
 
-
 (Note, I really had to look them up)
 
 - **Har gow** have a thin translucent wrapper and whole pieces of prawn.
@@ -30,18 +29,18 @@ A few common dishes are:
 - **Char siu bao** hide sweet roast pork inside a fluffy steamed bun.
 - **Turnip cake** contains shredded radish bound with rice flour, often with sausage or dried shrimp, then fried until the outside browns.
 
-Dim sum is built for sharing because each basket normally contains several pieces of the same item. If you are eating alone, use the order sheet to control the quantities or ask whether a mixed platter is available. I still sometimes order twelve pork dumplings, so this is advice I do not always follow myself.
+I still sometimes order twelve pork dumplings. My love for dumplings will last till I die.
 
 ## Wonton noodles
 
-Hong Kong wonton noodles use thin alkaline egg noodles that should remain springy in the broth. The wontons are usually prawn-heavy, sometimes with pork, and the clear stock may include dried seafood.
+Hong Kong wonton noodles use thin alkaline egg noodles with a springy texture. The wontons are usually prawn-heavy, sometimes with pork, and the clear stock may include dried seafood.
 
 ## Roast meat over rice
 
 Roast-meat counters usually display their selection in the window:
 
 - **Char siu** is pork glazed until sweet, sticky and dark around the edges.
-- **Siu yuk** is roast pork belly. The meat is secondary to whether the skin still cracks.
+- **Siu yuk** is roast pork belly. The skin is the best part when it is properly crisp.
 - **Roast goose** is fattier, richer and more expensive than duck.
 - **Soy-sauce chicken** is tender, savoury and less fatty than roast pork belly.
 
@@ -57,9 +56,9 @@ Hong Kong **French toast** usually sandwiches peanut butter between thick slices
 
 **Swiss chicken wings** are cooked in a sweet soy-based sauce. Despite the name, the dish has no established connection to Switzerland; its exact origin is disputed.
 
-Hong Kong milk tea should retain a strong, tannic tea flavour beneath the evaporated or condensed milk.
+Hong Kong milk tea has a strong, tannic tea flavour beneath the evaporated or condensed milk.
 
-Service is fast and shared tables are normal. Read the menu and decide promptly, especially during the lunch rush.
+Shared tables and fast service are common in cha chaan teng.
 
 ## Dai pai dong
 
@@ -77,9 +76,9 @@ Traditional stalls can be noisy, hot and crowded. They suit a quick, informal sh
 
 **Beef offal** is a braised mixture that can include tripe, intestine and other cuts, usually served in a dark sauce.
 
-**Stinky tofu** has a much stronger smell than flavour. The fried outside is crisp, while the fermented centre is soft and pungent. Its smell lingers, so it is best eaten at the stall rather than carried onto public transport.
+**Stinky tofu** has a much stronger smell than flavour. The fried outside is crisp, while the fermented centre is soft and pungent.
 
-Herbal tea ranges from sweet bottled drinks to dark, intensely bitter medicinal brews. Ask whether it is sweet before ordering a large cup.
+Herbal tea ranges from sweet bottled drinks to dark, intensely bitter medicinal brews.
 
 ## Egg tarts
 
@@ -87,30 +86,26 @@ Hong Kong egg tarts usually come with either a crumbly shortcrust shell or a lay
 
 Portuguese-style tarts from Macau use laminated pastry and have a browned, blistered custard surface. Hong Kong egg tarts are normally paler and smoother.
 
-Eat them warm. An oven can restore some crispness to the pastry, while a microwave tends to make it soft.
-
 Since I worked (indirectly) for BakeHouse, I recommend them.
 It's expensive, but they have famous egg tarts (And a lot of very good pastries).
 
 ## Vegetarian and gluten-free food
 
-A plate containing only vegetables may still use oyster sauce, shrimp paste, lard or meat stock. Buddhist vegetarian restaurants are generally a more reliable option, although it is still worth stating any dietary restrictions.
-Buddhist restaurants are also often a bit cheaper (probably because they are vegetarian)
-
-Gluten appears in soy sauce, noodles, dumpling wrappers, buns and bakery products. Rice itself is gluten-free, but sauces and cross-contamination remain concerns in a Cantonese kitchen. If the restriction is medical, carry a translated explanation that states it clearly.
+Oyster sauce, shrimp paste, lard and meat stock feature in Cantonese cooking, including vegetable dishes.
 
 ## For gluten lovers
 
 Like in Mainland China, Vietnam, Cambodia and Macau, you can find barbecued gluten skewers.
-I love them so much. Especially the one seasoned with cumin. 
+I love them so much. Especially the one seasoned with cumin.
 
 ## Water
 
-Bottled water can be found everywhere, tap water should be drinkable.
+The [Water Supplies Department](https://www.wsd.gov.hk/en/water-safety/water-safety-in-buildings/index.html) supplies safe drinking water, but a building's tanks and plumbing can affect its quality at the tap.
 
 ## Sources
 
-- [Hong Kong Tourism Board: dim sum for beginners](https://www.discoverhongkong.com/eng/food-and-drink/a-beginner-s-guide-to-dim-sum-must-order-dishes.html): dim sum dishes and yum cha context.
-- [Hong Kong Tourism Board: cha chaan teng](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-cha-chaan-tengs.html): cafe history, milk tea and classic dishes.
-- [Hong Kong Tourism Board: dai pai dong](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html): licence history and cooked-food culture.
-- [Hong Kong Talent Engage: foods to try](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods): roast meats, street snacks and local-food background.
+- [Hong Kong Tourism Board: dim sum](https://www.discoverhongkong.com/eng/food-and-drink/a-beginner-s-guide-to-dim-sum-must-order-dishes.html).
+- [Hong Kong Tourism Board: cha chaan teng](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-cha-chaan-tengs.html).
+- [Hong Kong Tourism Board: dai pai dong](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html).
+- [Hong Kong Talent Engage: local food](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods).
+- [Hong Kong Tourism Board: Ho To Tai Noodle](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ho-to-tai-noodle.html).

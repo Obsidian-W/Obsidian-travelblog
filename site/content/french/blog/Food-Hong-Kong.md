@@ -15,23 +15,17 @@ draft: true
 
 ![Dim sum à Hong Kong](https://commons.wikimedia.org/wiki/Special:Redirect/file/Dim%20Sum%20Breakfast.jpg)
 
-Le dim sum est le premier repas le plus simple à Hong Kong si tu n'es pas seul. Commande plusieurs petits plats, du thé et quelques classiques vapeur ou frits. Le Hong Kong Tourism Board cite notamment **siu mai**, **cheung fun** et **egg tarts** comme plats faciles pour commencer.
+Le **yum cha** désigne le moment du thé ; les **dim sum** sont les petits plats qui l'accompagnent. La cuisine cantonaise est l'une de mes préférées.
 
-| Plat | Ce que c'est | Où chercher |
-| --- | --- | --- |
-| Siu mai | Raviolis porc-crevette | Restaurants de dim sum |
-| Har gow | Raviolis de crevette | Restaurants de dim sum |
-| Cheung fun | Rouleaux de nouilles de riz | Dim sum et restaurants locaux |
-| Char siu bao | Brioches au porc laqué | Dim sum et boulangeries |
-| Egg tart | Tartelette aux œufs | Boulangeries et dim sum |
-
-Va plutôt tôt pour le dim sum. En fin de déjeuner, il peut rester moins de choix ou plus d'attente.
+- **Siu mai** : Raviolis porc-crevette.
+- **Har gow** : Raviolis de crevette.
+- **Cheung fun** : Rouleaux de nouilles de riz.
+- **Char siu bao** : Brioches au porc laqué.
+- **Egg tart** : Tartelette aux œufs.
 
 ## Wonton noodles et viandes rôties
 
-Les **wonton noodles** sont un bon repas solo : rapide, clair et facile à trouver. Cherche des échoppes avec un menu court de nouilles plutôt que des restaurants qui font toute la cuisine cantonaise. Oie rôtie, canard rôti, char siu et porc croustillant sont aussi des commandes simples ; choisis les adresses fréquentées où la viande tourne vite.
-
-Yuen Long a des institutions de nouilles anciennes. De bonnes adresses existent aussi à Kowloon et sur Hong Kong Island, ce qui évite un long trajet uniquement pour un bol.
+Les **wonton noodles** associent de fines nouilles aux œufs, un bouillon clair et des raviolis souvent riches en crevettes, parfois avec du porc.
 
 ## Cha chaan teng
 
@@ -43,21 +37,17 @@ La cuisine est simple, copieuse et abordable. Les tables partagées et le servic
 
 ![Dai pai dong à Hong Kong](https://commons.wikimedia.org/wiki/Special:Redirect/file/Sing%20Kee%20Dai%20Pai%20Dong%20in%20Central%20Hong%20Kong.jpg)
 
-Pour les repas en plein air ou dans les cooked-food markets, vise les endroits qui tournent beaucoup. Le Hong Kong Tourism Board liste des dai pai dong et marchés cuisinés à Central, Tsim Sha Tsui, Jordan, Tai Hang et Sham Shui Po, avec tomato noodles, beef balls, salt-and-pepper squid, milk tea et pork chop noodles.
+Les **dai pai dong** sont des échoppes de cuisine en plein air. On y trouve notamment calamars au sel et au poivre, palourdes à la sauce de haricots noirs, légumes sautés et plats en terre cuite.
 
 Ces lieux peuvent être bondés, avec un service rapide et direct. Les plats sont généralement commandés à plusieurs et partagés.
 
 ## Snacks et marchés
 
-Mong Kok, Causeway Bay, Sham Shui Po et les rues de marché sont utiles pour manger par petites touches : curry fish balls, egg waffles, abats de bœuf, siu mai sur pique, tisanes, buns de boulangerie et jus. Ici, grignoter marche mieux qu'un vrai repas assis.
-
-Les snacks sont meilleurs chauds et dans les stands fréquentés. Si un stand reste vide longtemps, passe au suivant.
+Mong Kok, Causeway Bay, Sham Shui Po et les rues de marché sont utiles pour manger par petites touches : curry fish balls, egg waffles, abats de bœuf, siu mai sur pique, tisanes, buns de boulangerie et jus.
 
 ## Notes alimentaires
 
-Les végétariens peuvent manger à Hong Kong, mais les cuisines cantonaises utilisent souvent sauce d'huître, pâte de crevette, saindoux ou bouillon de viande. Les restaurants végétariens bouddhistes sont généralement plus fiables pour une restriction stricte.
-
-Sans gluten, c'est difficile : sauce soja, nouilles, pâtes de raviolis et boulangeries sont partout. Riz, plats vapeur simples et quelques restaurants spécialisés aident, mais demande précisément.
+Sauce d'huître, pâte de crevette, saindoux et bouillon de viande entrent dans de nombreuses recettes cantonaises, y compris des plats de légumes.
 
 ## Viandes rôties sur riz
 
@@ -69,7 +59,7 @@ On commande une ou deux viandes sur du riz. L'oie arrive généralement en morce
 
 À Hong Kong, la pâte est soit brisée et friable, soit feuilletée. Une bonne garniture est lisse et à peine prise, sans devenir ferme et caoutchouteuse. Les versions portugaises de Macao ont une pâte feuilletée et une crème dorée, cloquée ; celles de Hong Kong sont plus pâles et lisses.
 
-Mange-les chaudes. Le four rend un peu de croustillant, le micro-ondes ramollit la pâte. Ayant travaillé indirectement pour **Bakehouse**, je les recommande avec un biais assumé : c'est cher, mais leurs tartelettes et autres pâtisseries sont excellentes.
+Ayant travaillé indirectement pour **Bakehouse**, je les recommande avec un biais assumé : c'est cher, mais leurs tartelettes et autres pâtisseries sont excellentes.
 
 ## Pour les amateurs de gluten
 
@@ -77,15 +67,12 @@ Comme en Chine continentale, au Vietnam, au Cambodge et à Macao, on trouve des 
 
 ## Eau
 
-L'eau en bouteille se trouve partout ; l'eau du robinet est normalement potable.
+Le [Water Supplies Department](https://www.wsd.gov.hk/en/water-safety/water-safety-in-buildings/index.html) fournit une eau potable, mais les réservoirs et canalisations du bâtiment peuvent en affecter la qualité au robinet.
 
 ## Sources consultées
 
-- [Hong Kong Tourism Board - dim sum pour débutants](https://www.discoverhongkong.com/eng/food-and-drink/a-beginner-s-guide-to-dim-sum-must-order-dishes.html) : siu mai, cheung fun, egg tarts et contexte dim sum.
-- [Hong Kong Tourism Board - dai pai dongs](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html) : cooked-food markets, exemples de dai pai dong et plats.
-- [HKTE - Hong Kong must-try foods](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods) : dim sum, dai pai dong, street food, fish balls, abats et egg waffles.
-- [Hong Kong Tourism Board - Ho To Tai Noodle](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ho-to-tai-noodle.html) : contexte wonton noodles.
-
-### Autres sources
-
-- [Hong Kong Tourism Board: cha chaan teng](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-cha-chaan-tengs.html)
+- [Hong Kong Tourism Board: dim sum](https://www.discoverhongkong.com/eng/food-and-drink/a-beginner-s-guide-to-dim-sum-must-order-dishes.html).
+- [Hong Kong Tourism Board: cha chaan teng](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-cha-chaan-tengs.html).
+- [Hong Kong Tourism Board: dai pai dong](https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html).
+- [Hong Kong Talent Engage: local food](https://www.hkengage.gov.hk/en/essentials/living/hong-kong-must-try-foods).
+- [Hong Kong Tourism Board: Ho To Tai Noodle](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ho-to-tai-noodle.html).
