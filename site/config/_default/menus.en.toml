@@ -71,3 +71,8 @@ weight = 6
 name = "Travel Map"
 url = "travel-map/"
 weight = 7
+
+[[main]]
+name = "My books"
+url = "books/"
+weight = 8

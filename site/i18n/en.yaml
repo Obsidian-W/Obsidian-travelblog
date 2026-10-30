@@ -111,3 +111,36 @@
 
 - id: worthmeter_not_worth
   translation: "Not worth it"
+
+- id: books_title
+  translation: "My books"
+
+- id: books_intro
+  translation: "Explore the books. Find your next read on Amazon."
+
+- id: books_author_page
+  translation: "Visit my Amazon author page"
+
+- id: books_sections
+  translation: "Book sections"
+
+- id: books_available
+  translation: "Available on Amazon"
+
+- id: books_shelf
+  translation: "The bookshelf"
+
+- id: books_upcoming
+  translation: "Upcoming books"
+
+- id: books_next
+  translation: "Next on the shelf"
+
+- id: books_view_title
+  translation: "View {{ .Title }} on Amazon"
+
+- id: books_cover
+  translation: "{{ .Title }}: {{ .Subtitle }} — cover"
+
+- id: books_view
+  translation: "View on Amazon"

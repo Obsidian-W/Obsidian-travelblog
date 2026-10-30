@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ $style := resources.Get "css/books.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+<div class="books-page">
+  <header class="books-intro">
+    <p class="books-eyebrow">Obsidian V. Paris</p>
+    <h1>{{ i18n "books_title" }}</h1>
+    <p class="books-intro__text">{{ i18n "books_intro" }}</p>
+    <a class="books-button" href="{{ .Params.author_store }}">{{ i18n "books_author_page" }} <span aria-hidden="true">↗</span></a>
+    <nav class="books-jump" aria-label="{{ i18n "books_sections" }}">
+      <a href="#available">{{ i18n "books_available" }}</a>
+      <a href="#upcoming">{{ i18n "books_upcoming" }}</a>
+    </nav>
+  </header>
+
+  <section class="books-section" id="available" aria-labelledby="available-title">
+    <div class="books-section__heading">
+      <p class="books-eyebrow">{{ i18n "books_shelf" }}</p>
+      <h2 id="available-title">{{ i18n "books_available" }}</h2>
+    </div>
+    <div class="books-grid">
+      {{ range .Params.released }}
+      <article class="book">
+        <a class="book__cover" href="{{ .amazon }}" aria-label="{{ i18n "books_view_title" (dict "Title" .title) }}">
+          <img src="{{ .cover | relURL }}" alt="{{ i18n "books_cover" (dict "Title" .title "Subtitle" .subtitle) }}" width="600" height="954" loading="lazy">
+        </a>
+        <h3>{{ .title }}</h3>
+        <p class="book__subtitle">{{ .subtitle }}</p>
+        <a class="book__link" href="{{ .amazon }}" aria-label="{{ i18n "books_view_title" (dict "Title" .title) }}">{{ i18n "books_view" }} <span aria-hidden="true">↗</span></a>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="books-section books-section--upcoming" id="upcoming" aria-labelledby="upcoming-title">
+    <div class="books-section__heading">
+      <p class="books-eyebrow">{{ i18n "books_next" }}</p>
+      <h2 id="upcoming-title">{{ i18n "books_upcoming" }}</h2>
+    </div>
+    <div class="books-upcoming">
+      {{ range .Params.upcoming }}
+      <article class="book-announcement book-announcement--{{ .color }}">
+        <p class="book-announcement__number">{{ .number }}</p>
+        <h3>{{ .title }}</h3>
+        <p class="book-announcement__status">{{ .status }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}
