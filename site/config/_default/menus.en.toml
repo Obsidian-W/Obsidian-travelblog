@@ -1,68 +1,57 @@
-############# English navigation ##############
+# English navigation
 
-# main menu
 [[main]]
 name = "Home"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "All articles"
+url = "blog/"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Itineraries"
+url = "categories/itinerary/"
 weight = 3
 
 [[main]]
-name = "My itineraries"
-url = "categories/itinerary/"
+name = "By continents"
+url = "continents/"
 weight = 4
 
 [[main]]
-name = "Categories"
-url = "categories/"
-weight = 5
-
-[[main]]
-name = "By Continents"
-url = "continents/"
-weight = 6
-
-[[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "Africa"
 url = "continents/africa/"
 weight = 1
 
 [[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "Asia"
 url = "continents/asia/"
 weight = 2
 
 [[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "Europe"
 url = "continents/europe/"
 weight = 3
 
 [[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "North America"
 url = "continents/north-america/"
 weight = 4
 
 [[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "South America"
 url = "continents/south-america/"
 weight = 5
 
 [[main]]
-parent = "By Continents"
+parent = "By continents"
 name = "Oceania"
 url = "continents/oceania/"
 weight = 6
@@ -70,9 +59,14 @@ weight = 6
 [[main]]
 name = "Travel Map"
 url = "travel-map/"
-weight = 7
+weight = 5
 
 [[main]]
 name = "My books"
 url = "books/"
-weight = 8
+weight = 6
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 7

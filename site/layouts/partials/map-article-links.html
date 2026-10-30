@@ -1,0 +1,19 @@
+{{ if .articles }}
+<ul>
+  {{ range .articles }}
+  {{ $slug := .File.ContentBaseName | lower }}
+  {{ $type := "Article" }}
+  {{ $fr := eq site.Language.Lang "fr" }}
+  {{ if hasPrefix $slug "itinerary-" }}
+    {{ $type = cond $fr "Itinéraire" "Itinerary" }}
+  {{ else if hasPrefix $slug "food-" }}
+    {{ $type = cond $fr "Cuisine" "Food" }}
+  {{ else if or (hasPrefix $slug "tips-") (hasPrefix $slug "howto-") }}
+    {{ $type = cond $fr "Conseils" "Tips" }}
+  {{ else if hasPrefix $slug "top5-" }}
+    {{ $type = "Top 5" }}
+  {{ end }}
+  <li><a href="{{ .RelPermalink }}"><span class="map-article-type">{{ $type }}</span><span>{{ .Title }}</span></a></li>
+  {{ end }}
+</ul>
+{{ else }}<p>{{ .empty }}</p>{{ end }}

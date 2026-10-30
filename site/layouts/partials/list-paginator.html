@@ -1,0 +1,10 @@
+{{/* SEO and page content must initialize the same paginator. */}}
+{{ $paginator := false }}
+{{ if and (eq .Section "blog") (eq .Kind "section") }}
+  {{ $paginator = .Paginate .RegularPages 12 }}
+{{ else if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (or (eq .Data.Plural "categories") (eq .Data.Plural "continents")) }}
+  {{ $paginator = .Paginate .Data.Pages 12 }}
+{{ else }}
+  {{ $paginator = .Paginator }}
+{{ end }}
+{{ return $paginator }}

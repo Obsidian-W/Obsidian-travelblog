@@ -1,0 +1,10 @@
+{
+  "itinerary-rwanda": ["RW"],
+  "itinerary-tanzania": ["TZ"],
+  "itinerary-uganda": ["UG"],
+  "itinerary-caucasus": ["AM", "AZ", "GE"],
+  "itinerary-eastafrica": ["TZ", "KE", "UG", "RW"],
+  "itinerary-central-asia": ["KZ", "KG", "TJ", "UZ", "TM"],
+  "itinerary-pearldelta": ["CN"],
+  "tips-cheap-safaris": ["TZ", "KE", "UG"]
+}

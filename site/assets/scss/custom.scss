@@ -423,6 +423,46 @@
     border-color: #a83d35;
 }
 
+.dark .trip-timeline {
+    background: #102c38;
+    border-color: #38515c;
+
+    h2, h3 {
+        color: #f1f5f6;
+    }
+
+    time, p, h3 span {
+        color: #bacbd1;
+    }
+
+    a {
+        color: #a5d9c8;
+
+        &:hover, &:focus-visible {
+            color: #e0f4ed;
+        }
+    }
+
+    .trip-timeline__eyebrow {
+        color: #e6b993;
+    }
+
+    .trip-timeline__list::before {
+        background: #677b7e;
+    }
+
+    .trip-timeline__item::before {
+        background: #e6b993;
+        border-color: #102c38;
+        box-shadow: 0 0 0 2px #677b7e;
+    }
+
+    .trip-timeline__item--tentative::before {
+        background: #102c38;
+        border-color: #e6b993;
+    }
+}
+
 @media (max-width: 575px) {
     .trip-timeline__list::before {
         left: 0.35rem;

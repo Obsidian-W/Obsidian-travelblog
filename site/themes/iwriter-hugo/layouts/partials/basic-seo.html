@@ -10,7 +10,7 @@
     {{- $homepagePages := where $mainPages "Params.ai_generated" "!=" true -}}
     {{- $pageNumber = (.Paginate $homepagePages).PageNumber -}}
   {{- else -}}
-    {{- $pageNumber = .Paginator.PageNumber -}}
+    {{- $pageNumber = (partial "list-paginator.html" .).PageNumber -}}
   {{- end -}}
 {{- end -}}
 {{- $isPaged := gt $pageNumber 1 -}}
@@ -35,7 +35,7 @@
 {{- if .IsHome -}}
   {{- $seoTitle = $siteTitle -}}
 {{- else if and (eq .Section "blog") (eq .Kind "section") -}}
-  {{- $seoTitle = printf "Travel Blog | %s" $siteTitle -}}
+  {{- $seoTitle = printf "%s | %s" $pageTitle $siteTitle -}}
 {{- else if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") -}}
   {{- $seoTitle = printf "Travel Categories | %s" $siteTitle -}}
 {{- else if and (eq .Kind "term") (eq .Data.Plural "categories") -}}

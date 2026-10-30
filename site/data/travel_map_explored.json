@@ -1,0 +1,18 @@
+{
+  "CN-SN": ["itinerary-central-china"],
+  "CN-SC": ["itinerary-central-china", "food-central-china"],
+  "CN-CQ": ["itinerary-central-china"],
+  "CN-GZ": ["itinerary-central-china"],
+  "CN-HN": ["itinerary-central-china", "food-central-china"],
+  "CN-YN": ["itinerary-yunnan", "food-yunnan", "howto-yunnan-transport", "top5-yunnan"],
+  "CN-XZ": ["itinerary-tibet", "food-tibet", "howto-tibet-transport", "top5-tibet"],
+  "CN-GD": ["itinerary-pearldelta"],
+  "CN-HK": ["itinerary-pearldelta", "food-hong-kong", "howto-hong-kong-transport", "top5-hong-kong"],
+  "CN-MO": ["itinerary-pearldelta"],
+  "AU-NT": ["itinerary-australia"],
+  "US-NY": [],
+  "US-NJ": [],
+  "US-PA": [],
+  "US-MA": [],
+  "US-DC": []
+}

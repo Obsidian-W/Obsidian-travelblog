@@ -17,17 +17,24 @@ const routes = [
     title: "Central China",
     countries: ["China"],
     bounds: [100.5, 27.2, 111.8, 35.5],
+    regionBoundaries: "central-china-regions.geojson",
+    regionLabels: [
+      P("SHAANXI", 34.7, 107.1), P("SICHUAN", 31.0, 101.9),
+      P("CHONGQING", 30.9, 108.85), P("GUIZHOU", 27.65, 106.3),
+      P("HUNAN", 28.6, 111.15), P("GANSU", 34.75, 103.1),
+      P("HUBEI", 31.9, 110.4), P("YUNNAN", 27.5, 101.5),
+    ],
     points: [
       P("Xi'an", 34.34, 108.94), P("Chengdu", 30.67, 104.07, true, 12, -14),
       P("Leshan", 29.55, 103.77, true, 12, 20), P("Emei", 29.52, 103.33, true, -12, -8, "end"),
       P("Huanglong", 32.75, 103.82, true, -12, -12, "end"), P("Jiuzhaigou", 33.26, 103.92),
       P("Chongqing", 29.56, 106.55), P("Wulong", 29.40, 107.76, true, 12, -12),
-      P("Tongren", 27.72, 109.19, true, 12, 20), P("Fanjingshan", 27.91, 108.69, false),
+      P("Tongren", 27.72, 109.19, true, 12, 20),
       P("Fenghuang", 27.95, 109.60, true, 12, -12), P("Furong", 28.75, 109.97, true, -12, -8, "end"),
       P("Tianmen Mountain", 29.05, 110.48, false), P("Wulingyuan", 29.35, 110.55, true, 12, -12),
     ],
-    sectionIndexes: [0, 1, 2, 3, 4, 4, 5, 6, 7, 7, 8, 9, 10, 11],
-    groups: ["Xi'an", "Chengdu", "Leshan", "Emei", "Huanglong · Jiuzhaigou", "Chongqing", "Wulong", "Tongren · Fanjingshan", "Fenghuang", "Furong", "Tianmen Mountain", "Wulingyuan"],
+    sectionIndexes: [0, 1, 2, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11],
+    groups: ["Xi'an", "Chengdu", "Leshan", "Emei", "Huanglong · Jiuzhaigou", "Chongqing", "Wulong", "Tongren", "Fenghuang", "Furong", "Tianmen Mountain", "Wulingyuan"],
     groupSections: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
   },
   {
@@ -866,6 +873,16 @@ function routeSummary(route) {
 
 function renderRoute(route) {
   const project = makeProjector(route.bounds);
+  const regionData = route.regionBoundaries
+    ? JSON.parse(fs.readFileSync(path.join(siteDir, "data", route.regionBoundaries), "utf8"))
+    : null;
+  const regionPaths = (regionData?.features ?? []).map(({ geometry }) =>
+    `<path class="region-boundary" d="${geometry.coordinates.map((line) => linePath(line.map(([lon, lat]) => ({ lon, lat })), project)).join(" ")}" />`,
+  ).join("\n");
+  const regionLabels = (route.regionLabels ?? []).map((label) => {
+    const [x, y] = project([label.lon, label.lat]);
+    return `<text class="region-label" x="${x.toFixed(1)}" y="${y.toFixed(1)}">${escapeXml(label.name)}</text>`;
+  }).join("\n");
   const allGeometries = topology.objects.countries.geometries;
   const missing = route.countries.filter((name) => !allGeometries.some((geometry) => geometry.properties.name === name));
   if (missing.length) throw new Error(`${route.slug}: missing country geometries: ${missing.join(", ")}`);
@@ -883,6 +900,7 @@ function renderRoute(route) {
 
   const manualCountryNames = new Set((route.countryLabels ?? []).map((label) => label.name.toLowerCase()));
   const automaticCountryLabels = visibleGeometries.filter(({ geometry, visible }) => {
+    if (regionData) return false;
     if (manualCountryNames.has(geometry.properties.name.toLowerCase())) return false;
     const [minX, maxY] = project([visible.minLon, visible.minLat]);
     const [maxX, minY] = project([visible.maxLon, visible.maxLat]);
@@ -922,15 +940,15 @@ function renderRoute(route) {
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.16" /></filter>
     <clipPath id="map-clip"><rect x="42" y="82" width="810" height="620" rx="18" /></clipPath>
   </defs>
-  <style>
+  <style>${regionData ? "\n    .region-boundary{fill:none;stroke:#817c6e;stroke-width:1.6;stroke-dasharray:5 3;stroke-linecap:round;vector-effect:non-scaling-stroke}.region-label{font:600 13px Arial,sans-serif;fill:#6e685b;letter-spacing:1.6px;text-anchor:middle;paint-order:stroke;stroke:#d8d0bf;stroke-width:4px;stroke-linejoin:round}" : ""}
     .background{fill:#f5f1e9}.map-frame{fill:#dce8ea}.country{stroke:#8b8a82;stroke-width:1.4;vector-effect:non-scaling-stroke}.context-country{fill:#eeeae1;stroke:#aaa79f}.route-country{fill:#d8d0bf;stroke:#74736d;stroke-width:1.7}.country-label{font:700 10px Arial,sans-serif;fill:#77736b;letter-spacing:1px;text-anchor:middle;paint-order:stroke;stroke:#f1ede5;stroke-width:3px}.route-halo{fill:none;stroke:#fff;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;opacity:.82}.route{fill:none;stroke:#d45545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.stop circle{fill:#d45545;stroke:#fff;stroke-width:2.5;filter:url(#shadow);transition:stroke-width .15s ease}.stop.start circle{fill:#24735c}.stop.end circle{stroke:#71312d;stroke-width:3}.stop text{font:700 10px Arial,sans-serif;fill:#fff;text-anchor:middle}.place-label{font:600 14px Arial,sans-serif;fill:#292824;paint-order:stroke;stroke:#f5f1e9;stroke-width:4;stroke-linejoin:round}.title{font:700 34px Georgia,serif;fill:#292824}.route-title{font:700 13px Arial,sans-serif;fill:#77736b;letter-spacing:2px}.summary-number{font:700 13px Arial,sans-serif;fill:#d45545}.summary-text{font:600 14px Arial,sans-serif;fill:#292824}.attribution{font:11px Arial,sans-serif;fill:#77736b}.divider{stroke:#cbc5b9;stroke-width:1}.stop-link{cursor:pointer;outline:none}.summary-text,.place-label{transition:fill .15s ease}.summary-stop:hover .summary-text,.summary-stop:focus-visible .summary-text,.summary-stop.is-linked-hover .summary-text,.place-label:hover,.place-label:focus-visible,.place-label.is-linked-hover{fill:#a83d35;text-decoration:underline}.stop:hover circle,.stop:focus-visible circle,.stop.is-linked-hover circle{stroke:#292824;stroke-width:4}.lightbox-map .divider,.lightbox-map .route-title,.lightbox-map .summary-stop{display:none}
   </style>
   <rect class="background" width="1200" height="760" rx="24" />
   <text class="title" x="42" y="52">${escapeXml(route.title)}</text>
   <rect class="map-frame" x="42" y="82" width="810" height="620" rx="18" />
   <g clip-path="url(#map-clip)">
-    ${countryPaths}
-    ${countryLabels}
+    ${countryPaths}${regionData ? `\n    ${regionPaths}\n    ${regionLabels}` : ""}
+${regionData ? "" : "    "}${countryLabels}
     <path class="route-halo" d="${routePath}" />
     <path class="route" d="${routePath}" />
     ${markers}
@@ -939,7 +957,7 @@ function renderRoute(route) {
   <line class="divider" x1="878" y1="82" x2="878" y2="702" />
   <text class="route-title" x="900" y="108">ROUTE</text>
   ${routeSummary(route)}
-  <text class="attribution" x="42" y="735">Country boundaries: Natural Earth via world-atlas · Route positions are approximate</text>
+  <text class="attribution" x="42" y="735">${regionData ? "Country and provincial boundaries: Natural Earth" : "Country boundaries: Natural Earth via world-atlas"} · Route positions are approximate</text>
 </svg>`;
 }
 

@@ -1,35 +1,24 @@
-############# French navigation ##############
+# French navigation
 
-# main menu
 [[main]]
 name = "Accueil"
 url = ""
 weight = 1
 
 [[main]]
-name = "à propos"
-url = "about/"
+name = "Tous les articles"
+url = "blog/"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 3
-
-[[main]]
-name = "Mes itinéraires"
+name = "Itinéraires"
 url = "categories/itinéraire/"
-weight = 4
-
-[[main]]
-name = "Catégories"
-url = "categories/"
-weight = 5
+weight = 3
 
 [[main]]
 name = "Par continents"
 url = "continents/"
-weight = 6
+weight = 4
 
 [[main]]
 parent = "Par continents"
@@ -70,9 +59,14 @@ weight = 6
 [[main]]
 name = "Carte"
 url = "travel-map/"
-weight = 7
+weight = 5
 
 [[main]]
 name = "Mes livres"
 url = "books/"
-weight = 8
+weight = 6
+
+[[main]]
+name = "À propos"
+url = "about/"
+weight = 7

@@ -9,7 +9,7 @@
           {{ .Title }}
         </h1>
         <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4">
-          {{ $paginator:= .Paginate .RegularPages 9 }}
+          {{ $paginator:= partial "list-paginator.html" . }}
           {{ range $paginator.Pages }}
           <div class="col">
             <article class="blog-card blog-card-feature card h-100 border-0">
@@ -50,7 +50,7 @@
         </h1>
 
         <div class="row row-cols-1 row-cols-md-2{{ if eq .Kind `term` }} row-cols-xl-3{{ end }} g-4">
-          {{ $paginator:= .Paginate .Data.Pages 12 }}
+          {{ $paginator:= partial "list-paginator.html" . }}
           {{ range $paginator.Pages }}
           <div class="col">
             <div class="blog-card card h-100 border-0">
@@ -98,7 +98,7 @@
 
       <div class="col-lg-8">
         <div class="row row-cols-1 row-cols-md-2 g-4">
-          {{ $paginator:= .Paginate .Data.Pages }}
+          {{ $paginator:= partial "list-paginator.html" . }}
           {{ range $paginator.Pages }}
           <div class="col">
             <div class="blog-card card h-100 border-0">

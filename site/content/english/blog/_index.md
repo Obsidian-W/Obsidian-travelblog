@@ -1,5 +1,5 @@
 ---
-title: "Travel Blog"
+title: "All articles"
 subtitle: "Itineraries, destination guides, and practical travel posts from the road."
 # meta description
 description: "Browse travel blog posts, itineraries, and destination guides from Obsidian Travels."

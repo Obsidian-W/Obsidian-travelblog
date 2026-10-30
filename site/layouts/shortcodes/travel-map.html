@@ -1,0 +1,84 @@
+{{ $labels := dict "unvisited" "Not visited" "explored" "Explored regions" "visited" "Visited country" "empty" "No articles published yet." "close" "Close" "map" "Travel map" "count" "articles" }}
+{{ if eq site.Language.Lang "fr" }}
+  {{ $labels = dict "unvisited" "Non visité" "explored" "Régions explorées" "visited" "Pays visité" "empty" "Aucun article publié pour le moment." "close" "Fermer" "map" "Carte des voyages" "count" "articles" }}
+{{ end }}
+{{ $destinations := slice }}
+{{ $geometry := os.ReadFile "data/travel_map.json" | transform.Unmarshal }}
+{{ $routes := os.ReadFile "data/travel_map_routes.json" | transform.Unmarshal }}
+{{ $pages := where (where site.RegularPages "Section" "blog") "Draft" false }}
+{{ range $geometry }}
+  {{ $country := . }}
+  {{ $articles := slice }}
+  {{ range $pages }}
+    {{ $page := . }}
+    {{ $matches := false }}
+    {{ range $country.aliases }}
+      {{ if in ($page.Params.categories | default slice) . }}{{ $matches = true }}{{ end }}
+    {{ end }}
+    {{ $route := index $routes ($page.File.ContentBaseName | lower) | default slice }}
+    {{ if and $country.code (in $route $country.code) }}{{ $matches = true }}{{ end }}
+    {{ if $matches }}{{ $articles = $articles | append $page }}{{ end }}
+  {{ end }}
+  {{ $countryName := index .names site.Language.Lang }}
+  {{ $hoverRegions := slice }}
+  {{ if eq $country.code "CN" }}
+    {{ range $country.regions }}
+      {{ $region := . }}
+      {{ $regionArticles := slice }}
+      {{ range $articles }}
+        {{ $slug := .File.ContentBaseName | lower }}
+        {{/* General China tips remain useful alongside each region's own guides. */}}
+        {{ if or (in $region.articleSlugs $slug) (eq $slug "tips-china") }}
+          {{ $regionArticles = $regionArticles | append . }}
+        {{ end }}
+      {{ end }}
+      {{ $hoverRegions = $hoverRegions | append (merge $region (dict "articles" (sort $regionArticles "Title") "name" (printf "%s · %s" $countryName (index .names site.Language.Lang)))) }}
+    {{ end }}
+  {{ end }}
+  {{ $destinations = $destinations | append (merge $country (dict "articles" (sort $articles "Title") "name" $countryName "hoverRegions" $hoverRegions)) }}
+{{ end }}
+{{ $css := resources.Get "css/travel-map.css" | minify | fingerprint }}
+{{ $js := resources.Get "js/travel-map.js" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<section class="travel-explorer" data-travel-explorer aria-label="{{ $labels.map }}">
+  <div class="travel-explorer__stage" data-map-stage>
+    <svg viewBox="0 0 1080 480" class="travel-explorer__map" role="group" aria-label="{{ $labels.map }}">
+      {{ range $destinations }}
+      {{ $active := or .visited .articles }}
+      <g class="map-country{{ if .articles }} map-country--articles{{ else if .visited }} map-country--visited{{ end }}" {{ if and $active (ne .code "CN") }}data-country="{{ .id }}" role="button" tabindex="0" aria-label="{{ .name }} · {{ len .articles }} {{ if eq (len .articles) 1 }}article{{ else }}{{ $labels.count }}{{ end }}" aria-expanded="false" aria-controls="map-popup"{{ end }}>
+        <title>{{ .name }}</title>
+        {{ with .d }}<path d="{{ . }}"/>{{ end }}
+        {{ with .point }}<circle cx="{{ index . 0 }}" cy="{{ index . 1 }}" r="4"/>{{ end }}
+        {{ $regions := .regions }}
+        {{ if eq .code "CN" }}{{ $regions = .hoverRegions }}{{ end }}
+        {{ range $regions }}
+        <g {{ if eq .parentCode "CN" }}class="map-region-target" data-country="{{ .id }}" role="button" tabindex="0" aria-label="{{ .name }} · {{ len .articles }} {{ if eq (len .articles) 1 }}article{{ else }}{{ $labels.count }}{{ end }}" aria-expanded="false" aria-controls="map-popup"{{ else }}aria-hidden="true"{{ end }}>
+        {{ if eq .parentCode "CN" }}<title>{{ .name }}</title>{{ end }}
+        <path class="map-region{{ if .explored }} map-region--explored{{ end }}" data-region="{{ .id }}" d="{{ .d }}"/>
+        {{ with .point }}<circle class="map-region-marker" cx="{{ index . 0 }}" cy="{{ index . 1 }}" r="1.6" aria-hidden="true"/>{{ end }}
+        </g>
+        {{ end }}
+      </g>
+      {{ end }}
+    </svg>
+  </div>
+  <aside class="travel-explorer__popup" id="map-popup" data-map-popup hidden aria-label="{{ $labels.map }}">
+    <div class="travel-explorer__popup-heading"><h2 data-map-title></h2><button type="button" data-map-close aria-label="{{ $labels.close }}">×</button></div>
+    <div data-map-content></div>
+  </aside>
+  <div class="travel-explorer__footer">
+    <div class="travel-explorer__legend"><span><i class="map-key map-key--unvisited"></i>{{ $labels.unvisited }}</span><span><i class="map-key map-key--visited"></i>{{ $labels.visited }}</span><span><i class="map-key map-key--explored"></i>{{ $labels.explored }}</span></div>
+    <small><a href="https://www.naturalearthdata.com/">Natural Earth</a></small>
+  </div>
+  {{ range $destinations }}{{ if or .visited .articles }}
+  <template data-map-destination="{{ .id }}" data-name="{{ .name }}">
+    {{ partial "map-article-links.html" (dict "articles" .articles "empty" $labels.empty) }}
+  </template>
+  {{ range .hoverRegions }}
+  <template data-map-destination="{{ .id }}" data-name="{{ .name }}">
+    {{ partial "map-article-links.html" (dict "articles" .articles "empty" $labels.empty) }}
+  </template>
+  {{ end }}
+  {{ end }}{{ end }}
+</section>
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
