@@ -4,7 +4,7 @@ description: "Comment Obsidian Travels traite les données personnelles, les coo
 draft: false
 ---
 
-Dernière mise à jour : 23 août 2026.
+Dernière mise à jour : 29 octobre 2026.
 
 Obsidian Travels est édité par Timothé Paris. Cette politique explique quelles informations peuvent être traitées lorsque vous visitez le site ou me contactez.
 
@@ -24,7 +24,7 @@ Les commentaires des articles sont fournis par Disqus. Le chargement ou l'utilis
 
 ## Publicité et services Google
 
-Le site peut utiliser Google AdSense pour afficher de la publicité. Si la publicité est activée, Google et ses partenaires peuvent utiliser des cookies, des balises web, des adresses IP ou d'autres identifiants afin de diffuser, mesurer et personnaliser les annonces lorsque la loi l'autorise. Consultez la page expliquant [comment Google utilise les informations provenant de sites qui utilisent ses services](https://policies.google.com/technologies/partner-sites?hl=fr).
+Le site utilise Google Analytics et charge un script Travelpayouts depuis `emrldtp.cc`.
 
 Lorsque la loi l'exige, votre consentement sera demandé avant l'utilisation de cookies publicitaires ou analytiques non essentiels. Vous pouvez également gérer les cookies dans les réglages de votre navigateur et au moyen des outils de consentement affichés sur le site.
 

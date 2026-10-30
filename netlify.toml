@@ -7,7 +7,7 @@
   HUGO_EXTENDED = "true"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://obsidiantravels.net/"
   TZ = "Europe/Oslo"
 
 [build]
@@ -19,7 +19,7 @@
     rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz" && \
     export PATH="${HOME}/.local/dart-sass:${PATH}" && \
     git config core.quotepath false && \
-    hugo --gc --minify --cleanDestinationDir --baseURL "${URL}"
+    hugo --gc --minify --cleanDestinationDir --baseURL "https://obsidiantravels.net/"
   """
 
 [context.deploy-preview]
@@ -28,3 +28,9 @@
 [dev]
   framework = "hugo"
   targetPort = 1313
+
+[[redirects]]
+  from = "https://obsidiantravels.netlify.app/*"
+  to = "https://obsidiantravels.net/:splat"
+  status = 301
+  force = true

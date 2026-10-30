@@ -24,6 +24,13 @@
 {{- $shouldNoindex := or $isSearch $isTagLike $isPaged $isTaxonomyIndex $isThinTerm $pageNoindex -}}
 
 {{- $pageTitle := .Title | default $siteTitle -}}
+{{- if and .IsPage (eq .Section "blog") -}}
+  {{- if and (in (.Params.categories | default slice) "Itinerary") (not (in (lower $pageTitle) "itinerary")) -}}
+    {{- $pageTitle = printf "%s — Itinerary" $pageTitle -}}
+  {{- else if and (in (.Params.categories | default slice) "Itinéraire") (not (in (lower $pageTitle) "itinéraire")) -}}
+    {{- $pageTitle = printf "%s — Itinéraire" $pageTitle -}}
+  {{- end -}}
+{{- end -}}
 {{- $seoTitle := $pageTitle -}}
 {{- if .IsHome -}}
   {{- $seoTitle = $siteTitle -}}
@@ -96,7 +103,6 @@
 <title>{{ $seoTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <meta name="author" content="{{ site.Params.metadata.author | default site.Params.author | default $siteTitle }}">
-<meta name="google-adsense-account" content="ca-pub-9678233435673145">
 {{- if gt (len $keywords) 0 }}
 <meta name="keywords" content="{{ delimit $keywords ", " }}">
 {{- end }}
@@ -149,13 +155,14 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": {{ $siteTitle | jsonify }},
-  "url": {{ site.Home.Permalink | jsonify }},
-  "description": {{ $description | jsonify }},
-  "inLanguage": {{ $locale | jsonify }},
+  "name": {{ $siteTitle | jsonify | safeJS }},
+  "alternateName": "obsidiantravels.net",
+  "url": {{ site.Home.Permalink | jsonify | safeJS }},
+  "description": {{ $description | jsonify | safeJS }},
+  "inLanguage": {{ $locale | jsonify | safeJS }},
   "potentialAction": {
     "@type": "SearchAction",
-    "target": {{ (printf "%ssearch/?s={search_term_string}" site.Home.Permalink) | jsonify }},
+    "target": {{ (printf "%ssearch/?s={search_term_string}" site.Home.Permalink) | jsonify | safeJS }},
     "query-input": "required name=search_term_string"
   }
 }
@@ -165,26 +172,26 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": {{ .Title | jsonify }},
-  "description": {{ $description | jsonify }},
+  "headline": {{ .Title | jsonify | safeJS }},
+  "description": {{ $description | jsonify | safeJS }},
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": {{ $canonical | jsonify }}
+    "@id": {{ $canonical | jsonify | safeJS }}
   },
-  "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-  "inLanguage": {{ $locale | jsonify }},
+  "datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" | jsonify | safeJS }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify | safeJS }},
+  "inLanguage": {{ $locale | jsonify | safeJS }},
   "author": {
     "@type": "Person",
-    "name": {{ site.Params.metadata.author | default $siteTitle | jsonify }}
+    "name": {{ site.Params.metadata.author | default $siteTitle | jsonify | safeJS }}
   },
   "publisher": {
     "@type": "Organization",
-    "name": {{ $siteTitle | jsonify }}
+    "name": {{ $siteTitle | jsonify | safeJS }}
   }{{ with $image }},
-  "image": {{ . | jsonify }}{{ end }}{{ with .Params.categories }},
-  "articleSection": {{ index . 0 | jsonify }}{{ end }}{{ with $keywords }},
-  "keywords": {{ delimit . ", " | jsonify }}{{ end }}
+  "image": {{ . | jsonify | safeJS }}{{ end }}{{ with .Params.categories }},
+  "articleSection": {{ index . 0 | jsonify | safeJS }}{{ end }}{{ with $keywords }},
+  "keywords": {{ delimit . ", " | jsonify | safeJS }}{{ end }}
 }
 </script>
 {{- else if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") }}
@@ -192,14 +199,14 @@
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": {{ $pageTitle | jsonify }},
-  "url": {{ $canonical | jsonify }},
-  "description": {{ $description | jsonify }},
-  "inLanguage": {{ $locale | jsonify }},
+  "name": {{ $pageTitle | jsonify | safeJS }},
+  "url": {{ $canonical | jsonify | safeJS }},
+  "description": {{ $description | jsonify | safeJS }},
+  "inLanguage": {{ $locale | jsonify | safeJS }},
   "isPartOf": {
     "@type": "WebSite",
-    "name": {{ $siteTitle | jsonify }},
-    "url": {{ site.Home.Permalink | jsonify }}
+    "name": {{ $siteTitle | jsonify | safeJS }},
+    "url": {{ site.Home.Permalink | jsonify | safeJS }}
   }
 }
 </script>
@@ -208,10 +215,10 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": {{ $pageTitle | jsonify }},
-  "url": {{ $canonical | jsonify }},
-  "description": {{ $description | jsonify }},
-  "inLanguage": {{ $locale | jsonify }}
+  "name": {{ $pageTitle | jsonify | safeJS }},
+  "url": {{ $canonical | jsonify | safeJS }},
+  "description": {{ $description | jsonify | safeJS }},
+  "inLanguage": {{ $locale | jsonify | safeJS }}
 }
 </script>
 {{- end }}
@@ -237,6 +244,6 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": {{ $crumbs | jsonify }}
+  "itemListElement": {{ $crumbs | jsonify | safeJS }}
 }
 </script>

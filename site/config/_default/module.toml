@@ -65,6 +65,3 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/site-verifications"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/gzip-caching"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/adsense"

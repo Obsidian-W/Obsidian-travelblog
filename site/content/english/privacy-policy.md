@@ -4,7 +4,7 @@ description: "How Obsidian Travels handles personal data, cookies, analytics, ad
 draft: false
 ---
 
-Last updated: 23 August 2026.
+Last updated: 29 October 2026.
 
 Obsidian Travels is operated by Timothé Paris. This policy explains what information may be collected when you visit the site or contact me.
 
@@ -24,7 +24,7 @@ Article comments are provided by Disqus. Loading or using the comment section ma
 
 ## Advertising and Google services
 
-The site may use Google AdSense to display advertising. If advertising is enabled, Google and its partners may use cookies, web beacons, IP addresses, or other identifiers to serve, measure, and personalize ads where legally permitted. Learn [how Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites).
+The site uses Google Analytics and loads a Travelpayouts script from `emrldtp.cc`.
 
 Where required, you will be asked for consent before non-essential advertising or analytics cookies are used. You can also control cookies through your browser settings and any consent controls displayed on the site.
 

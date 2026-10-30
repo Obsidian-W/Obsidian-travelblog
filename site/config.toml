@@ -1,7 +1,7 @@
 # Primary site configuration lives in config/_default/.
 # Keep this root file minimal to avoid conflicts with layered config.
 
-baseURL = "https://obsidiantravels.netlify.app/"
+baseURL = "https://obsidiantravels.net/"
 title = "Obsidian Travels"
 theme = "iwriter-hugo"
 locale = "en-US"
