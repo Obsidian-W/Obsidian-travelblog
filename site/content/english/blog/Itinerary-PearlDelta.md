@@ -1,7 +1,7 @@
 ---
 date: "2025-03-27"
-title: "A week in the Pearl Delta"
-description: "A one-week itinerary through Hong Kong, Macau, Shenzhen and Guangzhou."
+title: "One week in Hong Kong, Macau, Shenzhen and Guangzhou"
+description: "One week between Hong Kong, Macau, Shenzhen and Guangzhou: my Pearl Delta itinerary, with Lantau hikes, city walks and transport between stops."
 image: "images/blog/pearldelta.jpg"
 itinerary_map: "/images/itineraries/pearl-delta.svg"
 categories: ["Itinerary", "China"]
@@ -68,7 +68,7 @@ So what's the best place to visit on a first day?
 **Bao'An** of course!
   
 >  I wanted to keep Shenzhen last as I arrived very early, so I actually skipped to Hong Kong by bus straight from the airport.
-To do that, I went to the tourist counter, they explained everything and sold me a transfer bus that left around 5AM to the island of Hong Kong. It's super convenient!
+To get from Shenzhen airport to Hong Kong, I went to the tourist counter, they explained everything and sold me a transfer bus that left around 5AM to the island of Hong Kong. It's super convenient!
 However I was super tired, it wasn't as enjoyable to visit with half a decent night, hence I recommend spending an afternoon in Shenzhen before moving on to HK the next morning. 
 
 ### Morning?
@@ -101,6 +101,8 @@ You can leave this for later if you return to Shenzhen.
 The bus from Shenzhen will drop you around **Mong Kok**, if you come from the airport, it's easy to reach.
 It's also an area with plenty of accommodation.
 > Fret not if you're further, the *YHA* is in Sham Shui Po, an easy trip by subway. If you're poor like me, then it's nice to be out of the center.
+
+The **train from Shenzhen to Hong Kong** arrives at **Hong Kong West Kowloon**, with departures from **Futian / 福田** and **Shenzhen North / Shenzhenbei / 深圳北**. Tickets are available through [MTR](https://www.highspeed.mtr.com.hk/en/trip-planner.html) or 12306. On the return towards mainland China, both immigration checks take place at West Kowloon before boarding.
 
 ![Central](images/blog/hk-center.jpg)
 
@@ -138,7 +140,7 @@ If it's not too late, or if you're not tired yet, see **Temple Street** on the w
 
 Let's go get some greenery!
 To get to **Lantau**, the easiest way is to take the subway to **Tung Chung**.
-To get started for this day activity, you need to follow with a bus to **Tian Tan Buddha**.
+To reach the **Tian Tan Buddha** from Tung Chung, take the bus.
 Those buses are near the man road, a bit north of the station, follow the tourists.
 This is the cheapest way to see the giant buddha and to start hiking **Lantau Peak** (**934m** according to Google), *Lantau Peak* is a good way to see the whole island. 
 
@@ -193,7 +195,7 @@ If I were to be stranded one month in HK, I legit would never be bored!
 ### Morning
 
 Both Ferries and buses goes to **Macau**, I think I went with *One Bus*, but I'm not even sure, it's been a while.
-There are two islands, drop your bags to your hotel in the right island!
+The **ferry from Hong Kong to Macau** takes about **one hour** from **Sheung Wan’s Hong Kong Macau Ferry Terminal**. [TurboJET](https://www2.turbojet.com.hk/travel-with-us-sea-ferry/) serves **Outer Harbour**, on the Macau peninsula, and **Taipa**; [Cotai Water Jet](https://www.cotaiwaterjet.com/ferry-schedule/hongkong-macau-taipa.html) also serves Taipa.
 
 I started with **Coloane**, the southern island.
 Check out the casinos, the tram and, if by chance you have enough time, the **Coloane village**!
@@ -229,7 +231,7 @@ Don't hesitate to add a day to spread it out, I walked more than *20* kilometers
 Let's go to **Guangzhou**.
 
 And take the train this time. Head north with a bus to **Portas do Cerco** (They also go round the island, ask around and see!), that's the border.
-From there, after the crossing you get to a train station where you can use your remaining *patacas* before heading to Guangzhou.
+After crossing at **Portas do Cerco / Gongbei**, **Zhuhai station / 珠海站** is on the mainland side. The train to Guangzhou arrives at **Guangzhou South / Guangzhounan / 广州南**; **Metro line 2** continues towards the city centre.
 
 Once in town, I recommend walk toward **Yuexiu park** starting form the **Temple of Six Banyan Trees**.
 From the temple go north to the **Dr Sun Wat-Sen's Memorial Hall** then the **Nanyue King Wen's mausoleum**.
@@ -262,6 +264,8 @@ Hopefully, by now there are better transportation apps in English (AMAP was stil
 
 Use remaining time to finish the visit in Guangzhou, I recommend to see the **Chen Clan Ancestral Hall**, but be sure to book in advance (online only)
 then head to the station and zip to Shenzhen.
+
+For the **train from Guangzhou to Shenzhen**, departures from **Guangzhou South** serve **Futian** or **Shenzhen North**. From Futian, **Metro line 11** runs to **Airport (T3)** for Bao’an Airport.
 
 If you have time, the two parks near the Chen Clan Ancestral Hall are both equally green and beautiful, it's nice to take a break from the big city.
 

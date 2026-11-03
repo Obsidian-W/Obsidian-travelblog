@@ -1,7 +1,7 @@
 ---
 date: "2025-08-15"
 title: "How to visit Turkmenistan?"
-description: "My tips for visiting Turkmenistan."
+description: "How I visited Turkmenistan: arranging a local agency and invitation letter, crossing from Uzbekistan, flying out of Ashgabat and budgeting for the trip."
 image: "images/blog/turkmenistan.jpg"
 categories: ["How-to", "Turkmenistan", "Central Asia"]
 continents: ["Asia"]

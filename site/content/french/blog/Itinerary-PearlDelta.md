@@ -1,7 +1,7 @@
 ---
 date: "2025-03-27"
-title: "Une semaine dans le delta de la Rivière des Perles"
-description: "Itinéraire d'une semaine entre Hong Kong, Macao, Shenzhen et Guangzhou."
+title: "Une semaine à Hong Kong, Macao, Shenzhen et Canton"
+description: "Mon itinéraire du delta de la Rivière des Perles : Hong Kong, Macao, Shenzhen et Canton, avec randonnées à Lantau, trains et ferries entre les étapes."
 image: "images/blog/pearldelta.jpg"
 itinerary_map: "/images/itineraries/pearl-delta.svg"
 categories: ["Itinéraire", "Chine"]
@@ -94,6 +94,8 @@ Le bus depuis Shenzhen te déposera autour de **Mong Kok**.
 C’est une bonne zone pour loger, surtout si ton budget est limité.  
 > L’auberge *YHA* de *Sham Shui Po* est pratique et pas chère, un peu excentrée, mais très bien connectée.
 
+Le **train de Shenzhen à Hong Kong** arrive à **Hong Kong West Kowloon**, avec des départs de **Futian / 福田** et **Shenzhen Nord / Shenzhenbei / 深圳北**. Les billets sont disponibles sur [MTR](https://www.highspeed.mtr.com.hk/en/trip-planner.html) ou 12306. Dans le sens du retour vers la Chine continentale, les deux contrôles d’immigration se passent à West Kowloon avant de monter dans le train.
+
 ![Central](images/blog/hk-center.jpg)
 
 ### Matinée
@@ -173,14 +175,16 @@ Je pourrais y vivre un mois sans m’ennuyer.
 ### Matinée
 
 Prends un **ferry** ou un **bus** vers **Macao** (je crois avoir pris *One Bus*, mais je n'en suis plus certain).  
-Dépose ton sac à l’hôtel, puis explore l’île sud, **Coloane**.  
+Le **ferry de Hong Kong à Macao** prend environ **une heure**, au départ du **Hong Kong Macau Ferry Terminal de Sheung Wan**. [TurboJET](https://www2.turbojet.com.hk/travel-with-us-sea-ferry/) dessert **Outer Harbour**, sur la péninsule de Macao, et **Taipa** ; [Cotai Water Jet](https://www.cotaiwaterjet.com/ferry-schedule/hongkong-macau-taipa.html) dessert aussi Taipa.
+
+Dépose ton sac à l’hôtel, puis explore **Coloane**, au sud.
 
 Entre **casinos**, tramway, et petits villages côtiers, tu as de quoi faire jusqu’à 15 h.  
 Je n’ai pas eu le temps de visiter **le village de Coloane**, et je le regrette : d’après les photos d’un autre voyageur, c’était superbe.
 
 ### Après-midi
 
-Direction l’île nord.  
+Direction la péninsule de Macao.
 Commence au **temple A-Ma**, puis marche vers le centre :  
 **Casa do Mandarim**, **églises portugaises**, **théâtre Dom Pedro V**, pâtisseries, etc.  
 
@@ -200,7 +204,7 @@ Si tu restes plus longtemps, ajoute le **phare Guia** et le quartier **São Láz
 ### Matinée
 
 En route pour **Guangzhou** !  
-Prends le bus vers la frontière de **Portas do Cerco**, traverse, puis monte dans le train.  
+Prends le bus vers la frontière de **Portas do Cerco / Gongbei**. Après le passage côté continental, la **gare de Zhuhai / 珠海站** permet de rejoindre **Guangzhou Sud / Guangzhounan / 广州南** en train, puis le centre de Canton par la **ligne 2 du métro**.
 
 Une fois en ville, pars du **Temple des Six Banyans**, puis marche vers le **Mémorial Sun Yat-Sen** et le **mausolée du roi Nanyue**.  
 Déjeune tôt : les journées sont longues.
@@ -224,6 +228,8 @@ Une navette souterraine permet de traverser la rivière vers l'île et la tour ;
 
 Profite des dernières heures pour visiter le **Temple ancestral de la famille Chen** (réservation en ligne obligatoire).  
 Les **parcs voisins** sont très verts, parfaits pour souffler avant le train retour vers **Shenzhen**.
+
+Le **train de Canton à Shenzhen** part de **Guangzhou Sud** vers **Futian** ou **Shenzhen Nord**. Depuis Futian, la **ligne 11 du métro** dessert **Airport (T3)**, à l’aéroport de Bao’an.
 
 ### Après-midi
 

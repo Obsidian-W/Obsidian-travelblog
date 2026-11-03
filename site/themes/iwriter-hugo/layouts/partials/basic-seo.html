@@ -2,6 +2,7 @@
 {{- $locale := site.Language.Locale | default "en-US" -}}
 {{- $ogLocale := replace $locale "-" "_" -}}
 {{- $canonical := .Permalink -}}
+{{- $fr := eq site.Language.Lang "fr" -}}
 {{- $isSearch := eq .RelPermalink ("/search/" | relLangURL) -}}
 {{- $pageNumber := 1 -}}
 {{- if .IsNode -}}
@@ -14,6 +15,9 @@
   {{- end -}}
 {{- end -}}
 {{- $isPaged := gt $pageNumber 1 -}}
+{{- if $isPaged -}}
+  {{- $canonical = .Paginator.URL | absURL -}}
+{{- end -}}
 {{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
 {{- $isTaxonomyIndex := eq .Kind "taxonomy" -}}
 {{- $isThinTerm := false -}}
@@ -21,7 +25,7 @@
   {{- $isThinTerm = lt (len .Pages) 2 -}}
 {{- end -}}
 {{- $pageNoindex := .Params.noindex | default false -}}
-{{- $shouldNoindex := or $isSearch $isTagLike $isPaged $isTaxonomyIndex $isThinTerm $pageNoindex -}}
+{{- $shouldNoindex := or $isSearch $isTagLike $isTaxonomyIndex $isThinTerm $pageNoindex -}}
 
 {{- $pageTitle := .Title | default $siteTitle -}}
 {{- if and .IsPage (eq .Section "blog") -}}
@@ -33,13 +37,13 @@
 {{- end -}}
 {{- $seoTitle := $pageTitle -}}
 {{- if .IsHome -}}
-  {{- $seoTitle = $siteTitle -}}
+  {{- $seoTitle = printf "%s | %s" $siteTitle (cond $fr "Itinéraires et conseils de voyage indépendant" "Independent travel itineraries and guides") -}}
 {{- else if and (eq .Section "blog") (eq .Kind "section") -}}
   {{- $seoTitle = printf "%s | %s" $pageTitle $siteTitle -}}
 {{- else if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") -}}
-  {{- $seoTitle = printf "Travel Categories | %s" $siteTitle -}}
+  {{- $seoTitle = printf "%s | %s" (cond $fr "Rubriques de voyage" "Travel Categories") $siteTitle -}}
 {{- else if and (eq .Kind "term") (eq .Data.Plural "categories") -}}
-  {{- $seoTitle = printf "%s Travel Guides and Articles | %s" .Title $siteTitle -}}
+  {{- $seoTitle = printf "%s %s | %s" .Title (cond $fr "— guides et récits de voyage" "Travel Guides and Articles") $siteTitle -}}
 {{- else -}}
   {{- $seoTitle = printf "%s | %s" $pageTitle $siteTitle -}}
 {{- end -}}
@@ -49,14 +53,17 @@
 
 {{- $fallbackDescription := site.Params.metadata.description | default site.Params.description | default "" -}}
 {{- $description := .Description | default .Summary | default $fallbackDescription | plainify | htmlUnescape | truncate 160 -}}
+{{- if .IsHome -}}
+  {{- $description = .Description | default .Params.banner.description | default $fallbackDescription | plainify | htmlUnescape | truncate 160 -}}
+{{- end -}}
 {{- if and (eq .Section "blog") (eq .Kind "section") (not .Description) -}}
-  {{- $description = "Browse travel blog posts, itineraries, and destination guides from Obsidian Travels." -}}
+  {{- $description = cond $fr "Découvrez les itinéraires, récits de voyage et conseils pratiques d'Obsidian Travels." "Browse travel blog posts, itineraries, and destination guides from Obsidian Travels." -}}
 {{- else if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") (not .Description) -}}
-  {{- $description = "Browse travel article categories across itineraries, tips, and destination guides." -}}
+  {{- $description = cond $fr "Parcourez les articles par rubrique : itinéraires, conseils pratiques et guides de voyage." "Browse travel article categories across itineraries, tips, and destination guides." -}}
 {{- else if and (eq .Kind "term") (eq .Data.Plural "categories") (not .Description) -}}
-  {{- $description = printf "Browse %s travel articles, itineraries, and practical guides from Obsidian Travels." .Title -}}
+  {{- $description = cond $fr (printf "%s : itinéraires, récits et conseils pratiques d'Obsidian Travels." .Title) (printf "Browse %s travel articles, itineraries, and practical guides from Obsidian Travels." .Title) -}}
 {{- else if and $isSearch (not .Description) -}}
-  {{- $description = printf "Search travel articles and destination guides on %s." $siteTitle -}}
+  {{- $description = cond $fr (printf "Recherchez des articles et des guides de voyage sur %s." $siteTitle) (printf "Search travel articles and destination guides on %s." $siteTitle) -}}
 {{- end -}}
 {{- if $isPaged -}}
   {{- $description = printf "%s Page %d." $description $pageNumber -}}
@@ -112,11 +119,13 @@
 <meta name="ai-generated" content="true">
 {{- end }}
 
-{{- if .IsTranslated }}
+{{- if and .IsTranslated (not $isPaged) }}
+  {{- $defaultLanguageURL := .Permalink -}}
   {{- range .AllTranslations }}
+    {{- if eq .Language.Lang "en" -}}{{- $defaultLanguageURL = .Permalink -}}{{- end }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
   {{- end }}
-<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+<link rel="alternate" hreflang="x-default" href="{{ $defaultLanguageURL }}">
 {{- else }}
 <link rel="alternate" hreflang="{{ .Language.Lang | default `en` }}" href="{{ $canonical }}">
 <link rel="alternate" hreflang="x-default" href="{{ $canonical }}">

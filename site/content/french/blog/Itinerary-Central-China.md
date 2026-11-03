@@ -1,7 +1,7 @@
 ---
 date: "2026-10-20"
 title: "Trois semaines en Chine centrale"
-description: "Le meilleur de la Chine : Shaanxi, Sichuan, Hunan et même un peu de Guizhou !"
+description: "Mon itinéraire de trois semaines en Chine centrale, de Xi’an à Zhangjiajie par Chengdu, Jiuzhaigou et Chongqing : transports, billets et budget."
 image: "images/blog/jiuzhaigou2.jpg"
 itinerary_map: "/images/itineraries/central-china.svg"
 categories: ["Itinéraire", "Chine"]
@@ -140,7 +140,7 @@ Avec plus de temps, ajoute la **Petite Pagode de l'Oie sauvage** et le **musée 
 
 Réserve **Xi'an Nord / Xi'anbei → Chengdu Est / Chengdudong**. Le train prend environ **3:30**, pour **220 RMB (27€)** en seconde classe.
 Essaie de partir tôt, ou de voyager tard la veille.
-[Trajet ferroviaire et tarifs](https://www.travelchinaguide.com/china-trains/high-speed/xian-chengdu.htm).
+
 
 Après avoir posé les bagages, commence au **monastère Wenshu / Wenshu Yuan**, puis rejoins le **parc du Peuple** et **Kuanzhai**, les « ruelles larges et étroites ».
 Ces trois lieux sont gratuits.
@@ -189,11 +189,11 @@ Consacre la journée à **Emei Shan**, principalement au **Sommet d'Or**. À env
 Fais le tour de la statue, visite les salles du temple, puis longe les terrasses panoramiques au bord des falaises.
 Par beau temps, les crêtes s'étendent au loin ; les nuages peuvent rester sous le sommet ou tout engloutir. Chouette, encore du brouillard ! Oups, j'ai dévoilé la suite de l'article.
 
-Pars tôt depuis **Baoguo/Huangwan**. Le bus de montagne monte à travers la forêt jusqu'à **Leidongping**, en environ **2 heures**. De là, marche **20–40 minutes** jusqu'au **pavillon Jieyin**, puis prends le téléphérique du sommet. Prévois environ **1–2 heures en haut**, à titre indicatif, avant de redescendre déjeuner à Leidongping et de reprendre le bus. [Accès au sommet et déroulement de la journée](https://www.chinahighlights.com/leshan/attraction/mount-emei.htm).
+Pars tôt depuis **Baoguo/Huangwan**. Le bus de montagne monte à travers la forêt jusqu'à **Leidongping**, en environ **2 heures**. De là, marche **20–40 minutes** jusqu'au **pavillon Jieyin**, puis prends le téléphérique du sommet. Prévois environ **1–2 heures en haut**, à titre indicatif, avant de redescendre déjeuner à Leidongping et de reprendre le bus.
 
 Pour les sentiers forestiers et les petits temples, **Wannian et Qingyin** constituent une autre option. Il faut une journée de plus pour combiner les deux parcours.
 
-Après Leshan, dors près de l'entrée de la montagne : le train **Leshan → Emeishan** prend environ **15–25 minutes**, puis un bus local rejoint Baoguo/Huangwan. Après la visite, retourne à **Chengdu** en train : environ **1–2 heures**, pour un budget estimatif de **35–80 RMB (4,40–10€)**. [Liaisons ferroviaires](https://www.travelchinaguide.com/china-trains/high-speed/chengdu-leshan-emeishan.htm).
+Après Leshan, dors près de l'entrée de la montagne : le train **Leshan → Emeishan** prend environ **15–25 minutes**, puis un bus local rejoint Baoguo/Huangwan. Après la visite, retourne à **Chengdu** en train : environ **1–2 heures**, pour un budget estimatif de **35–80 RMB (4,40–10€)**.
 
 **Coût du sommet en octobre 2026 :** **160 RMB (20€)** d'entrée, **90 RMB (11,25€)** de bus de montagne aller-retour et **120 RMB (15€)** de téléphérique aller-retour, soit **370 RMB (46,25€)** sans repas ni trains. [Tarifs officiels](https://www.leshan.gov.cn/lsswszf/zzzqgsgg/760644150124613.html). Des travaux limitent les entrées au sommet et la capacité des transports ; les billets du sommet, du bus et du téléphérique se réservent en avance. [Avis officiel sur l'accès](https://www.leshan.gov.cn/lsswszf/zzzqgsgg/808058894643269.html).
 
@@ -233,7 +233,7 @@ Compte environ **4 heures** de visite.
 Les bassins supérieurs sont vers **3 500 m** et, même avec le téléphérique, il reste de la montée. Mon ami ne se sentait pas bien à cette altitude.
 
 L'entrée coûte **170 RMB (21,25€)**, plus **80 RMB (10€)** pour le téléphérique montant : **250 RMB (31,25€)** au total.
-Pour redescendre aussi en téléphérique, ajoute **40 RMB (5€)**. [Tarifs et navette de Huanglong](https://www.travelchinaguide.com/attraction/sichuan/chengdu/yellowdragon.htm).
+Pour redescendre aussi en téléphérique, ajoute **40 RMB (5€)**.
 
 Prends ensuite le car touristique pour **Jiuzhaigou**, à environ **2:30–3 heures**. Ou retourne avec ton groupe, grosse feignasse.
 Compte environ **60–100 RMB (7,50–12,50€)** pour cette liaison.
@@ -262,7 +262,7 @@ Le [guide des parcours du parc](https://www.jiuzhai.com/intelligent-service/way-
 
 L'entrée coûte **190 RMB (23,75€)**, plus **90 RMB (11,25€)** pour le bus, bien nécessaire : **280 RMB (35€)** la journée.
 Du **16 novembre au 31 mars**, le total descend à **160 RMB (20€)**.
-La réservation se fait avec le passeport, qui sert aussi à entrer.
+**La réservation de Jiuzhaigou avec un passeport étranger** se fait en ligne sur le compte WeChat officiel du parc, **九寨沟**, dans **游览必看 → 门票预定**. La réservation comprend l’entrée datée et le bus touristique ; le même passeport sert au contrôle d’entrée.
 [Billets officiels](https://www.jiuzhai.com/intelligent-service/tickets).
 
 > Prévois ton déjeuner, les possibilités sur place ne sont pas terribles.
@@ -400,7 +400,7 @@ Ce [circuit Wulong et montagne des Fées — lien affilié](https://www.getyourg
 
 ### De Chongqing à Tongren
 
-Compte **3–5 heures en train**, avec une correspondance possible, et **180–300 RMB (22,50–37,50€)** en seconde classe. Choisis bien Tongren Nord, pas Tongren Sud.
+Compte **3–5 heures en train**, avec une correspondance possible, et **180–300 RMB (22,50–37,50€)** en seconde classe. La gare pour la ville est **Tongren / 铜仁** ; **Tongren Sud / Tongrennan / 铜仁南** est plus éloignée.
 
 Si tu arrives tôt, rejoins le **Grand Canyon de Tongren** : budget estimatif de **150–250 RMB (18–32€)** pour l'ensemble de la sortie.
 Il y aurait des bus publics près de la gare routière touristique. Je n'ai pas vérifié : la pluie battante m'a empêché d'y aller.
@@ -463,7 +463,7 @@ Les rues publiques de la vieille ville sont gratuites. Le **bateau sur la Tuo** 
 ![Furong au-dessus de sa cascade](images/blog/furong.jpg)
 ^*Furong, construite au-dessus de la cascade*
 
-Rejoins la **gare de Fenghuanggucheng** avec la navette ferroviaire, annoncée à **7 RMB (0,90€)**, puis prends un train pour **Furongzhen**, environ **40–50 minutes**. Compte **40–70 RMB (5–8,75€)** pour le train et **10–20 RMB (1,25–2,50€)** entre la gare de Furong et la ville. [Accès à la gare de Fenghuang](https://www.travelchinaguide.com/cityguides/zhangjiajie-to-fenghuang.htm), [accès à Furong](https://www.travelchinaguide.com/cityguides/hunan/xiangxi/furong-ancient-town.htm).
+Rejoins la **gare de Fenghuanggucheng** avec la navette ferroviaire, annoncée à **7 RMB (0,90€)**, puis prends un train pour **Furongzhen**, environ **40–50 minutes**. Compte **40–70 RMB (5–8,75€)** pour le train et **10–20 RMB (1,25–2,50€)** entre la gare de Furong et la ville.
 
 Dors sur place pour voir la cascade illuminée. L'entrée coûte environ **100 RMB (13€)**. Oui, il faut payer, mais le billet permet de ressortir et revenir, ainsi que d'assister à beaucoup de spectacles. Je les ai trouvés étranges et ennuyeux, mais chacun son truc.
 
@@ -498,7 +498,7 @@ Le brouillard peut cacher les vallées et l'arche ; la pluie s'invite aussi. Le 
 
 ### Téléphériques, escalators et billets
 
-**Mise à jour d'octobre 2026 :** le grand téléphérique du centre-ville a fermé pour rénovation le **13 octobre**, suspendant les **parcours A et B**. Le **parcours C**, avec le **téléphérique express de la grotte Tianmen** dans les deux sens, reste en service. Aucune date de réouverture n'est confirmée. [Fermeture du téléphérique et changements de parcours](https://www.zhangjiajieguide.com/travel-notices/tianmen-mountain-cableway-suspension.html).
+**Mise à jour d'octobre 2026 :** le grand téléphérique du centre-ville a fermé pour rénovation le **13 octobre**, suspendant les **parcours A et B**. Le **parcours C**, avec le **téléphérique express de la grotte Tianmen** dans les deux sens, reste en service. Aucune date de réouverture n'est confirmée.
 Quand j'y suis allé, il fonctionnait encore, mais beaucoup de travaux commençaient.
 
 Le parcours actuel est le suivant :
@@ -509,7 +509,7 @@ Le parcours actuel est le suivant :
 4. Les **sept tronçons d'escalators dans la montagne**, au-dessus de la grotte, rejoignent le sommet.
 5. Promenade sur les circuits du sommet, puis retour par les escalators et le téléphérique express.
 
-Réserve un créneau daté avec ton passeport. Le forfait adulte standard coûte **288 RMB (36€)**, avec téléphérique express aller-retour et escalators supérieurs. La montée par les escalators inférieurs coûte **32 RMB (4€)** en plus ; les surchaussures des passerelles de verre, **5 RMB (0,60€)** ; le télésiège facultatif du sommet, **25 RMB (3,10€)** par sens. [Contenu du billet et suppléments](https://www.travelchinaguide.com/zhangjiajie-tianmen-mountain-ticket-booking.htm).
+Réserve un créneau daté avec ton passeport. Le forfait adulte standard coûte **288 RMB (36€)**, avec téléphérique express aller-retour et escalators supérieurs. La montée par les escalators inférieurs coûte **32 RMB (4€)** en plus ; les surchaussures des passerelles de verre, **5 RMB (0,60€)** ; le télésiège facultatif du sommet, **25 RMB (3,10€)** par sens.
 
 Avant la fermeture, les parcours A et B combinaient le grand téléphérique, la navette de la route de montagne et le téléphérique express en sens inverses. La **route aux 99 virages** faisait partie de ces parcours.
 
@@ -536,7 +536,7 @@ Je n'ai pris aucun téléphérique. J'ai fait plusieurs montées de plus de **7 
 
 Garde le jour 19 pour **Golden Whip Stream**, le ruisseau du Fouet d'Or, et les vallées basses. La **galerie des Dix Milles** ajoute un chemin entre les rangées de pics de grès. Tu peux inverser les deux journées pour garder la meilleure météo aux panoramas en hauteur. Et la météo peut vraiment être pourrie : j'ai eu des journées entières dans le brouillard.
 
-Le forfait adulte publié coûte **227 RMB (28,40€)**, avec bus touristiques et assurance, et vaut normalement **quatre jours consécutifs**. Ascenseur, téléphériques et petit train de la galerie sont en supplément. Si tu les utilises, compte environ **65 RMB (8,10€)** pour une montée par l'ascenseur Bailong et **72 RMB (9€)** pour une descente de Tianzi. [Contenu du billet du parc](https://www.travelchinaguide.com/attraction/hunan/zhangjiajie-national-forest-park.htm).
+Le forfait adulte publié coûte **227 RMB (28,40€)**, avec bus touristiques et assurance, et vaut normalement **quatre jours consécutifs**. Ascenseur, téléphériques et petit train de la galerie sont en supplément. Si tu les utilises, compte environ **65 RMB (8,10€)** pour une montée par l'ascenseur Bailong et **72 RMB (9€)** pour une descente de Tianzi.
 
 Le billet dure quatre jours, mais il faut renouveler le créneau d'entrée chaque jour auprès du personnel du parc.
 On peut le faire le jour même : je l'ai fait sans problème parce que je ne savais pas qu'il fallait s'y prendre autrement. Il semble y avoir une file d'étrangers bloqués par cette merde de WeChat. Si tu as réussi à installer WeChat, félicitations. Ça fait sept ans que j'essaie de le faire fonctionner.
@@ -588,19 +588,19 @@ Consacre une matinée entière à la **base des pandas**, puis l'après-midi au 
 
 Le **musée de Sanxingdui**, près de Guanghan, expose de grands masques de bronze, des statues debout, des objets en or et des bronzes rituels découverts sur les sites de l'ancienne civilisation Shu.
 
-Prends un train de **Chengdu Est à Guanghan Nord**, environ **30 minutes**, puis le **bus 13** jusqu'au musée. Des cars touristiques directs partent aussi du centre de Chengdu. L'entrée coûte **72 RMB (9€)** ; compte **150–220 RMB (18,75–27,50€)** pour la journée avec transports publics et déjeuner, sans l'hébergement. Le billet daté du musée se réserve en avance. [Accès et entrée du musée](https://www.travelchinaguide.com/attraction/sichuan/chengdu/sanxingdui.htm).
+Prends un train de **Chengdu Est à Guanghan Nord**, environ **30 minutes**, puis le **bus 13** jusqu'au musée. Des cars touristiques directs partent aussi du centre de Chengdu. L'entrée coûte **72 RMB (9€)** ; compte **150–220 RMB (18,75–27,50€)** pour la journée avec transports publics et déjeuner, sans l'hébergement. Le billet daté du musée se réserve en avance.
 
 ### Dujiangyan : une journée depuis Chengdu
 
 **Dujiangyan** réunit l'ancien système d'irrigation, les canaux, des ponts suspendus et le **temple Erwang**.
 
-Prends le métro jusqu'à **Xipu**, puis un train pour **Lidui Park / Liduigongyuan**, environ **20–30 minutes** pour cette partie ferroviaire. L'entrée du site est à environ **10 minutes à pied** de la gare. L'entrée coûte **80 RMB (10€)** ; les trains sont annoncés à partir de **10 RMB (1,25€)** par sens. Compte **130–180 RMB (16,25–22,50€)** pour la sortie, transports locaux et déjeuner compris. [Accès et tarifs de Dujiangyan](https://www.travelchinaguide.com/attraction/sichuan/chengdu/dujiangyan.htm).
+Prends le métro jusqu'à **Xipu**, puis un train pour **Lidui Park / Liduigongyuan**, environ **20–30 minutes** pour cette partie ferroviaire. L'entrée du site est à environ **10 minutes à pied** de la gare. L'entrée coûte **80 RMB (10€)** ; les trains sont annoncés à partir de **10 RMB (1,25€)** par sens. Compte **130–180 RMB (16,25–22,50€)** pour la sortie, transports locaux et déjeuner compris.
 
 ### Dazu : une journée depuis Chongqing
 
 Aux **sculptures rupestres de Dazu**, **Baodingshan** réunit des scènes bouddhistes sculptées dans les falaises, un Bouddha couché et la Guanyin aux mille bras. **Beishan** est un autre site de sculptures, à part.
 
-Prends un car pour **Dazu**, environ **2 heures**, puis un bus local jusqu'à Baodingshan. La sortie prend la journée depuis Chongqing. L'entrée coûte **115 RMB (14,40€)** pour Baodingshan ou **140 RMB (17,50€)** pour le billet combiné Baodingshan–Beishan. Prévois environ **230–350 RMB (28,75–43,75€)** avec transports publics et déjeuner, selon les sites et les liaisons locales. [Accès et billets de Dazu](https://www.travelchinaguide.com/attraction/chongqing/dazu.htm).
+Prends un car pour **Dazu**, environ **2 heures**, puis un bus local jusqu'à Baodingshan. La sortie prend la journée depuis Chongqing. L'entrée coûte **115 RMB (14,40€)** pour Baodingshan ou **140 RMB (17,50€)** pour le billet combiné Baodingshan–Beishan. Prévois environ **230–350 RMB (28,75–43,75€)** avec transports publics et déjeuner, selon les sites et les liaisons locales.
 
 Avec **une journée de plus à Wulingyuan**, répartis les points de vue en hauteur sur deux jours et garde une journée entière pour **Golden Whip Stream**. **Yangjiajie** ajoute ses longues murailles de grès aux paysages de piliers de Yuanjiajie et Tianzi. Un troisième jour consécutif reste compris dans le billet de quatre jours ; les téléphériques supplémentaires se paient à part.
 

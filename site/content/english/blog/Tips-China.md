@@ -1,7 +1,7 @@
 ---
 date: "2025-09-27"
 title: "Practical Tips for Traveling in China"
-description: "Practical field notes for travelling in China, with payments, apps, transport and planning."
+description: "My practical tips for travelling in China: Alipay, foreign cards, useful apps, booking trains with a foreign passport, Didi and mobile internet."
 image: "images/blog/lijiang.jpg"
 categories: ["Tips", "China"]
 continents: ["Asia"]
@@ -48,8 +48,9 @@ Since I switched to a better provider, I had to say goodbye to those benefits
 ### Booking Trains  
 - Trains are the easiest way to move around (And are often cheap).  
 - **Trip.com** offers English booking, accepts foreign cards, and often has competitive prices.  
-- You'll receive a QR code or pick-up code.  
-- A passport is required for every booking and at the station (They check...).
+- **Booking trains in China with a foreign passport** is also possible on the official [12306 English website or app](https://www.12306.cn/en/). Registration includes passport identity verification.
+- The passport used for the booking serves as the ID for the e-ticket at the station.
+- Station names on booking sites include **Fenghuanggucheng** for Fenghuang and **Furongzhen** for Furong. **Kunming** and **Kunming South** are separate stations.
 
 ### Using Didi  
 - Equivalent of Uber, but cheap.  

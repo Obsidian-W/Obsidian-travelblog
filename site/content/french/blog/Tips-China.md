@@ -1,7 +1,7 @@
 ---
 date: "2025-09-27"
 title: "Conseils pratiques pour voyager en Chine"
-description: "Conseils de terrain pour voyager en Chine, avec paiements, applications, transport et organisation."
+description: "Mes conseils pratiques pour voyager en Chine : Alipay, cartes étrangères, applications, réservation des trains avec un passeport étranger, Didi et internet."
 image: "images/blog/lijiang.jpg"
 categories: ["Conseils", "Chine"]
 continents: ["Asie"]
@@ -49,8 +49,9 @@ Depuis que j’ai changé d’opérateur, j’ai dû dire adieu à ce petit priv
 ### Réserver les trains  
 - Le train est le moyen le plus simple (et souvent le moins cher) pour voyager.  
 - **Trip.com** permet de réserver en anglais, accepte les cartes étrangères et propose souvent de bons prix.  
-- Tu reçois un QR code ou un code de retrait.  
-- Le passeport est obligatoire pour toute réservation et sera vérifié à la gare.
+- **Réserver un train en Chine avec un passeport étranger** est aussi possible sur le [site ou l’application 12306 en anglais](https://www.12306.cn/en/). L’inscription comprend une vérification d’identité avec le passeport.
+- Le passeport utilisé pour la réservation sert de pièce d’identité pour le billet électronique à la gare.
+- Les noms des gares sur les sites de réservation sont **Fenghuanggucheng** pour Fenghuang et **Furongzhen** pour Furong. **Kunming** et **Kunming Sud** sont deux gares distinctes.
 
 ### Utiliser Didi  
 - L’équivalent d’Uber, en bien moins cher.  

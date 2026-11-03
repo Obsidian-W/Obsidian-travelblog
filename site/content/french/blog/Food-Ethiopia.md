@@ -1,7 +1,7 @@
 ---
 date: "2023-08-15"
-title: "Guide cuisine : Éthiopie"
-description: "Quoi manger en Éthiopie et où chercher."
+title: "Cuisine éthiopienne : injera, ragoûts, petits déjeuners et café"
+description: "Injera, shiro, tibs, petits déjeuners et café : mes impressions sur la cuisine éthiopienne et mes adresses à Addis-Abeba, Bahir Dar, Lalibela et Harar."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eating%20Injera%2C%20Ethiopia%20%2814683490675%29.jpg"
 categories: ["Cuisine", "Éthiopie", "Afrique"]
 continents: ["Afrique"]
@@ -9,7 +9,7 @@ ai_generated: true
 draft: true
 ---
 
-> Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité à partir des sources listées en fin d'article.
+> Note : cet article a été généré avec l'aide de l'IA, puis vérifié et édité.
 
 ## Injera et fonctionnement du repas
 
@@ -84,10 +84,3 @@ Les ragoûts **alicha** sont généralement plus doux que ceux au berbere.
 ## Autres plats
 
 Pizzas et pâtes, surtout les spaghettis, sont populaires dans toute l'Éthiopie. Attention : les pâtes peuvent être servies sur une injera. Les pizzas sont moins convaincantes que dans les pays où j'en mange habituellement, et chères comparées aux plats locaux : c'est davantage un petit luxe.
-
-## Sources consultées
-
-- [Visit Ethiopia: lifestyle](https://visitethiopia.travel/about-ethiopia/lifestyle/).
-- [Visit Ethiopia: cultural experience](https://visitethiopia.et/page/cultural-experience).
-- [Azmera Shiro: menu](https://deliveraddis.com/restaurants/azmera-bole).
-- [Ethiopia Travel: kitfo](https://www.turismoetiopia.com/en/food-in-ethiopia/kitfo).

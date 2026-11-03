@@ -1,7 +1,7 @@
 ---
 date: "2024-07-25"
 title: "Une semaine dans le Yunnan"
-description: "Itinéraire d'une semaine dans le Yunnan, entre Kunming, Dali, Lijiang et les gorges du Saut du Tigre."
+description: "Mon itinéraire du Yunnan, de Kunming à Shangri-La : Dali, Lijiang, Vallée de la Lune Bleue, trains, bus et option des gorges du Saut du Tigre."
 image: "images/blog/lijiang.jpg"
 itinerary_map: "/images/itineraries/yunnan.svg"
 categories: ["Itinéraire", "Chine"]
@@ -83,6 +83,8 @@ Départ le matin pour **Shilin**, la **Forêt de Pierre**, à 90 km au sud-est d
 
 L’entrée coûte **130 à 175 RMB**, selon la saison.
 
+En train depuis Kunming, la liaison est **Kunming Sud / Kunmingnan → Shilin Ouest / Shilinxi**. Le **bus 99** relie ensuite Shilin Ouest à la gare routière du site, puis une marche ou la navette gratuite mène au centre des visiteurs.
+
 C’est cher et très touristique, mais dès qu’on quitte le sentier principal, on se retrouve seul au milieu des roches.  
 Et honnêtement, la partie principale est la plus belle.
 
@@ -101,10 +103,7 @@ Le soir, je suis allé dans un des vieux quartiers de Kunming pour manger et me 
 Salvador ? Non, pas celui-là. Mais c’est encore mieux.
 
 Train du matin pour **Dali** (départ 8h30, arrivée vers midi), puis bus jusqu’à la vieille ville.  
-La gare se trouve dans la **nouvelle ville**, au sud du lac **Erhai**.  
-La vieille ville est au sud-ouest.  
-
-Le trajet est simple, les deux zones sont bien reliées.
+La **gare de Dali / 大理站** se trouve dans la nouvelle ville, au sud du lac **Erhai**. La vieille ville est plus au nord, sur la rive ouest. Le **bus 8** relie la gare à **Dali Ancient Town East Gate / 大理古城东门**.
 
 L’après-midi, j’ai exploré la **vieille ville de Dali** et les **Trois Pagodes**.  
 Charmant, piéton, entouré de montagnes et du lac à l’est.  
@@ -148,6 +147,7 @@ Plein de restos et de bars sympas.
 Bus depuis la vieille ville de Dali vers **Lijiang** (départ 8h30, arrivée 11h30).  
 Il y en a plusieurs par jour.  
 Les trains existent, mais partent de la nouvelle ville, donc pas toujours pratique.  
+La liaison ferroviaire est **Dali / 大理 → Lijiang / 丽江**, avec des gares à l’écart des deux vieilles villes.
 
 > Avec un jour de plus, on peut faire un stop à **Shaxi**, en changeant à **Jianchuan**.  
 > Faisable en excursion, mais pas idéal avec les bagages.  
@@ -205,6 +205,8 @@ Des bus relient **Lijiang**, la gorge et **Shangri-La**, mais la logistique peut
 
 Bus vers le nord jusqu’à **Shangri-La** (aussi appelée **Zhongdian**).  
 Comptez **4 à 5 heures** de trajet.  
+Depuis Lijiang, il existe aussi un train direct pour Shangri-La : **Lijiang / 丽江 → Xianggelila / 香格里拉** sur 12306. Les services les plus rapides prennent environ **1:10**, selon le bilan ferroviaire d’août 2026. La **vieille ville de Dukezong** nécessite un trajet local depuis la gare.
+
 L’altitude atteint **3 200 m**, ça peut se sentir.
 
 Visitez la **vieille ville** et le grand **monastère Ganden Sumtseling**.  
@@ -224,7 +226,7 @@ Pour organiser une sortie, demandez directement à votre auberge : ils ont souve
 
 ## Notes pratiques
 
-- **Transport** : train entre Kunming et Dali, bus pour le reste.  
+- **Transport** : le train relie Kunming, Dali, Lijiang et Shangri-La ; j’ai aussi utilisé les bus entre les vieilles villes.
 - **Réservation** : Trip.com marche bien ; les auberges peuvent aussi aider.  
 - **Budget** : 30 à 40 € par jour sur place.  
 - **SIM & applis** : Amap (en anglais maintenant) + Alipay indispensables.  

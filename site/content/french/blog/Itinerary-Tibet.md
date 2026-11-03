@@ -1,7 +1,7 @@
 ---
 date: "2024-08-13"
-title: "Une semaine au Tibet"
-description: "Itinéraire d'une semaine au Tibet, de Lhassa aux monastères, lacs et routes d'altitude."
+title: "Une semaine au Tibet : de Lhassa à l’Everest"
+description: "Mon itinéraire au Tibet, de Lhassa à l’Everest et à la frontière népalaise : monastères, lac Yamdrok, permis de voyage et arrivée en train ou avion."
 image: "images/blog/tibet.jpg"
 itinerary_map: "/images/itineraries/tibet.svg"
 categories: ["Itinéraire", "Chine"]
@@ -54,9 +54,13 @@ Le Xizang/Tibet est incroyable, mais les règles strictes et les permis compliqu
 ## Jour 1 Lhassa {#jour-1}
 
 Je suis arrivé à Lhassa en avion depuis Shangri-La, une autre ville tibétaine située dans le Yunnan.
-Il faut trois jours de route entre les deux, donc l'avion s'imposait. Il existe aussi des trains, mais tout dépend de la ville de départ. Depuis le Yunnan, malgré la relative proximité géographique — 1 500 km quand même — il faut prendre l'avion.
+J’ai choisi le vol direct plutôt que plusieurs jours de route.
 
-J'étais malade à mon arrivée et je n'ai donc pas visité le palais de Norbulingka comme prévu. Si vous êtes en forme, rendez-moi service : allez le voir et racontez-moi dans les commentaires ! Il semble possible de le visiter sans guide.
+**Visiter le Tibet en tant qu’étranger** nécessite un **Tibet Travel Permit** et un **circuit organisé**. L’agence s’occupe du permis pour le parcours et la date d’arrivée convenus.
+
+**Rejoindre Lhassa en train** est aussi possible par **Xining / 西宁**, sur la ligne Qinghai–Tibet.
+
+J'étais malade à mon arrivée et je n'ai donc pas visité le palais de Norbulingka comme prévu. Si vous êtes en forme, rendez-moi service : allez le voir et racontez-moi dans les commentaires !
 
 
 ## Jour 2 Drepung et Sera {#jour-2}
@@ -125,6 +129,8 @@ Nous avons dépassé les champs d'orge, traversé le désert et les dunes, franc
 À Gyirong aussi, les habitants voient peu d'Occidentaux. Les voyageurs népalais sont courants, mais notre groupe — un Allemand, deux Français d'origines différentes, une Latina et un Ashkénaze rencontré en chemin — attirait davantage l'attention.
 
 ## Jour 7 Route vers Katmandou {#jour-7}
+
+Le poste-frontière de **Gyirong–Rasuwagadhi**, emprunté pendant mon voyage, a été touché par une catastrophe liée à une coulée de boue le **26 août 2026**.
 
 ![La fameuse frontière de Gyirong](images/blog/nepalborder.jpg)
 

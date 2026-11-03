@@ -1,7 +1,7 @@
 ---
 date: "2025-07-01"
-title: "How to visit Mangystau?"
-description: "Practical guide to visiting Mangystau from Aktau, with transport, tours, budget and conditions on the ground."
+title: "How to visit Mangystau: trains, tours and practical tips"
+description: "How to reach Mangystau by train from Astana, Almaty, Nukus and Kungrad, plus my three-day tour from Aktau: landscapes, camping and practical details."
 image: "images/blog/mangystau.jpg"
 categories: ["How-to", "Kazakhstan", "Central Asia"]
 continents: ["Asia"]
@@ -20,9 +20,26 @@ To get to Aktau, I flew from Paris with a layover in Istanbul. It was the cheape
 
 ---
 
+## Getting to Mangystau by train
+
+The railway station for Aktau is **Mangistau / МАНГИСТАУ**, outside the city.
+
+**Examples checked on 3 November 2026**, for departures on 10–11 November. Fares below are per person, one way, in an open-plan sleeper (**platzkart**); euro equivalents use about 508 KZT to 1€.
+
+- **Astana to Mangystau:** train **037Х** calls at **Astana-1**. The 11 November departure leaves at **20:50** and reaches Mangistau at **21:41 on 13 November**: **48:51**, from **19 272 KZT (37,90€)**. This departure uses Astana-1, rather than Nurly Zhol.
+- **Almaty to Mangystau:** the 10 November service leaves **Almaty-2 at 23:57** and reaches Mangistau at **05:50 on 13 November**: **53:53**, from **22 013 KZT (43,30€)**.
+- **Nukus to Mangystau:** direct train **649Ф** connects Karakalpakstan in Uzbekistan with Mangistau. The 10 November service leaves **Nukus at 19:43**, arriving at **16:47 the following day**: **21:04**, from **18 882 KZT (37,20€)**.
+- **Kungrad to Mangystau:** the same train calls at **Kungrad at 22:00** on 10 November: **18:47**, from **17 878 KZT (35,20€)**. Kungrad is also written **Qo‘ng‘irot**.
+
+The direct service from Uzbekistan does not run every day. **Beyneu** offers a connecting route: on 11 November, the Nukus–Beyneu train runs **05:00–16:18**, taking **11:18**. Beyneu–Mangistau is another roughly **7–9 hours**.
+
+Tickets and dated timetables are available from [Kazakhstan Railways](https://bilet.railways.kz/) and [Uzbekistan Railways](https://eticket.uzrailpass.uz/en/).
+
+---
+
 ## How to Visit Mangystau
 
-Independent travel is technically possible, but unless you speak Russian or Kazakh, can drive long hours on bad tracks, and are ready to camp without support, it's far easier to go with a local tour. I can barely drive my mom's 1007, so... I booked a tour.
+Visiting Mangystau without a tour is technically possible, but unless you speak Russian or Kazakh, can drive long hours on bad tracks, and are ready to camp without support, it's far easier to go with a local tour. I can barely drive my mom's 1007, so... I booked a tour.
 
 Indeed, I joined a small group tour with a local tour operator I found online prior to arrival: [RedMaya Travel](https://redmaya-travel.kz/english). They are the company I used, and they remain my first recommendation. That direct link is not an affiliate link.
 

@@ -1,7 +1,7 @@
 ---
 date: "2023-08-22"
 title: "Doing a safari on a budget"
-description: "Advice for reducing safari costs without relying only on expensive packaged tours."
+description: "How to do a safari on a budget: local agencies, group tours, camping and what the price includes, with my booking experience in Arusha."
 image: "images/blog/tanzania.jpg"
 categories: ["Tips", "Africa"]
 continents: ["Africa"]

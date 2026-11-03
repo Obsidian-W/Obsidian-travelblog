@@ -1,7 +1,7 @@
 ---
 date: "2024-08-13"
-title: "A week in Tibet"
-description: "A one-week Tibet itinerary covering Lhasa, monasteries, lakes and high-altitude roads."
+title: "A week in Tibet: Lhasa, monasteries and Everest Base Camp"
+description: "My week in Tibet from Lhasa to Everest Base Camp and the Nepal border, with monasteries, Lake Yamdrok, tour permits and arrival options."
 image: "images/blog/tibet.jpg"
 itinerary_map: "/images/itineraries/tibet.svg"
 categories: ["Itinerary", "China"]
@@ -58,6 +58,10 @@ I arrived in Lhasa by plane from nearly nearby Shangri-La, another tibetan city,
 It's 3 days away by car, so the choice of flying was obvious. Trains may exist as well, but that
 really depends on your starting city, from Yunnan, you have to flight, despite the geographic proximity
 (1500 km lol).
+
+**Visiting Tibet as a foreigner** requires a **Tibet Travel Permit** and an **organised tour**. The travel agency arranges the permit for the agreed route and arrival date.
+
+**Reaching Lhasa by train** is another option via **Xining / 西宁**, on the Qinghai–Tibet railway.
 
 I was sick when I arrived, so I didn't visit the Norbulingka palace as intended,
 if you're healthy, do me a favor and visit it and tell in the comments how it was!
@@ -168,6 +172,8 @@ Foreigners, yes, nepali are common, but not a group made of: a German, two Frenc
 ethnicities, a latina and an ashkenazi we met along the way.
 
 ## Day 7 Road to Kathmandu
+
+The **Gyirong–Rasuwagadhi** border crossing used on my trip was affected by a mudslide disaster on **26 August 2026**.
 
 ![The infamous gyirong border](images/blog/nepalborder.jpg)
 

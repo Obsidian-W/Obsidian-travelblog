@@ -1,7 +1,7 @@
 ---
 date: "2023-08-22"
 title: "Faire un safari à petit budget"
-description: "Conseils pour réduire le coût d'un safari sans dépendre uniquement des circuits chers."
+description: "Comment faire un safari pas cher : agences locales, circuits en groupe, camping et frais inclus, avec mon expérience de réservation à Arusha."
 image: "images/blog/tanzania.jpg"
 categories: ["Conseils", "Afrique"]
 continents: ["Afrique"]

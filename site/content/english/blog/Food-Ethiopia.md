@@ -1,7 +1,7 @@
 ---
 date: "2023-08-15"
-title: "Ethiopia food guide"
-description: "What to eat in Ethiopia and where to look for it."
+title: "Food in Ethiopia: injera, stews, breakfast and coffee"
+description: "Ethiopian food from injera and shiro to tibs, breakfasts and coffee, with my impressions and places I ate in Addis Ababa, Bahir Dar, Lalibela and Harar."
 image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eating%20Injera%2C%20Ethiopia%20%2814683490675%29.jpg"
 categories: ["Food", "Ethiopia", "Africa"]
 continents: ["Africa"]
@@ -20,7 +20,7 @@ Most Ethiopian meals are built around **injera**, the sour flatbread that works 
 Injera is traditionally made with teff, though some recipes mix in wheat or barley. Those mixed versions contain gluten.
 Honestly, I found Injera pretty disgusting, I can't stand sour tastes. So I suffered for my three weeks and a half I had in Ethiopia.
 
-Hand-feeding someone a bite of injera is called **gursha**, a gesture of affection or hospitality. [Gursha restaurant in Addis explains the custom](https://www.gursha-restaurant.com/).
+Hand-feeding someone a bite of injera is called **gursha**, a gesture of affection or hospitality.
 
 ## Core stews and fasting plates
 
@@ -95,10 +95,3 @@ Tea is common. Fresh juices are easy in Addis and larger towns.
 **Alicha** stews are generally milder than those made with berbere.
 
 > Good luck with the food, if you like Injera, you'll be rewarded with one of the world's top food.
-
-## Source log
-
-- [Visit Ethiopia: lifestyle](https://visitethiopia.travel/about-ethiopia/lifestyle/).
-- [Visit Ethiopia: cultural experience](https://visitethiopia.et/page/cultural-experience).
-- [Azmera Shiro: menu](https://deliveraddis.com/restaurants/azmera-bole).
-- [Ethiopia Travel: kitfo](https://www.turismoetiopia.com/en/food-in-ethiopia/kitfo).

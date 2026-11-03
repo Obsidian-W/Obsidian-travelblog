@@ -1,7 +1,7 @@
 ---
 date: "2026-10-20"
 title: "Three weeks in Central China"
-description: "The best of China: Shaanxi, Sichuan, Hunan and even a bit of Guizhou, the best of China!"
+description: "Three weeks in Central China, from Xi'an to Zhangjiajie via Chengdu, Jiuzhaigou and Chongqing: my route, transport, tickets and costs."
 image: "images/blog/jiuzhaigou2.jpg"
 itinerary_map: "/images/itineraries/central-china.svg"
 categories: ["Itinerary", "China"]
@@ -142,7 +142,7 @@ For more, add **Small Wild Goose Pagoda** and **Xi'an Museum**, which share a si
 
 Book **Xi'an North / Xi'anbei → Chengdu East / Chengdudong**. Trains take roughly **3:30**. Budget **220 RMB (27€)** in second class.
 Try departing early, or leaving late the previous day.
-[Rail route and fare range](https://www.travelchinaguide.com/china-trains/high-speed/xian-chengdu.htm).
+
 
 After dropping your luggage, start at **Wenshu Monastery / Wenshu Yuan**, then **People's Park**, followed **Kuanzhai / Wide and Narrow Alleys**.
 Entry to all three is free.
@@ -191,11 +191,11 @@ Spend the day on **Emei Shan**, with the **Golden Summit** as the main stop. At 
 Walk around the statue, visit the temple halls, then follow the viewing terraces along the cliffs.
 On a clear day, the ridges stretch into the distance; cloud can sit below the summit or swallow the views entirely. (yay, another foggy place! Wait I spoiled you the rest of the article!!)
 
-Start early from the **Baoguo/Huangwan** area. The mountain bus climbs through the forest to **Leidongping**, taking roughly **2 hours**. From there, walk uphill for **20–40 minutes** to **Jieyin Hall**, then take the cable car to the summit. Allow roughly **1–2 hours at the top** as a planning estimate, before returning to Leidongping for lunch and the bus down. [Summit route and day plan](https://www.chinahighlights.com/leshan/attraction/mount-emei.htm).
+Start early from the **Baoguo/Huangwan** area. The mountain bus climbs through the forest to **Leidongping**, taking roughly **2 hours**. From there, walk uphill for **20–40 minutes** to **Jieyin Hall**, then take the cable car to the summit. Allow roughly **1–2 hours at the top** as a planning estimate, before returning to Leidongping for lunch and the bus down.
 
 For forest trails and smaller temples instead, choose **Wannian Temple and Qingyin Pavilion** as an alternative to the summit. Combining both routes needs another day.
 
-Stay near the mountain entrance after Leshan: the **Leshan → Emeishan** train takes roughly **15–25 minutes**, followed by a local bus to Baoguo/Huangwan. After the mountain visit, return to **Chengdu** by train, allowing roughly **1–2 hours** and an estimated **35–80 RMB (4,40–10€)** for the rail leg. [Rail connections](https://www.travelchinaguide.com/china-trains/high-speed/chengdu-leshan-emeishan.htm).
+Stay near the mountain entrance after Leshan: the **Leshan → Emeishan** train takes roughly **15–25 minutes**, followed by a local bus to Baoguo/Huangwan. After the mountain visit, return to **Chengdu** by train, allowing roughly **1–2 hours** and an estimated **35–80 RMB (4,40–10€)** for the rail leg.
 
 **October 2026 summit costs:** **160 RMB (20€)** admission, **90 RMB (11,25€)** for the return mountain bus and **120 RMB (15€)** for the return Golden Summit cable car: **370 RMB (46,25€)** in total, before meals and trains. [Official tariffs](https://www.leshan.gov.cn/lsswszf/zzzqgsgg/760644150124613.html). Renovation work is limiting summit admission and transport capacity; reserve the summit entry, bus and cable car ahead. [Official access notice](https://www.leshan.gov.cn/lsswszf/zzzqgsgg/808058894643269.html).
 
@@ -221,7 +221,7 @@ You can also book this [two-day Huanglong and Jiuzhaigou tour — affiliate link
 
 I did a three-day tour for around 120€ booked locally in Chengdu. The guide spoke only Chinese but was really fun. The hotel was really nice too.
 
-Even if you have a guided tour, you will have to take an early train from **Chengdu East to Huanglongjiuzhai**.
+To reach Jiuzhaigou from Chengdu via Huanglong, take an early train from **Chengdu East to Huanglongjiuzhai**, even if you have a guided tour.
 If you have no guided tour, then you will need to catch an additional shuttle bus to Huanglong.
 It's around 2 hours on the train, followed by 35–50 minutes on the bus.
 Budget roughly 130–180 RMB (16,25–22,50€) for the train and 28 RMB (3,50€) for the bus. [Station connections](https://www.jiuzhai.com/intelligent-service/arrival-mode).
@@ -235,7 +235,7 @@ Count around 4 hours for the visit.
 Note: The upper pools are at about 3500m, and even with the cable car, there's some uphill walking. My friend wasn't well at this altitude.
 
 Entry costs 170 RMB (21,25€), plus 80 RMB (10€) for the cable car up: 250 RMB (31,25€) together.
-If you take the cable car down too, add 40 RMB (5€). [Huanglong prices and shuttle](https://www.travelchinaguide.com/attraction/sichuan/chengdu/yellowdragon.htm).
+If you take the cable car down too, add 40 RMB (5€).
 
 Afterwards, take the tourist coach to **Jiuzhaigou**, roughly 2:30–3 hours away. (Or go back with your tour, you lazy ass SoB)
 Budget around 60–100 RMB (7,50–12,50€) for this leg.
@@ -264,7 +264,7 @@ The [park's route guide](https://www.jiuzhai.com/intelligent-service/way-of-play
 
 Entry is 190 RMB (23,75€), plus 90 RMB (11,25€) for the bus (well needed): 280 RMB (35€) for the day.
 From 16 November to 31 March, the total drops to 160 RMB (20€).
-Book with your passport and bring it with you, they use it at the gate.
+**Booking Jiuzhaigou tickets with a foreign passport** is possible online through the park’s official WeChat account, **九寨沟**, under **游览必看 → 门票预定**. The reservation covers a dated entry and the sightseeing bus; the same passport is used at the entrance.
 [Official tickets](https://www.jiuzhai.com/intelligent-service/tickets).
 
 > Note that you should bring lunch, food options aren't great.
@@ -367,7 +367,7 @@ I went to Guanyinqiao, it's nice for people watching, but not much more, far too
 Visit **Three Natural Bridges**, **Longshuixia Fissure Gorge** and **Fairy Mountain**.
 Either by yourself or by tour. My tour included all three.; if going by yourself, drop the fairy mountain, it's not worth it.
 
-Here are some researches about going there alone:
+I also researched how to visit Wulong without a tour:
 
 Search trains to **Wulong South / Wulongnan** as well as **Wulong**.
 Continue by the official tourist transfer towards **Xiannüshan visitor centre**, then use the scenic shuttles. Set aside **1–1:30** for the station-to-visitor-centre road leg and waiting. Fairy mountain is harded to access, I coulfn't finf ways to do it.
@@ -403,7 +403,7 @@ This [Wulong and Fairy Mountain tour — affiliate link](https://www.getyourguid
 
 ### Chongqing to Tongren
 
-Allow **3–5 hours by rail**, potentially with a change, and **180–300 RMB (22,50–37,50€)** in second class. Of course, select Tongren North, not the South.
+Allow **3–5 hours by rail**, potentially with a change, and **180–300 RMB (22,50–37,50€)** in second class. The station for the city is **Tongren / 铜仁**; **Tongren South / Tongrennan / 铜仁南** is farther away.
 
 With an early arrival, head to **Tongren Grand Canyon**; budget an estimated **150–250 RMB (18–32€)** for the whole outing
 Apparently, there are public bus near the tourist bus station, I didn't check, I couldn't go due to the pouring rain.
@@ -415,7 +415,7 @@ Note: Once again food is offered from the various shops (Free meal of snacks)! A
 
 ### Mount Fanjing / Fanjingshan
 
-Use the **East Gate in Jiangkou** for the standard sightseeing-bus and cable-car route. From Tongren, allow around **1:30–2 hours** by scheduled tourist coach and **60 RMB (7,5€)** each way. They start from the Tourist bus station, opposite of the train station (And a bit farther, it's really the opposite road).
+To reach Fanjingshan from Tongren, use the **East Gate in Jiangkou** for the standard sightseeing-bus and cable-car route. Allow around **1:30–2 hours** by scheduled tourist coach and **60 RMB (7,5€)** each way. They start from the Tourist bus station, opposite of the train station (And a bit farther, it's really the opposite road).
 
 #### Booking park admission
 
@@ -466,7 +466,7 @@ Walking the public old-town streets is free. A **Tuo River boat** is a separate 
 ![Furong town above its waterfall](images/blog/furong.jpg)
 ^*Furong, built above the waterfall*
 
-Reach **Fenghuanggucheng station** by the railway shuttle, listed at **7 RMB (0,90€)**, then take a train to **Furongzhen** in around **40–50 minutes**. Allow **40–70 RMB (5–8,75€)** for the train and **10–20 RMB (1,25–2,50€)** for Furong's station-to-town connection. [Fenghuang station access](https://www.travelchinaguide.com/cityguides/zhangjiajie-to-fenghuang.htm), [Furong access](https://www.travelchinaguide.com/cityguides/hunan/xiangxi/furong-ancient-town.htm).
+Reach **Fenghuanggucheng station** by the railway shuttle, listed at **7 RMB (0,90€)**, then take a train to **Furongzhen** in around **40–50 minutes**. Allow **40–70 RMB (5–8,75€)** for the train and **10–20 RMB (1,25–2,50€)** for Furong's station-to-town connection.
 
 Stay overnight for the illuminated waterfall. The gate ticket is around **100 RMB (13€)** (Yes you need to pay, but you can reenter whenever you want and have access to a lot of performances, they were boring and weird IMO, but you do you)
 
@@ -501,7 +501,7 @@ Fog can hide the valley views and the arch, rain might be common as well. Also, 
 
 ### Cableways, escalators and tickets
 
-**October 2026 update:** the long cableway from downtown closed for renovation on **13 October**, suspending **Routes A and B**. **Route C**, using the **Tianmen Cave Express Cableway** in both directions, remains the operating route. No reopening date has been confirmed. [Cableway closure and route changes](https://www.zhangjiajieguide.com/travel-notices/tianmen-mountain-cableway-suspension.html).
+**October 2026 update:** the long cableway from downtown closed for renovation on **13 October**, suspending **Routes A and B**. **Route C**, using the **Tianmen Cave Express Cableway** in both directions, remains the operating route. No reopening date has been confirmed.
 When I went, it was still working, but a lot of construction was starting to happen.
 
 The current journey is:
@@ -512,7 +512,7 @@ The current journey is:
 4. Take the **seven-stage through-mountain escalators** above the cave to the summit.
 5. Walk the summit circuits, then return through the escalators and Express Cableway.
 
-Book a dated entry slot with your passport. The standard adult package costs **288 RMB (36€)**, including the return Express Cableway and upper escalators. The lower escalator ascent costs **32 RMB (4€)** extra; glass-path shoe covers cost **5 RMB (0,60€)**, and the optional summit chairlift costs **25 RMB (3,10€)** one way. [Ticket inclusions and extras](https://www.travelchinaguide.com/zhangjiajie-tianmen-mountain-ticket-booking.htm).
+Book a dated entry slot with your passport. The standard adult package costs **288 RMB (36€)**, including the return Express Cableway and upper escalators. The lower escalator ascent costs **32 RMB (4€)** extra; glass-path shoe covers cost **5 RMB (0,60€)**, and the optional summit chairlift costs **25 RMB (3,10€)** one way.
 
 Before the closure, Routes A and B combined the downtown cableway, mountain-road shuttle and Express Cableway in opposite directions. The **99-bend road** was part of those journeys.
 
@@ -539,7 +539,7 @@ I took no cable cars. I walked several climbs of over 7 000 steps, including one
 
 Use day 19 for **Golden Whip Stream** and the lower valleys. **Ten-Mile Gallery** adds a valley path between rows of sandstone peaks. The upper circuit and valley walk can swap days to use the clearer weather for the high viewpoints. (And weather can be shitty indeed, I had fully foggy days)
 
-The published adult entry package is **227 RMB (28,40€)** including scenic buses and insurance, normally valid for **four consecutive days**. The elevator, cable cars and gallery train are optional extras. If you use them, allow approximately **65 RMB (8,10€)** for one Bailong ascent and **72 RMB (9€)** for one Tianzi descent. [Park ticket inclusions](https://www.travelchinaguide.com/attraction/hunan/zhangjiajie-national-forest-park.htm).
+The published adult entry package is **227 RMB (28,40€)** including scenic buses and insurance, normally valid for **four consecutive days**. The elevator, cable cars and gallery train are optional extras. If you use them, allow approximately **65 RMB (8,10€)** for one Bailong ascent and **72 RMB (9€)** for one Tianzi descent.
 
 Also note that the park tickets last for four days,but you have to reset/reobtain a new entrance hour each day, for that see the park's staff.
 You can also do it on the same day, I did it just fine (because I didn't know better), it seems that they have a line of foreigners stuck because of WeChat being shit. (If you successfully installed WeChat, congrats. It's been 7 years for me of trying to make it work)
@@ -591,19 +591,19 @@ Give the **Panda Base** its own morning, then spend the afternoon around **Wuhou
 
 **Sanxingdui Museum**, near Guanghan, displays the large bronze masks, standing figures, gold objects and ritual bronzes excavated from the ancient Shu sites.
 
-Take a train from **Chengdu East to Guanghan North**, around **30 minutes**, then **bus 13** to the museum. Direct tourist coaches also leave from central Chengdu. Admission is **72 RMB (9€)**; allow **150–220 RMB (18,75–27,50€)** for the outing with public transport and lunch, excluding accommodation. Reserve a dated museum ticket in advance. [Museum access and admission](https://www.travelchinaguide.com/attraction/sichuan/chengdu/sanxingdui.htm).
+Take a train from **Chengdu East to Guanghan North**, around **30 minutes**, then **bus 13** to the museum. Direct tourist coaches also leave from central Chengdu. Admission is **72 RMB (9€)**; allow **150–220 RMB (18,75–27,50€)** for the outing with public transport and lunch, excluding accommodation. Reserve a dated museum ticket in advance.
 
 ### Dujiangyan: one day from Chengdu
 
 **Dujiangyan** combines the ancient irrigation works, river channels, suspension bridges and **Erwang Temple**.
 
-Take the metro to **Xipu**, then a train to **Lidui Park / Liduigongyuan**, about **20–30 minutes** for the rail leg. The scenic-area entrance is roughly **10 minutes on foot** from the station. Admission is **80 RMB (10€)**; trains are listed from **10 RMB (1,25€)** each way. Budget **130–180 RMB (16,25–22,50€)** with local transport and lunch. [Dujiangyan access and prices](https://www.travelchinaguide.com/attraction/sichuan/chengdu/dujiangyan.htm).
+Take the metro to **Xipu**, then a train to **Lidui Park / Liduigongyuan**, about **20–30 minutes** for the rail leg. The scenic-area entrance is roughly **10 minutes on foot** from the station. Admission is **80 RMB (10€)**; trains are listed from **10 RMB (1,25€)** each way. Budget **130–180 RMB (16,25–22,50€)** with local transport and lunch.
 
 ### Dazu: one day from Chongqing
 
 At the **Dazu Rock Carvings**, **Baodingshan** has Buddhist scenes carved along the cliffs, a reclining Buddha and the Thousand-Armed Guanyin. **Beishan** is a separate site with more carvings.
 
-Take a coach to **Dazu town**, around **2 hours**, then a local bus to Baodingshan. Allow a full day from Chongqing. Admission is **115 RMB (14,40€)** for Baodingshan or **140 RMB (17,50€)** for the Baodingshan–Beishan combination; budget approximately **230–350 RMB (28,75–43,75€)** for a public-transport day with lunch, depending on the sites and local connections. [Dazu access and tickets](https://www.travelchinaguide.com/attraction/chongqing/dazu.htm).
+Take a coach to **Dazu town**, around **2 hours**, then a local bus to Baodingshan. Allow a full day from Chongqing. Admission is **115 RMB (14,40€)** for Baodingshan or **140 RMB (17,50€)** for the Baodingshan–Beishan combination; budget approximately **230–350 RMB (28,75–43,75€)** for a public-transport day with lunch, depending on the sites and local connections.
 
 With **one more day at Wulingyuan**, spread the upper viewpoints across two days and give **Golden Whip Stream** a separate day. **Yangjiajie** adds its long sandstone walls to the pillar landscapes around Yuanjiajie and Tianzi Mountain. A third consecutive park day falls within the standard four-day entry ticket; additional cable-car rides remain separate.
 

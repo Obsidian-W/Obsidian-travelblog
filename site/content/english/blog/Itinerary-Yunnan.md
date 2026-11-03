@@ -1,7 +1,7 @@
 ---
 date: "2024-07-25"
 title: "One week in Yunnan"
-description: "A one-week Yunnan itinerary covering Kunming, Dali, Lijiang and Tiger Leaping Gorge."
+description: "My Yunnan itinerary from Kunming to Shangri-La, with Dali, Lijiang, Blue Moon Valley and an extra day for Tiger Leaping Gorge, plus buses and trains."
 image: "images/blog/lijiang.jpg"
 itinerary_map: "/images/itineraries/yunnan.svg"
 categories: ["Itinerary", "China"]
@@ -88,6 +88,8 @@ Kunming East Bus Station (昆明东部客运站).
 
 Entrance fee fro Shilin: around 130–175 RMB, depending on season.
 
+The train route from Kunming to Shilin uses **Kunming South / Kunmingnan → Shilin West / Shilinxi**. From Shilin West, **bus 99** runs to the scenic-area bus station, followed by a walk or the free shuttle to the visitor centre.
+
 It's a bit pricey, and very touristy in the main areas, but as soon as you stray from the main path
 you can see many rock formations *AND* be alone.
 But the main part is the prettiest one.
@@ -106,12 +108,9 @@ to get food and see some sights! I went around Wuhua, but Guandu is an option.
 
 Salvador??? Not this dalí, actually, but it's even better.
 
-Alright, take a morning train to **Dali** (8:30 departure, arrival around noon), followed by a bus.
+Alright, to get from Kunming to **Dali Old Town**, take a morning train to **Dali** (8:30 departure, arrival around noon), followed by a bus.
 I just asked around and got dropped near my hotel in Old Town.
-Because, yes, the train station is n the new Deli, to the south of Lake Erhai.
-The old town is south west.
-
-They are well connected, so it's easy to visit.
+**Dali station / 大理站** is in the new town, south of Lake Erhai. Dali Ancient Town is farther north, on the lake’s western side. **Bus 8** connects the station with **Dali Ancient Town East Gate / 大理古城东门**.
 
 I spent the whole afternoon exploring **Dali Ancient Town** and the **Three Pagodas**.  
 The place is charming and walkable, surrounded by mountains and **Lake Erhai** to the east.  
@@ -157,10 +156,12 @@ I spent my evening in Dali old town again. It's lovely and the restaurants are m
 
 ## Day 5: Lijiang
 
-Bus from Dali Old Town to **Lijiang** (8:30 departure, arrival around 11:30).  
+To get from Dali Old Town to **Lijiang**, take the bus (8:30 departure, arrival around 11:30).
 There are many buses you can catch from old town, as many do this trip.
 Train are also running, but that means going back to new town, so depending on your accommodation
 or your love of Didi (Nice try), it's not ideal.
+
+By train, the route is **Dali / 大理 → Lijiang / 丽江**. Both stations are outside the old towns, which is why the bus was more convenient for my route.
 
 > If you have one more day, you can stop in Shaxizhen, but it requires a change of bus in Jianchuan.
 > It's doable as a long day trip, but with your luggage and everything, it's not the best.
@@ -221,6 +222,8 @@ But be careful, the logistic to do it this way might be hard
 ![Shangri-la](images/blog/yunnan8.jpg)
 
 Bus north to **Shangri-La** (Also known Zhongdian), around 4 to 5 hours.  
+For a direct journey from Lijiang to Shangri-La, there is also a train: **Lijiang / 丽江 → Xianggelila / 香格里拉** on 12306. The fastest services take around **1:10**, according to the August 2026 railway update. **Dukezong Old Town** is a separate local journey from the station.
+
 Altitude here is 3200m, if you're weak to altitude you may feel it.
 
 Visit the **Old Town** and the huge **Ganden Sumtseling Monastery**, but if you look closely
@@ -239,7 +242,7 @@ is to ask the hostel directly, they had many documents on nearby hikes, but most
 
 ## Practical Notes
 
-- **Transport**: trains between Kunming–Dali and buses for the rest.  
+- **Transport**: trains link Kunming, Dali, Lijiang and Shangri-La; my route also used buses between the old towns.
 - **Booking**: Trip.com works fine; hostels can help too.  
 - **Budget**: around 30–40 € per day once you're there.  
 - **SIM & Apps**: Amap (now in English) + Alipay are essential.  
