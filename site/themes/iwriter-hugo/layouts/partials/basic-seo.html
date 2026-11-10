@@ -18,14 +18,7 @@
 {{- if $isPaged -}}
   {{- $canonical = .Paginator.URL | absURL -}}
 {{- end -}}
-{{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
-{{- $isTaxonomyIndex := eq .Kind "taxonomy" -}}
-{{- $isThinTerm := false -}}
-{{- if eq .Kind "term" -}}
-  {{- $isThinTerm = lt (len .Pages) 2 -}}
-{{- end -}}
-{{- $pageNoindex := .Params.noindex | default false -}}
-{{- $shouldNoindex := or $isSearch $isTagLike $isTaxonomyIndex $isThinTerm $pageNoindex -}}
+{{- $shouldNoindex := partial "seo/noindex.html" . -}}
 
 {{- $pageTitle := .Title | default $siteTitle -}}
 {{- if and .IsPage (eq .Section "blog") -}}

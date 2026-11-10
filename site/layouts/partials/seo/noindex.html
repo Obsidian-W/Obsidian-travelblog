@@ -1,0 +1,10 @@
+{{- /* True for pages kept out of the index and the sitemap. Pagination is handled by the caller. */ -}}
+{{- $isSearch := eq .RelPermalink ("/search/" | relLangURL) -}}
+{{- $isTagLike := or (eq .Data.Plural "tags") (eq .Data.Plural "series") (eq .Data.Plural "author") -}}
+{{- $isTaxonomyIndex := eq .Kind "taxonomy" -}}
+{{- $isThinTerm := false -}}
+{{- if eq .Kind "term" -}}
+  {{- $isThinTerm = lt (len .Pages) 2 -}}
+{{- end -}}
+{{- $pageNoindex := .Params.noindex | default false -}}
+{{- return or $isSearch $isTagLike $isTaxonomyIndex $isThinTerm $pageNoindex -}}
