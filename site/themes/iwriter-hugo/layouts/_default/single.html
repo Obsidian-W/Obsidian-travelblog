@@ -50,6 +50,9 @@
         <div class="content">
           {{ .Content }}
         </div>
+        {{ if or (in .Params.categories "Morocco") (in .Params.categories "Maroc") }}
+        <script type="text/plain" data-consent="ads" async src="https://tpwgts.com/content?currency=EUR&promo_id=4497&campaign_id=137&powered_by=true&amount=3&category=2&city_id=289&locale=en-US&shmarker=797834&trs=593193" charset="utf-8"></script>
+        {{ end }}
         {{ if eq .Section "blog" }}
         {{ partial "article-author.html" . }}
         {{ end }}
@@ -57,7 +60,13 @@
         {{ if site.Config.Services.Disqus.Shortname }}
         <section class="article-comments">
           <h2 class="h3 mb-4">{{ i18n "comments_heading" }}</h2>
-          {{ template "_internal/disqus.html" . }}
+          {{- /* Disqus loads only after consent to "comments" (partials/consent/banner.html). */}}
+          <div id="disqus_thread"></div>
+          <p class="small" data-consent-placeholder="comments">{{ i18n "consent_comments_hint" }} <button type="button" class="w-consent-link" data-consent-open>{{ i18n "consent_settings" }}</button></p>
+          <script type="text/plain" data-consent="comments">
+            var disqus_config = function () { this.page.url = "{{ .Permalink }}"; this.page.identifier = "{{ .RelPermalink }}"; };
+            (function () { var d = document, s = d.createElement("script"); s.src = "https://{{ site.Config.Services.Disqus.Shortname }}.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })();
+          </script>
         </section>
         {{ end }}
 

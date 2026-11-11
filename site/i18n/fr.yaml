@@ -138,3 +138,39 @@
 
 - id: books_view
   translation: "Voir sur Amazon"
+
+- id: consent_title
+  translation: Cookies et publicités
+
+- id: consent_text
+  translation: "Avec votre accord, nous et nos partenaires utilisons des cookies et technologies similaires pour afficher des publicités, mesurer l'audience et charger des services tiers. Vous pouvez modifier votre choix à tout moment via « Paramètres des cookies » en bas de chaque page."
+
+- id: consent_privacy
+  translation: Politique de confidentialité
+
+- id: consent_analytics
+  translation: Mesure d'audience
+
+- id: consent_ads
+  translation: Publicité et liens affiliés
+
+- id: consent_comments
+  translation: Commentaires (Disqus)
+
+- id: consent_reject
+  translation: Tout refuser
+
+- id: consent_choose
+  translation: Personnaliser
+
+- id: consent_save
+  translation: Enregistrer mes choix
+
+- id: consent_accept
+  translation: Tout accepter
+
+- id: consent_settings
+  translation: Paramètres des cookies
+
+- id: consent_comments_hint
+  translation: Les commentaires se chargent après acceptation des cookies de commentaires.

@@ -1,0 +1,126 @@
+{{- /*
+  Cookie consent banner. Third-party scripts are written as
+  <script type="text/plain" data-consent="ads|analytics|comments"> and only run after the
+  visitor accepts that category. The choice is kept for 6 months in localStorage.
+  Open it again from any element with the data-consent-open attribute.
+*/ -}}
+{{- $privacy := "" -}}
+{{- with or (site.GetPage "/privacy") (site.GetPage "/privacy-policy") }}{{ $privacy = .RelPermalink }}{{ end -}}
+<div id="w-consent" class="w-consent" role="dialog" aria-modal="false" aria-labelledby="w-consent-title" hidden>
+  <p id="w-consent-title" class="w-consent__title">{{ i18n "consent_title" }}</p>
+  <p class="w-consent__text">{{ i18n "consent_text" }}{{ with $privacy }} <a href="{{ . }}">{{ i18n "consent_privacy" }}</a>{{ end }}</p>
+  <div class="w-consent__choices" hidden>
+    <label data-consent-category="analytics"><input type="checkbox" value="analytics"> {{ i18n "consent_analytics" }}</label>
+    <label data-consent-category="ads"><input type="checkbox" value="ads"> {{ i18n "consent_ads" }}</label>
+    <label data-consent-category="comments"><input type="checkbox" value="comments"> {{ i18n "consent_comments" }}</label>
+  </div>
+  <div class="w-consent__buttons">
+    <button type="button" data-consent-action="reject">{{ i18n "consent_reject" }}</button>
+    <button type="button" data-consent-action="choose">{{ i18n "consent_choose" }}</button>
+    <button type="button" data-consent-action="save" hidden>{{ i18n "consent_save" }}</button>
+    <button type="button" data-consent-action="accept">{{ i18n "consent_accept" }}</button>
+  </div>
+</div>
+<style>
+.w-consent{position:fixed;left:1rem;right:1rem;bottom:1rem;z-index:10000;max-width:44rem;margin:0 auto;padding:1.1rem 1.25rem;border-radius:.75rem;background:#fff;color:#1f2a37;box-shadow:0 10px 40px rgba(0,0,0,.18);font-size:.95rem;line-height:1.5}
+.w-consent[hidden],.w-consent [hidden]{display:none!important}
+.w-consent__title{margin:0 0 .35rem;font-weight:700}
+.w-consent__text{margin:0 0 .8rem}
+.w-consent__text a{text-decoration:underline}
+.w-consent__choices{display:flex;flex-wrap:wrap;gap:.5rem 1.25rem;margin:0 0 .8rem}
+.w-consent__choices label{display:flex;gap:.4rem;align-items:center;cursor:pointer}
+.w-consent__buttons{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:flex-end}
+.w-consent__buttons button{flex:1 1 auto;min-width:7.5rem;padding:.55rem 1rem;border:1px solid #1f2a37;border-radius:.4rem;background:transparent;color:inherit;font:inherit;font-weight:600;cursor:pointer}
+.w-consent__buttons button[data-consent-action="accept"],.w-consent__buttons button[data-consent-action="reject"]{background:#1f2a37;color:#fff}
+.w-consent-link{padding:0;border:0;background:none;color:inherit;font:inherit;text-decoration:underline;cursor:pointer}
+[data-theme="dark"] .w-consent{background:#1f2a37;color:#f3f4f6;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+[data-theme="dark"] .w-consent__buttons button{border-color:#f3f4f6}
+[data-theme="dark"] .w-consent__buttons button[data-consent-action="accept"],[data-theme="dark"] .w-consent__buttons button[data-consent-action="reject"]{background:#f3f4f6;color:#1f2a37}
+</style>
+<script>
+(function () {
+  var KEY = "w-consent-v1", MAX_AGE = 182 * 24 * 3600 * 1000;
+  var box = document.getElementById("w-consent");
+  if (!box) return;
+  function gated() { return Array.prototype.slice.call(document.querySelectorAll('script[type="text/plain"][data-consent]')); }
+  var categories = gated().map(function (s) { return s.getAttribute("data-consent"); })
+    .filter(function (c, i, a) { return a.indexOf(c) === i; });
+  function read() {
+    try { var v = JSON.parse(localStorage.getItem(KEY)); if (v && v.c && Date.now() - v.t < MAX_AGE) return v.c; } catch (e) {}
+    return null;
+  }
+  function save(choice) { try { localStorage.setItem(KEY, JSON.stringify({ t: Date.now(), c: choice })); } catch (e) {} }
+  function run(choice) {
+    gated().forEach(function (old) {
+      var cat = old.getAttribute("data-consent");
+      if (!choice[cat] || old.getAttribute("data-consent-done")) return;
+      old.setAttribute("data-consent-done", "1");
+      var s = document.createElement("script");
+      for (var i = 0; i < old.attributes.length; i++) {
+        var a = old.attributes[i];
+        if (a.name !== "type" && a.name !== "data-consent" && a.name !== "data-consent-done") s.setAttribute(a.name, a.value);
+      }
+      if (!old.src) s.text = old.text;
+      old.parentNode.insertBefore(s, old.nextSibling);
+    });
+    Object.keys(choice).forEach(function (cat) {
+      if (!choice[cat]) return;
+      document.querySelectorAll('[data-consent-placeholder="' + cat + '"]').forEach(function (el) { el.hidden = true; });
+    });
+  }
+  function clearAnalyticsCookies() {
+    document.cookie.split(";").forEach(function (c) {
+      var name = c.split("=")[0].trim();
+      if (/^_ga/.test(name)) {
+        var host = location.hostname, parts = host.split(".");
+        for (var i = 0; i < parts.length - 1; i++) {
+          document.cookie = name + "=; Max-Age=0; path=/; domain=." + parts.slice(i).join(".");
+        }
+        document.cookie = name + "=; Max-Age=0; path=/";
+      }
+    });
+  }
+  function all(value) { var c = {}; categories.forEach(function (k) { c[k] = value; }); return c; }
+  var choices = box.querySelector(".w-consent__choices");
+  box.querySelectorAll("[data-consent-category]").forEach(function (l) {
+    if (categories.indexOf(l.getAttribute("data-consent-category")) === -1) l.hidden = true;
+  });
+  function show() {
+    var current = read() || {};
+    box.querySelectorAll(".w-consent__choices input").forEach(function (i) { i.checked = !!current[i.value]; });
+    box.hidden = false;
+  }
+  function decide(choice) {
+    var previous = read();
+    save(choice);
+    box.hidden = true;
+    choices.hidden = true;
+    box.querySelector('[data-consent-action="save"]').hidden = true;
+    box.querySelector('[data-consent-action="choose"]').hidden = false;
+    var withdrawn = previous && Object.keys(previous).some(function (k) { return previous[k] && !choice[k]; });
+    if (withdrawn) { if (!choice.analytics) clearAnalyticsCookies(); location.reload(); return; }
+    run(choice);
+  }
+  box.addEventListener("click", function (e) {
+    var action = e.target.getAttribute && e.target.getAttribute("data-consent-action");
+    if (action === "accept") decide(all(true));
+    if (action === "reject") decide(all(false));
+    if (action === "choose") {
+      choices.hidden = false;
+      e.target.hidden = true;
+      box.querySelector('[data-consent-action="save"]').hidden = false;
+    }
+    if (action === "save") {
+      var c = all(false);
+      box.querySelectorAll(".w-consent__choices input").forEach(function (i) { if (i.value in c) c[i.value] = i.checked; });
+      decide(c);
+    }
+  });
+  document.addEventListener("click", function (e) {
+    if (e.target.closest && e.target.closest("[data-consent-open]")) { e.preventDefault(); show(); }
+  });
+  if (!categories.length) return;
+  var stored = read();
+  if (stored) run(stored); else show();
+})();
+</script>

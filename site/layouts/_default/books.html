@@ -19,14 +19,17 @@
       <h2 id="available-title">{{ i18n "books_available" }}</h2>
     </div>
     <div class="books-grid">
-      {{ range .Params.released }}
+      {{ range $book := .Params.released }}
       <article class="book">
-        <a class="book__cover" href="{{ .amazon }}" aria-label="{{ i18n "books_view_title" (dict "Title" .title) }}">
-          <img src="{{ .cover | relURL }}" alt="{{ i18n "books_cover" (dict "Title" .title "Subtitle" .subtitle) }}" width="600" height="954" loading="lazy">
+        {{ with .cover }}
+        <a class="book__cover"{{ with $book.amazon }} href="{{ . }}"{{ end }} aria-label="{{ i18n "books_view_title" (dict "Title" $book.title) }}">
+          <img src="{{ . | relURL }}" alt="{{ i18n "books_cover" (dict "Title" $book.title "Subtitle" $book.subtitle) }}" width="600" height="954" loading="lazy">
         </a>
+        {{ end }}
         <h3>{{ .title }}</h3>
-        <p class="book__subtitle">{{ .subtitle }}</p>
-        <a class="book__link" href="{{ .amazon }}" aria-label="{{ i18n "books_view_title" (dict "Title" .title) }}">{{ i18n "books_view" }} <span aria-hidden="true">↗</span></a>
+        {{ with .subtitle }}<p class="book__subtitle">{{ . }}</p>{{ end }}
+        {{ with .description }}<p class="book__description">{{ . }}</p>{{ end }}
+        {{ with .amazon }}<a class="book__link" href="{{ . }}" aria-label="{{ i18n "books_view_title" (dict "Title" $book.title) }}">{{ i18n "books_view" }} <span aria-hidden="true">↗</span></a>{{ end }}
       </article>
       {{ end }}
     </div>
