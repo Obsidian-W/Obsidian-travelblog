@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ $style := resources.Get "css/apps.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+<div class="apps-page">
+  <header class="apps-intro">
+    <p class="apps-eyebrow">Timothé Paris · Software</p>
+    <h1>{{ i18n "apps_title" }}</h1>
+    <p class="apps-intro__text">{{ i18n "apps_intro" }}</p>
+    <nav class="apps-jump" aria-label="{{ i18n "apps_sections" }}">
+      <a href="#my-apps">{{ i18n "apps_mine" }}</a>
+      <a href="#collaborations">{{ i18n "apps_collaborations" }}</a>
+    </nav>
+  </header>
+
+  {{ range $group := (slice (dict "key" "by_obsidian" "id" "my-apps" "heading" "apps_mine" "eyebrow" "apps_independent") (dict "key" "participated" "id" "collaborations" "heading" "apps_collaborations" "eyebrow" "apps_teamwork")) }}
+  {{ $items := index $.Params $group.key }}
+  {{ with $items }}
+  <section class="apps-section" id="{{ $group.id }}" aria-labelledby="{{ $group.id }}-heading">
+    <div class="apps-section__heading">
+      <p class="apps-eyebrow">{{ i18n $group.eyebrow }}</p>
+      <h2 id="{{ $group.id }}-heading">{{ i18n $group.heading }}</h2>
+    </div>
+    <div class="apps-grid">
+      {{ range . }}
+      <article class="app-card">
+        <div class="app-card__top">
+          {{ with .icon }}<img class="app-card__icon" src="{{ . | relURL }}" alt="" width="92" height="92" loading="lazy">{{ end }}
+          <div class="app-card__identity"><h3>{{ .title }}</h3>{{ with .tagline }}<p class="app-card__tagline">{{ . }}</p>{{ end }}</div>
+        </div>
+        {{ with .description }}<p class="app-card__description">{{ . }}</p>{{ end }}
+        {{ with .note }}<p class="app-card__note">{{ . }}</p>{{ end }}
+        <div class="app-card__links">
+          {{ with .apple }}<a href="{{ . }}" rel="noopener noreferrer" target="_blank">{{ i18n "apps_app_store" }} <span aria-hidden="true">↗</span></a>{{ end }}
+          {{ with .android }}<a href="{{ . }}" rel="noopener noreferrer" target="_blank">{{ i18n "apps_android" }} <span aria-hidden="true">↗</span></a>{{ end }}
+          {{ with .github }}<a href="{{ . }}" rel="noopener noreferrer" target="_blank">{{ i18n "apps_source" }} <span aria-hidden="true">↗</span></a>{{ end }}
+          {{ if eq (urlize .title) "bon-voyage" }}<a href="{{ "apps/bonvoyage-policy/" | relLangURL }}">{{ i18n "apps_privacy" }} <span aria-hidden="true">↗</span></a>{{ else }}{{ with .privacy }}<a href="{{ . | relLangURL }}">{{ i18n "apps_privacy" }} <span aria-hidden="true">↗</span></a>{{ end }}{{ end }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}

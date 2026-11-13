@@ -67,6 +67,11 @@ url = "books/"
 weight = 6
 
 [[main]]
+name = "My apps"
+url = "apps/"
+weight = 7
+
+[[main]]
 name = "About"
 url = "about/"
-weight = 7
+weight = 8

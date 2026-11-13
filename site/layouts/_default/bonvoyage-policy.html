@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ $style := resources.Get "css/apps.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+<article class="apps-page apps-policy">
+  <header class="apps-intro apps-policy__header">
+    <p class="apps-eyebrow">BonVoyage · {{ i18n "apps_privacy" }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="apps-intro__text">{{ .Description }}</p>
+    <a class="apps-back" href="{{ "apps/" | relLangURL }}">← {{ i18n "apps_back" }}</a>
+  </header>
+  <div class="apps-policy__content">{{ .Content }}</div>
+</article>
+{{ end }}

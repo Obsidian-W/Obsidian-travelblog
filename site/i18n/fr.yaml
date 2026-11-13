@@ -174,3 +174,39 @@
 
 - id: consent_comments_hint
   translation: Les commentaires se chargent après acceptation des cookies de commentaires.
+
+- id: apps_title
+  translation: "Mes applications"
+
+- id: apps_intro
+  translation: "Petits outils, projets indépendants et applications auxquelles j'ai contribué. Découvrez ce que je développe, maintiens et accompagne."
+
+- id: apps_sections
+  translation: "Rubriques des applications"
+
+- id: apps_mine
+  translation: "Applications que je développe et maintiens"
+
+- id: apps_independent
+  translation: "Projets indépendants"
+
+- id: apps_collaborations
+  translation: "Projets auxquels j'ai contribué"
+
+- id: apps_teamwork
+  translation: "Collaborations"
+
+- id: apps_app_store
+  translation: "App Store"
+
+- id: apps_android
+  translation: "Android"
+
+- id: apps_source
+  translation: "Code source"
+
+- id: apps_privacy
+  translation: "Politique de confidentialité"
+
+- id: apps_back
+  translation: "Toutes les applications"

@@ -180,3 +180,39 @@
 
 - id: consent_comments_hint
   translation: Comments load after you accept comment cookies.
+
+- id: apps_title
+  translation: "My apps"
+
+- id: apps_intro
+  translation: "Small tools, independent projects, and apps I've helped bring to life. A look at what I build, maintain and contribute to."
+
+- id: apps_sections
+  translation: "App sections"
+
+- id: apps_mine
+  translation: "Apps I build & maintain"
+
+- id: apps_independent
+  translation: "Independent projects"
+
+- id: apps_collaborations
+  translation: "Projects I've contributed to"
+
+- id: apps_teamwork
+  translation: "Collaborations"
+
+- id: apps_app_store
+  translation: "App Store"
+
+- id: apps_android
+  translation: "Android"
+
+- id: apps_source
+  translation: "Source code"
+
+- id: apps_privacy
+  translation: "Privacy policy"
+
+- id: apps_back
+  translation: "All apps"
